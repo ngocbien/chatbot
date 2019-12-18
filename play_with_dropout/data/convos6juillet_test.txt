@@ -1,0 +1,272 @@
+YOU ++++ quel couleur ciel
+BOT ++++ désolé je ne sais pas
+YOU ++++ quel véhicul batter plus faibl
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicul km maximal
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel voitur batter moin élev
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel mod achat véhicul
+BOT ++++ le véhicule a faut l'objet d'un achat #mode_financement_vin#
+YOU ++++ salut
+BOT ++++ cordialement
+YOU ++++ bisous
+BOT ++++ bisous
+YOU ++++ quel véhicul vitess plus faibl
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ combien voitur avon
+BOT ++++ il y a #nb_véhicules#
+YOU ++++ quel voitur vitess moin élev
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ workshop matin
+BOT ++++ oui la durée est de 2h
+YOU ++++ quel consomm carbur
+BOT ++++ #consumption# litres
+YOU ++++ quel voitur km plus vit
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicul km plus petit
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quel voitur vitess min
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel voitur vitess plus petit
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel kilomètrag moyen véhicul
+BOT ++++ en moyenne ce véhicule a roulé #km#
+YOU ++++ dur contrat locat
+BOT ++++ le contrat de location prend fin le #date_fin_contrat#
+YOU ++++ quel voitur batter plus vit
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ pression pneus correct
+BOT ++++ #problème# #tpms#
+YOU ++++ quel voitur vitess moin grand
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ veux voir meilleur trajet
+BOT ++++ pouvez-vous m'indiquer le point de départ et d'arrivée souhaité
+YOU ++++ combien véhicul immobilis
+BOT ++++ ce véhicule #vin# semble immobilisé
+YOU ++++ quel véhicul km minimal
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ avon combien véhicul
+BOT ++++ il y a #nb_véhicule#
+YOU ++++ quel voitur km plus grand
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ vien lyon
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+YOU ++++ merc madam
+BOT ++++ de rien
+YOU ++++ quel ateli
+BOT ++++ de la gestion des pneus à l'appréciation du tco réel
+YOU ++++ cod défaut
+BOT ++++ il faut l'analyser rapidement
+YOU ++++ livraison véhicul
+BOT ++++ la date de livraison approximative est #date#
+YOU ++++ quel véhicul problem batter
+BOT ++++ véhicule #id# #problème# #batterie#
+YOU ++++ inscrir fais comment
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+YOU ++++ combien km véhicul parcouru
+BOT ++++ votre véhicule a parcouru #km#
+YOU ++++ quel consomm moyen véhicul mensuel
+BOT ++++ #consommation#
+YOU ++++ erreur vitess
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+YOU ++++ signif dtc
+BOT ++++ dtc est l'acronyme anglais de data trouble code
+YOU ++++ où factur
+BOT ++++ la facture est disponible dans votre espace client
+YOU ++++ quel véhicul batter plus vit
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ veux compar taux émiss pollu
+BOT ++++ génial découvrez notre module rde ou real driving emissions
+YOU ++++ combien véhicul étrang
+BOT ++++ #combien# #étranger#
+YOU ++++ descript détaill modul
+BOT ++++ le descriptif détaillé de tous modules est disponible sur le store
+YOU ++++ idiot bot
+BOT ++++ pourquoi t'es méchant avec un bot
+YOU ++++ comment vas
+BOT ++++ je vais bien merci
+YOU ++++ quel thémat
+BOT ++++ les thématiques abordées couvrent un large spectre du fleet management
+YOU ++++ quel voitur vitess plus vit
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicul vitess moyen
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++ vien ferrand
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+YOU ++++ quel indiqu pollut
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_pollution#
+YOU ++++ véhicul hor périmetr
+BOT ++++ #oui/non#
+YOU ++++ quel perform cet voitur
+BOT ++++ par performance vous entendez tco
+YOU ++++ comment modifi inform relat compt
+BOT ++++ vous pouvez réaliser cette opération à partir de l'interface client
+YOU ++++ quel véhicul restitu prochain
+BOT ++++ #oui/non#
+YOU ++++ conven
+BOT ++++ oui quelle date vous conviendrait
+YOU ++++ del livraison boîti
+BOT ++++ la livraison des boitiers est prévue le #date#
+YOU ++++ dang km
+BOT ++++ véhicule #id# #danger# #km#
+YOU ++++ veux rédig plan mobil
+BOT ++++ nous pouvons vous accompagner
+YOU ++++ solut pai
+BOT ++++ les moyens de paiement sont inscrits à votre contrat
+YOU ++++ derni révis
+BOT ++++ #date_last_entretien#
+YOU ++++ révis
+BOT ++++ la révision aura lieu le #date#
+YOU ++++ perform environnemental
+BOT ++++ ce sujet d'actualité doit prendre en compte de nombreux paramêtres pouvez-vous préciser votre question
+YOU ++++ disqu frein abîm
+BOT ++++ #oui/non#
+YOU ++++ veux véhicul
+BOT ++++ ton véhicule plus proche est #position#
+YOU ++++ quel mont pneus
+BOT ++++ la monte est #spec_tyre#
+YOU ++++ sup outil
+BOT ++++ merci
+YOU ++++ quel voitur
+BOT ++++ la liste des véhicule est #listing_vin#
+YOU ++++ problem posit
+BOT ++++ véhicule #id# #problèmes# #position#
+YOU ++++ faut charg batter
+BOT ++++ #problème# #batterie#
+YOU ++++ t’e stupid
+BOT ++++ c’est vrai que je ne connais pas tout mais je suis toujours prêt à t’aider
+YOU ++++ erreur km
+BOT ++++ véhicule #id# #erreur# #km#
+YOU ++++ sais président franc
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets
+YOU ++++ quel valeur revent
+BOT ++++ la valeur résiduelle de ce véhicule est indiquée dans le contrat de location
+YOU ++++ combien voitur roulent
+BOT ++++ #total_veh_movement# véhicules sont en service
+YOU ++++ quel constructeur véhicul
+BOT ++++ le constructeur est #base_marque#
+YOU ++++ quel véhicul vitess plus haut
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ souhait postul
+BOT ++++ les inscriptions se font sur #lab_program#
+YOU ++++ modul pai gratuit
+BOT ++++ gratuit :)
+YOU ++++ quel temp fait lyon
+BOT ++++ #map_meteo#
+YOU ++++ conduit adapt véhicul
+BOT ++++ #ask_id# #conduite#
+YOU ++++ veux mutualis trajet
+BOT ++++ c'est une excellente initiative combien de personnes concernées
+YOU ++++ veux évalu pertinent trajet
+BOT ++++ quel est le point de départ et d'arrivée souhaitée
+YOU ++++ veux compar taux nox
+BOT ++++ notre module #rde# pour real-driving emissions vise à mesurer les rejets d'émissions polluantes
+YOU ++++ factur
+BOT ++++ elle est disponible dans votre espace client
+YOU ++++ plus fort mond
+BOT ++++ je l'ignore. peut être moi :)
+YOU ++++ quel véhicul disponibl cet mid
+BOT ++++ vous pouvez vous servir du #list_vin_afternoon#
+YOU ++++ échéanc respect
+BOT ++++ de quelles échéances parlez-vous
+YOU ++++ véhicul apparaît gris
+BOT ++++ merci de nous avoir prévenu pouvez-vous nous indiquer le #vin#
+YOU ++++ cart gris
+BOT ++++ oui je vous l'ai envoyée en pièce jointe
+YOU ++++ quel véhicul batter min
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel voitur problem km
+BOT ++++ véhicule #id# #problème# #km#
+YOU ++++ quel dat révis
+BOT ++++ c'est le #date#
+YOU ++++ quel problem véhicul
+BOT ++++ les problèmes identifés sont #code_dtc#
+YOU ++++ quel caractérist techniqu véhicul
+BOT ++++ #ask_id# #technique#
+YOU ++++ dur locat
+BOT ++++ le contrat indique une durée de location égale à #duree_lld# mois
+YOU ++++ boîti fonction plus
+BOT ++++ nous prenons en compte cet incident quel sont les boîtiers concernés
+YOU ++++ combien plac
+BOT ++++ selon nos données il y a #nb_place#
+YOU ++++ contrat
+BOT ++++ pouvez-vous préciser votre demande
+YOU ++++ quel dur vi pneu
+BOT ++++ la durée de vie est corrélée au nombre de km parcouru et à pleins d'autres critères!
+YOU ++++ merc
+BOT ++++ de rien
+YOU ++++ écolog
+BOT ++++ cela dépend du prisme par lequel vous envisagez de diminuer votre empreinte écologique
+YOU ++++ quel indiqu mainten
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_maintenance#
+YOU ++++ quel véhicul vitess maximum
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ sais président
+BOT ++++ désolé je ne sais pas
+YOU ++++ bon véhicul cet mission
+BOT ++++ de tous les véhicules c'est celui qui semble répondre le mieux à votre besoin
+YOU ++++ souhait visualis état flott
+BOT ++++ consultez votre dashboard pour une vision exhaustive du parc
+YOU ++++ véhicul arrêt
+BOT ++++ #combien# #arrêt#
+YOU ++++ batter fonction
+BOT ++++ #check_batterie#
+YOU ++++ veux éléctrifi flott
+BOT ++++ belle idée notre module développé avec notre partenaire vibratec qui  vous permettra de comparer les véhicules sur la base de leur tco
+YOU ++++ quel véhicul disponibl
+BOT ++++ le véhicule disponible est indiqué dans votre espace client
+YOU ++++ rest plac cet anné
+BOT ++++ une douzaine la sélection est rude
+YOU ++++ combien km véhicul roul mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+YOU ++++ si boiti
+BOT ++++ ne tardez pas à nous prévenir il est probable qu'un ticket incident nous a été communiqué
+YOU ++++ #to_return_when_good_reponse_is_not_found#
+BOT ++++ Désolé, je ne comprends pas votre question. Peux tu la reformuler s'il te plaît?
+YOU ++++ combien véhicul avon
+BOT ++++ il y a #nb_véhicules#
+YOU ++++ bloqu
+BOT ++++ comment puis-je vous aider
+YOU ++++ quel indiqu financi
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_finance#
+YOU ++++ quel indiqu gestion
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_gestion#
+YOU ++++ quel derni version firmwar
+BOT ++++ la dernière version du firmware est #numéro_firmware#
+YOU ++++ carnet entretien
+BOT ++++ oui
+YOU ++++ quel interven
+BOT ++++ des professionnels et des experts en lien avec la thématique
+YOU ++++ degr certitud
+BOT ++++ taux de certitude compris entre #val_trust_low# et #val_trust_high#
+YOU ++++ intéress
+BOT ++++ merci j'en prends note
+YOU ++++ dur workshop
+BOT ++++ 2h
+YOU ++++ quel dur ateli
+BOT ++++ en moyenne un atelier dure 2h
+YOU ++++ peur pann véhicul
+BOT ++++ les informations dont nous disposonsé
+YOU ++++ combien véhicul déplac
+BOT ++++ il y #total_veh_movement# véhicules en circulation
+YOU ++++ wtpl
+BOT ++++ #wtpl#
+YOU ++++ veux être inform nouvel disposit fiscal
+BOT ++++ merci de nous contacter ce sujet a ou sera traité en workshop
+YOU ++++ voudr véhicul
+BOT ++++ ton véhicule plus proche est #position#
+YOU ++++ coinc
+BOT ++++ contactez-nous lien l'accès au est #brand_tyre#
+YOU ++++ merc beaucoup
+BOT ++++ de rien
+YOU ++++ comment t’appel
+BOT ++++ je suis un chatbot d’Avicen. Je m'appelle Emmet
+YOU ++++ habit où
+BOT ++++ je suis un bot donc je suis dans la machine
+YOU ++++ pneus gonfl
+BOT ++++ #oui/non#
+YOU ++++ tco
+BOT ++++ total cost of ownership
+YOU ++++ souhait connaîtr dat livraison véhicul
+BOT ++++ la date de livraison est indiquée dans votre espace client

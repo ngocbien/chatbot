@@ -1,0 +1,86 @@
+VOUS ++++ je veux ma voiture
+BOT ++++ ta voiture est #position#
+VOUS ++++ je veux mon véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ je veux un véhicule
+BOT ++++ tu peux préciser lequel
+VOUS ++++ je veux une voiture
+BOT ++++  peux tu préciser laquelle
+VOUS ++++ je voudrais un véhicule
+BOT ++++ peux tu préciser lequel 
+VOUS ++++ avons nous des véhicules à l'étranger
+BOT ++++ #oui/non#
+VOUS ++++ combien de véhicules à l'étranger
+BOT ++++ #nb_véhicule_étranger#
+VOUS ++++ combien de véhicules qui roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ je cherche une voiture
+BOT ++++ le le numéro de qui véhicule concerné (numéro de l'achat
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ combien de véhicules qui roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent
+VOUS ++++ combien de véhicules qui est à l'arrêt
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ combien de km mon véhicule a roulé ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ combien de km mon véhicule est roulé cette semaine
+BOT ++++ il a parcouru #km#
+VOUS ++++ combien de km mon véhicule est roulé pendant ces 3 derniers mois
+BOT ++++ la distance parcourue par ce véhicule est #km#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ comme vas tu
+BOT ++++ je vais bien, merci
+VOUS ++++ où est ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ où est mon véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ je suis coincé
+BOT ++++ contactez-nous lien l'accès au est #brand_tyre#
+VOUS ++++ je cherche ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ je cherche mon véhicule
+BOT ++++ il est à #position#
+VOUS ++++ combien de voitures nous avons
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ combien de véhicules nous avons
+BOT ++++ il y a #nb_véhicule#
+VOUS ++++ quand est ce que la livraison
+BOT ++++ la date de livraison approximative est #date#
+VOUS ++++ comment ça va
+BOT ++++ ça va merci
+VOUS ++++ tu vas bien
+BOT ++++ ça va merci
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis un bot de Avicen, tu peux m'appeler charlie
+VOUS ++++ pourquoi tu est là
+BOT ++++ je suis là pour tes questions concernants tes voitures
+VOUS ++++ quel temps fait t-il
+BOT ++++ #map_météo#
+VOUS ++++ quel temps fait il à lyon
+BOT ++++ #map_meteo#
+VOUS ++++ sais tu qui est le président
+BOT ++++ désolé, je ne sais pas
+VOUS ++++ quelle est la couleur du ciel
+BOT ++++ désolé, je ne sais pas
+VOUS ++++ t'es un idiot bot
+BOT ++++ pourquoi t'es méchant avec un bot
+VOUS ++++ t'es con
+BOT ++++ pourquoi t'es méchant avec un bot
+VOUS ++++ merci
+BOT ++++ de rien
+VOUS ++++ merci beaucoup
+BOT ++++ de rien 
+VOUS ++++ au revoir
+BOT ++++ au revoir
+VOUS ++++ à bien tôt
+BOT ++++ à bien tôt
+VOUS ++++ à plus
+BOT ++++ à plus

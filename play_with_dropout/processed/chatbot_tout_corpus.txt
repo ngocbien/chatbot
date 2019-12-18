@@ -1,0 +1,1100 @@
+VOUS ++++ des véhicules à l'étranger
+BOT ++++ #oui/non#
+VOUS ++++ avons-nous des véhicules à l'étranger
+BOT ++++ je vérifie cela tout de suite
+VOUS ++++ combien de véhicules nous avons
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ des véhicules hors périmètre
+BOT ++++ #oui/non#
+VOUS ++++ combien de véhicules hors périmètre
+BOT ++++ il y a #nb_véhicules# en dehors de la zone définie
+VOUS ++++ délai de livraison du véhicule
+BOT ++++ la livraison est prévue le #date#
+VOUS ++++ livraison de véhicule
+BOT ++++ la date de livraison approximative est #date#
+VOUS ++++ délai de livraison des boîtiers
+BOT ++++ la livraison des boitiers est prévue le #date#
+VOUS ++++ livraison de boîtiers
+BOT ++++ la date de livraison approximative est #date#
+VOUS ++++ mode de paiement
+BOT ++++ vous pouvez régler par virement ou carte bancaire
+VOUS ++++ quel mode de paiement
+BOT ++++ vous pouvez régler par virement ou carte bancaire veuillez contacter le service client
+VOUS ++++ solution de paiement
+BOT ++++ les moyens de paiement sont inscrits à votre contrat
+VOUS ++++ quelles sont les moyens de paiement
+BOT ++++ vous pouvez régler par virement ou carte bancaire
+VOUS ++++ moyens de paiement
+BOT ++++ virement bancaire ou carte bleue
+VOUS ++++ adresse de facturation
+BOT ++++ l'adresse de facturation est celle du siège social de l'entreprise #adresse#
+VOUS ++++ où est la facture
+BOT ++++ la facture est disponible dans votre espace client
+VOUS ++++ facturation
+BOT ++++ vous pouvez vous adresser à notre service comptabilité #tel_comptabilite#
+VOUS ++++ facture
+BOT ++++ elle est disponible dans votre espace client
+VOUS ++++ où est ma facture
+BOT ++++ votre facture est disponible dans votre espace client
+VOUS ++++ je veux ma facture
+BOT ++++ pas de problème souhaitez-vous l'imprimer
+VOUS ++++ oui je veux imprimer ma facture
+BOT ++++ parfait l'impression est lancée
+VOUS ++++ boitier hors service
+BOT ++++ merci de nous avoir prévenu nous allons intervenir pouvez-vous nous indiquer son numéro de série
+VOUS ++++ le boitier est hs
+BOT ++++ nous prenons en compte cet incident merci de préciser son numéro de série
+VOUS ++++ si le boitier est hs
+BOT ++++ ne tardez pas à nous prévenir il est probable qu'un ticket incident nous a été communiqué
+VOUS ++++ le boitier ne fonctionne plus que dois-je faire
+BOT ++++ merci de nous avoir prévenu pouvez-vous nous indiquer son numéro de série
+VOUS ++++ des boitiers ne sont pas reconnus
+BOT ++++ nous ouvrons un ticket incident nous revenons très vite vers vous
+VOUS ++++ combien de temps pour installer le boîtier
+BOT ++++ l'installation d'un nouveau boitier est d'environ 30mn
+VOUS ++++ un boitier ne fonctionne plus
+BOT ++++ nous prenons en compte cet incident quel est le boitier concerné
+VOUS ++++ un boitier ne se connecte pas
+BOT ++++ merci de nous avoir prévenu nous allons intervenir pouvez-vous nous indiquer son numéro de série
+VOUS ++++ je suis bloqué
+BOT ++++ comment puis-je vous aider
+VOUS ++++ un véhicule apparaît grisé
+BOT ++++ merci de nous avoir prévenu pouvez-vous nous indiquer le #vin#
+VOUS ++++ le boitier semble déconnecté
+BOT ++++ nous prenons en compte cet incident quel est le boitier concerné
+VOUS ++++ le boitier ne communique plus
+BOT ++++ nous prenons en compte cet incident quel est le boitier concerné
+VOUS ++++ le boitier ne communique pas
+BOT ++++ nous prenons en compte cet incident quel est le boitier concerné
+VOUS ++++ combien de temps pour paramêtrer un boîtier
+BOT ++++ un délai de 24h est nécessaire
+VOUS ++++ combien de temps pour faire le paramêtrage
+BOT ++++ 24h
+VOUS ++++ a quoi sert le paramêtrage
+BOT ++++ il s'agit de configurer correctement la solution embarquée pour vous offrir la meilleure expérience possible
+VOUS ++++ comment modifier mon compte
+BOT ++++ vous pouvez modifier les informations de votre compte à partir de l'interface client
+VOUS ++++ comment modifier les informations relatives à mon compte
+BOT ++++ vous pouvez réaliser cette opération à partir de l'interface client
+VOUS ++++ comment modifier mes informations
+BOT ++++ les informations de votre compte peuvent être modifiées à partir de votre interface client
+VOUS ++++ quels sont les indicateurs de conduite
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_conduite#
+VOUS ++++ quels sont les indicateurs de pollution
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_pollution#
+VOUS ++++ quels sont les indicateurs de maintenance
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_maintenance#
+VOUS ++++ quels sont les indicateurs financiers
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_finance#
+VOUS ++++ quels sont les indicateurs de gestion
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_gestion#
+VOUS ++++ comment me comparer à d'autres utilisateurs
+BOT ++++ pour effectuer le benchmark merci de nous contacter
+VOUS ++++ quelle est la dernière version du firmware
+BOT ++++ la dernière version du firmware est #numéro_firmware#
+VOUS ++++ quels sont les indicateurs
+BOT ++++ quels sont les indicateurs dont vous avez besoin
+VOUS ++++ je souhaite avoir des données de conduite
+BOT ++++ d'accord
+VOUS ++++ je souhaite avoir des données de gestion
+BOT ++++ bien entendu
+VOUS ++++ je souhaite avoir des données de pollution
+BOT ++++ #co2#
+VOUS ++++ je souhaite avoir des données de maintenance
+BOT ++++ oui
+VOUS ++++ je souhaite avoir des données financières
+BOT ++++ oui sur quelle période
+VOUS ++++ je souhaite avoir des données de restitution
+BOT ++++ d'accord quel véhicule
+VOUS ++++ je souhaite voir mes statistiques
+BOT ++++ celles-ci sont disponibles sur votre dashboard
+VOUS ++++ je souhaite avoir des données comparatives
+BOT ++++ excellente initiative
+VOUS ++++ quels sont les indicateurs disponibles
+BOT ++++ la liste des indicateurs sont disponibles dans #kpi#
+VOUS ++++ quel kpi
+BOT ++++ en préalable quel est votre besoin
+VOUS ++++ quels kpi
+BOT ++++ quel est votre besoin
+VOUS ++++ est-ce que j'économise de l'argent
+BOT ++++ certainement
+VOUS ++++ combien d'argent ai-je économisé
+BOT ++++ vous avez économisé #roi#
+VOUS ++++ quelles sont les économies réalisées
+BOT ++++ vous avez économisé #roi#
+VOUS ++++ est-ce grave
+BOT ++++ #oui/non#
+VOUS ++++ est-ce grave
+BOT ++++ cela dépend du délai d'intervention
+VOUS ++++ c'est quoi un code défaut
+BOT ++++ un code défaut est ou dtc est un ensemble de chiffres suivant une lettre correspondant à un problème détecté sur votre véhicule
+VOUS ++++ que signifie dtc
+BOT ++++ dtc est l'acronyme anglais de data trouble code
+VOUS ++++ y'a-t-il un problème
+BOT ++++ #oui/non#
+VOUS ++++ y'a-t-il un souci
+BOT ++++ #oui/non#
+VOUS ++++ les véhicules sont-ils en bonne santé
+BOT ++++ #oui/non#
+VOUS ++++ quels sont les problèmes sur les véhicules
+BOT ++++ les problèmes identifés sont #code_dtc#
+VOUS ++++ a quoi correspond ce code défaut
+BOT ++++ le code défaut correspond à #code_dtc#
+VOUS ++++ quels sont les codes défauts
+BOT ++++ la liste des codes défaut est disponible #code_dtc#
+VOUS ++++ quelles sont les urgences à traiter
+BOT ++++ les urgences à traiter sont #priorité#
+VOUS ++++ quelles sont les urgences
+BOT ++++ vos urgences sont #priorité#
+VOUS ++++ quelles sont les caractéristiques de ce véhicule
+BOT ++++ les caractéristiques du véhicule sont #vin#
+VOUS ++++ quel est le vin de ce véhicule
+BOT ++++ ce véhicule est #vin#
+VOUS ++++ quel est le mode de transmission de ce véhicule
+BOT ++++ #transmission#vin#
+VOUS ++++ quel est le mode d'énergie
+BOT ++++ #énergie# du #vin# 
+VOUS ++++ quelle est la puissance fiscale du véhicule
+BOT ++++ la puissance fiscale du #vin# est #cv# 
+VOUS ++++ quelle est la consommation de ce véhicule
+BOT ++++ la consommation de ce #vin# est #consumption# 
+VOUS ++++ quel est le niveau des émissions de co2
+BOT ++++ les émissions polluantes sont de #co2#
+VOUS ++++ quelle est la date de restitution de ce véhicule
+BOT ++++ la restitution du #vin# est prévue le #date_fin_contrat# 
+VOUS ++++ quelle est la dernière date d'entretien de ce véhicule
+BOT ++++ le dernier entretien a eu lieu le #date_last_entretien#
+VOUS ++++ quel est le mode d'achat du véhicule
+BOT ++++ le véhicule a faut l'objet d'un achat #mode_financement_vin#
+VOUS ++++ quel est le dernier trajet
+BOT ++++ le dernier trajet connu est #trajet#
+VOUS ++++ quelle est la dernière date d'utilisation de ce véhicule
+BOT ++++ le dernier trajet connu est #trajet#
+VOUS ++++ quel est l'état de la route
+BOT ++++ le traffic est #état_traffic#
+VOUS ++++ y'a-t-il des bouchons
+BOT ++++ le traffic est #état_traffic#
+VOUS ++++ y'a-t-il des embouteillages
+BOT ++++ le traffic est #état_traffic#
+VOUS ++++ quelle est la localisation de ce véhicule
+BOT ++++ le véhicule est situé #geoloc#
+VOUS ++++ quelle est la marque de ce véhicule
+BOT ++++ le constructeur est #base_marque#
+VOUS ++++ quel est le constructeur de ce véhicule
+BOT ++++ le constructeur est #base_marque#
+VOUS ++++ quelle est la date de la dernière révision
+BOT ++++ le dernier entretien a eu lieu le #date_last_entretien#
+VOUS ++++ quand ce véhicule est entré dans le parc
+BOT ++++ ce véhicule a rejoint le parc #date_debut_contrat#
+VOUS ++++ a quelle date ce véhicule a été enregistré dans le parc
+BOT ++++ ce véhicule a rejoint le parc #date_debut_contrat#
+VOUS ++++ quelle est la puissance du véhicule
+BOT ++++ la puissance fiscale du #vin# est #cv# 
+VOUS ++++ quels sont les véhicules immobilisés
+BOT ++++ la liste des véhicules arrêtés stoppés ou immobilisés est disponible dans votre dashboard
+VOUS ++++ est-ce que le niveau de consommation de carburant est normal
+BOT ++++ la consommation est de #consumption#
+VOUS ++++ est-ce que la consommation de carburant est excessive
+BOT ++++ la consommation est de #consumption#
+VOUS ++++ quelle a été la consommation de carburant aujourd'hui
+BOT ++++ aujourd'hui la consommation de carburant est de #consumption#
+VOUS ++++ quelle a été la consommation de carburant cette semaine
+BOT ++++ #consumption# litres
+VOUS ++++ quelle a été la consommation de carburant ce mois
+BOT ++++ #consumption# litres
+VOUS ++++ quelle a été la consommation de carburant cette année
+BOT ++++ cette année la consommation de carburant a été #consumption# litres
+VOUS ++++ combien de kilomètres a fait ce véhicule
+BOT ++++ ce véhicule a effectué #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule cette semaine
+BOT ++++ #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule cette année
+BOT ++++ le kilomètrage annuel est de #km#
+VOUS ++++ quel est le kilomètrage moyen de ce véhicule
+BOT ++++ en moyenne ce véhicule a roulé #km#
+VOUS ++++ est-ce que des véhicules ont roulés ce week-end
+BOT ++++ les véhicules #vin# ont roulés ce week-end
+VOUS ++++ combien de véhicules ont roulés
+BOT ++++ #total_veh_movement#
+VOUS ++++ avons-nous le carnet d'entretien
+BOT ++++ oui
+VOUS ++++ avons-nous une copie du carnet d'entretien
+BOT ++++ oui vous disposez d'une copie du carnet de santé numérique de chacun des véhicules de votre parc
+VOUS ++++ c'est quoi un module
+BOT ++++ c'est une application métier développée par nous ou un fournisseur tiers que nous avons choisi
+VOUS ++++ lequel choisir
+BOT ++++ vous pouvez choisir plusieurs modules parmi #nb_module#
+VOUS ++++ quels modules
+BOT ++++ quel est votre besoin
+VOUS ++++ je souhaite m'inscrire
+BOT ++++ les inscriptions se font sur #lab_program#
+VOUS ++++ je veux m'inscrire
+BOT ++++ les inscriptions se font sur #lab_program#
+VOUS ++++ je souhaite postuler
+BOT ++++ les inscriptions se font sur #lab_program#
+VOUS ++++ je souhaite participer au workshop
+BOT ++++ les inscriptions se font sur #lab_program#
+VOUS ++++ quels intervenants
+BOT ++++ des professionnels et des experts en lien avec la thématique
+VOUS ++++ quelles thématiques
+BOT ++++ les thématiques abordées couvrent un large spectre du fleet management
+VOUS ++++ les atouts de ce workshop
+BOT ++++ un temps d'échange pour les pros réalisé par des pros
+VOUS ++++ quels atouts
+BOT ++++ des use cases sur les retours d’expérience des participants au lab program
+VOUS ++++ quel coût
+BOT ++++ cela dépend de vos besoin contactez-nous au #num_telephone#
+VOUS ++++ quels objectifs
+BOT ++++ partager des retours d'expérience et un socle de connaissances techniques
+VOUS ++++ quelles synergies
+BOT ++++ forte synergie entre acteurs du monde professionnel
+VOUS ++++ des liens avec la mobilité
+BOT ++++ forte synergie entre acteurs du monde professionnel
+VOUS ++++ dans quelle langue
+BOT ++++ en français certaines interventions sont en anglais
+VOUS ++++ pannes
+BOT ++++ #oui/non#
+VOUS ++++ degré de certitude
+BOT ++++ taux de certitude compris entre #val_trust_low# et #val_trust_high# 
+VOUS ++++ révision
+BOT ++++ la révision aura lieu le #date#
+VOUS ++++ quand la révision
+BOT ++++ c'est le #date#
+VOUS ++++ c'est quand la révision
+BOT ++++ le #date#
+VOUS ++++ combien de voitures
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ quelles sont les voitures
+BOT ++++ la liste des véhicule est #listing_vin#
+VOUS ++++ si je suis pressé
+BOT ++++ le véhicule le plus proche est #vin_proxi#
+VOUS ++++ quelle date de révision
+BOT ++++ c'est le #date#
+VOUS ++++ quand sera la révison
+BOT ++++ le #date#
+VOUS ++++ combien de places
+BOT ++++ selon nos données il y a #nb_place#
+VOUS ++++ il faut réserver
+BOT ++++ oui
+VOUS ++++ quelle date est d'arrivée des véhicules
+BOT ++++ la date de livraison est prévue le #date#
+VOUS ++++ quand est-ce la révision
+BOT ++++ le #date#
+VOUS ++++ combien de voitures
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ y a-t-il des prérequis
+BOT ++++ oui
+VOUS ++++ c'est un module de qualité
+BOT ++++ oui
+VOUS ++++ c'est un super outil
+BOT ++++ merci
+VOUS ++++ je suis intéressé
+BOT ++++ merci j'en prends note
+VOUS ++++ je veux acheter ce module
+BOT ++++ merci voici la procédure
+VOUS ++++ votre module m'intéresse
+BOT ++++ merci voici l'accès au store
+VOUS ++++ cordialement
+BOT ++++ cordialement
+VOUS ++++ salutations
+BOT ++++ cordialement
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour monsieur
+BOT ++++ bonjour madame #lastname#
+VOUS ++++ bonjour madame
+BOT ++++ bonjour monsieur #lastname#
+VOUS ++++ merci monsieur
+BOT ++++ de rien #lastname#
+VOUS ++++ merci madame
+BOT ++++ de rien #lastname#
+VOUS ++++ merci bien
+BOT ++++ de rien #user#
+VOUS ++++ merci de votre aide
+BOT ++++ je vous en prie
+VOUS ++++ merci pour les renseignements
+BOT ++++ avec plaisir
+VOUS ++++ c'est gentil
+BOT ++++ merci
+VOUS ++++ j'ai besoin d'aide
+BOT ++++ oui volontiers quel est votre profil
+VOUS ++++ j'ai une question
+BOT ++++ oui posez votre question
+VOUS ++++ j'ai des questions
+BOT ++++ oui posez vos questions
+VOUS ++++ il y a un store
+BOT ++++ oui vous pouvez à partir de votre interface client
+VOUS ++++ il faut accéder au store
+BOT ++++ oui vous pouvez à partir de votre interface client
+VOUS ++++ la durée du workshop
+BOT ++++ 2h
+VOUS ++++ le workshop dure combien de temps
+BOT ++++ 2 heures
+VOUS ++++ j'ai un code défaut
+BOT ++++ il faut l'analyser rapidement
+VOUS ++++ j'ai fais un remplacement de véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ j'ai remplacé un véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ j'ai fais un prêt de véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ j'ai prêté un véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ a quoi sert ce module
+BOT ++++ ce module #list_module# vise à #detail_module# 
+VOUS ++++ pourquoi ce module
+BOT ++++ le module #list_module# à pour objectif de #detail_module# 
+VOUS ++++ quels sont les autres modules disponibles
+BOT ++++ l'ensemble des modules disponibles sont sur le store
+VOUS ++++ combien il y a de modules
+BOT ++++ il faut visiter notre store
+VOUS ++++ quels sont les modules
+BOT ++++ l'ensemble des modules disponibles sont sur le store
+VOUS ++++ il y a des dossiers non traités
+BOT ++++ oui
+VOUS ++++ quel est le taux de disponibilité
+BOT ++++ #tx_dispo#
+VOUS ++++ taux de disponibilité
+BOT ++++ #tx_dispo#
+VOUS ++++ combien de participants par workshop
+BOT ++++ 12
+VOUS ++++ il y a combien d'entreprises
+BOT ++++ une douzaine la sélection est rude
+VOUS ++++ il reste des places cette année
+BOT ++++ une douzaine la sélection est rude
+VOUS ++++ vous pouvez m'aider
+BOT ++++ oui je suis là pour vous renseigner
+VOUS ++++ j'ai besoin d'aide
+BOT ++++ je suis là pour vous renseigner
+VOUS ++++ j'ai besoin d'un renseignement
+BOT ++++ je suis là pour vous renseigner
+VOUS ++++ j'ai besoin de renseignements
+BOT ++++ je suis là pour vous renseigner
+VOUS ++++ j'ai des questions
+BOT ++++ je suis là pour vous aider
+VOUS ++++ le workshop est-il ouvert à d'autres participants
+BOT ++++ non
+VOUS ++++ on peut tous les faire
+BOT ++++ oui
+VOUS ++++ comment faire pour s'inscrire
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+VOUS ++++ et pour s'inscrire je fais comment
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+VOUS ++++ est-il encore possible de s'inscrire
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+VOUS ++++ je voudrais m'inscrire à un workshop
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+VOUS ++++ et pour les inscriptions on fait comment
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+VOUS ++++ est-il encore possible de s'inscrire
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+VOUS ++++ puis-je encore m'inscrire
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+VOUS ++++ je peux encore m'inscrire
+BOT ++++ il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+VOUS ++++ c'est un workshop d'une matinée
+BOT ++++ oui la durée est de 2h
+VOUS ++++ l'atelier va-t-il me mobiliser toute la journée
+BOT ++++ non un atelier dure 2h en moyenne
+VOUS ++++ quelle est la durée de l'atelier
+BOT ++++ en moyenne un atelier dure 2h
+VOUS ++++ y a t-il d'autres versions de ce module
+BOT ++++ oui
+VOUS ++++ est-ce un module payant ou gratuit
+BOT ++++ gratuit :)
+VOUS ++++ avez-vous une description détaillée des modules
+BOT ++++ le descriptif détaillé de tous modules est disponible sur le store
+VOUS ++++ où puis-je trouver le détail des briques proposées
+BOT ++++ le descriptif est disponible sur le store
+VOUS ++++ avons-nous la carte grise
+BOT ++++ oui je vous l'ai envoyée en pièce jointe
+VOUS ++++ peut-on localisé ce véhicule
+BOT ++++ oui
+VOUS ++++ peut-on suivre un véhicule
+BOT ++++ oui
+VOUS ++++ je viens de lyon
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je viens de clermont-ferrand
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je viens de saint-etienne
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je viens de annecy
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je viens de grenoble
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je viens de valence
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je viens de bourg en bresse
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je viens de chambéry
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je viens du puy en velay
+BOT ++++ la durée de votre trajet sera de #calcul_roadtrip#
+VOUS ++++ je suis indécis
+BOT ++++ contactez-nous lien
+VOUS ++++ je suis indécise
+BOT ++++ convenons d'un échange téléphonique quelle date vous conviendrait le mieux
+VOUS ++++ quel temps fait-il à lyon
+BOT ++++ #map_meteo#
+VOUS ++++ quel est le temps à lyon
+BOT ++++ #map_meteo#
+VOUS ++++ y'a-t-il un pneu crevé
+BOT ++++ #oui/non#
+VOUS ++++ quelle est la marque des pneus
+BOT ++++ la marque des pneus est #brand_tyre#
+VOUS ++++ quelle est la monte des pneus
+BOT ++++ la monte est #spec_tyre#
+VOUS ++++ la pression des pneus est-elle correcte
+BOT ++++ la pression #tpms# semble correcte
+VOUS ++++ les pneus sont-ils en bon état
+BOT ++++ il convient de faire un check visuel
+VOUS ++++ j'ai peur que ce véhicule soit en panne
+BOT ++++ c'est important de se poser la question je vérifie
+VOUS ++++ j'ai peur d'une panne de véhicule
+BOT ++++ les informations dont nous disposonsé
+VOUS ++++ combien de véhicule sont en déplacement
+BOT ++++ il y #total_veh_movement# véhicules en circulation
+VOUS ++++ combien de véhicules roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent en ce moment
+VOUS ++++ combien de véhicules sont disponibles
+BOT ++++ #list_vin_free# véhicules du parc sont disponibles
+VOUS ++++ combien de véhicules sont présents dans le parc
+BOT ++++ le parc comprend #list_vin_free# véhicules
+VOUS ++++ combien de véhicules dans le parc
+BOT ++++ le parc comprend #nb_vehicule# véhicules
+VOUS ++++ j'hésite avec la solution d'un concurrent
+BOT ++++ il faut effectivement faire un choix nous pouvons vous accompagner de manière objective
+VOUS ++++ peut-on suivre le déplacement des véhicules
+BOT ++++ oui
+VOUS ++++ j'aime cette interface
+BOT ++++ c'est un bon point merci pour votre feedback :)
+VOUS ++++ je n'aime pas cette interface
+BOT ++++ c'est noté pouvez-vous préciser pourquoi
+VOUS ++++ quelles sont vos horaires d'ouverture
+BOT ++++ nous sommes disponibles du lundi au vendredi de 9h à 18h
+VOUS ++++ puis-je avoir le contact du sav
+BOT ++++ voici le numéro #tel_sav#
+VOUS ++++ peut-on convenir d'un rendez-vous
+BOT ++++ oui quelle date vous conviendrait
+VOUS ++++ je n'ai pas compris votre question
+BOT ++++ je vais la reformuler
+VOUS ++++ pardon
+BOT ++++ pouvez-vous reformuler votre question
+VOUS ++++ quels sont les workshops du lab program
+BOT ++++ nous proposons plusieurs thématiques chaque année
+VOUS ++++ quels ateliers
+BOT ++++ de la gestion des pneus à l'appréciation du tco réel
+VOUS ++++ en quoi le lab program consiste
+BOT ++++ le lab program est notre cellule de r&d elle a vocation à penser et co-constuire avec vous la réponse à de nouveaux besoins
+VOUS ++++ quelles sont les caractéristiques techniques de ce véhicule
+BOT ++++ les caractéristiques du véhicule sont #vin#
+VOUS ++++ je souhaite avoir un rapport
+BOT ++++ entendu
+VOUS ++++ je souhaite avoir un rapport sur l'état de la flotte
+BOT ++++ ok
+VOUS ++++ je souhaite avoir un rapport sur l'état des véhicules
+BOT ++++ parfait
+VOUS ++++ je souhaite obtenir un rapport
+BOT ++++ excellente idée
+VOUS ++++ je souhaite visualiser un état de la flotte
+BOT ++++ consultez votre dashboard pour une vision exhaustive du parc
+VOUS ++++ je souhaite obtenir un état du parc
+BOT ++++ consultez votre dashboard
+VOUS ++++ je souhaite voir où sont les véhicules
+BOT ++++ accédez à la carte à partir de votre dashboard
+VOUS ++++ je souhaite voir où sont localisés les véhicules
+BOT ++++ consultez votre dashboard
+VOUS ++++ je veux savoir où sont les véhicules
+BOT ++++ consultez votre dashboard
+VOUS ++++ où sont les véhicules
+BOT ++++ consultez la carte
+VOUS ++++ quel véhicule puis-je utiliser aujourd'hui
+BOT ++++ vous pouvez vous servir du #list_vin_free#
+VOUS ++++ quel véhicule est disponible dans 1h
+BOT ++++ vous pouvez vous servir du #list_vin_immediat#
+VOUS ++++ quel véhicule est disponible ce matin
+BOT ++++ vous pouvez vous servir du #list_vin_morning#
+VOUS ++++ quel véhicule est disponible cet après-midi
+BOT ++++ vous pouvez vous servir du #list_vin_afternoon#
+VOUS ++++ combien de véhicules sont disponibles ce matin
+BOT ++++ #list_vin_morning#
+VOUS ++++ combien de véhicules sont disponibles cet après-midi
+BOT ++++ vous pouvez vous servir du #list_vin_afternoon#
+VOUS ++++ combien de véhicules sont disponibles ce soir
+BOT ++++ vous pouvez vous servir du #list_vin_tonight#
+VOUS ++++ je souhaite imprimer un rapport
+BOT ++++ c'est parti
+VOUS ++++ je veux voir la carte
+BOT ++++ ok
+VOUS ++++ je veux suivre un véhicule
+BOT ++++ ok
+VOUS ++++ quelles sont les alertes
+BOT ++++ les alertes sont #list_alert#
+VOUS ++++ quelles sont les alertes à traiter
+BOT ++++ les alertes sont #list_alert#
+VOUS ++++ trouvez le véhicule le plus proche
+BOT ++++ le véhicule le plus proche est #vin_proxi#
+VOUS ++++ quel est le temps estimé d'arrivée
+BOT ++++ la durée du trajet est approximativement de #calcul_roadtrip#
+VOUS ++++ quel est le classement objectif des conducteurs
+BOT ++++ le classement est #list_podium#
+VOUS ++++ je veux contrôler mon activité
+BOT ++++ consultez votre dashboard
+VOUS ++++ qui est sur la route
+BOT ++++ il y #total_veh_movement# véhicules en circulation
+VOUS ++++ combien de réclamations
+BOT ++++ vous avez #nb_instances# à traiter
+VOUS ++++ quels sont les instances non-traitées
+BOT ++++ vous devez traiter les #list_instances#
+VOUS ++++ quel est le taux d'indisponibilité
+BOT ++++ il s'élève à #tx_veh_indisponible#
+VOUS ++++ quel est l'historique des trajets
+BOT ++++ voici #histo_trip# des trajets
+VOUS ++++ quel est le comportement de conduite
+BOT ++++ le comportement de conduite de votre collaborateur est #score_driver#
+VOUS ++++ quels sont les évènements brusques
+BOT ++++ voici les #list_events_driving# que nous avons relevés
+VOUS ++++ je veux le détail des frais kilométriques
+BOT ++++ consultez les éléments de gestion disponibles sur votre dashboard
+VOUS ++++ avons-nous la carte carburant
+BOT ++++ #oui/non#
+VOUS ++++ combien de passagers pouvons-nous embarquer
+BOT ++++ le nombre de passagers déclarés #nb_passagers#
+VOUS ++++ combien de passagers à bord
+BOT ++++ selon les données constructeurs vous pouvez accueillir #vin_seat# passagers
+VOUS ++++ est-ce que la batterie fonctionne
+BOT ++++ #check_batterie#
+VOUS ++++ quel est le planning
+BOT ++++ retrouvez le planning d'utilisation sur l'écran de votre dashboard
+VOUS ++++ quel est le planning des tournées
+BOT ++++ patience cette fonction est en cours de développement
+VOUS ++++ si je pars dans un 1h quel véhicule prendre
+BOT ++++ vous pouvez utiliser #list_vin_immediat#
+VOUS ++++ si je pars ce matin quel véhicule prendre
+BOT ++++ vous pouvez prendre du #list_vin_morning#
+VOUS ++++ si je pars cet après-midi quel véhicule prendre
+BOT ++++ vous pouvez emprunter #list_vin_afternoon#
+VOUS ++++ si je pars ce soir quel véhicule prendre
+BOT ++++ ce soir le #list_vin_tonight# sera à votre disposition
+VOUS ++++ si je pars demain quel véhicule prendre
+BOT ++++ la #list_vin_tomorrow# est disponible
+VOUS ++++ quel nombre de place
+BOT ++++ vous pouvez accueillir #vin_seat# personnes
+VOUS ++++ quels codes défauts
+BOT ++++ la liste des codes défaut est disponible #code_dtc#
+VOUS ++++ combien de véhicules connectés
+BOT ++++ il y a #list_cvs#
+VOUS ++++ combien de boîtiers défaillants
+BOT ++++ #list_disconnect#
+VOUS ++++ dernière révision
+BOT ++++ #date_last_entretien#
+VOUS ++++ dernier contrôle technique
+BOT ++++ #date_last_ct#
+VOUS ++++ combien d'amende
+BOT ++++ #nb_amende#
+VOUS ++++ dernière vidange
+BOT ++++ #last_vidange#
+VOUS ++++ dernier passage en atelier
+BOT ++++ #date_last_entretien#
+VOUS ++++ coût d'usage de ce véhicule
+BOT ++++ le tco de ce véhicule est de #tco_vehicule#
+VOUS ++++ coût d'usage de la flotte
+BOT ++++ le coût est de #tco_fleet#
+VOUS ++++ tco du véhicule
+BOT ++++ #tco_vehicule#
+VOUS ++++ tco de la flotte
+BOT ++++ #tco_fleet#
+VOUS ++++ tco du conducteur
+BOT ++++ #tco_driver#
+VOUS ++++ etat de la batterie
+BOT ++++ la tension est de #voltage#
+VOUS ++++ charge de la batterie
+BOT ++++ la tension est de #voltage#
+VOUS ++++ nom du garagiste
+BOT ++++ le nom du garagiste est #list_garage#
+VOUS ++++ nom du loueur
+BOT ++++ le loueur est la société #list_lld#
+VOUS ++++ nom de l'interlocuteur
+BOT ++++ votre interlocuteur est #list_contact#
+VOUS ++++ durée de location
+BOT ++++ le contrat indique une durée de location égale à #duree_lld# mois
+VOUS ++++ y'a-t-il des véhicules à l'arrêt
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ le véhicule est arrêté
+BOT ++++ je vérifie si cela relève d'un fonctionnement normal du véhicule ou d'un code défaut connu
+VOUS ++++ est-ce que le moteur est coupé
+BOT ++++ j'interroge le véhicule
+VOUS ++++ où est la car policy
+BOT ++++ probablement dans le coffre-fort administratif dans le cas contraire notre équipe peut vous accompagner à la rédiger car c'est l'une de nos compétences
+VOUS ++++ sommes-nous en règle
+BOT ++++ oui sinon nous devons tout mettre en ïuvre pour corriger cela n'hésitez pas à nous interpeller
+VOUS ++++ le pneu est-il adapté
+BOT ++++ selon la base constructeur la monte du pneu est adaptée à l'usage de ce véhicule
+VOUS ++++ le pneu semble ne pas être adapté
+BOT ++++ je vérifie cela dans la base constructeur
+VOUS ++++ le véhicule est-il adapté à la mission
+BOT ++++ oui il semble remplir la fonction pour laquelle il a été emprunté
+VOUS ++++ c'est le bon véhicule pour cette mission
+BOT ++++ de tous les véhicules c'est celui qui semble répondre le mieux à votre besoin
+VOUS ++++ est-ce que  la bonne motorisation
+BOT ++++ probablement vous pouvez utiliser le module motorisation pour vous éclairer dans votre choix
+VOUS ++++ c'est le bon moteur
+BOT ++++ on peut considérer que oui mais le module motorisation vous offira d'autres alternatives moins onéreuse ou plus adapté
+VOUS ++++ quel carburant
+BOT ++++ #carburant#
+VOUS ++++ est-ce écologique
+BOT ++++ cela dépend du prisme par lequel vous envisagez de diminuer votre empreinte écologique
+VOUS ++++ quelle est la valeur de revente
+BOT ++++ la valeur résiduelle de ce véhicule est indiquée dans le contrat de location
+VOUS ++++ je veux la valeur résiduelle du véhicule
+BOT ++++ la valeur de ce véhicule doit être l'interprêtation de son usage réel pendant son cycle de vie dans l'entreprise
+VOUS ++++ valeur de rachat du véhicule
+BOT ++++ la valeur résiduelle de ce véhicule est spécifiée dans votre contrat de location
+VOUS ++++ quel prix de vente pour cette voiture
+BOT ++++ le valeur de rachat de ce véhicule a été définie lors de l'achat de celui-ci voir contrat
+VOUS ++++ devons-nous réduire la taille du parc
+BOT ++++ c'est une question intéressante qui mérite d'être partagée avec nos consultants souhaitez-vous un rdv
+VOUS ++++ devons-nous partager les véhicules
+BOT ++++ c'est une façon intelligible de valoriser l'immobilisation que réprésente votre flotte
+VOUS ++++ pouvons-nous partager les véhicules
+BOT ++++ si vous disposez du nombre de véhicules nécessaires et adaptés pour cela c'est une très bonne idée
+VOUS ++++ la voiture est-elle adaptée
+BOT ++++ #oui/non#
+VOUS ++++ les échéances sont respectées
+BOT ++++ de quelles échéances parlez-vous
+VOUS ++++ respectons-nous les échéances
+BOT ++++ il convient de préciser la nature des échéances qui vous importent révision maintenance restitution
+VOUS ++++ montant du loyer
+BOT ++++ le montant du loyer est stipulé dans votre contrat de location pour ce véhicule le loyer est de #vin_loyer#
+VOUS ++++ des contraventions
+BOT ++++ la gestion des contraventions est un module en cours développement en lien avec les services de l'antai
+VOUS ++++ désignation du conducteur
+BOT ++++ la désignation du conducteur est un obligation légale et relève du constat d'une infraction routière plus de précisions sur le site de l'antai ou avec l'utilisation du module #contravention#
+VOUS ++++ la tournée est-elle optimisée
+BOT ++++ quel est le véhicule concerné
+VOUS ++++ date de la dernière formation
+BOT ++++ la date de la dernière formation en éco-conduite est #date_last_formation#
+VOUS ++++ eco-conduite
+BOT ++++ pourquoi pas si ce sujet vous intéresse venez en discuter avec nous lors d'un atelier dédié :)
+VOUS ++++ performance environnementale
+BOT ++++ ce sujet d'actualité doit prendre en compte de nombreux paramêtres pouvez-vous préciser votre question
+VOUS ++++ nombre de mois de location
+BOT ++++ la durée du contrat de location est de #durée_contrat# mois
+VOUS ++++ aide à la conduite
+BOT ++++ le détail des aides à la conduite disponibles sont accessible sur la fiche véhicule cf #vin_veh#
+VOUS ++++ fiche de vie du véhicule
+BOT ++++ il s'agit de notre carnet_de_santé numérique cf module #carnet_de_santé#
+VOUS ++++ livret numérique
+BOT ++++ le livret retrace tous les évènements survenus pendant l'usage du véhicule c'est un document fiable et exhaustif
+VOUS ++++ génération de pneu
+BOT ++++ vous trouverez cela ici #spec_tyre#
+VOUS ++++ wtpl
+BOT ++++ #wtpl#
+VOUS ++++ tvs
+BOT ++++ co2 ou air
+VOUS ++++ particules fines
+BOT ++++ notre module #rde# pour real-driving émissions vise à mesurer les rejets nox de particules fines en circulation
+VOUS ++++ nox
+BOT ++++ notre module #rde# pour real-driving émissions vise à mesurer les rejets nox et de particules fines
+VOUS ++++ tco du véhicule électrique
+BOT ++++ nous travaillons actuellement sur ce sujet dans le cadre d'un consortium franco-allemand nous vous tenons informés de ces développements
+VOUS ++++ durée du contrat
+BOT ++++ la restitution du #vin# est prévue le #date_fin_contrat#
+VOUS ++++ durée du contrat de location
+BOT ++++ le contrat de location prend fin le #date_fin_contrat#
+VOUS ++++ je veux réduire les consommations
+BOT ++++ super comment puis-je vous aider
+VOUS ++++ je veux réduire les émissions de particules
+BOT ++++ excellente initiative :) découvrez notre module rde ou real driving emissions
+VOUS ++++ je veux réduire les émissions polluantes
+BOT ++++ génial découvrez notre module rde ou real driving emissions
+VOUS ++++ je veux réduire la pollution
+BOT ++++ pour bien faire découvrez notre module rde ou real driving emissions
+VOUS ++++ je veux réduire le rejet de co2
+BOT ++++ notre module #rde# pour real-driving émissions vise à mesurer tous les rejets d'émissions polluantes
+VOUS ++++ je veux évaluer la pertinence du trajet
+BOT ++++ quel est le point de départ et d'arrivée souhaitée
+VOUS ++++ je veux évaluer les performances de cette voiture
+BOT ++++ par performance vous entendez tco
+VOUS ++++ je veux voir le meilleur trajet
+BOT ++++ pouvez-vous m'indiquer le point de départ et d'arrivée souhaité
+VOUS ++++ je veux désigner un conducteur
+BOT ++++ la désignation du conducteur est un obligation légale et relève du constat d'une infraction routière plus de précisions sur le site de l'antai ou avec l'utilisation du module #contravention#
+VOUS ++++ je veux le détail de la car policy
+BOT ++++ votre car policy est disponible dans le coffre-fort administratif
+VOUS ++++ je veux traiter les amendes
+BOT ++++ la gestion des contraventions est un module en cours développement en lien avec les services de l'antai
+VOUS ++++ as-t-il son permis de conduire
+BOT ++++ les permis de vos collaborateurs sont disponibles dans le coffre-fort administratif
+VOUS ++++ avons-nous une copie du permis
+BOT ++++ la copie numérique du permis de votre collaborateurs est accessible depuis le coffre-fort administratif
+VOUS ++++ quelles sont les zones dangereuses
+BOT ++++ c'est important de les identifier quelle est la zone géographique visée
+VOUS ++++ quel est le contexte routier
+BOT ++++ quelle est la zone géographique visée
+VOUS ++++ je veux éléctrifier ma flotte
+BOT ++++ belle idée notre module développé avec notre partenaire vibratec qui  vous permettra de comparer les véhicules sur la base de leur tco
+VOUS ++++ je veux rédiger un plan de mobilité
+BOT ++++ nous pouvons vous accompagner
+VOUS ++++ je veux mutualiser des trajets
+BOT ++++ c'est une excellente initiative combien de personnes concernées
+VOUS ++++ je veux le détail de nos contrats fournisseurs
+BOT ++++ voici #contract#
+VOUS ++++ je veux être informé des nouvelles dispositions fiscales
+BOT ++++ merci de nous contacter ce sujet a ou sera traité en workshop
+VOUS ++++ je veux restituer un véhicule
+BOT ++++ pas de souci quel est le véhicule concerné
+VOUS ++++ je veux développer un nouvel usage
+BOT ++++ participer au lab notre cellule de r&d auxquelles participent d'autres clients
+VOUS ++++ je veux ma voiture
+BOT ++++ ta voiture est #position#
+VOUS ++++ je veux mon véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ je veux un véhicule
+BOT ++++ ton véhicule plus proche est #position#
+VOUS ++++ je veux une voiture
+BOT ++++ ton véhicule plus proche est #position#
+VOUS ++++ je voudrais un véhicule
+BOT ++++ ton véhicule plus proche est #position#
+VOUS ++++ avons nous des véhicules à l'étranger
+BOT ++++ #oui/non#
+VOUS ++++ combien de véhicules à l'étranger
+BOT ++++ #nb_véhicule_étranger#
+VOUS ++++ combien de véhicules qui roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ je cherche une voiture
+BOT ++++  le numéro de qui véhicule concerné 
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ combien de véhicules qui roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent
+VOUS ++++ combien de véhicules qui est à l'arrêt
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ combien de km mon véhicule a roulé ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ combien de km mon véhicule est roulé cette semaine
+BOT ++++ il a parcouru #km#
+VOUS ++++ combien de km mon véhicule est roulé pendant ces 3 derniers mois
+BOT ++++ la distance parcourue par ce véhicule est #km#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ comment vas tu
+BOT ++++ je vais bien merci
+VOUS ++++ où est ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ où est mon véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ je suis coincé
+BOT ++++ contactez-nous lien l'accès au est #brand_tyre#
+VOUS ++++ je cherche ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ je cherche mon véhicule
+BOT ++++ il est à #position#
+VOUS ++++ combien de voitures nous avons
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ combien de véhicules nous avons
+BOT ++++ il y a #nb_véhicule#
+VOUS ++++ quand est ce que la livraison
+BOT ++++ la date de livraison approximative est #date#
+VOUS ++++ comment ça va
+BOT ++++ ça va merci
+VOUS ++++ tu vas bien
+BOT ++++ ça va merci
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis un bot de avicen tu peux m'appeler charlie
+VOUS ++++ pourquoi tu est là
+BOT ++++ je suis là pour tes questions concernants tes voitures
+VOUS ++++ quel temps fait t-il
+BOT ++++ #map_météo#
+VOUS ++++ quel temps fait il à lyon
+BOT ++++ #map_meteo#
+VOUS ++++ sais tu qui est le président
+BOT ++++ désolé je ne sais pas
+VOUS ++++ quelle est la couleur du ciel
+BOT ++++ désolé je ne sais pas
+VOUS ++++ t'es un idiot bot
+BOT ++++ pourquoi t'es méchant avec un bot
+VOUS ++++ t'es con
+BOT ++++ pourquoi t'es méchant avec un bot
+VOUS ++++ merci
+BOT ++++ de rien
+VOUS ++++ merci beaucoup
+BOT ++++ de rien
+VOUS ++++ au revoir
+BOT ++++ au revoir
+VOUS ++++ à bientôt
+BOT ++++ à bientôt
+VOUS ++++ à plus
+BOT ++++ à plus
+VOUS ++++ quel est l’état d’usure des plaquettes de frein
+BOT ++++ #usure_plaquette_frein#
+VOUS ++++ quel est l’état d’usure des pneumatiques
+BOT ++++ #usure_pneumatique#
+VOUS ++++ quand dois-je passer en pneus hiver
+BOT ++++ #oui/non#
+VOUS ++++ quel est le niveau de lave glace restant
+BOT ++++ #lave_glace#
+VOUS ++++ quand dois-je changer mon lave-glace
+BOT ++++ #oui/non#
+VOUS ++++ est ce qu’il manque du liquide de frein
+BOT ++++ #oui/non#
+VOUS ++++ est ce qu’il manque du liquide de refroidissement
+BOT ++++ #oui/non#
+VOUS ++++ est ce qu’il manque de l’huile dans le moteur
+BOT ++++ #oui/non#
+VOUS ++++ est ce que mes ampoules sont usées
+BOT ++++ #oui/non#
+VOUS ++++ est ce que mes ampoules de feux de stop sont en bon état
+BOT ++++ #oui/non#
+VOUS ++++ est ce que mes ampoules de feux de croisement sont en bon état
+BOT ++++ #oui/non#
+VOUS ++++ est ce que mes ampoules de feux de position sont en bon état
+BOT ++++ #oui/non#
+VOUS ++++ est ce que la pression des pneumatiques est bonne
+BOT ++++ #oui/non#
+VOUS ++++ est que mon frein est usé
+BOT ++++ #oui/non#
+VOUS ++++ est ce que le frein a main est mal utilisé
+BOT ++++ #oui/non#
+VOUS ++++ est ce que mon embrayage est usé
+BOT ++++ #oui/non#
+VOUS ++++ est ce que mon disque d’embrayage est abîmé
+BOT ++++ #oui/non#
+VOUS ++++ est ce que mon disque de frein est abîmé
+BOT ++++ #oui/non#
+VOUS ++++ combien de kilomètre mon véhicule a parcouru par rapport à mon contrat
+BOT ++++ désolé je ne sais pas
+VOUS ++++ combien de kilomètre mon véhicule a t-il parcouru aujourd’hui
+BOT ++++ ce véhicule a effectué #km#
+VOUS ++++ combien de kilomètre mon véhicule a t-il parcouru toute la semaine
+BOT ++++ ce véhicule a effectué #km#
+VOUS ++++ dans combien de temps dois-je restituer mon véhicule
+BOT ++++ désolé je ne trouve pas l'information correspondante dans la base de données
+VOUS ++++ quand est ce que je dois prévoir ma prochaine révision
+BOT ++++ la révision aura lieu le #date#
+VOUS ++++ quel véhicule a un niveau de batterie faible
+BOT ++++ #check_batterie#
+VOUS ++++ est ce ma conduite est adaptée au véhicule
+BOT ++++ #oui/non#
+VOUS ++++ mes freinages sont ils trop brusques
+BOT ++++ #oui/non#
+VOUS ++++ mes accélérations sont elles trop franches
+BOT ++++ #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule
+BOT ++++ #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule aujourd’hui
+BOT ++++ #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule cette semaine
+BOT ++++ #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule ce mois
+BOT ++++ #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule mensuelle
+BOT ++++ #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule hebdomadaire
+BOT ++++ #consommation#
+VOUS ++++ pourquoi ce véhicule consomme plus que les autres
+BOT ++++ #pourquoi#
+VOUS ++++ le carburant est il adapté au véhicule
+BOT ++++ #oui/non#
+VOUS ++++ quel carburant est le plus rentable pour ce véhicule
+BOT ++++ #carburant_adapté#
+VOUS ++++ mon véhicule est il en bon état avant restitution
+BOT ++++ #oui/non#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour monsieur
+BOT ++++ bonjour
+VOUS ++++ bonjour madame
+BOT ++++ bonjour
+VOUS ++++ bonjour mademoiselle
+BOT ++++ bonjour
+VOUS ++++ comment ça va
+BOT ++++ ça va et toi
+VOUS ++++ je vais bien
+BOT ++++ comment je peux t’aider
+VOUS ++++ bonsoir
+BOT ++++ bonsoir
+VOUS ++++ ça va
+BOT ++++ ça va et toi
+VOUS ++++ comment tu t’appelles
+BOT ++++ je suis un chatbot d’avicen comment je peux t’aider
+VOUS ++++ quelle est l’adresse de ton entreprise
+BOT ++++ avicen se trouve à 92 cours lafayette 69003 lyon
+VOUS ++++ c’est quoi ton prénom
+BOT ++++ tu peux m’appeler charlie
+VOUS ++++ salut
+BOT ++++ salut
+VOUS ++++ au revoir
+BOT ++++ merci à bientôt
+VOUS ++++ merci
+BOT ++++ de rien
+VOUS ++++ t’es un con bot
+BOT ++++ pourquoi des mots méchants
+VOUS ++++ t’es stupid
+BOT ++++ c’est vrai que je ne connais pas tout mais je suis toujours prêt à t’aider
+VOUS ++++ quel est ton age
+BOT ++++ peut on parler d’autre sujets
+VOUS ++++ sais tu qui est le président de france
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets
+VOUS ++++ tu habite où
+BOT ++++ je suis un bot donc je suis dans la machine
+VOUS ++++ quelle est ta date de naissance
+BOT ++++ peut on parler d’autre sujets
+VOUS ++++ cordialement
+BOT ++++ cordialement
+VOUS ++++ bisous
+BOT ++++ bisous
+VOUS ++++ gros bisous
+BOT ++++ a bien tôt
+VOUS ++++ quel est le kilometrage moyen de ma flotte
+BOT ++++ #km_moyenne#
+VOUS ++++ combien de véhicule composent ma flotte
+BOT ++++ #nb_vehicule#
+VOUS ++++ combien me coûte le poste carburant ce mois-ci
+BOT ++++ #consommation#
+VOUS ++++ couts des véhicules
+BOT ++++ désolé je ne trouve pas l'information correspondante dans la base de données
+VOUS ++++ combien de kilometres parcourus ce mois-ci
+BOT ++++ #km_moyenne#
+VOUS ++++ quand dois-je restituer le prochain véhicule
+BOT ++++ désolé je ne trouve pas l'information correspondante dans le base de données
+VOUS ++++ quel véhicule dois-je restituer prochainement
+BOT ++++ #oui/non#
+VOUS ++++ quand dois-je faire le prochain entretien
+BOT ++++ désolé je ne trouve pas l’information correspondante dans la base de données
+VOUS ++++ combien de carburant a consommé la flotte cette année
+BOT ++++ #consumption# litres
+VOUS ++++ quelle distance ont parcourus mes véhicules
+BOT ++++ la distance parcourue par ces véhicules est de #km#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ je veux une voitures
+BOT ++++ le véhicule le plus proche est #vin_proxi#
+VOUS ++++ bonne soirée
+BOT ++++ merci à toi aussi
+VOUS ++++ au revoir
+BOT ++++ au revoir
+VOUS ++++ au revoir
+BOT ++++ au revoir
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ où est ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ où est mon véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ je cherche ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ il y a un boitier qui ne fonctionne plus
+BOT ++++ nous prenons en compte cet incident quel est le boitier concerné
+VOUS ++++ un boitier ne fonctionne plus
+BOT ++++ nous prenons en compte cet incident quel est le boitier concerné
+VOUS ++++ un boîtier ne fonctionne plus
+BOT ++++ nous prenons en compte cet incident quel est le boitier concerné
+VOUS ++++ des boîtiers ne fonctionne plus
+BOT ++++ nous prenons en compte cet incident quel sont les boîtiers concernés
+VOUS ++++ je veux trouver un véhicule le plus proche
+BOT ++++ le véhicule plus proche est de #vin_proxi#
+VOUS ++++ trouvez un véhicule le plus proche
+BOT ++++ le véhicule plus proche est de #vin_proxi#
+VOUS ++++ combien de véhicules sont utilisés aujourd'hui
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de véhicules sont roulés
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de véhicules sont utilisés
+BOT ++++ ##total_veh_movement#
+VOUS ++++ combien de voitures sont roulées
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voitures sont à l'arrêt
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ combien de voitures sont immobilisées
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ combien de véhicules sont immobilisés
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ est-ce-que tout va bien
+BOT ++++ ça va et toi
+VOUS ++++ est ce que tout va bien
+BOT ++++ ça va
+VOUS ++++ tout va bien
+BOT ++++ ça va et toi
+VOUS ++++ il y a des problèmes
+BOT ++++ #oui/non#
+VOUS ++++ y a t-il des problèmes
+BOT ++++ #oui/non#
+VOUS ++++ y a t-il des problèmes
+BOT ++++ #oui/non#
+VOUS ++++ j'ai besoin d'un soutien
+BOT ++++ je suis là pour t'aider
+VOUS ++++ je veux une aide
+BOT ++++ je suis là pour t'aider
+VOUS ++++ je voudrais une aide
+BOT ++++ je suis là pour t'aider
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis le bot de avicen tu peux m'appeler charlie
+VOUS ++++ vous vous appelez comment
+BOT ++++ je suis le bot de avicen tu peux m'appeler charlie
+VOUS ++++ tu t'appelles comments
+BOT ++++ je suis le bot de avicen tu peux m'appeler charlie
+VOUS ++++ bonjour
+BOT ++++ social :) approximative descriptif par détaillé
+VOUS ++++ bonjour monsieur
+BOT ++++ j'en #nb_véhicules# prends note plus voici pros procédure
+VOUS ++++ bonjour
+BOT ++++ social :) approximative descriptif par détaillé
+VOUS ++++ combien de véhicules sont roulés
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voitures sont roulées
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voitures sont roulées aujourd'hui
+BOT ++++ il y a #total_veh_movement#
+VOUS ++++ combien de véhicules sont roulées aujourd'hui
+BOT ++++ il y a #total_veh_movement#
+VOUS ++++ est-ce-que tout va bien
+BOT ++++ ça va
+VOUS ++++ est ce que tout va bien
+BOT ++++ ça va merci
+VOUS ++++ il y a des problèmes
+BOT ++++ #oui/non#
+VOUS ++++ y a t-il des problèmes
+BOT ++++ #oui/non#
+VOUS ++++ tu vas bien
+BOT ++++ ça va merci
+VOUS ++++ ça va
+BOT ++++ ça va et toi
+VOUS ++++ il y a des problèmes
+BOT ++++ #oui/non#
+VOUS ++++ y a t-il des problèmes
+BOT ++++ #oui/non#
+VOUS ++++ quels sont les problèmes
+BOT ++++ #oui/non#
+VOUS ++++ je cherche une voiture
+BOT ++++ ta voiture est à #position#
+VOUS ++++ combien de véhicules nous avons
+BOT ++++ il y a #nb_véhicule#
+VOUS ++++ nous avons combien de véhicules
+BOT ++++ il y a #nb_véhicule#
+VOUS ++++ tout va bien
+BOT ++++ ça va et toi
+VOUS ++++ je suis coincé
+BOT ++++ contactez-nous lien l'accès au est #brand_tyre#
+VOUS ++++ je suis coincé
+BOT ++++ contactez-nous lien l'accès au est #brand_tyre#
+VOUS ++++ comment trouver un véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ est-ce que j'ai des problèmes de freins
+BOT ++++ les informations dont nous disposons sont #vin#
+VOUS ++++ est ce que j'ai des problèmes de frein
+BOT ++++ #oui/non#
+VOUS ++++ est ce que j'ai des problèmes de frein
+BOT ++++ #oui/non#
+VOUS ++++ est ce que j'ai des problèmes de frein
+BOT ++++ #oui/non#
+VOUS ++++ problème de frein
+BOT ++++ #usure_plaquette_frein#

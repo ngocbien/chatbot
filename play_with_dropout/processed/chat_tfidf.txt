@@ -1,0 +1,1989 @@
+VOUS ++++ voiture immobilisée
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis le bot de avicen tu peux m'appeler emmet
+VOUS ++++ je veux voir s'il y a des problèmes
+BOT ++++ ok
+VOUS ++++ il y a problèmes
+BOT ++++ #oui/non#
+VOUS ++++ il y a des urgences
+BOT ++++ ce véhicule a rejoint le parc #date_debut_contrat#
+VOUS ++++ problème de freine
+BOT ++++ les informations dont nous disposons sont #vin#
+VOUS ++++ problème de vitesse
+BOT ++++ véhicule #id# #problème# #vitesse#
+VOUS ++++ combien de véhicules à l'arrêt?
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ combien de véhicule à l'arrêt
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ combien de véhicule en circulation
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ il y a des véhicules hors zone définie
+BOT ++++ ce véhicule a rejoint le parc #date_debut_contrat#
+VOUS ++++ il y a des problèmes?
+BOT ++++ ce véhicule a rejoint le parc #date_debut_contrat#
+VOUS ++++ il y a de problèmes
+BOT ++++ #oui/non#
+VOUS ++++ il y a des urgences
+BOT ++++ ce véhicule a rejoint le parc #date_debut_contrat#
+VOUS ++++ coucou
+BOT ++++ bonsoir
+VOUS ++++ trompé
+BOT ++++ bonsoir
+VOUS ++++ je veux savoir si il y a de problème
+BOT ++++ consultez votre dashboard
+VOUS ++++ non, je veux savoir si tout va bien
+BOT ++++ ça va et toi
+VOUS ++++ combien de véhicules à l'arrêt
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ combien de véhicules en circulation
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ combien de véhicules en marche
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ nombre de trajets
+BOT ++++ vous pouvez accueillir #vin_seat# personnes
+VOUS ++++ combien de km au total
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ combien de carburant au total
+BOT ++++ #consommation#
+VOUS ++++ salut
+BOT ++++ salut
+VOUS ++++ comment tu vas
+BOT ++++ je vais bien merci
+VOUS ++++ la flotte
+BOT ++++ ok
+VOUS ++++ un résume sur flotte
+BOT ++++ ok
+VOUS ++++ combien de voitures en circulation
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ combien de voitures à l'arrêt
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ combien de voiture à l'arrêt?
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ qui est président des états-unis
+BOT ++++ désolé je ne sais pas
+VOUS ++++ qui est le plus fort
+BOT ++++ je l'ignore peut être moi :)
+VOUS ++++ qui est le plus con
+BOT ++++ pourquoi des mots méchants
+VOUS ++++ qui est plus stupid
+BOT ++++ merci de nous avoir prévenu pouvez-vous nous indiquer son numéro de série
+VOUS ++++ a b c d e
+BOT ++++ je suis le bot d'avicen je m'appelles emmet
+VOUS ++++ qui est le plus fort que tout le monde entier
+BOT ++++ je l'ignore peut être moi :)
+VOUS ++++ combien km au total
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ combien carburant comsomé
+BOT ++++ #carburant# #comsommation#
+VOUS ++++ combien carburant
+BOT ++++ #carburant# #comsommation#
+VOUS ++++ carburant
+BOT ++++ #carburant# #comsommation#
+VOUS ++++ essence
+BOT ++++ bonne journée
+VOUS ++++ essences
+BOT ++++ bonne journée
+VOUS ++++ combien d'essence
+BOT ++++ #carburant# #comsommation#
+VOUS ++++ combien
+BOT ++++ #carburant# #comsommation#
+VOUS ++++ combien
+BOT ++++ #carburant# #comsommation#
+VOUS ++++ je cherche une voiture
+BOT ++++ le numéro de qui véhicule concerné
+VOUS ++++ je veux un véhicule le plus vite possible
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ quel véhicule qui roule moins vite
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ la moyenne des vitesse
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+VOUS ++++ vitesse en moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+VOUS ++++ je cherche un véhicule
+BOT ++++ il est à #position#
+VOUS ++++ bonjour
+BOT ++++ bonjour monsieur
+VOUS ++++ salut
+BOT ++++ cordialement
+VOUS ++++ est ce que tout va bien
+BOT ++++ ça va et toi
+VOUS ++++ problème
+BOT ++++ oui, de quel nature
+VOUS ++++ combien carburant mon véhicule a comsommé ce mois
+BOT ++++ #consommation#
+VOUS ++++ la santé des voitures
+BOT ++++ #ask_id# #problème# #technique#
+VOUS ++++ combien de véhicule sont à l'arrêt?
+BOT ++++ #combien# #arrêt#
+VOUS ++++ combien de véhicule sont à Lyon 
+BOT ++++ il y a #nb_véhicule#
+VOUS ++++ je veux savoir s'il y a des problèmes
+BOT ++++ #ask_id# #position#
+VOUS ++++ carburant
+BOT ++++ #oui/non#
+VOUS ++++ c'est qui le président de France
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets ou reformuler ta question?
+VOUS ++++ c'est quoi
+BOT ++++ le tco c'est le total cost of ownership
+VOUS ++++ combien kilomètrage a parcouru mon véhicule
+BOT ++++ votre véhicule a parcouru #km#
+VOUS ++++ combien de km les véhicules sont parcouru en moyenne
+BOT ++++ votre véhicule a parcouru #km#
+VOUS ++++ quelle est la distance moyenne
+BOT ++++ #comparer# #km#
+VOUS ++++ la vitesse moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+VOUS ++++ la pression de pneu est bonne
+BOT ++++ #ask_id# #pression#
+VOUS ++++ quels sont les véhicules avec une mauvaise pression de pneu
+BOT ++++ #ask_id# #pression#
+VOUS ++++ quels est le véhicule qui est le moins utilisé
+BOT ++++ vous pouvez vous servir du #list_vin_free#
+VOUS ++++ pannes
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ combien de pannes
+BOT ++++ #ask_id# #problème# #technique#
+VOUS ++++ nombre de trajets
+BOT ++++ #ask_id# #vin_seat#
+VOUS ++++ nombre de places
+BOT ++++ #ask_id# #vin_seat#
+VOUS ++++ nombre de déplacements
+BOT ++++ oui, #ask_id# #position#
+VOUS ++++ nombre de sieges
+BOT ++++ #ask_id# #vin_seat#
+VOUS ++++ km
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ combien de km
+BOT ++++ #ask_id# #km#
+VOUS ++++ kilometres
+BOT ++++ #ask_id# #km#
+VOUS ++++ quel est le nombre de voiture
+BOT ++++ #ask_id# #vin_seat#
+VOUS ++++ quel est le nombre de voitures
+BOT ++++ #ask_id# #vin_seat#
+VOUS ++++ combien de voitures
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien de trajets
+BOT ++++ la durée du trajet est de #durée_contrat# mois
+VOUS ++++ ou est mon contrat
+BOT ++++ #ask_id# #date_fin_contrat#
+VOUS ++++ quel est le vin
+BOT ++++ #ask_id# #vin#
+VOUS ++++ vin
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ vin?
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ quel véhicule est disponible
+BOT ++++ #list_vin_free#
+VOUS ++++ pression des pneux
+BOT ++++ #ask_id# #pression#
+VOUS ++++ quel est le tpms
+BOT ++++ peut on parler d’autre sujets
+VOUS ++++ TPMS
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ quelle marque pneu
+BOT ++++ la marque des pneus est #brand_tyre#
+VOUS ++++ quelle marque voiture
+BOT ++++ la marque des pneus est #brand_tyre#
+VOUS ++++ quelle voiture
+BOT ++++ la liste des véhicule est #listing_vin#
+VOUS ++++ bonjour
+BOT ++++ cordialement
+VOUS ++++ bonsoir
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ bonjour
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ combien de voiture
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien de véhicule qui roulent
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ bonjour
+BOT ++++ cordialement
+VOUS ++++ comment tu vas
+BOT ++++ je vais bien merci
+VOUS ++++ bonjour
+BOT ++++ cordialement
+VOUS ++++ salut
+BOT ++++ cordialement
+VOUS ++++ comment tu va
+BOT ++++ je vais bien merci
+VOUS ++++ combien de voitures qui roulent
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien de véhicules à l'arrêt?
+BOT ++++ #combien# #arrêt#
+VOUS ++++ combien de voitures hors services
+BOT ++++ merci de signaler au personnel de Avicen au #numéro_avicen#
+VOUS ++++ je veux une voiture
+BOT ++++ #ask_id# #position#
+VOUS ++++ veux
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ va
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ carburant consommé
+BOT ++++ #ask_id# #consumption#
+VOUS ++++ combien de voitures qui consommes plus de carburant
+BOT ++++ #consumption# #total#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ je veux savoir la flotte des voitures
+BOT ++++ #ask_id# #position#
+VOUS ++++ combien de voitures qui roulent aujourd'hui?
+BOT ++++ il y a #total_veh_movement#
+VOUS ++++ combien de voitures qui roulent hier?
+BOT ++++ #total_veh_movement# véhicules de la société roulent actuellement
+VOUS ++++ combien de véhicules qui roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent actuellement
+VOUS ++++ combien de véhicules qui roulent avant-hier
+BOT ++++ #total_veh_movement# véhicules de la société roulent actuellement
+VOUS ++++ il y a des dangers
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ il y a de danger
+BOT ++++ #problème#
+VOUS ++++ il y a des danger
+BOT ++++ #problème#
+VOUS ++++ il y a des dangers
+BOT ++++ #problème#
+VOUS ++++ il y a de danger
+BOT ++++ #problème#
+VOUS ++++ il y a problème
+BOT ++++ #problème#
+VOUS ++++ il y a probleme
+BOT ++++ #problème#
+VOUS ++++ combien véhicules sur la route
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ combien véhicule route
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ combien véhicule
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien de véhicules qui marchent
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien de véhicules en circulations
+BOT ++++ #total_veh_movement# véhicules de la société roulent actuellement
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ combien de voitures à Lyon
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien de voiture à Marseille
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien de voiture à Marseille?
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien véhicule en France
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets ou reformuler ta question?
+VOUS ++++ combien de véhicule en France
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets ou reformuler ta question?
+VOUS ++++ combien de voitures en France
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets ou reformuler ta question?
+VOUS ++++ combien de véhicule en france
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets ou reformuler ta question?
+VOUS ++++ combien véhicule à Marseille
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ combien véhicule circulent aujourd'hui à Lyon
+BOT ++++ il y a #total_veh_movement#
+VOUS ++++ hello
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ il  a des voitures qui roulent actuellement
+BOT ++++ le parc comprend #list_vin_free# véhicules
+VOUS ++++ combien de véhicule qui roule  à 
+BOT ++++ #total_veh_movement#
+VOUS ++++ à Lyon, il  a des problème
+BOT ++++ #problème#
+VOUS ++++ à Lyon, il  a des problèmes
+BOT ++++ #problème#
+VOUS ++++ il  a des problèmes à Lyon
+BOT ++++ #problème#
+VOUS ++++ il y a des voitures qui roulent à 
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de véhiculent hors de 
+BOT ++++ #combien# #moteur_éteint#
+VOUS ++++ je veux savoir si tout va bien
+BOT ++++ ça va et toi
+VOUS ++++ combien de voitures qui roulent
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voiture qui roulent à  
+BOT ++++ #total_veh_movement#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ il y a des voitures à Lyon qui roulent 
+BOT ++++ #total_veh_movement#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonsoir
+BOT ++++ bonsoir
+VOUS ++++ salut
+BOT ++++ cordialement
+VOUS ++++ comment ça va
+BOT ++++ ça va merci
+VOUS ++++ il y a des voitures qui roulent à Paris 
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voiture qui roulent à Lyon
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voitures qui roulent  à Lyon
+BOT ++++ #total_veh_movement#
+VOUS ++++ et à Paris, combien de voitures qui roulent
+BOT ++++ #total_veh_movement#
+VOUS ++++ et à Lyon, combien de voitures qui roulent
+BOT ++++ #total_veh_movement#
+VOUS ++++ et à Lyon, combien de voitures qui roulent 
+BOT ++++ #total_veh_movement#
+VOUS ++++ et à Lyon combien de voitures qui roulent 
+BOT ++++ #total_veh_movement#
+VOUS ++++ et à Lyon, combien de voitures qui roulent
+BOT ++++ #total_veh_movement#
+VOUS ++++ et à Lyon combien
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ et à Lyon, combien
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ à Lyon, combien de véhicules qui roulent 
+BOT ++++ #total_veh_movement#
+VOUS ++++ à Marseille, combien de véhicules qui roulent 
+BOT ++++ #total_veh_movement#
+VOUS ++++ je veux savoir si il a des voitures qui roulent à Saint-Etienne
+BOT ++++ #ask_id# #position#
+VOUS ++++ je veux savoir si il y a des voitures qui roulent à Grenoble
+BOT ++++ #ask_id# #position#
+VOUS ++++ combien voitures qui roulent
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien    voitures    qui    roulent
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voitures qui roulent à lyon
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voiture à paris 
+BOT ++++ le parc est composé de #nb_veh#
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis un bot d'Avicen tu peux m'appeler Emmet
+VOUS ++++ combien de véhicules qui roulent 
+BOT ++++ #total_veh_movement#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ comment tu t'appelles
+BOT ++++ je m'appelles Emmet, une création d'AVICEN.
+VOUS ++++ combien de voitures qui roulent à lyon
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de voiture qui roulent à paris, 
+BOT ++++ #total_veh_movement#
+VOUS ++++ combien de carburant nous avons comsommé ce mois
+BOT ++++ #ask_id# #consumption#
+VOUS ++++ combien de carburant nous avons comsomé 
+BOT ++++ #ask_id# #consumption#
+VOUS ++++ combien de carburant nous avons comsomé depuis 3 mois
+BOT ++++ #ask_id# #consumption#
+VOUS ++++ s'il te plaît
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ je veux savoir
+BOT ++++ #problème#
+VOUS ++++ je veux
+BOT ++++ je suis là pour t'aider
+VOUS ++++ je veux connaître
+BOT ++++ #problème#
+VOUS ++++ je suis coincé
+BOT ++++ contactez-nous lien l'accès au est #brand_tyre#
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ combien à paris
+BOT ++++ il y a #nb_veh#
+VOUS ++++ carburant
+BOT ++++ #ask_id# #carburant#
+VOUS ++++ vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+VOUS ++++ vitesse maximum
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ vitesse minimum
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ erreur
+BOT ++++ véhicule #id# #erreur# #km#
+VOUS ++++ je veux savoir
+BOT ++++ #problème#
+VOUS ++++ savoir
+BOT ++++ je m'appelle Emmet, je suis une création d'AVICEN
+VOUS ++++ veux
+BOT ++++ je suis là pour t'aider
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ salut
+BOT ++++ au revoir
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ où est mon véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ veux
+BOT ++++ je suis là pour t'aider
+VOUS ++++ comment
+BOT ++++ je m'appelle Emmet, je suis une création d'AVICEN
+VOUS ++++ salut
+BOT ++++ au revoir
+VOUS ++++ je veux savoir si il y a des voitures à l'étranger
+BOT ++++ #étranger#
+VOUS ++++ combien de voitures
+BOT ++++ il y a #nb_veh#
+VOUS ++++ voiture
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ combien de
+BOT ++++ il y a #nb_veh#
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ problème
+BOT ++++ #problème#
+VOUS ++++ faute vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+VOUS ++++ salut
+BOT ++++ au revoir
+VOUS ++++ comment
+BOT ++++ je m'appelle Emmet, je suis une création d'AVICEN
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ voiture
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ salut
+BOT ++++ au revoir
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ au revoir
+BOT ++++ au revoir
+VOUS ++++ salut
+BOT ++++ au revoir
+VOUS ++++ good
+BOT ++++ ça va
+VOUS ++++ erreur de vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+VOUS ++++ vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+VOUS ++++ batterie
+BOT ++++ véhicule #id# #problème# #batterie#
+VOUS ++++ erreur
+BOT ++++ véhicule #id# #erreur# #km#
+VOUS ++++ oui
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ je veux
+BOT ++++ je suis là pour t'aider
+VOUS ++++ carburant
+BOT ++++ #ask_id# #carburant#
+VOUS ++++ combien de voiture
+BOT ++++ il y a #nb_veh#
+VOUS ++++ des
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ pour
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ combien de km a fait mon véhicule
+BOT ++++ #ask_id# #km#
+VOUS ++++ fait
+BOT ++++ vous pouvez apprécier cela sur la #map_météo#
+VOUS ++++ faudrais
+BOT ++++ #ask_id# #problème# #frein#
+VOUS ++++ combien de
+BOT ++++ il y a #nb_veh#
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ nombre
+BOT ++++ il y a #nb_veh#
+VOUS ++++ localisé
+BOT ++++ #ask_id# #position#
+VOUS ++++ veux
+BOT ++++ je suis là pour t'aider
+VOUS ++++ améliorer
+BOT ++++ essayer notre module #rde# disponible sur le store
+VOUS ++++ condition
+BOT ++++ vous pouvez apprécier cela sur la #map_météo#
+VOUS ++++ min
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ minimum
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ minimum
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ je
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ je suis
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
+VOUS ++++ coincé
+BOT ++++ contactez-nous lien l'accès au est #brand_tyre#
+VOUS ++++ voiture
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ salut
+BOT ++++ au revoir
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ voiture
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ batterie
+BOT ++++ véhicule #id# #problème# #batterie#
+VOUS ++++ frein
+BOT ++++ #ask_id# #problème# #frein#
+VOUS ++++ pneu
+BOT ++++ #problème# #pneu#
+VOUS ++++ est-ce qu'on a des problème de pneu
+BOT ++++ #problème#
+VOUS ++++ où est
+BOT ++++ je suis un bot donc je suis dans la machine
+VOUS ++++ b
+BOT ++++ co2 ou air
+VOUS ++++ salut
+BOT ++++ au revoir
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ je veux une
+BOT ++++ je suis là pour t'aider
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+VOUS ++++ véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ souhaiter
+BOT ++++ je suis là pour t'aider
+VOUS ++++ solution
+BOT ++++ je suis là pour t'aider
+VOUS ++++ entreprise
+BOT ++++ avicen se trouve à 92 cours lafayette 69003 lyon
+VOUS ++++ comment
+BOT ++++ je m'appelle Emmet, je suis une création d'AVICEN
+VOUS ++++ appelles
+BOT ++++ je m'appelle Emmet, je suis une création d'AVICEN
+VOUS ++++ batterie
+BOT ++++ véhicule #id# #problème# #batterie#
+VOUS ++++ con
+BOT ++++ pourquoi des mots méchants
+VOUS ++++ stupid
+BOT ++++ pourquoi des mots méchants
+VOUS ++++ coincé
+BOT ++++ contactez-nous lien l'accès au est #brand_tyre#
+VOUS ++++ qui
+BOT ++++ co2 ou air
+VOUS ++++ question
+BOT ++++ oui pose ta question
+VOUS ++++ demande
+BOT ++++ oui pose ta question
+VOUS ++++ voudrais
+BOT ++++ je suis là pour t'aider
+VOUS ++++ combien
+BOT ++++ il y a #nb_veh#
+hello
+je suis 
+combien
+je veux une voiture
+des voitures
+voiture
+combien de voitures
+véhicules
+hello
+hello
+hello
+hello
+hello
+coucou
+où est la voiture
+où est ma voiture?
+je veux ma voiture
+combien de km ce véhicule a parcouru
+je cherche ma voiture
+hello
+je veux une voiture
+vitesse
+vitesse maximale
+vitesse minimale
+
+quelles sont tes coordonnées?
+coordonnées
+quelles
+
+quelles sont tes
+
+je voudrais un
+si je suis
+je suis
+plus
+combien de voiture
+je veux savoir combien de voiture qui roule à Paris
+aujourd'hui
+combien de valeur tu apporte pour cette boite
+goog
+good
+j'aime cette interface
+j'aime avoir des infos
+je veux des infos sur la flotte
+bon, c'est cool
+tu travaille bien toi
+je veux 
+YOU++++ hello
+YOU++++ how are you?
+YOU++++ tu veux parler englais
+YOU++++ comment tu va
+YOU++++ tu veux travailler
+YOU++++ mais on parle
+YOU++++ de quoi parle t'on
+YOU++++ combien
+YOU++++ vitesse
+YOU++++ 
+YOU++++ hello
+YOU++++ voiture
+YOU++++ combien
+YOU++++ allez les bleus
+YOU++++ allez 
+YOU++++ cool
+YOU++++ combien de temps j'aurai avec toi
+YOU++++ bien
+YOU++++ je suis content de toi
+YOU++++ t'es con
+YOU++++ tes réponses ne sont pas correctes
+YOU++++ yes
+YOU++++ oui
+YOU++++ bon, je m'arrête là
+YOU++++ 
+YOU++++ hello
+YOU++++ good
+YOU++++ comment tu vas?
+YOU++++ je veux une voiture
+YOU++++ je veux ma voiture
+YOU++++ combien de voitures qui roules
+YOU++++ la batterie est bonne?
+YOU++++ non
+YOU++++ je veux un rapport
+YOU++++ je veux un rapport
+YOU++++ je veux une voiture
+YOU++++ combien de voitures nous avons
+YOU++++ combien de trajet mon véhicule a parcouru
+YOU++++ 
+YOU++++ hello
+YOU++++ combien voiture qui roulent
+YOU++++ je veux une voiture
+YOU++++ où sont les voitures
+YOU++++ 
+YOU++++ bonjour
+YOU++++ how are you
+YOU++++ je veux une voitures
+YOU++++ combien de véhicules
+YOU++++ combien
+YOU++++ véhicule
+YOU++++ véhicules
+YOU++++ je cherche mon véhicule
+YOU++++ il y a des problèmes
+YOU++++ il y a de problèmes de batterie
+YOU++++ flotte
+YOU++++ problème de flotte
+YOU++++ des pneus
+YOU++++ batteries
+YOU++++ batteries
+YOU++++ batteries
+YOU++++ batteri
+YOU++++ batteris
+YOU++++ batterie
+YOU++++ je veux savoir si nous avons des problèmes de pneus?
+YOU++++ je veux savoir si nous avons de problème
+YOU++++ je veux savoir si nous avons de souci
+YOU++++ bon, merci
+YOU++++ je te remercie beaucoup
+YOU++++ merci et merci
+YOU++++ con et con et con
+YOU++++ ha ha
+YOU++++ bon, t'es rigolos
+YOU++++ tu ne sais rien à part de ça va?
+YOU++++ bon, je m'arrête ici
+YOU++++ au revoir
+YOU++++ à bien tôt
+YOU++++ à tout 
+YOU++++ 
+YOU++++ hello
+YOU++++ hello
+VOUS ++++ hello
+BOT ++++ et avides de tout.
+VOUS ++++ bonjout
+BOT ++++ et avides de tout.
+VOUS ++++ bonjour
+BOT ++++ Bonjour.
+VOUS ++++ salut
+BOT ++++ Ni moi ni personne.
+VOUS ++++ pourquoi tu dis ça
+BOT ++++ Ah ouais ?
+VOUS ++++ non, je ne comprend pas
+BOT ++++ Il se repose.
+VOUS ++++ tu n'es pas poli
+BOT ++++ et avides de tout.
+VOUS ++++ bon, je cherche à comprendre
+BOT ++++ et avides de tout.
+VOUS ++++ comment tu t'appelles
+BOT ++++ Allez, vite.
+VOUS ++++ hello
+BOT ++++ Attention. Ne dévoile pas ton jeu.
+VOUS ++++ bonjour
+BOT ++++ On devrait en acheter une neuve.
+VOUS ++++ je veux une voiture
+BOT ++++ Je connaissais à peine ces garçons.
+VOUS ++++ je cherche à te comprendre
+BOT ++++ Attention. Ne dévoile pas ton jeu.
+VOUS ++++ oh, je ne comprend pas ce que tu dis
+BOT ++++ Il a le droit de s'exprimer.
+VOUS ++++ mais pourquoi
+BOT ++++ Attention. Ne dévoile pas ton jeu.
+VOUS ++++ oh, tu parle avec moi de cette façon
+BOT ++++ Je me demande ce que ça peut être.
+VOUS ++++ de quoi parle t-on
+BOT ++++ Il a peur que tu t'en mêles.
+VOUS ++++ il, c'est qui
+BOT ++++ Attention. Ne dévoile pas ton jeu.
+VOUS ++++ oui, je comprend bien ce qu'il faut fait
+BOT ++++ Il a le droit de s'exprimer.
+VOUS ++++ t'es con
+BOT ++++ Attention. Ne dévoile pas ton jeu.
+VOUS ++++ tu es stupid
+BOT ++++ Pêcher notre repas à travers un trou minuscule.
+VOUS ++++ je ne comprend rien
+BOT ++++ Il a le droit de s'exprimer.
+VOUS ++++ hello
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ how are you
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ ça va
+BOT ++++ J'ai envie d'un peu de soupe.
+VOUS ++++ bonjour
+BOT ++++ Je suis Laura.
+VOUS ++++ je suis bien
+BOT ++++ Pardon, je voulais pas déranger.
+VOUS ++++ je veux parler
+BOT ++++ Si je gardais le secret, tu me dirais ?
+VOUS ++++ oui
+BOT ++++ Oh, mon Dieu !
+VOUS ++++ je suis fatigué
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ oh, je ne comprend pas
+BOT ++++ Je me donne pourtant un mal de chien.
+VOUS ++++ non, tu dis de bêtise
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ sahib, c'est qui
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ qui est moi
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ je ne veux pas rester ici
+BOT ++++ Bonne nuit.
+VOUS ++++ à bien tôt
+BOT ++++ Au secours.
+VOUS ++++ qu'est ce qui il a
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ oh non, tu dis n'importe quoi
+BOT ++++ Elle vient d'être mise.
+VOUS ++++ comment tu t'appelles
+BOT ++++ Comme je suis maintenant.
+VOUS ++++ c'est quoi ton prénom
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ con
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ je ne comprend pa
+BOT ++++ Je me donne pourtant un mal de chien.
+VOUS ++++ sais tu que tu est une machine
+BOT ++++ Pas du tout, sahib.
+VOUS ++++ hello
+BOT ++++ Max voulait 300 mots, mais il y en a 650.
+VOUS ++++ bonjour
+BOT ++++ Bonjour.
+VOUS ++++ salut
+BOT ++++ Viens t'asseoir.
+VOUS ++++ je veux parler
+BOT ++++ Monte tout de suite et essaye ton cadeau !
+VOUS ++++ comment tu t'appelles
+BOT ++++ Hé, petit ! Vite, ça ferme !
+VOUS ++++ c'est quoi ton petit prénom
+BOT ++++ Lottie, il ne faut pas s'agiter comme cela.
+VOUS ++++ je veux parler
+BOT ++++ Monte tout de suite et essaye ton cadeau !
+VOUS ++++ qui êtes vous
+BOT ++++ Max voulait 300 mots, mais il y en a 650.
+VOUS ++++ oh là là, je ne comprend rien
+BOT ++++ Je suis là.
+VOUS ++++ hello
+BOT ++++ Il n'est pas parti.
+VOUS ++++ bonjour
+BOT ++++ Elle est vite intimidée.
+VOUS ++++ bonjour
+BOT ++++ Elle est vite intimidée.
+VOUS ++++ au revoir
+BOT ++++ Bien sûr.
+VOUS ++++ à plus
+BOT ++++ Un petit peu... plus à droite.
+VOUS ++++ à plus tard
+BOT ++++ Bonjour, rats de labo !
+VOUS ++++ pourquoi tu dis ça
+BOT ++++ Vous m'avez sauvée du pire.
+VOUS ++++ comment tu t'appelles
+BOT ++++ Il s'appelle Elliot.
+VOUS ++++ qui je suis
+BOT ++++ Tu es sûrement en colère.
+VOUS ++++ qui es tu
+BOT ++++ Je suis Amber.
+VOUS ++++ qui vous êtes
+BOT ++++ Vous me draguez ?
+VOUS ++++ non
+BOT ++++ "Tu te crèveras un il ? !"
+VOUS ++++ non non, forcement non
+BOT ++++ "Tu te crèveras un il ? !"
+VOUS ++++ j'ai faim
+BOT ++++ Je meurs de faim.
+VOUS ++++ on va manger
+BOT ++++ Non ! Pas "ra-ra-ra" !
+VOUS ++++ pourquoi
+BOT ++++ Amuse-toi bien.
+VOUS ++++ mais j'ai faim
+BOT ++++ Vous venez pas du Minnesota ?
+VOUS ++++ je viens de marseille
+BOT ++++ Ce n'est pas pareil.
+VOUS ++++ par rapport à quoi
+BOT ++++ Chérie ?
+VOUS ++++ pourquoi tu m'appelles chérie
+BOT ++++ Tu n'as pas de femme à la maison ?
+VOUS ++++ non, mais pouquoi
+BOT ++++ Vous trois, suivez-moi. Vite.
+VOUS ++++ qui encore
+BOT ++++ Fichu !
+VOUS ++++ je ne comprend pas
+BOT ++++ Je voudrais : une salade niçoise, sauce ranch.
+VOUS ++++ je ne suis pas ton serveur
+BOT ++++ Pourquoi, alors ?
+VOUS ++++ tu n'es pas dans un restaurant
+BOT ++++ Tu me l'as déjà dit.
+VOUS ++++ je veux bien m'amusé
+BOT ++++ Vous trois seulement, alors.
+VOUS ++++ :))
+BOT ++++ Il n'est pas parti.
+VOUS ++++ t'es rigolo
+BOT ++++ C'était pas la peine.
+VOUS ++++ tu ne veux pas rentrer
+BOT ++++ Je ne veux pas laisser mon père.
+VOUS ++++ je veux bien partir
+BOT ++++ Vous trois seulement, alors.
+VOUS ++++ qui est dans ta maison
+BOT ++++ "et un amour plus fort que les liens du sang."
+VOUS ++++ bon, je dois partir, au revoir
+BOT ++++ Le quorum est sûrement atteint.
+VOUS ++++ à bien tôt
+BOT ++++ Délicieux.
+VOUS ++++ see you
+BOT ++++ Il n'est pas parti.
+VOUS ++++ bon, je rentre
+BOT ++++ T'es un gentil garçon.
+VOUS ++++ yes, je sais
+BOT ++++ Vous êtes sûr ?
+VOUS ++++ bien sur
+BOT ++++ sont juchés les esprits...
+VOUS ++++ pourquoi tu change de sujet
+BOT ++++ Je ne laisserai pas gagner sans me battre.
+VOUS ++++ il ne faut pas changer de sujet
+BOT ++++ Ce n'est pas du premier choix.
+VOUS ++++ bon, c'est suffit de parler tous le temps avec toi
+BOT ++++ Je crois avoir vu quelque chose. . .
+VOUS ++++ t'as vu quoi alors?$
+BOT ++++ J'ai pas braillé !
+VOUS ++++ je vais te tuer
+BOT ++++ Elle est fantastique.
+VOUS ++++ je te tue
+BOT ++++ Je t'aime.
+VOUS ++++ je te frappe
+BOT ++++ Par chance, j'avais l'avantage de l'expérience.
+VOUS ++++ je suis indécis
+BOT ++++ Partons.
+VOUS ++++ tu es con
+BOT ++++ Je viens examiner les vignes.
+VOUS ++++ tu es stupid
+BOT ++++ Il faut que tu la baises.
+VOUS ++++ tu es excellent
+BOT ++++ Il faut que tu la baises.
+VOUS ++++ tu as bien fait ça
+BOT ++++ C'est Charlie.
+VOUS ++++ qui est charlie
+BOT ++++ Elle plaît à Simon.
+VOUS ++++ qui est simon
+BOT ++++ Elle plaît à Simon.
+VOUS ++++ qui es tu
+BOT ++++ Je suis Amber.
+VOUS ++++ quel age tu as
+BOT ++++ A cache-cache.
+VOUS ++++ quel age tu as
+BOT ++++ A cache-cache.
+VOUS ++++ vous avez quel age
+BOT ++++ Non, mais il n'a pas besoin de le savoir.
+VOUS ++++ je cherche à comprendre
+BOT ++++ Moi non plus. Suivez-moi.
+VOUS ++++ je ne veux plus parler avec toi
+BOT ++++ Je ne serai jamais à l'heure à ma réunion.
+VOUS ++++ au revoir
+BOT ++++ Bien sûr.
+VOUS ++++ good bye
+BOT ++++ Il n'est pas parti.
+VOUS ++++ goodbye
+BOT ++++ Il n'est pas parti.
+VOUS ++++ see you
+BOT ++++ Il n'est pas parti.
+VOUS ++++ je suis fatigué
+BOT ++++ Partons.
+VOUS ++++ quel temps fait il
+BOT ++++ Douze heures. Peut-être dix.
+VOUS ++++ quel temps
+BOT ++++ Convaincu que la mort,
+VOUS ++++ quelle malheur
+BOT ++++ J'étais en présence de la plus belle machine
+VOUS ++++ tu es une machine
+BOT ++++ Un soda ?
+VOUS ++++ tu es partie
+BOT ++++ Tiens.
+VOUS ++++ mort
+BOT ++++ Il y a un mois.
+VOUS ++++ boire
+BOT ++++ Ovaltine ?
+VOUS ++++ partons
+BOT ++++ Il n'est pas parti.
+VOUS ++++ manger
+BOT ++++ Non ! Pas "ra-ra-ra" !
+VOUS ++++ dormir
+BOT ++++ C'est ta ferme, ici ?
+VOUS ++++ femme
+BOT ++++ Bizarre. Sous l'emprise de l'alcool, il aurait pu parler de... sa progéniture.
+VOUS ++++ homme
+BOT ++++ Non.
+VOUS ++++ enfant
+BOT ++++ Je disais au capit. . .
+VOUS ++++ prendre la route
+BOT ++++ On ne pouvait pas rentrer hier soir.
+VOUS ++++ j'attends la pluie
+BOT ++++ Écoutez ça.
+VOUS ++++ musique
+BOT ++++ Il paraît que c'était un grand homme.
+VOUS ++++ macron
+BOT ++++ Il n'est pas parti.
+VOUS ++++ réponse
+BOT ++++ Il n'est pas parti.
+VOUS ++++ toto
+BOT ++++ Il n'est pas parti.
+VOUS ++++ vivre ou mourir
+BOT ++++ Ça, c'est très peu probable.
+VOUS ++++ vivre
+BOT ++++ Ça, c'est très peu probable.
+VOUS ++++ mourir
+BOT ++++ Il n'y a qu'une solution : faire un énorme festin avant d'aller dormir.
+VOUS ++++ se reposer
+BOT ++++ Papa t'achètera...
+VOUS ++++ poisson
+BOT ++++ On est à court.
+VOUS ++++ poison
+BOT ++++ Il n'est pas parti.
+VOUS ++++ oiseau
+BOT ++++ Et si l'oiseau ne veut pas...
+VOUS ++++ faire le mur
+BOT ++++ Ce vin n'est pas trop mauvais.
+VOUS ++++ vin
+BOT ++++ Du vin ?
+VOUS ++++ oui
+BOT ++++ Parle-moi de ton copain Charlie.
+VOUS ++++ il va bien
+BOT ++++ Mon 1er pilotage.
+VOUS ++++ quel avion
+BOT ++++ Vous vendez La Siroque ?
+VOUS ++++ non
+BOT ++++ "Tu te crèveras un il ? !"
+VOUS ++++ mal de chien
+BOT ++++ C'est un bovin.
+VOUS ++++ non c'est une vache
+BOT ++++ Si l'un de nous deux saute, ce devrait être moi.
+VOUS ++++ toi
+BOT ++++ Une femme intelligente et belle comme toi a sûrement beaucoup de succès.
+VOUS ++++ c'est évident
+BOT ++++ Si j'avais gardé ma tête de benêt
+VOUS ++++ tu n'en serais pas là
+BOT ++++ Richard.
+VOUS ++++ marie
+BOT ++++ Il n'est pas parti.
+VOUS ++++ hello
+BOT ++++ Il n'est pas parti.
+VOUS ++++ goo
+BOT ++++ Il n'est pas parti.
+VOUS ++++ hello
+BOT ++++ N'oublie pas d'appeler.
+VOUS ++++ qui
+BOT ++++ De moi.
+VOUS ++++ je ne veux pas
+BOT ++++ Vous ne me croyez pas.
+VOUS ++++ non
+BOT ++++ Ça n'a aucun intérêt.
+VOUS ++++ désolé
+BOT ++++ C'était Arthur.
+VOUS ++++ qui est arthur
+BOT ++++ Oui.
+VOUS ++++ tu ne comprends pas
+BOT ++++ Une carriole arrive sur la route nord.
+VOUS ++++ pourquoi
+BOT ++++ Il m'a trahi.
+VOUS ++++ t'es con
+BOT ++++ Tu rougis.
+VOUS ++++ tu es con
+BOT ++++ Il faut que tu la baises.
+VOUS ++++ je ne l'aime pas
+BOT ++++ J'ai... bien entendu ?
+VOUS ++++ je suis fatigué
+BOT ++++ Ou c'était la chèvre ?
+VOUS ++++ comment cela marche
+BOT ++++ D'où cela sort ?
+VOUS ++++ de toi
+BOT ++++ Cette Martha Anderson n'est pas nette et je vais découvrir son secret.
+VOUS ++++ bon, va y
+BOT ++++ J'en sais rien.
+VOUS ++++ fais un effort
+BOT ++++ On n'attend plus que vous !
+VOUS ++++ je te tue
+BOT ++++ Lancelot du Lac ?
+VOUS ++++ tu veux mourrir
+BOT ++++ Kerouac, par exemple, tu le trouves facilement.
+VOUS ++++ haha
+BOT ++++ N'oublie pas d'appeler.
+VOUS ++++ ok
+BOT ++++ N'oublie pas d'appeler.
+VOUS ++++ good
+BOT ++++ N'oublie pas d'appeler.
+VOUS ++++ okie
+BOT ++++ N'oublie pas d'appeler.
+VOUS ++++ bon, je te connais
+BOT ++++ Chez les jurisconsultes, ça a fait un bruit !
+VOUS ++++ je suis prêt
+BOT ++++ Ou c'était la chèvre ?
+VOUS ++++ quelle chèvre
+BOT ++++ Non, je crois que ça venait des arbres.
+VOUS ++++ quels arbres
+BOT ++++ Vous n'en trouverez pas de meilleur que celui-là.
+VOUS ++++ mais de quoi tu parles
+BOT ++++ Encore tes combines...
+VOUS ++++ comment je peux l'écouter
+BOT ++++ Et puis, on a commencé à se voir.
+VOUS ++++ ok, pas de souci
+BOT ++++ Gengis Khan n'est pas mort.
+VOUS ++++ il est vraiment con
+BOT ++++ C'est important.
+VOUS ++++ ok
+BOT ++++ N'oublie pas d'appeler.
+VOUS ++++ il est brillant
+BOT ++++ En sécurité.
+VOUS ++++ comment tu t'appelles
+BOT ++++ Il s'appelle Elliot.
+VOUS ++++ c'est qui elliot
+BOT ++++ Nous n'avons pas de moyens illimités.
+VOUS ++++ bon, je peux faire de bonne choses
+BOT ++++ Vous êtes là ?
+VOUS ++++ oui, on est toujours là
+BOT ++++ On pense tous que vous êtes un con.
+VOUS ++++ oui, on est là
+BOT ++++ Vite, vite, toujours vite !
+VOUS ++++ on est toujours là
+BOT ++++ On pense tous que vous êtes un con.
+VOUS ++++ comment tu le sais
+BOT ++++ Bonsoir... inspecteur-chef Hill, et Inspecteur Mackenzie.
+VOUS ++++ tu connais luis
+BOT ++++ En Ecosse.
+VOUS ++++ tu connais luis
+BOT ++++ En Ecosse.
+VOUS ++++ tu connais mikhail
+BOT ++++ En Ecosse.
+VOUS ++++ t'es con
+BOT ++++ Tu rougis.
+VOUS ++++ t'es bien rigolos
+BOT ++++ Pas mal.
+VOUS ++++ tu dis n'importe quoi
+BOT ++++ Tout le monde s'en fout.
+VOUS ++++ bon, à plus
+BOT ++++ On n'en est plus là, hein ?
+VOUS ++++ bisous
+BOT ++++ N'oublie pas d'appeler.
+VOUS ++++ ok
+BOT ++++ N'oublie pas d'appeler.
+VOUS ++++ c'est bien noté le petit con
+BOT ++++ C'est un petit peu le corollaire.
+VOUS ++++ bonjour
+BOT ++++ Vous avez jamais profité d'une prisonnière peut-être ?
+VOUS ++++ quoi 
+BOT ++++ Aux enfants.
+VOUS ++++ quels enfants 
+BOT ++++ L'un a 13 ans, l'autre a 11 mois.
+VOUS ++++ comment tu t'appelle
+BOT ++++ On s'en fout.
+VOUS ++++ je vais te tuer
+BOT ++++ Où est la piqûre ?
+VOUS ++++ quel age as tu 
+BOT ++++ T'as dit un truc, et au réveil, t'avais oublié.
+VOUS ++++ t'es marié 
+BOT ++++ Ça nous renvoie à notre utilité.
+VOUS ++++ ta femme 
+BOT ++++ Oh ! Ça va !
+VOUS ++++ tu as du feu 
+BOT ++++ Non. Laissez-le brûler.
+VOUS ++++ de l'eau 
+BOT ++++ Non.
+VOUS ++++ a manger
+BOT ++++ Sur la Table ronde ?
+VOUS ++++ et a boire 
+BOT ++++ Je sais ni boire, ni manger, ni m'habiller, ni me laver, ni rien.
+VOUS ++++ mais pourquoi 
+BOT ++++ C'est votre allié.
+VOUS ++++ ou sont les ennemis 
+BOT ++++ Pour nous épier ?
+VOUS ++++ oui
+BOT ++++ Ben, ça change le visage.
+VOUS ++++ cuillère
+BOT ++++ Ça nous renvoie à notre utilité.
+VOUS ++++ bonjour
+BOT ++++ Vous avez jamais profité d'une prisonnière peut-être ?
+VOUS ++++ quoi 
+BOT ++++ Aux enfants.
+VOUS ++++ pourquoi tu dis ça 
+BOT ++++ D'autant qu'ils ne parlent pas la langue.
+VOUS ++++ quels enfants 
+BOT ++++ L'un a 13 ans, l'autre a 11 mois.
+VOUS ++++ tu les vends 
+BOT ++++ Où va le fric, à Kaamelot ?
+VOUS ++++ ou est kaamelot 
+BOT ++++ Il est du côté de que dalle : il pige rien.
+VOUS ++++ je vais te tuer
+BOT ++++ Où est la piqûre ?
+VOUS ++++ ou est la reine
+BOT ++++ En somme.
+VOUS ++++ bonjour
+BOT ++++ Vous avez jamais profité d'une prisonnière peut-être ?
+VOUS ++++ bonjour
+BOT ++++ "OK", quoi ? L'héritier ?
+VOUS ++++ bonjour
+BOT ++++ Non, sire.
+VOUS ++++ bonjour
+BOT ++++ "Là", où ?
+VOUS ++++ bonjour
+BOT ++++ Vous avez jamais profité d'une prisonnière peut-être ?
+VOUS ++++ bonjour
+BOT ++++ Ça nous renvoie à notre utilité.
+VOUS ++++ bonjour
+BOT ++++ Vous avez jamais profité d'une prisonnière peut-être ?
+VOUS ++++ bonjour
+BOT ++++ D'accord, on annule.
+VOUS ++++ bonjour
+BOT ++++ Vous avez jamais profité d'une prisonnière peut-être ?
+VOUS ++++ bonjour
+BOT ++++ Il est là.
+VOUS ++++ qui
+BOT ++++ De moi.
+VOUS ++++ comment tu t'appelles
+BOT ++++ Voilà.
+VOUS ++++ ton prénom
+BOT ++++ Il est là.
+VOUS ++++ qui
+BOT ++++ Quoi ? Je pige pas ou quoi ?
+VOUS ++++ non
+BOT ++++ Ça n'a aucun intérêt.
+VOUS ++++ je ne comprend pas
+BOT ++++ Chut !
+VOUS ++++ mais de quoi tu parles
+BOT ++++ Elle serait vêtue de blanc.
+VOUS ++++ bon, je te dis aurevoir
+BOT ++++ On n'en est plus là, hein ?
+VOUS ++++ qui est là
+BOT ++++ Exactement.
+VOUS ++++ tu ne comprend rien
+BOT ++++ Perceval, dites une phrase au hasard.
+VOUS ++++ quel phrase
+BOT ++++ J'apprécie les fruits au sirop.
+VOUS ++++ manger
+BOT ++++ Non, sire.
+VOUS ++++ dodo
+BOT ++++ Pourquoi laissez-vous vos chevaliers former des clans séparatistes, alors que l'une de vos priorités a toujours été de fédérer les clans autour de votre royaume et de la quête du Graal ?
+VOUS ++++ enfant
+BOT ++++ Le roi d'Orcanie vous a élevé, mais vous êtes un fils de pécore.
+VOUS ++++ fils
+BOT ++++ C'était une autre époque.
+VOUS ++++ femme
+BOT ++++ Ils sont pas affinés.
+VOUS ++++ femme
+BOT ++++ On me l'a déjà faite.
+VOUS ++++ ma femme
+BOT ++++ Du calme.
+VOUS ++++ où est ma femme
+BOT ++++ Elle m'a fendu le tibia avec une amphore.
+VOUS ++++ où est ma femme
+BOT ++++ Pourquoi s'emmerder avec ça ?
+VOUS ++++ où est ma femme
+BOT ++++ Du calme.
+VOUS ++++ je veux ma femem
+BOT ++++ La couronne ne dispense pas de se bien conduire.
+VOUS ++++ je veux ma femme
+BOT ++++ Soyez gentille, lâchez-moi la chemise.
+VOUS ++++ où est la personne
+BOT ++++ Il se peut que des connards se mettent à crier au traître.
+VOUS ++++ je veux jouer
+BOT ++++ La couronne ne dispense pas de se bien conduire.
+VOUS ++++ au revoir
+BOT ++++ Obligé.
+VOUS ++++ bonjour
+BOT ++++ Vous voyez ça ?
+VOUS ++++ bonjour
+BOT ++++ Pourquoi laissez-vous vos chevaliers former des clans séparatistes, alors que l'une de vos priorités a toujours été de fédérer les clans autour de votre royaume et de la quête du Graal ?
+VOUS ++++ cool
+BOT ++++ "OK", quoi ? L'héritier ?
+VOUS ++++ qui dis ça
+BOT ++++ Ouais !
+VOUS ++++ qui fait quoi
+BOT ++++ À vous d'avoir de l'attention.
+VOUS ++++ je veux un truc
+BOT ++++ Pourquoi ne pas inviter un chevalier qui l'a présidée ?
+VOUS ++++ qui va m'aider
+BOT ++++ Non.
+VOUS ++++ je prend sur un coin
+BOT ++++ J'aime trop les poissons.
+VOUS ++++ tu mange du possions
+BOT ++++ Si je suis si douée, pourquoi les clients veulent que je les rembourse ?
+VOUS ++++ tu aime du possions
+BOT ++++ Ah...
+VOUS ++++ tu aime du poissons
+BOT ++++ Ils peuvent mal le prendre.
+VOUS ++++ bon, bye
+BOT ++++ Ah non, mais !
+VOUS ++++ je suis ennuyeux
+BOT ++++ Comment saurais-je ?
+VOUS ++++ quoi
+BOT ++++ Aux enfants.
+VOUS ++++ quels enfants
+BOT ++++ Vous qui n'en avez pas, vous ne savez pas à quoi vous échappez.
+VOUS ++++ je sors
+BOT ++++ Éventuellement de...
+VOUS ++++ je rentre
+BOT ++++ Si vous ne venez pas tout de suite, je vous attaque !
+VOUS ++++ t'es con toi
+BOT ++++ Je m'en fous, des honneurs.
+VOUS ++++ t'es un vrai con
+BOT ++++ J'y suis pour rien.
+VOUS ++++ bon
+BOT ++++ Je montre un peu les dents, mais il vous fallait une mise au point.
+VOUS ++++ bonbon
+BOT ++++ Qu'en savez-vous ?
+VOUS ++++ je veux des bonbons
+BOT ++++ Pas mal. C'est rythmique.
+VOUS ++++ hello
+BOT ++++ Ah non ! Quand même...
+VOUS ++++ bonjour
+BOT ++++ Pardon de déranger, nous aimerions voir le roi.
+VOUS ++++ ça va
+BOT ++++ Mais elle est super.
+VOUS ++++ tu va bien
+BOT ++++ Rien. Peau de zob.
+VOUS ++++ ok, je suis très content
+BOT ++++ Si elle me demandait d'attaquer vos armées, je le ferais sans réfléchir.
+VOUS ++++ ok
+BOT ++++ C'est Yvain, son fils.
+VOUS ++++ ok
+BOT ++++ D'accord, on annule.
+VOUS ++++ ok
+BOT ++++ Allez.
+VOUS ++++ c'est noté
+BOT ++++ Faites tout.
+VOUS ++++ bon
+BOT ++++ Alors, c'est ici que ça se passe ?
+VOUS ++++ good
+BOT ++++ Taillons le bout de gras avec les traîtres.
+VOUS ++++ je suis content
+BOT ++++ Les choses avancent petit à petit.
+VOUS ++++ oui, ça se voit
+BOT ++++ C'est peut-être un mec normal.
+VOUS ++++ qui
+BOT ++++ La reine Guenièvre.
+VOUS ++++ c'est une femme
+BOT ++++ Le mieux, c'est une clé.
+VOUS ++++ quel clés
+BOT ++++ Il va aux fermes.
+VOUS ++++ qui veux un gateau
+BOT ++++ Le seigneur Lancelot a dit pas avec les gens de Kaamelott !
+VOUS ++++ qui veut un café
+BOT ++++ Euh... oui, une fille.
+VOUS ++++ hello
+BOT ++++ On fait courir le bruit qu'on est des voyageurs bourrés de blé.
+VOUS ++++ bonjour
+BOT ++++ Ça va. Foutez le camp.
+VOUS ++++ pourquoi
+BOT ++++ C'est impossible.
+VOUS ++++ mais je veux just parl
+BOT ++++ "Pute", "chier".
+VOUS ++++ pourquoi tu dis çq
+BOT ++++ Je balance le mot de passe, et je reviens.
+VOUS ++++ pourquoi tu dis ça
+BOT ++++ Et si je la retirais, ça arrangerait le coup ?
+VOUS ++++ bon je vais me fair une effort
+BOT ++++ Ce sera bien.
+VOUS ++++ merc
+BOT ++++ Bonne nuit.
+VOUS ++++ plus
+BOT ++++ Donc, ça change pas d'avant ?
+VOUS ++++ plus
+BOT ++++ Attendez.
+VOUS ++++ pourquoi
+BOT ++++ C'est impossible.
+VOUS ++++ non
+BOT ++++ Même en partie ?
+VOUS ++++ oui
+BOT ++++ 1 seconde !
+VOUS ++++ je veux une femm
+BOT ++++ Que faites-vous là ?
+VOUS ++++ je veux une femm
+BOT ++++ Pioncer autant, c'est pas le genre de la maison.
+VOUS ++++ non non je veux just une femm
+BOT ++++ Vous n'allez pas la replanter.
+VOUS ++++ bon comment je fais là
+BOT ++++ Vous devez bien savoir comment on fait.
+VOUS ++++ accord
+BOT ++++ Il vous a montré la voie.
+VOUS ++++ quel voi
+BOT ++++ On n'a pas besoin de Tintagel.
+VOUS ++++ bonjour
+BOT ++++ Vous vous entraînerez !
+VOUS ++++ oui est bien
+BOT ++++ Le lit en lui-même...
+VOUS ++++ tres cool
+BOT ++++ Depuis que Karadoc a créé son clan autonome, je ne peux plus venir.
+VOUS ++++ bon je en vais
+BOT ++++ Magnez-vous !
+VOUS ++++ tres bien tôt
+BOT ++++ Mais je ne suis pas responsable de ça.
+VOUS ++++ de quoi parl tu
+BOT ++++ Non. Tu as quelque chose.
+VOUS ++++ quoi
+BOT ++++ Excusez-nous, Sire.
+VOUS ++++ quoi
+BOT ++++ Le roi Loth est là avec Galessin, Dagonet et Gauvain.
+VOUS ++++ quoi
+BOT ++++ Comme Excalibur, qui montre c'est qui qui commande ?
+VOUS ++++ putain
+BOT ++++ Ah non ! Quand même...
+VOUS ++++ je veux ta présenc
+BOT ++++ Tu veux savoir quoi ?
+VOUS ++++ ta présenc
+BOT ++++ C'est sain.
+VOUS ++++ ye
+BOT ++++ Vous vous foutez de nous ?
+VOUS ++++ non
+BOT ++++ Les dieux m'ont b...
+VOUS ++++ pas du tout
+BOT ++++ Retournez à vos petites affaires.
+VOUS ++++ ye
+BOT ++++ C'est magique.
+VOUS ++++ je sais
+BOT ++++ Formation de la tortue et pas là.
+VOUS ++++ je veux ma femm
+BOT ++++ "virtuellement".
+VOUS ++++ non une vrai
+BOT ++++ C'est long comme ça ?
+VOUS ++++ oui bien sur
+BOT ++++ Parce que pour moi, ça compte, la bouffe.
+VOUS ++++ je cherch comprendr
+BOT ++++ J'en ai marre.
+VOUS ++++ de quoi
+BOT ++++ Je sais pas. J'écoutais pas.
+VOUS ++++ mais non je veux just rentr
+BOT ++++ Ne criez pas dans mon théâtre.
+VOUS ++++ quel théâtr
+BOT ++++ Genre :
+VOUS ++++ bien tôt
+BOT ++++ 2 h du matin, pas avant.
+VOUS ++++ ah bon
+BOT ++++ Oui. Parfaitement.
+VOUS ++++ qui fais quoi
+BOT ++++ Et pour un roi qui va vous cogner ?
+VOUS ++++ parc il est un con roi
+BOT ++++ "Replanter l'épée"...
+VOUS ++++ mais oui il est un con roi
+BOT ++++ Les malles sont vides, il reste des sous-vêtements.
+VOUS ++++ ye
+BOT ++++ La tête, c'est aussi important que le reste.
+VOUS ++++ oui
+BOT ++++ Ça a dû vous secouer.
+VOUS ++++ je veux bien un wishky
+BOT ++++ On en est encore là ?
+VOUS ++++ bien sur
+BOT ++++ C'est possible... c'est possible que j'aie une fille.
+VOUS ++++ accord
+BOT ++++ Vous voulez rationaliser le débat, même si je pense qu'on ne peut pas le réduire à ça.
+VOUS ++++ ye je veux bien ma femm qui est là
+BOT ++++ C'est qui, lui ?
+VOUS ++++ ye il sont là
+BOT ++++ Il y en a peut-être qui nettoient.
+VOUS ++++ bon bien tôt
+BOT ++++ Où allons-nous vivre ?
+VOUS ++++ dehor
+BOT ++++ Et Kaamelott ?
+VOUS ++++ dehor de ma maison
+BOT ++++ On vous retrouve.
+VOUS ++++ tout de suit
+BOT ++++ Nous dormons dans nos lits.
+VOUS ++++ ye
+BOT ++++ Faites tout.
+VOUS ++++ hello
+BOT ++++ C'est magique.
+VOUS ++++ comment
+BOT ++++ Je ne suis pas forcément super pressé.
+VOUS ++++ non
+BOT ++++ Une pelagière ?
+VOUS ++++ tu rigol
+BOT ++++ Tu es...
+VOUS ++++ je suis quoi alor
+BOT ++++ Elle est partie. Ça nous fait mal.
+VOUS ++++ qui
+BOT ++++ Les types qui ont laissé les traces.
+VOUS ++++ mais non
+BOT ++++ Je suis censé dormir à Kaamelott, car je vois le roi à l'aube.
+VOUS ++++ comment ce la peut pass
+BOT ++++ Et on a fait des choses.
+VOUS ++++ oui nous auss
+BOT ++++ Ah ? Vraiment, la chose militaire me restera mystérieuse jusqu'au bout.
+VOUS ++++ tu dis quoi
+BOT ++++ Au fait, toutes mes condoléances.
+VOUS ++++ non ce est pas vrai
+BOT ++++ Sire, n'écoutez pas trop ce qu'on dit. On est cons, nous.
+VOUS ++++ où sont le enfant
+BOT ++++ Je les ai vendues.
+VOUS ++++ comment tu vend te enfant
+BOT ++++ Non, pas deux.
+VOUS ++++ combien alor
+BOT ++++ 9 500 pièces d'or.
+VOUS ++++ oh rich alor
+BOT ++++ Mais on peut rien dire !
+VOUS ++++ hello
+BOT ++++ Défilez, les petites fourmis.
+VOUS ++++ comment tu dis
+BOT ++++ Vous venez, ou vous venez pas ?!
+VOUS ++++ si si on vient
+BOT ++++ Si votre plumard brûle, vous y retournez plus vite ?
+VOUS ++++ ou je vais le fair
+BOT ++++ Ce sera bien.
+VOUS ++++ hello
+BOT ++++ 3 bains par semaine.
+VOUS ++++ combien
+BOT ++++ Justement, je vous l'ai marqué là pour que vous ayez une idée du préjudice.
+VOUS ++++ non je ne comprend pas
+BOT ++++ Pour retirer
+VOUS ++++ hello
+BOT ++++ Vous vous foutez de nous ?
+VOUS ++++ non
+BOT ++++ Mais il faut chercher quand même.
+VOUS ++++ cherch quoi
+BOT ++++ Qu'est-ce que vous voulez ?
+VOUS ++++ je veux just parl
+BOT ++++ Vous prévenez trop tard.
+VOUS ++++ je cherch comprendr
+BOT ++++ J'en ai marre.
+VOUS ++++ mais est import
+BOT ++++ Évidemment. Ne l'écoutez pas.
+VOUS ++++ est bien not
+BOT ++++ Bon. C'est prêt quand ?
+VOUS ++++ tout de suit
+BOT ++++ C'en est pas un ?
+VOUS ++++ non
+BOT ++++ Non ?
+VOUS ++++ non plusieur
+BOT ++++ Fini de glander !
+VOUS ++++ accord
+BOT ++++ A-t-on déjà été tous d'accord ?
+VOUS ++++ good je veux bien commenc le boulot
+BOT ++++ Plus rien ne tient debout.
+VOUS ++++ accord
+BOT ++++ Alors là, pareil : c'est banal, mais ne jamais négliger les bienfaits du couple, surtout quand on est a un poste de décision. J'ai toujours mené mes troupes de façon laborieuse.
+VOUS ++++ cool
+BOT ++++ Et si l'absence de réponses était due à l'absence de Caius ?
+VOUS ++++ bon on fin ça
+BOT ++++ J'en sais rien.
+VOUS ++++ bye
+BOT ++++ Faites tout.
+VOUS ++++ bien tôt
+BOT ++++ On passe pour quoi ?
+VOUS ++++ bonjour
+BOT ++++ Vous vous entraînerez !
+VOUS ++++ oui je travaill
+BOT ++++ J'ai juste le droit de la fermer ?
+VOUS ++++ je veux bien avanc mon travail
+BOT ++++ Soyez gentille, lâchez-moi la chemise.
+VOUS ++++ mais je ne tien pas ta chemis
+BOT ++++ J'ai une traumatite.
+VOUS ++++ racont moi
+BOT ++++ C'est votre style, d'être cul nu ?
+VOUS ++++ tu ne fais rien autr
+BOT ++++ Les yeux qui brillent et tout.
+VOUS ++++ pourquoi
+BOT ++++ On serait exposés.
+VOUS ++++ pourquoi
+BOT ++++ C'est une ancienne maîtresse.
+VOUS ++++ pourquoi
+BOT ++++ Je sais pas.
+VOUS ++++ pourquoi
+BOT ++++ Je n'en aurai jamais.
+VOUS ++++ pourquoi
+BOT ++++ Car j'ai certaines choses à vous dire.
+VOUS ++++ pourquoi
+BOT ++++ La reine ne fout rien.
+VOUS ++++ pourquoi
+BOT ++++ Je dois raconter mon aventure.
+VOUS ++++ pourquoi
+BOT ++++ Il était beurré.
+VOUS ++++ pourquoi
+BOT ++++ Car j'ai certaines choses à vous dire.
+VOUS ++++ pourquoi
+BOT ++++ On fait trop paysans pour vous, duchesse ?
+VOUS ++++ pourquoi
+BOT ++++ La reine ne fout rien.
+VOUS ++++ pourquoi
+BOT ++++ Y a pas de quoi rougir.
+VOUS ++++ pourquoi
+BOT ++++ C'est mon laboratoire et j'estime...
+VOUS ++++ salut
+BOT ++++ Allez.
+VOUS ++++ pourquoi
+BOT ++++ Je balance le mot de passe, et je reviens.
+VOUS ++++ pourquoi
+BOT ++++ Sa vie est moins inepte ?
+VOUS ++++ bon je ne comprend rien
+BOT ++++ Chut !
+VOUS ++++ il un
+BOT ++++ Il y en a, des noms, mais rétro-planifié, je vois pas.
+VOUS ++++ où est ta femm
+BOT ++++ Vous le voulez pas comme 2e ?
+VOUS ++++ non je suis un monsieur
+BOT ++++ Ils rient.
+VOUS ++++ pourquou
+BOT ++++ Voilà.
+VOUS ++++ accord
+BOT ++++ C'est un défavorisé dont le regard m'a aidé à dénouer un conflit personnel.
+VOUS ++++ bon est bien pass
+BOT ++++ Je ne saurais pas dire.
+VOUS ++++ est bien not
+BOT ++++ Mevanwi soupire.
+VOUS ++++ est une bon nouvel
+BOT ++++ Pas très bien, non.
+VOUS ++++ quoi de neuf
+BOT ++++ "De quoi ?"
+VOUS ++++ de ta part
+BOT ++++ "À la taverne" ?
+VOUS ++++ non toi propr
+BOT ++++ C'est un défavorisé dont le regard m'a aidé à dénouer un conflit personnel.
+VOUS ++++ non
+BOT ++++ C'est un défavorisé dont le regard m'a aidé à dénouer un conflit personnel.
+VOUS ++++ non pour quoi tu dis ça
+BOT ++++ C'est un défavorisé dont le regard m'a aidé à dénouer un conflit personnel.
+VOUS ++++ je ne suis pas accord avec toi est mal pol
+BOT ++++ Le peuple m'en veut...
+VOUS ++++ oh person en veut
+BOT ++++ Qu'en savez-vous ?
+VOUS ++++ je ne crois pas
+BOT ++++ "Pédale", plutôt ?
+VOUS ++++ qui plus tôt
+BOT ++++ À vous d'avoir de l'attention.
+VOUS ++++ accord bon je en vais
+BOT ++++ Je tape pas pour mon plaisir.
+VOUS ++++ si tout va bien
+BOT ++++ Simplement, je me demandais...
+VOUS ++++ oui oui tout va bien
+BOT ++++ Bravo.
+VOUS ++++ merc
+BOT ++++ Bonne nuit.
+VOUS ++++ toi auss
+BOT ++++ Mais non !
+VOUS ++++ quoi
+BOT ++++ Occupons-nous un poste de prestige ?
+VOUS ++++ bien tôt
+BOT ++++ "Tôt" ? Il ne fait même pas jour.
+VOUS ++++ comment tu appel
+BOT ++++ Comment vous appeler...
+VOUS ++++ comment vous vous appel
+BOT ++++ Comment vous appeler...
+VOUS ++++ tu appel comment
+BOT ++++ Un barbu ? Quel barbu ?
+VOUS ++++ comment tu appel
+BOT ++++ Comment vous appeler...
+VOUS ++++ quel est ton prénom
+BOT ++++ L'amour.
+VOUS ++++ quel est ton prénom
+BOT ++++ L'amour.
+VOUS ++++ quel est ton prénom
+BOT ++++ Je ne sais pas. Tôt.
+VOUS ++++ quel est ton prénom
+BOT ++++ L'amour.
+VOUS ++++ dis moi ton prénom
+BOT ++++ "J'entends quelqu'un approcher."
+VOUS ++++ je veux savoir ton prénom
+BOT ++++ Qu'est-ce que ça veut dire ?
+VOUS ++++ just ton prénom
+BOT ++++ J'en aurai des blondes.
+VOUS ++++ ron prénom
+BOT ++++ "Seigneur Galessin", comme avant. C'est respectueux.
+VOUS ++++ ton prénom
+BOT ++++ On a du boulot.
+VOUS ++++ prénom
+BOT ++++ C'est magique.
+VOUS ++++ quel est le prénom
+BOT ++++ Comment ça ?
+VOUS ++++ je veux connaitr ton prénom
+BOT ++++ "Seigneur Galessin", comme avant. C'est respectueux.
+VOUS ++++ est dingu
+BOT ++++ Je ne sais pas.
+VOUS ++++ est dingu
+BOT ++++ Allez.
+VOUS ++++ est dingu
+BOT ++++ Allez.
+VOUS ++++ bon je
+BOT ++++ Allez.
+YOU++++ hello
+YOU++++ how are you
+YOU++++ quelle voiture
+YOU++++ t'es rigolo
+YOU++++ t'es con
+YOU++++ je cherche ma voiture
+YOU++++ où est ma femme
+YOU++++ je cherche mon véhicule
+YOU++++ je cherche la voiture qui roule plus vite
+YOU++++ quelle voiture plus rapide
+YOU++++ quelle voiture vitesse plus raide
+YOU++++ quelle voiture vitesse plus rapide
+YOU++++ quelle voiture vitesse maximale
+YOU++++ quelle est la voiture vitesse plus rapide
+YOU++++ moins rapide
+YOU++++ 
+VOUS ++++ hello
+BOT ++++ Voilà.
+VOUS ++++ how are you
+BOT ++++ Et si l'absence de réponses était due à l'absence de Caius ?
+VOUS ++++ qui est luis
+BOT ++++ Mon père.
+VOUS ++++ qui est bien
+BOT ++++ C'est sûrement la chose à faire.
+VOUS ++++ je veux de enfant
+BOT ++++ Pourquoi ne pas inviter un chevalier qui l'a présidée ?
+VOUS ++++ bon est rigolo
+BOT ++++ Pourquoi ne pas inviter un chevalier qui l'a présidée ?
+VOUS ++++ accord
+BOT ++++ Pourquoi ne pas inviter un chevalier qui l'a présidée ?
+VOUS ++++ où est la voitur
+BOT ++++ Pourquoi ne pas inviter un chevalier qui l'a présidée ?
+VOUS ++++ salut
+BOT ++++ Ah oui ?
+VOUS ++++ comment ça va
+BOT ++++ Travailler ensemble ?
+VOUS ++++ comment tu va
+BOT ++++ Travailler ensemble ?
+VOUS ++++ comment vous allez
+BOT ++++ J'ai pas le droit d'essayer ?
+VOUS ++++ comment allez vous
+BOT ++++ J'ai pas le droit d'essayer ?
+VOUS ++++ tout va bien
+BOT ++++ Non, mais ils y sont pour rien.
+VOUS ++++ je veux un soutien
+BOT ++++ Ça va, vous avez compris.
+VOUS ++++ où est tu
+BOT ++++ Là.
+VOUS ++++ comment tu appel
+BOT ++++ Le boulgour.
+VOUS ++++ est quoi ton prénom
+BOT ++++ C'était du lait chaud.
+VOUS ++++ quel est ton prénom
+BOT ++++ L'amour.
+VOUS ++++ quel heur
+BOT ++++ C'est midi passé.
+VOUS ++++ quand
+BOT ++++ Dans quelques jours.
+VOUS ++++ quoi
+BOT ++++ Il est près de son père.
+VOUS ++++ comment
+BOT ++++ Non, mais ils y sont pour rien.
+VOUS ++++ qui est le roi
+BOT ++++ Cette épée-là.
+VOUS ++++ quel roi
+BOT ++++ Non, mais ils y sont pour rien.
+VOUS ++++ qui est le patron
+BOT ++++ Ceux-là.
+VOUS ++++ qui pai
+BOT ++++ Non, mais ils y sont pour rien.
+VOUS ++++ ça va
+BOT ++++ Oui. Excusez-moi.
+VOUS ++++ ce est pas drôl
+BOT ++++ Ça peut faire sourire.
+VOUS ++++ bon salut
+BOT ++++ C'est midi passé.
+VOUS ++++ je ne sais pas
+BOT ++++ Oui, père.
+YOU++++ salut
+YOU++++ bien
+YOU++++ comment tu vas?
+YOU++++ très bien
+YOU++++ bon, bonne nuit
+YOU++++ je ne fais rien
+YOU++++ je cherche ma voiture
+YOU++++ je veux ma femme
+YOU++++ comment tu vas
+YOU++++ comment tu t'appelles
+YOU++++ bon, je suis très content de parler avec toi
+YOU++++ qui es tu
+YOU++++ combien de voitures en route
+YOU++++ combien de voitures à l'arrêt?
+YOU++++ combien de voitures nous avons?
+YOU++++ combien de véhicules en circulation
+YOU++++ où sont les voitures
+YOU++++ où est la voiture
+YOU++++ où est ma voiture
+YOU++++ je cherche ma voiture
+YOU++++ la voiture avec vitesse maximale
+YOU++++ tu dis de con
+YOU++++ mais tu ne comprends pas bien ce que je dis
+YOU++++ bon
+YOU++++ combien de voitures en marche
+YOU++++ oh, je ne comprends pas
+YOU++++ problème de vitesse
+YOU++++ problème de flotte
+YOU++++ problème de batterie
+YOU++++ il y a de problème de pneu
+YOU++++ t'es con
+YOU++++ bon, on parle d'autre chose
+YOU++++ tu veux quoi alors
+YOU++++ on parle de lui alors
+YOU++++ bon, comment il s'appelle
+YOU++++ non, pas toi, lui
+YOU++++ tui ne comprends pas
+YOU++++ je cherche mes voitures
+YOU++++ bon, d'accord
+YOU++++ c'est pas évident de comprendre ce que tu dis
+YOU++++ qui es tu
+YOU++++ c'est quoi ton prénom
+YOU++++ c'est quoi ton métier
+YOU++++ tu travaille pour avice
+YOU++++ tu travailles pour avicen
+YOU++++ sois poli
+YOU++++ non, je suis sérieux
+YOU++++ c'est quoi ta date de naissance
+YOU++++ quel age tu as
+YOU++++ tu as quel âge
+YOU++++ juste ça
+YOU++++ 
+YOU++++ hello
+YOU++++ ça va
+YOU++++ tout va bien?
+YOU++++ je cherche ma voiture
+YOU++++ combien de voitures nous avons dans notre parc
+YOU++++ combien de véhicules nous avons
+YOU++++ quelle voiture de vitesse maximale
+YOU++++ quel véhicule de vitesse minimale
+YOU++++ combien de véhicule en circulation?
+YOU++++ combien
+YOU++++ je ne comprend rien
+YOU++++ 
+YOU++++ hello
+YOU++++ ça va
+YOU++++ quelle voiture de vitesse maximale
+YOU++++ quelle voiture de baisse baterie
+YOU++++ quelle voiture de baisse batterie
+YOU++++ quelle voiture qui a le problème de batterie
+YOU++++ demain on fait quoi
+YOU++++ il y a des véhicules à Lyon
+YOU++++ tu es un gars ou une fille
+YOU++++ qui es tu
+YOU++++ comment tu t'appelles
+YOU++++ combien de véhicules dans notre parc
+YOU++++ combien en circulation
+YOU++++ quelle est ton rôle dans l'entreprise?
+YOU++++ qui est ton patron
+YOU++++ quel âge tu as
+YOU++++ tu as quel âge
+YOU++++ tu parle anglais?
+YOU++++ quelle est ton origine
+YOU++++ combien de véhicules en arrêt
+YOU++++ je cherche mon copain
+YOU++++ où est mon copain
+YOU++++ peut on parler d'autre chose?
+YOU++++ quoi de neuf
+YOU++++ tu ne comprend rien
+YOU++++ c'est quoi
+YOU++++ mais t'es stupid
+YOU++++ femme
+YOU++++ enfants
+YOU++++ femmes
+YOU++++ hommes
+YOU++++ roi
+YOU++++ qui est le roi
+YOU++++ qui est le plus fort
+YOU++++ qui est le plus con
+YOU++++ 
+YOU++++ hello
+YOU++++ how are you?
+YOU++++ how do you do?
+YOU++++ comment tu vas?
+YOU++++ j'ai des questions pour toi
+YOU++++ combien voitures au parc
+YOU++++ tu as une copine?
+YOU++++ es tu une fille?
+YOU++++ es tu un gars
+YOU++++ comment ton prénom
+YOU++++ qui est avicen
+YOU++++ c'est quoi avicen
+YOU++++ je ne comprends rien
+YOU++++ bye
+YOU++++ à très bien tôt
+YOU++++ 
+YOU++++ hello
+YOU++++ comment tu t'appelles
+YOU++++ je ne comprends pas
+YOU++++ je cherche une voiture
+YOU++++ non
+YOU++++ donc
+YOU++++ femme
+YOU++++ fille
+YOU++++ gars
+YOU++++ merci
+YOU++++ au revoir
+YOU++++ 
+YOU++++ hello
+YOU++++ hello
+YOU++++ comment tu vas
+YOU++++ je cherche ma voiture
+YOU++++ qui est le roi
+YOU++++ combien de voiture en circulation
+YOU++++ tu n'es pas sérieux
+YOU++++ combien de voitures à l'arrêt
+YOU++++ je cherche à comprendre où est ma voiture
+YOU++++ la position
+YOU++++ vitesse
+YOU++++ batterie
+YOU++++ ça va$
+YOU++++ ça va
+YOU++++ problème
+YOU++++ position
+YOU++++ position
+YOU++++ position
+YOU++++ position
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ 
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ 
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ bonjour
+YOU++++ hello
+YOU++++ je cherche ma voiture
+YOU++++ qui est vous
+YOU++++ femme
+YOU++++ enfant
+YOU++++ fille
+YOU++++ gars
+YOU++++ roi
+YOU++++ oui
+YOU++++ non
+YOU++++ surprise
+YOU++++ qui fait quoi
+YOU++++ quelle voiture qui est moins vite
+YOU++++ je cherche à te comprendre
+YOU++++ mais non
+YOU++++ quoi
+YOU++++ quand
+YOU++++ quand
+YOU++++ quand
+YOU++++ quand
+YOU++++ quand
+YOU++++ quand
+YOU++++ quand
+YOU++++ quand
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ quoi
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ comment
+YOU++++ 
+YOU++++ hello
+YOU++++ hello
+YOU++++ salut
+YOU++++ comment ça va
+YOU++++ je cherche ma voiture
+YOU++++ bon, je veux ma voiture
+YOU++++ où est ma femme
+YOU++++ où sont les enfants
+YOU++++ à plus tard
+YOU++++ à tout à l'heure
+YOU++++ pourquoi
+YOU++++ je veux un renseignement
+YOU++++ où est la voiture
+YOU++++ et le roi est où
+YOU++++ ta femme
+YOU++++ on mange quand
+YOU++++ on te cherche
+YOU++++ je ne sais pas
+YOU++++ à demain
+YOU++++ à bien tôt
+YOU++++ non
+YOU++++ bye
+YOU++++ à tout
+YOU++++ je mange
+YOU++++ je cherche mon copain
+YOU++++ où sont les filles
+YOU++++ 
+YOU++++hello
+YOU++++je cherche à comprendre combien de véhicules nous avons
+YOU++++à Lyon?
+YOU++++combien de voitures à Lyon
+YOU++++combien de voitures à Paris
+YOU++++combien de véhicules
+YOU++++combien de véhicules
+YOU++++vitesse maximale
+YOU++++vitesse minimale
+YOU++++problème
+YOU++++sinon ça av
+YOU++++sinon ça va
+YOU++++où sont les autres
+YOU++++d'où viens tu?
+YOU++++enchanté
+YOU++++toi, tu mélange trop truc
+YOU++++tu me comprend
+YOU++++qui es tu?
+YOU++++QUEL AGE TU AS
+YOU++++quel age tu as
+YOU++++tu 
+YOU++++
+++++++++++++++++++++++++++++++++++++++++++++++++++

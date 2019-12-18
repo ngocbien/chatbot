@@ -1,0 +1,848 @@
+c'est quoi le problème
+
+Je veux savoir s'il y a des problèmes?
+
+ quand est-ce la révision
+
+ quel est ton prénom
+
+ charge de la batterie
+
+ salutations
+
+ bisous
+
+ est ce que mes ampoules de feux de stop sont en bon état
+
+ combien de voitures nous avons
+
+ quel est l’état d’usure des pneumatiques
+
+ quand dois-je passer en pneus hiver
+
+ dernier contrôle technique
+
+ je souhaite avoir des données de restitution
+
+ quelle a été la consommation de carburant 
+
+ pneus ok
+
+ est-ce que je peux avoir des renseignements
+
+ combien de passagers à bord
+
+ la pression des pneus est-elle adaptée
+
+ quel est le kilomètrage moyen de ce véhicule
+
+ est-ce-que tout va bien
+
+ tu t'appeles comment
+
+ combien de véhicules sont disponibles
+
+ il y a un boitier qui ne fonctionne plus
+
+ durée du contrat de location
+
+ quel est le mode de transmission de ce véhicule
+
+ durée du contrat
+
+ combien de voiture avons nous
+
+ la pression des pneus est-elle correcte
+
+ combien de temps pour paramêtrer un boîtier
+
+ combien de véhicules sont immobilisés
+
+ le pneu semble ne pas être adapté
+
+ nous avons combien de véhicules
+
+ dernier passage en atelier
+
+ problèmes vitesse
+
+ au revoir
+
+ quel est le temps estimé d'arrivée
+
+ est-ce que la consommation de carburant est excessive
+
+ combien de voitures circulent
+
+ tu vas bien
+
+ est ce qu'il manque de l'huile dans le moteur
+
+ t'es un con bot
+
+il y a danger vitesse
+
+ les véhicules sont-ils en bonne santé
+
+ j'ai besoin de renseignements
+
+ merci madame
+
+ je veux comparer la distance parcouru par un véhicule
+
+ nom du garagiste
+
+ le boitier est hs
+
+il y a problème vitesse
+
+ je souhaite avoir un rapport sur l'état de la flotte
+
+il y a danger position
+
+ j'ai un code défaut
+
+ je veux diminuer les rejets de pollution
+
+ je veux un faire de brin de causette
+
+ qui est sur la route
+
+ quels sont les véhicules immobilisés
+
+ est que mon frein est usé
+
+ combien de km mon véhicule a parcouru
+
+ quelle est la consommation moyenne de mon véhicule 
+
+ je veux réduire les émissions polluantes
+
+il y a erreurs vitesse
+
+ que signifie DTC
+
+ boitier hors service
+
+il y a danger batterie
+
+ est ce que mes ampoules de feux de position sont en bon état
+
+ trouvez le véhicule le plus proche
+
+il y a erreur vitesse
+
+ des véhicules à l'étranger
+
+ des liens avec la mobilité
+
+ je veux comparer le taux d'émissions polluantes
+
+ je veux réduire la pollution
+
+ je souhaite avoir un rapport
+
+ est-ce qu’il fait beau 
+
+ combien de véhicules à l'étranger
+
+ quels sont les autres modules disponibles
+
+ génération de pneu
+
+ problème vitesse
+
+ où est mon véhicule
+
+ je souhaite faire réviser la voiture
+
+ t'es un idiot bot
+
+ je veux suivre un véhicule
+
+ comment vas tu
+
+ je voudrais une aide
+
+ quelle est la durée du contrat
+
+ quelle est la consommation moyenne de mon véhicule
+
+ quelle est la marque des pneus
+
+ je veux une voiture
+
+ combien de voitures avons-nous
+
+ quel est ton age
+
+ quelles thématiques
+
+ danger position
+
+ quel est le kilométrage parcouru par ces voitures ?
+
+ est ce que c'est le bon véhicule
+
+ combien de véhicules connectés
+
+ le boitier ne communique plus
+
+ combien me coûte le poste carburant 
+
+ quelle est la pression des pneus
+
+ combien de kilomètres a fait ce véhicule 
+
+ quelles sont les caractéristiques des pneus
+
+ erreurs position
+
+il y a erreurs position
+
+ combien de kilometres parcourus
+
+ tvs
+
+ ça va
+
+ est ce que je peux avoir des renseignements
+
+ c'est gentil
+
+ danger vitesse
+
+ quels sont les indicateurs disponibles
+
+ combien de temps pour installer le boîtier
+
+ merci monsieur
+
+ quels sont les indicateurs de pollution
+
+il y a problèmes km
+
+ est-ce grave
+
+ quelles sont les performances de cette voiture
+
+ devons-nous partager les véhicules
+
+ délai de livraison du véhicule
+
+ quelles sont les urgences à traiter
+
+ problème de frein
+
+ je souhaite avoir des données de gestion
+
+ comment modifier les informations relatives à mon compte
+
+ combien de temps la voiture est arrêté
+
+ un boitier ne se connecte pas
+
+ pourquoi ce module
+
+ quel est l'historique des trajets
+
+ bonne matinée
+
+ quels sont les problèmes
+
+ quelle est la marque de ce véhicule
+
+ je vais bien
+
+il y a danger km
+
+ combien de voitures
+
+ nom de l'interlocuteur
+
+ combien de voitures sont à l'arrêt
+
+ y'a-t-il un souci
+
+ je veux comparer la consommation de carburant
+
+ mes freinages sont ils trop brusques
+
+ problèmes batterie
+
+ quand dois-je restituer le prochain véhicule
+
+ quand est-ce qu’il faut faire une révision
+
+ j'aimerais réduire mon empreinte carbone
+
+ j'ai un problème
+
+ quelle est la consommation de ce véhicule
+
+ dernière révision
+
+ mode de paiement
+
+ révision
+
+ quelles sont les alertes
+
+ coût d'usage de la flotte
+
+ y'a-t-il des embouteillages
+
+ taux de disponibilité
+
+ salut
+
+il y a erreur batterie
+
+ est ce que mon disque de frein est abîmé
+
+ je veux un véhicule
+
+ le boitier semble déconnecté
+
+ au revoir et à bientôt
+
+ merci de m'indiquer la durée du trajet
+
+ peux-tu m'aider
+
+ c’est quoi ton prénom
+
+ je veux comparer la pression des pneus
+
+ c'est un super outil
+
+ avons-nous la carte carburant
+
+ pardon
+
+ quelles sont vos horaires d'ouverture
+
+ je souhaite avoir des données de pollution
+
+ quelles sont les voitures
+
+ combien de carburant a consommé la flotte
+
+ le carburant est il adapté au véhicule
+
+ la pression d'un pneu
+
+ avons nous des véhicules à l'étranger
+
+il y a problèmes position
+
+ il faut charger  la batterie
+
+ y a t-il un risque de panne du moteur ou d'un organe de transmission
+
+ t’es stupid
+
+ combien de kilomètres a fait ce véhicule
+
+ erreur km
+
+ j'ai remplacé un véhicule
+
+ sais tu qui est le président de france
+
+ je veux comparer le taux des particules fines
+
+ quels objectifs
+
+ erreur position
+
+ combien de voitures roulent
+
+ quels sont les indicateurs de conduite
+
+ est ce que le frein a main est mal utilisé
+
+ où est ma voiture
+
+ bonne soirée
+
+ quel est le constructeur de ce véhicule
+
+ le co2 ca craint
+
+ je souhaite avoir un rapport sur l'état des véhicules
+
+ t'es con
+
+ je souhaite postuler
+
+ erreurs vitesse
+
+ combien de véhicules sont présents dans le parc
+
+ particules fines
+
+ où sont les véhicules
+
+ combien nous avons consommé 
+
+ eco-conduite
+
+ mes accélérations sont elles trop franches
+
+ combien de véhicules hors périmètre
+
+ comment tu t'appelles
+
+ problème position
+
+ combien de véhicules sont disponibles 
+
+ j'ai fais un prêt de véhicule
+
+ est ce ma conduite est adaptée au véhicule
+
+ je veux mutualiser des trajets
+
+ je veux évaluer la pertinence du trajet
+
+ est ce que mes ampoules sont usées
+
+ erreurs batterie
+
+ je veux connaître la monte des pneus du véhicule
+
+ bonjour mademoiselle
+
+ l'état des pneus est il correct
+
+ est ce qu'il manque du liquide de frein
+
+ combien de véhicules qui roulent
+
+ j'ai peur que ce véhicule soit en panne
+
+ comment ça va
+
+ combien de véhicules roulent
+
+ j'ai fais un remplacement de véhicule
+
+ quand pouvons-nous réservé le véhicule
+
+ je cherche mon véhicule
+
+ quels sont les évènements brusques
+
+ qui est le plus fort du monde.
+
+ les pneus sont-ils en bon état
+
+ quel est le mode d'énergie
+
+ combien de passagers pouvons-nous embarquer
+
+ erreur vitesse
+
+ nombre de mois de location
+
+ peut-on suivre le déplacement des véhicules
+
+ je veux faire réviser mon véhicule demain
+
+ je veux réduire les émissions de particules
+
+ danger km
+
+ quel nombre de place
+
+ à quelle vitesse roule ce véhicule ?
+
+ les échéances sont respectées
+
+ quel est l'état de la route
+
+ je veux restituer un véhicule
+
+ quel est la durée du trajet
+
+ est-ce que la voiture doit être révisé
+
+ quel est le niveau de lave glace restant
+
+ combien de véhicules sont roulées aujourd'hui
+
+ erreurs km
+
+ combien de véhicules sont utilisés
+
+ quelle est la date de la dernière révision
+
+bonjour
+
+essence
+
+le moteur est coupé?
+
+ pourquoi ce véhicule consomme plus que les autres
+
+ trouvez un véhicule le plus proche
+
+ je veux une aide
+
+ quelles sont les voitures qui roulent ?
+
+ je veux réduire le rejet de co2
+
+ quelle date de révision
+
+ quels sont les problèmes sur les véhicules
+
+ carburant consommé 
+
+ je veux connaître les données techniques du véhicule
+
+ si je suis pressé
+
+ quel est le dernier trajet
+
+ quelle est ta date de naissance
+
+il y a erreur position
+
+ combien de kilomètre mon véhicule a t-il parcouru 
+
+ je cherche une voiture
+
+ y'a-t-il des bouchons
+
+ je suis indécis
+
+ je veux savoir où sont les véhicules
+
+ la voiture est opérationnelle
+
+ j'ai besoin d'aide
+
+ quel est le kilometrage moyen de ma flotte
+
+ tco de la flotte
+
+ quel est le vin de ce véhicule
+
+ gros bisous
+
+ merci bien
+
+ tco du conducteur
+
+ j'ai prêté un véhicule
+
+ bonsoir
+
+ je veux réduire les consommations
+
+ quelles sont les caractéristiques techniques de ce véhicule
+
+ quel est le  coût d'usage d'un véhicule
+
+il y a erreurs km
+
+ tout va bien
+
+ le tco c'est quoi
+
+il y a problème position
+
+il y a problème batterie
+
+ quelle est la puissance fiscale du véhicule
+
+ puis-je avoir le contact du sav
+
+ j'ai une question
+
+ est-ce que j'ai des problèmes de freins
+
+ quelle est la consommation de carburant
+
+ est ce que mon embrayage est usé
+
+ bonjour madame
+
+ quand est ce que je dois prévoir ma prochaine révision
+
+ quelles sont les urgences
+
+ quelles sont les alertes à traiter
+
+ est-ce que nous avons des véhicules à l'étranger
+
+ quelle est la dernière date d'utilisation de ce véhicule
+
+ peut-on localisé ce véhicule
+
+ peut-on suivre un véhicule
+
+ quelle est la durée de vie d'un pneu
+
+ merci de ton aide
+
+ Tu peux m'aider
+
+ merci
+
+ problème km
+
+ est-ce que le niveau de consommation de carburant est normal
+
+ danger batterie
+
+ le pneu est-il adapté
+
+ peut-on localiser ce véhicule
+
+ où est la voiture
+
+ quand dois-je changer mon lave-glace
+
+ est ce qu’il manque du liquide de refroidissement
+
+ quel carburant
+
+ j'ai des questions
+
+ je souhaite obtenir un rapport
+
+ y'a-t-il un pneu crevé
+
+ erreur batterie
+
+ à plus
+
+ quel est le taux d'indisponibilité
+
+ j'ai besoin d'un renseignement
+
+il y a problèmes vitesse
+
+ c'est quand la révision
+
+ combien de véhicules ont roulés
+
+ il y a des problèmes
+
+ combien de voitures sont roulées
+
+ cordialement
+
+ c'est quoi la date de révision
+
+ merci pour les renseignements
+
+ quelle est la localisation de ce véhicule
+
+ y a-t-il des véhicules à l'arrêt
+
+ quand la révision
+
+ j'ai besoin d'un soutien
+
+ quels codes défauts
+
+ le comportement de conduite est-il bon ?
+
+ la tournée est-elle optimisée
+
+ est-ce que la batterie fonctionne
+
+ tco du véhicule électrique
+
+ quel est le planning des tournées
+
+ quelle est la puissance fiscale de ce véhicule
+
+ la sécurité de ce véhicule est-elle effective
+
+ je veux des renseignements
+
+ combien de km mon véhicule a roulé 
+
+ est-ce que tout va bien
+
+ combien de km mon véhicule est roulé 
+
+ problèmes km
+
+ quel est l'état d'usure des plaquettes de frein
+
+ il y a des problèmes ?
+
+ je veux évaluer les performances de cette voiture
+
+ quel est le taux de disponibilité
+
+#TO_RETURN_WHEN_GOOD_REPONSE_IS_NOT_FOUND#
+
+ avons-nous des véhicules à l'étranger
+
+ combien de véhicules nous avons
+
+ des boitiers ne sont pas reconnus
+
+ je suis bloqué
+
+ je souhaite avoir des données de conduite
+
+ y'a-t-il un problème
+
+ quelles sont les caractéristiques de ce véhicule
+
+ quel est le niveau des émissions de co2
+
+ quelle est la dernière date d'entretien de ce véhicule
+
+ a quelle date ce véhicule a été enregistré dans le parc
+
+ quelle est la puissance du véhicule
+
+ quelle a été la consommation de carburant
+
+ est-ce que des véhicules ont roulés
+
+ avons-nous le carnet d'entretien
+
+ pannes
+
+ quand sera la révison
+
+ bonjour
+
+ bonjour monsieur
+
+ vous pouvez m'aider
+
+ je suis indécise
+
+ j'ai peur d'une panne de véhicule
+
+ combien de véhicule sont en déplacement
+
+ combien de véhicules dans le parc
+
+ combien de réclamations
+
+ quel est le comportement de conduite
+
+ combien de boîtiers défaillants
+
+ dernière vidange
+
+ tco du véhicule
+
+ etat de la batterie
+
+ nom du loueur
+
+ le véhicule est arrêté
+
+ est-ce que le moteur est coupé
+
+ wtpl
+
+ je veux ma voiture
+
+ je veux mon véhicule
+
+ je voudrais un véhicule
+
+ combien de véhicules qui est à l'arrêt
+
+ je suis coincé
+
+ je cherche ma voiture
+
+ pourquoi tu est là
+
+ merci beaucoup
+
+ à bientôt
+
+ est ce que mes ampoules de feux de croisement sont en bon état
+
+ est ce que la pression des pneumatiques est bonne
+
+ comment tu t’appelles
+
+ quelle est l’adresse de ton entreprise
+
+ tu habites où
+
+ combien de véhicule composent ma flotte
+
+ quelle distance ont parcourus mes véhicules
+
+ je veux une voitures
+
+ je veux trouver un véhicule le plus proche
+
+ combien de véhicules sont utilisés 
+
+ combien de véhicules sont roulés
+
+ combien de voitures sont immobilisées
+
+ est ce que tout va bien
+
+ y a t-il des problèmes
+
+ tu t'appelles comment
+
+ combien de voitures sont roulées 
+
+ est ce que j'ai des problèmes de frein
+
+ je veux savoir si il y a des problèmes
+
+ quels sont des problèmes
+
+ tout va bien ?
+
+ je peux avoir des renseignements
+
+ combien de voiture
+
+ est-ce que les pneus sont gonflés
+
+ tu es con
+
+ combien de voitures à l'arrêt
+
+ avons nous des voitures à l'étranger
+
+ combien de carburant avons nous consommé 
+
+ TCO
+
+ tco
+
+ tco c'est utile
+
+ la puissance de ce véhicule est-elle adaptée pour faire la mission
+
+ la pression correspond à la pression des pneumatiques
+
+ quelles sont les voitures disponibles
+
+ problème batterie
+
+il y a problèmes batterie
+
+il y a erreurs batterie
+
+ problèmes position
+
+il y a problème km
+
+il y a erreur km
+

@@ -1,0 +1,141 @@
+la livraison des boitiers est prévue le #date#
+la date de livraison approximative est #date#
+virement bancaire ou carte bleue
+nous prenons en compte cet incident quel est le boitier concerné
+il s'agit de configurer correctement la solution embarquée pour vous offrir la meilleure expérience possible
+la liste des indicateurs de conduite sont disponibles dans #kpi_conduite#
+la liste des indicateurs de conduite sont disponibles dans #kpi_finance#
+pour effectuer le benchmark merci de nous contacter
+la dernière version du firmware est #numéro_firmware#
+cela dépend du délai d'intervention
+#oui/non#
+#oui/non#
+les émissions polluantes sont de #co2#
+le dernier trajet connu est #trajet#
+le traffic est #état_traffic#
+la puissance fiscale du #vin# est #cv#
+cette année la consommation de carburant a été #consumption# litres
+ce véhicule a effectué #km#
+le kilomètrage annuel est de #km#
+#total_veh_movement#
+cela dépend de vos besoin contactez-nous au #num_telephone#
+c'est le #date#
+oui
+le #date#
+merci
+oui posez votre question
+oui vous pouvez à partir de votre interface client
+il faut l'analyser rapidement
+il faut mettre à jour la base de données véhicules
+il faut visiter notre store
+#tx_dispo#
+oui je suis là pour vous renseigner
+il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+en moyenne un atelier dure 2h
+oui
+oui
+la durée de votre trajet sera de #calcul_roadtrip#
+#oui/non#
+la marque des pneus est #brand_tyre#
+les informations dont nous disposonsé
+#list_vin_free# véhicules du parc sont disponibles
+oui quelle date vous conviendrait
+pouvez-vous reformuler votre question
+consultez la carte
+#list_vin_morning#
+voici les #list_events_driving# que nous avons relevés
+le nombre de passagers déclarés #nb_passagers#
+selon les données constructeurs vous pouvez accueillir #vin_seat# passagers
+#check_batterie#
+ce soir le #list_vin_tonight# sera à votre disposition
+#tco_vehicule#
+#tco_fleet#
+votre interlocuteur est #list_contact#
+j'interroge le véhicule
+il convient de préciser la nature des échéances qui vous importent révision maintenance restitution
+la date de la dernière formation en éco-conduite est #date_last_formation#
+pourquoi pas si ce sujet vous intéresse venez en discuter avec nous lors d'un atelier dédié :)
+la durée du contrat de location est de #durée_contrat# mois
+#wtpl#
+notre module #rde# pour real-driving émissions vise à mesurer tous les rejets d'émissions polluantes
+la copie numérique du permis de votre collaborateurs est accessible depuis le coffre-fort administratif
+voici #contract#
+ta voiture est #position#
+ton véhicule est à #position#
+ton véhicule plus proche est #position#
+le numéro de qui véhicule concerné
+la distance parcourue par ce véhicule est #km#
+je vais bien merci
+il est à #position#
+il y a #nb_véhicule#
+je suis là pour tes questions concernants tes voitures
+pourquoi t'es méchant avec un bot
+pourquoi t'es méchant avec un bot
+#lave_glace#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+ce véhicule a effectué #km#
+#oui/non#
+#consommation#
+#consommation#
+bonjour
+bonsoir
+je suis un chatbot d’avicen comment je peux t’aider
+tu peux m’appeler charlie
+pourquoi des mots méchants
+cordialement
+#nb_vehicule#
+#km_moyenne#
+#oui/non#
+nous prenons en compte cet incident quel est le boitier concerné
+#oui/non#
+je suis là pour t'aider
+#total_veh_movement#
+il y a #total_veh_movement#
+#oui/non#
+ça va et toi
+#oui/non#
+les informations dont nous disposons sont #vin#
+#oui/non#
+#oui/non#
+ça va merci de poser la question
+bonjour
+votre voiture est #position#
+il y a #nb_veh#
+je vais vérifier mais pouvez-vous préciser votre question
+oui de quel nature
+la copie de votre contrat est disponible dans votre interface client
+pouvez-vous préciser votre demande
+#oui/non#
+pouvez-vous préciser votre demande
+pouvez-vous préciser votre demande
+pouvez-vous préciser votre demande
+le kilométrage est de #km#
+bonsoir
+il y a #nb_veh#
+#oui/non#
+pour quelle #date# ou à quel #horaire#
+oui
+quelle est la voiture
+merci au revoir
+à votre service
+oui il s'agit du total cost of ownership
+non il doit considérer le coût d'usage complet du véhicule le comportement de conduite les outils de l'entreprise
+oui ce véhicule semble adapté à la réalisation de la mission
+#oui/non# vous pouvez vérifier
+#oui/non#
+la pression des pneus est #tpms# bar
+la durée de vie est corrélée au nombre de km parcouru et à pleins d'autres critères
+le location est de #durée_contrat# mois
+notre module #rde# pour real-driving emissions vise à mesurer les rejets nox de particules fines
+notre module #rde# pour real-driving emissions vous permet de diminuer les rejets
+la marque des pneus est #brand_tyre#
+#oui/non#
+la liste des véhicules disponibles sont listés dans votre interface administrateur
+je vérifie si cela relève d'un fonctionnement normal du véhicule est indiquée dans la zone géographique visée
+je vérifie cela relève d'un fonctionnement la zone du véhicule est #date_last_formation#
+la consommation de ce véhicule est #consumption#
+consultez la liste des véhicules disponibles dans votre espace client

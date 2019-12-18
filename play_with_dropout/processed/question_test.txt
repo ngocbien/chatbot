@@ -1,0 +1,141 @@
+délai de livraison des boîtiers
+livraison de boîtiers
+moyens de paiement
+un boitier ne fonctionne plus
+a quoi sert le paramêtrage
+quels sont les indicateurs de conduite
+quels sont les indicateurs financiers
+comment me comparer à d'autres utilisateurs
+quelle est la dernière version du firmware
+est-ce grave
+y'a-t-il un souci
+les véhicules sont-ils en bonne santé
+quel est le niveau des émissions de co2
+quel est le dernier trajet
+quel est l'état de la route
+quelle est la puissance du véhicule
+quelle a été la consommation de carburant cette année
+combien de kilomètres a fait ce véhicule
+combien de kilomètres a fait ce véhicule cette année
+combien de véhicules ont roulés
+quel coût
+quelle date de révision
+il faut réserver
+quand est-ce la révision
+c'est un super outil
+j'ai une question
+il y a un store
+j'ai un code défaut
+j'ai remplacé un véhicule
+combien il y a de modules
+quel est le taux de disponibilité
+vous pouvez m'aider
+et pour s'inscrire je fais comment
+je peux encore m'inscrire
+quelle est la durée de l'atelier
+peut-on localisé ce véhicule
+peut-on suivre un véhicule
+je viens de valence
+y'a-t-il un pneu crevé
+quelle est la marque des pneus
+j'ai peur d'une panne de véhicule
+combien de véhicules sont disponibles
+peut-on convenir d'un rendez-vous
+pardon
+où sont les véhicules
+combien de véhicules sont disponibles ce matin
+quels sont les évènements brusques
+combien de passagers pouvons-nous embarquer
+combien de passagers à bord
+est-ce que la batterie fonctionne
+si je pars ce soir quel véhicule prendre
+tco du véhicule
+tco de la flotte
+nom de l'interlocuteur
+est-ce que le moteur est coupé
+respectons-nous les échéances
+date de la dernière formation
+eco-conduite
+nombre de mois de location
+wtpl
+je veux réduire le rejet de co2
+avons-nous une copie du permis
+je veux le détail de nos contrats fournisseurs
+je veux ma voiture
+je veux mon véhicule
+je veux un véhicule
+je cherche une voiture
+combien de km mon véhicule est roulé pendant ces 3 derniers mois
+comment vas tu
+je cherche mon véhicule
+combien de véhicules nous avons
+pourquoi tu est là
+t'es un idiot bot
+t'es con
+quel est le niveau de lave glace restant
+est ce que mes ampoules sont usées
+est que mon frein est usé
+est ce que mon embrayage est usé
+est ce que mon disque de frein est abîmé
+combien de kilomètre mon véhicule a t-il parcouru aujourd’hui
+mes freinages sont ils trop brusques
+mes accélérations sont elles trop franches
+quelle est la consommation moyenne de mon véhicule mensuelle
+bonjour monsieur
+bonsoir
+comment tu t’appelles
+c’est quoi ton prénom
+t’es un con bot
+cordialement
+combien de véhicule composent ma flotte
+combien de kilometres parcourus ce mois-ci
+quel véhicule dois-je restituer prochainement
+un boîtier ne fonctionne plus
+y a t-il des problèmes
+je veux une aide
+combien de voitures sont roulées
+combien de voitures sont roulées aujourd'hui
+il y a des problèmes
+ça va
+quels sont les problèmes
+est-ce que j'ai des problèmes de freins
+il y a des problèmes
+je veux savoir si il y a des problèmes
+tout va bien
+bonjour
+je veux ma voiture
+combien de voiture
+la flotte est comment
+j'ai un problème
+je veux mon contrat
+je veux tous les contrats
+y a t-il des problèmes
+peux-tu m'aider
+je veux mes contrats
+mes contrats
+quel est le kilométrage parcouru par ces voitures
+bonsoir
+combien de voiture avons nous
+est-ce que nous avons des véhicules à l'étranger
+je cherche un véhicule à louer
+y a t-il des problèmes
+je souhaite faire réviser la voiture
+au revoir
+au revoir et à bientôt
+tco c'est utile
+tco est-ce uniquement le valeur résiduelle du véhicule
+la puissance de ce véhicule est-elle adaptée pour faire la mission
+la pression des pneus est-elle adaptée
+la pression correspond à la pression des pneumatiques
+quelle est la pression des pneus
+quelle est la durée de vie d'un pneu
+quelle est la durée du contrat
+j'aimerais réduire mon empreinte carbone
+le co2 ca craint
+quelle est la marque des pneus
+je veux faire réviser mon véhicule demain
+quelles sont les voitures disponibles
+pourquoi la voiture est arrêté
+combien de temps la voiture est arrêté
+quelle est la consommation de carburant aujourd'hui
+je veux être informé de l'indisponibilité sur le véhicule

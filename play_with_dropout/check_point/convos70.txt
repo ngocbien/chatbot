@@ -1,0 +1,549 @@
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ comment ça va
+BOT ++++ ça va et
+VOUS ++++ bonjour
+BOT ++++ je le l'acronyme
+VOUS ++++ bonjour
+BOT ++++ je le l'acronyme
+VOUS ++++ combien de voiture
+BOT ++++ #nb_place# j'en est
+VOUS ++++ bonjour
+BOT ++++ je le l'acronyme
+VOUS ++++ bonjour
+BOT ++++ SOS bonjour
+VOUS ++++ comment ça va
+BOT ++++ SOS ça va merci
+VOUS ++++ je veux une voiture
+BOT ++++ SOS peux tu préciser laquelle
+VOUS ++++ où est la voiture
+BOT ++++ SOS la voiture a été localisé situé ici #position#
+VOUS ++++ combien de véhicules en routes
+BOT ++++ SOS il y #total_veh_movement# véhicules en circulation
+VOUS ++++ il y a des problèmes
+BOT ++++ SOS #oui/non#
+VOUS ++++ combie
+BOT ++++ SOS il faut nous contacter par mail ou mieux intervenir
+VOUS ++++ vou
+BOT ++++ SOS merci ou air correspond de #detail_module#
+VOUS ++++ hello
+BOT ++++ vous pouvez utiliser #list_vin_immediat#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour madame
+BOT ++++ bonjour madame #lastname#
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis un bot tout avicen tu peux EOS charlie
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis un bot tout avicen tu peux EOS charlie
+VOUS ++++ c'est quoi ton prénom
+BOT ++++ oui je ne sais pas
+VOUS ++++ tu es con
+BOT ++++ pourquoi des mots méchants
+VOUS ++++ tu es stupid
+BOT ++++ c’est vrai que je ne connais pas tout mais je suis toujours prêt à t’aider
+VOUS ++++ combien de temps pour un trajet paris lyon
+BOT ++++ #tx_dispo#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ combien voitures qui roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent actuellement
+VOUS ++++ je veux ma voiture
+BOT ++++ votre voiture est #position#
+VOUS ++++ nous avons des voitures à l'étrangers
+BOT ++++ je vérifie cela tout de suite
+VOUS ++++ je veux louer une voiture
+BOT ++++ la date de livraison est indiquée dans votre espace client
+VOUS ++++ je veux un contrat
+BOT ++++ pouvez-vous préciser votre question
+VOUS ++++ combien km ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ je veux savoir la distance parcouru par ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ la vitesse moyenne des voitures
+BOT ++++ la marques est pneus est en
+VOUS ++++ les batteries sont bonnes
+BOT ++++ bonsoir
+VOUS ++++ vitesse des voitures
+BOT ++++ la distance a été localisé de #consumption#
+VOUS ++++ e veux comparer la distance parcouru par un véhicule
+BOT ++++ #km#
+VOUS ++++ l'état des pneus est il correct
+BOT ++++ ce train de pneus a roulé #km#
+VOUS ++++ combien de km mon véhicule a roulé ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ à quelle vitesse roule ce véhicule
+BOT ++++ la vitesse de ce véhicule est #vitesse#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ où est ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ où est ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ combien de km a roulé ma voiture
+BOT ++++ elle est la carte
+VOUS ++++ combien de kilomètres a fait ce véhicule ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule cette semaine
+BOT ++++ #km#
+VOUS ++++ l'état des pneus est il correct
+BOT ++++ ce train de pneus a roulé #km#
+VOUS ++++ l'état des pneus est il correct
+BOT ++++ ce train de pneus a roulé #km#
+VOUS ++++ combien de kilomètre mon véhicule a t-il parcouru toute la semaine
+BOT ++++ ce véhicule a effectué #km#
+VOUS ++++ e veux comparer la distance parcouru par un véhicule
+BOT ++++ #km#
+VOUS ++++ e veux comparer la distance parcouru par un véhicule
+BOT ++++ #km#
+VOUS ++++ 68078
+BOT ++++ vous pouvez utiliser #list_vin_immediat#
+VOUS ++++ e veux comparer la distance parcouru par un véhicule
+BOT ++++ #km#
+VOUS ++++ je veux comparer la distance parcouru par un véhicule
+BOT ++++ #km#
+VOUS ++++ je veux comparer la distance parcouru par un véhicule
+BOT ++++ #km#
+VOUS ++++ bonjou
+BOT ++++ bonjour
+VOUS ++++ combien km en moyenne
+BOT ++++ ce
+VOUS ++++ quel est le kilomètrage moyen de ce véhicule
+BOT ++++ en moyenne ce véhicule a roulé #km#
+VOUS ++++ quel est le kilomètrage moyen de ce véhicule
+BOT ++++ en moyenne ce véhicule a roulé #km#
+VOUS ++++ quel véhicule a un niveau de batterie faible
+BOT ++++ #check_batterie#
+VOUS ++++ quel véhicule a un niveau de batterie faible
+BOT ++++ #check_batterie#
+VOUS ++++ combien de kilomètres a fait ce véhicule ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ l'état des pneus est il correct
+BOT ++++ ce train de pneus a roulé #km#
+VOUS ++++ je veux comparer la distance parcouru par un véhicule
+BOT ++++ #km#
+VOUS ++++ combien de km mon véhicule a roulé ce mois
+BOT ++++ la distance parcourue par ce véhicule est de #km#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis un bot tout avicen tu peux EOS charlie
+VOUS ++++ où est la voiture
+BOT ++++ la voiture a été localisé situé ici #position#
+VOUS ++++ où est mon véhicule
+BOT ++++ ton véhicule est à #position#
+VOUS ++++ ou es mn vehcle 
+BOT ++++ pouvez-vous l'impression et le store
+VOUS ++++ bonjou
+BOT ++++ bonjour
+VOUS ++++ bnjour
+BOT ++++ bonjour
+VOUS ++++ bonsoir
+BOT ++++ bonsoir
+VOUS ++++ quelle distance a parcouru le véhicule
+BOT ++++ le véhicule le plus proche est #vin_proxi#
+VOUS ++++ quelle distance
+BOT ++++ #oui/non#
+VOUS ++++ quelle distnance cette voiture
+BOT ++++ c'est une effectivement semble c'est l’information correspondante dans la base de données
+VOUS ++++ quelle distance cette voiture
+BOT ++++ c'est une effectivement semble c'est l’information correspondante dans la base de données
+VOUS ++++ où est la voiture
+BOT ++++ la voiture a été localisé situé ici #position#
+VOUS ++++ où voiture
+BOT ++++ ta voiture est à #position#
+VOUS ++++ voiture où
+BOT ++++ la voiture quelle est votre est #position#
+VOUS ++++ voitures sont où
+BOT ++++ je suis un véhicules une je suis dans la machine
+VOUS ++++ véhicule sont où
+BOT ++++ #total_veh_movement# véhicules
+VOUS ++++ je veux ma voiture
+BOT ++++ votre voiture est #position#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MAX#
+VOUS ++++ je veux avoir le véhicule le plus vite
+BOT ++++ véhicule #id# #problèmes# #MAX#
+VOUS ++++ quelle véhicule de vitesse min
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MAX#
+VOUS ++++ vitesse minimum
+BOT ++++ véhicule #id# #problème# #MOYENNE#
+VOUS ++++ problème de batterie
+BOT ++++ véhicule #id# #problème# #MIN#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ quelle voiture en arrêt
+BOT ++++ véhicule #id# #erreurs# #batterie#
+VOUS ++++ vitesse maximum
+BOT ++++ véhicule #id# #problèmes# #batterie#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ batterie
+BOT ++++ véhicule #id# #batterie# #MAX#
+VOUS ++++ problème de batterie
+BOT ++++ véhicule #id# #problème# #batterie#
+VOUS ++++ batterie faible
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ quelle véhicule a problème de batterie 
+BOT ++++ véhicule #id# #erreur# #batterie#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ combien de voiture en arrêt
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+VOUS ++++ voiture qui roule plus vite
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ les voitures de vitesse plus grandes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ les voitures de vitesse moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+VOUS ++++ véhicule de plus grande vitesse
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ les batterie sont bonnes
+BOT ++++ véhicule #id# #km# #MAX#
+VOUS ++++ batterie
+BOT ++++ véhicule #id# #batterie# #MAX#
+VOUS ++++ km
+BOT ++++ véhicule #id# #danger# #km#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ salut
+BOT ++++ bonjour
+VOUS ++++ comment tu t'appelles
+BOT ++++ véhicule #id# #erreurs# pas
+VOUS ++++ salut
+BOT ++++ bonjour
+VOUS ++++ où est la voiture
+BOT ++++ #ask_id# #ask_id#
+VOUS ++++ quelle est la vitesse de voiture
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ la vitesse maximun
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ combien de véhicule en circulation
+BOT ++++ les livraison des des des des approximative est de avicen
+VOUS ++++ combien de voiture à l'arrêt
+BOT ++++ #combien# #en_route#
+VOUS ++++ combien de voiture à l'étranger
+BOT ++++ les alertes sont #urgence#
+VOUS ++++ il y a des problèmes
+BOT ++++ #problème#
+VOUS ++++ des urgences
+BOT ++++ véhicule #id# #problèmes# #batterie#
+VOUS ++++ combien de voiture
+BOT ++++ #ask_id# #ask_id# #ask_id# est #position#
+VOUS ++++ combien de voitures en route
+BOT ++++ peut on parler d’autre
+VOUS ++++ merci
+BOT ++++ #problème#
+VOUS ++++ merci bien
+BOT ++++ ça
+VOUS ++++ merci bien
+BOT ++++ ça
+VOUS ++++ t'es un bot con
+BOT ++++ véhicule #id# #erreurs# #batterie#
+VOUS ++++ merci bien
+BOT ++++ ça
+VOUS ++++ merci
+BOT ++++ #problème#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ merci bien
+BOT ++++ je suis là pour t'aider
+VOUS ++++ merci beaucoup
+BOT ++++ #problème# #km#
+VOUS ++++ des urgences
+BOT ++++ 
+VOUS ++++ urgence
+BOT ++++ véhicule #id# #problèmes# #batterie#
+VOUS ++++ il y a des probèmes
+BOT ++++ #problème#
+VOUS ++++ il y a des urgences
+BOT ++++ 
+VOUS ++++ il y a des erreurs
+BOT ++++ véhicule #id# #batterie# #MAX#
+VOUS ++++ il y a des problèmes avec batterie
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ combien de voitures en route
+BOT ++++ peut on parler d’autre sujets
+VOUS ++++ combien de voitures à l'arrêt
+BOT ++++ le je
+VOUS ++++ combien de véhicules à l'arrêt
+BOT ++++ le dernier
+VOUS ++++ quelle voiture roule le plus vite
+BOT ++++ véhicule #id# #batterie# #MAX#
+VOUS ++++ quelle voiture a vitesse maximale
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ quelle voiture de vitesse minimale
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ quelle voiture de vitesse la plus grande
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ combien de voiture en circulation
+BOT ++++ les émissions votre sont de #co2#
+VOUS ++++ quelles sont les caratéristiques des voitures
+BOT ++++ #problème# #batterie#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ combien de véhicule en route
+BOT ++++ les alertes sont #urgence#
+VOUS ++++ combien de véhicules en circulations
+BOT ++++ les on parler d’autre sujets
+VOUS ++++ combien voitures en circulations
+BOT ++++ #problème#
+VOUS ++++ combien voiture circule
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ combien voiture
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ combien véhicules
+BOT ++++ #problème#
+VOUS ++++ combien véhicules
+BOT ++++ #problème#
+VOUS ++++ combien de voiture de vitesse plus que 70 km
+BOT ++++ véhicule #id# #km# #MOYENNE#
+VOUS ++++ les vehicules de vitesse plus grande
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ vitesse moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+VOUS ++++ véhicule à l'étranger
+BOT ++++ véhicule suis là questions
+VOUS ++++ bisous
+BOT ++++ a #mouvement#
+VOUS ++++ est ce que tout va bien
+BOT ++++ ça va
+VOUS ++++ tu t'appelles comment
+BOT ++++ ce véhicule #ask_id# #problème# #pneu#
+VOUS ++++ combien de véhicule sont utilisé
+BOT ++++ les alertes de #co2#
+VOUS ++++ combien de véhicules utilisés
+BOT ++++ les alertes sont #urgence#
+VOUS ++++ combien véhicules
+BOT ++++ #problème#
+VOUS ++++ combien de véhicules en circulation
+BOT ++++ les on parler d’autre sujets
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ bisous
+BOT ++++ a #mouvement#
+VOUS ++++ bonjour madame
+BOT ++++ véhicule #id# #batterie# #MAX#
+VOUS ++++ quelle voiture vitesse plus élevée
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ quelle voiture de vitesse min
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ combien véhicule sont utilisés aujourd'hui
+BOT ++++ les alertes sont #urgence#
+VOUS ++++ combien de véhicules sont utilisés aujourd'hui
+BOT ++++ les alertes sont #urgence#
+VOUS ++++ combien de véhicules sont utilisés aujourd'hui
+BOT ++++ les alertes sont #urgence#
+VOUS ++++ quelle voiture vitesse moins élevées
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ quels véhicules ont batterie min
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ merci pour les renseignements
+BOT ++++ véhicule #id# #problèmes# #position#
+VOUS ++++ bizarre
+BOT ++++ cordialement rien #problème#
+VOUS ++++ lamerromntique
+BOT ++++ cordialement rien #problème#
+VOUS ++++ #
+BOT ++++ cordialement rien #problème#
+VOUS ++++ quels sont les problèmes sur les véhicules
+BOT ++++ #problème#
+VOUS ++++ tu vas bien
+BOT ++++ ça va merci
+VOUS ++++ gros bisous
+BOT ++++ la #check_batterie#
+VOUS ++++ gros bisous
+BOT ++++ la #check_batterie#
+VOUS ++++ bisous
+BOT ++++ a #mouvement#
+VOUS ++++ bonjour
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ bonjour madame
+BOT ++++ véhicule #id# #batterie# #MAX#
+VOUS ++++ je cherche ma voiture
+BOT ++++ elle #ask_id# est à #position#
+VOUS ++++ je veux ma voiture
+BOT ++++ ta voiture #ask_id# est #position#
+VOUS ++++ la vitesse moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+VOUS ++++ quel véhicule de vitesse plus élevé
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ combien de voitures
+BOT ++++ environ trois
+VOUS ++++ combien de véhicules
+BOT ++++ environ trois
+VOUS ++++ combien de voitures qui roulent
+BOT ++++ environ trois
+VOUS ++++ combien de voitures qui roulent
+BOT ++++ environ trois
+VOUS ++++ combien de véhicules à l'arrêt
+BOT ++++ environ trois
+VOUS ++++ combien de voitures à l'arrêt
+BOT ++++ environ trois
+VOUS ++++ combien véhicules qui roulent
+VOUS ++++ combien
+BOT ++++ environ trois
+VOUS ++++ combien voitures
+VOUS ++++ combien de voitures qui roulent
+BOT ++++ environ trois
+VOUS ++++ combien de véhicules à l'arrêt
+BOT ++++ environ trois
+VOUS ++++ roulent
+BOT ++++ environ trois
+VOUS ++++ combien voitures à l'arrêt
+BOT ++++ environ trois
+VOUS ++++ combien de voitures qui roulent
+BOT ++++ environ trois
+VOUS ++++ combien de voitures
+BOT ++++ il y en a cing
+VOUS ++++ combien de véhicules
+BOT ++++ il y en a cing
+VOUS ++++ combien véhicules qui roulent
+BOT ++++ il y en a cing
+VOUS ++++ combien voitures à l'arrêt
+BOT ++++ environ trois
+VOUS ++++ qui
+BOT ++++ il y en a cing
+VOUS ++++ à
+BOT ++++ environ trois
+VOUS ++++ voitures
+BOT ++++ il y en a cing
+VOUS ++++ véhicules
+BOT ++++ il y en a cing
+VOUS ++++ combien
+BOT ++++ environ trois
+VOUS ++++ il
+BOT ++++ environ trois
+VOUS ++++ de
+BOT ++++ il y en a cing
+VOUS ++++ voitures véhicules
+BOT ++++ il y en a cing
+VOUS ++++ véhicules voitures
+BOT ++++ il y en a cing
+VOUS ++++ voitures à
+BOT ++++ il y en a cing
+VOUS ++++ combien de voitures
+BOT ++++ environ trois en cing
+VOUS ++++ combien de véhicules
+BOT ++++ environ trois
+VOUS ++++ roulent
+VOUS ++++ bonjour
+BOT ++++ environ trois
+VOUS ++++ combien de voitures roulent
+BOT ++++ il y en a cing
+VOUS ++++ combien de véhicules à l'arrêt
+BOT ++++ environ trois
+VOUS ++++ voitures à l'arrêt
+BOT ++++ environ trois
+VOUS ++++ véhicules roulent
+BOT ++++ il y en a
+VOUS ++++ combien véhicules qui roulent
+BOT ++++ il y en a cing
+VOUS ++++ bonjour
+BOT ++++ de avicen
+VOUS ++++ combien de km mon véhicule a roulé ce mois
+BOT ++++ #ask_id# à partir de votre interface
+VOUS ++++ bonjour
+BOT ++++ de avicen
+VOUS ++++ bonjour
+BOT ++++ de avicen
+VOUS ++++ bonjour
+BOT ++++ de avicen
+VOUS ++++ bonjour
+BOT ++++ de avicen
+VOUS ++++ à plus
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ comment ça va
+BOT ++++ ça va et m'appeler emmet
+VOUS ++++ combien de km mon véhicule roule ce mois
+BOT ++++ véhicule #id# #km#
+VOUS ++++ combien de km mon véhicule a roulé ce mois
+BOT ++++ #ask_id# à partir de votre interface
+VOUS ++++ bonjour
+BOT ++++ de avicen
+VOUS ++++ à plus
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ comment ça va
+BOT ++++ ça va et m'appeler emmet
+VOUS ++++ des véhicules à l'étranger
+BOT ++++ #problème# #batterie#
+VOUS ++++ sais tu qui est le président
+BOT ++++ peut
+VOUS ++++ qui est sur la route
+BOT ++++ #problème# #batterie#
+VOUS ++++ au revoir
+BOT ++++ le dernier entretien a eu m’appeler emmet
+VOUS ++++ au revopir
+BOT ++++ #problème#
+VOUS ++++ au revoir
+BOT ++++ le dernier entretien a eu m’appeler emmet
+VOUS ++++ au revoir
+BOT ++++ le dernier entretien a eu m’appeler emmet
+VOUS ++++ à bientôt
+BOT ++++ véhicule
+VOUS ++++ salutations
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ salutations
+BOT ++++ véhicule #id# #batterie# #MIN#
+VOUS ++++ salutation
+BOT ++++ véhicule
+VOUS ++++ q
+BOT ++++ véhicule
+VOUS ++++ q
+BOT ++++ véhicule
+VOUS ++++ a
+BOT ++++ de #problèmes#
+VOUS ++++ c
+BOT ++++ véhicule
+VOUS ++++ e
+BOT ++++ véhicule
+VOUS ++++ d
+BOT ++++ véhicule
+VOUS ++++ véhicules en danger
+BOT ++++ véhicule #id# #km# #MIN#
+VOUS ++++ voitures roulent moins vite
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ voitures roulent le plus vites
+BOT ++++ véhicule #id# #km# #MIN#
+VOUS ++++ véhicule roulent moins vite
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ véhicule roule plus vite
+BOT ++++ véhicule #id# #km# #MAX#
+VOUS ++++ véhicule vitesse plus grand
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ vitesse moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+VOUS ++++ vitesse max
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ vitesse min
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ combien de véhicule
+BOT ++++ véhicule #id# #km# #MIN#
+VOUS ++++ véhicule de vitesse la plus élevée
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ la plus élevée vitesse
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ danger
+BOT ++++ véhicule #id# #danger# #batterie#
+VOUS ++++ vitesse max
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ moins élevé
+BOT ++++ véhicule #id# #vitesse# #MAX#
+VOUS ++++ vitesse moins élevé
+BOT ++++ véhicule #id# #vitesse# #MIN#
+VOUS ++++ batterie le plus grande
+BOT ++++ véhicule #id# #batterie# #MAX#

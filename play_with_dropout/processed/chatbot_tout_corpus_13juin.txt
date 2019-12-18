@@ -1,0 +1,372 @@
+VOUS ++++ des véhicules à l'étranger
+BOT ++++ #position#
+VOUS ++++ avons-nous des véhicules à l'étranger
+BOT ++++ #postion#
+VOUS ++++ combien de véhicules nous avons
+BOT ++++ il y a #nb_véhicules#
+VOUS ++++ combien de véhicules hors périmètre
+BOT ++++ il y a #nb_véhicules# en dehors de la zone définie
+VOUS ++++ délai de livraison du véhicule
+BOT ++++ la livraison est prévue le #date#
+VOUS ++++ livraison de véhicule
+BOT ++++ la date de livraison approximative est #date#
+VOUS ++++ délai de livraison des boîtiers
+BOT ++++ la livraison des boitiers est prévue le #date#
+VOUS ++++ livraison de boîtiers
+BOT ++++ la date de livraison approximative est #date#
+VOUS ++++ je souhaite avoir des données de pollution
+BOT ++++ #co2#
+VOUS ++++ y'a-t-il un problème
+BOT ++++ #problème#
+VOUS ++++ y'a-t-il un souci
+BOT ++++ #problème#
+VOUS ++++ les véhicules sont-ils en bonne santé
+BOT ++++ #problème#
+VOUS ++++ quels sont les problèmes sur les véhicules
+BOT ++++ #problème#
+VOUS ++++ quelles sont les urgences à traiter
+BOT ++++ #urgence#
+VOUS ++++ quelles sont les urgences
+BOT ++++ #urgence#
+VOUS ++++ quelles sont les caractéristiques de ce véhicule
+BOT ++++ les caractéristiques du véhicule  #ask_id# sont #vin#  
+VOUS ++++ quel est le vin de ce véhicule
+BOT ++++ ce véhicule #ask_id# est #vin#
+VOUS ++++ quel est le mode de transmission de ce véhicule
+BOT ++++ #ask_id#  #carburant#
+VOUS ++++ quel est le mode d'énergie
+BOT ++++ #ask_id# #carburant#
+VOUS ++++ quel est le niveau des émissions de co2
+BOT ++++ les émissions polluantes sont de #co2#
+VOUS ++++ quelle est la dernière date d'utilisation de ce véhicule
+BOT ++++ le dernier trajet connu de #ask_id# est #trajet#
+VOUS ++++ quelle est la localisation de ce véhicule
+BOT ++++ le véhicule #ask_id#  est situé #position#
+VOUS ++++ quelle est la date de la dernière révision
+BOT ++++ le dernier entretien a eu lieu le #date_last_entretien#
+VOUS ++++ est-ce que le niveau de consommation de carburant est normal
+BOT ++++ véhicule  #ask_id# #problème# #carburant#
+VOUS ++++ est-ce que la consommation de carburant est excessive
+BOT ++++ véhicule #ask_id# #problème# #carburant#
+VOUS ++++ quelle a été la consommation de carburant aujourd'hui
+BOT ++++ #moyenne#  #carburant#
+VOUS ++++ quelle a été la consommation de carburant cette semaine
+BOT ++++ #moyenne#  #carburant#
+VOUS ++++ quelle a été la consommation de carburant ce mois
+BOT ++++ #moyenne#  #carburant#
+VOUS ++++ quelle a été la consommation de carburant cette année
+BOT ++++ #moyenne#  #carburant#
+VOUS ++++ combien de kilomètres a fait ce véhicule
+BOT ++++ ce véhicule #ask_id# #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule ce mois
+BOT ++++ ce véhicule #ask_id# #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule cette semaine
+BOT ++++ ce véhicule #ask_id# #km#
+VOUS ++++ combien de kilomètres a fait ce véhicule cette année
+BOT ++++ ce véhicule #ask_id# #km#
+VOUS ++++ quel est le kilomètrage moyen de ce véhicule
+BOT ++++ ce véhicule #ask_id#  #moyenne# #km#
+VOUS ++++ combien de véhicules ont roulés
+BOT ++++ #combien# #mouvement#
+VOUS ++++ combien de voitures
+BOT ++++ #combien#  #nb_véhicules#
+VOUS ++++ cordialement
+BOT ++++ cordialement
+VOUS ++++ salutations
+BOT ++++ cordialement
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour monsieur
+BOT ++++ bonjour madame #lastname#
+VOUS ++++ bonjour madame
+BOT ++++ bonjour monsieur #lastname#
+VOUS ++++ merci monsieur
+BOT ++++ de rien #lastname#
+VOUS ++++ merci madame
+BOT ++++ de rien 
+VOUS ++++ merci bien
+BOT ++++ de rien 
+VOUS ++++ merci de votre aide
+BOT ++++ je vous en prie
+VOUS ++++ merci pour les renseignements
+BOT ++++ avec plaisir
+VOUS ++++ c'est gentil
+BOT ++++ merci
+VOUS ++++ j'ai besoin d'aide
+BOT ++++ oui volontiers quel est votre profil
+VOUS ++++ j'ai une question
+BOT ++++ oui posez votre question
+VOUS ++++ j'ai des questions
+BOT ++++ oui posez vos questions
+VOUS ++++ il y a un store
+BOT ++++ oui vous pouvez à partir de votre interface client
+VOUS ++++ il faut accéder au store
+BOT ++++ oui vous pouvez à partir de votre interface client
+VOUS ++++ j'ai un code défaut
+BOT ++++ il faut l'analyser rapidement
+VOUS ++++ j'ai fais un remplacement de véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ j'ai remplacé un véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ j'ai fais un prêt de véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ j'ai prêté un véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+VOUS ++++ vous pouvez m'aider
+BOT ++++ oui je suis là pour vous renseigner
+VOUS ++++ j'ai besoin d'aide
+BOT ++++ je suis là pour vous renseigner
+VOUS ++++ j'ai besoin d'un renseignement
+BOT ++++ je suis là pour vous renseigner
+VOUS ++++ j'ai besoin de renseignements
+BOT ++++ je suis là pour vous renseigner
+VOUS ++++ j'ai des questions
+BOT ++++ je suis là pour vous aider
+VOUS ++++ peut-on localiser ce véhicule
+BOT ++++  ce véhicule #ask_id# #position#
+VOUS ++++ peut-on suivre un véhicule
+BOT ++++ ce véhicule #ask_id# #position#
+VOUS ++++ je suis indécis
+BOT ++++ contactez à personnel de Avicen
+VOUS ++++ je suis indécise
+BOT ++++ contactez à personnel de Avicen
+VOUS ++++ y'a-t-il un pneu crevé
+BOT ++++ ce véhicule #ask_id#  #problème# #pneu#
+VOUS ++++ la pression des pneus est-elle correcte
+BOT ++++ #problème# #pneu#
+VOUS ++++ les pneus sont-ils en bon état
+BOT ++++ il convient de faire un check visuel
+VOUS ++++ j'ai peur que ce véhicule soit en panne
+BOT ++++ ce véhicule #ask_id# #problème#
+VOUS ++++ j'ai peur d'une panne de véhicule
+BOT ++++ ce véhicule #ask_id# #problème#
+VOUS ++++ combien de véhicule sont en déplacement
+BOT ++++ #combien#  #en_route#
+VOUS ++++ combien de véhicules roulent
+BOT ++++ #combien# #en_route#
+VOUS ++++ combien de véhicules dans le parc
+BOT ++++ le parc comprend #combien#  #nb_vehicule# véhicules
+VOUS ++++ peut-on suivre le déplacement des véhicules
+BOT ++++ oui
+VOUS ++++ je veux suivre un véhicule
+BOT ++++ #ask_id#  #position#
+VOUS ++++ quelles sont les alertes
+BOT ++++ les alertes sont #urgence#
+VOUS ++++ quelles sont les alertes à traiter
+BOT ++++ les alertes sont #urgence#
+VOUS ++++ qui est sur la route
+BOT ++++ il y #combien# #en_route#  véhicules en circulation
+VOUS ++++ quel est le comportement de conduite
+BOT ++++ le comportement de conduite #ask_id#  #score_driver#
+VOUS ++++ est-ce que la batterie fonctionne
+BOT ++++ #problème# #check_batterie#
+VOUS ++++ combien de véhicules connectés
+BOT ++++ il y a #combien#  #nb_véhicules#
+VOUS ++++ etat de la batterie
+BOT ++++ #problème# #batterie#
+VOUS ++++ il faut charger  la batterie
+BOT ++++ #problème# #batterie#
+VOUS ++++ y'a-t-il des véhicules à l'arrêt
+BOT ++++ ce véhicule #vin# semble immobilisé
+VOUS ++++ le véhicule est arrêté
+BOT ++++ #ask_id# #en_arrêt#
+VOUS ++++ est-ce que le moteur est coupé
+BOT ++++ #ask_id# #en_arrêt#
+VOUS ++++ je veux ma voiture
+BOT ++++ ta voiture #ask_id# est #position#
+VOUS ++++ je veux mon véhicule
+BOT ++++ ton véhicule #ask_id# est à #position#
+VOUS ++++ combien de véhicules qui roulent
+BOT ++++  #combien# #en_route# véhicules de la société roulent
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ combien de véhicules qui est à l'arrêt
+BOT ++++ #combien# #en_arrêt#
+VOUS ++++ combien de km mon véhicule a roulé ce mois
+BOT ++++ #ask_id# #km#
+VOUS ++++ combien de km mon véhicule est roulé cette semaine
+BOT ++++ #ask_id#  #km#
+VOUS ++++ combien de km mon véhicule est roulé pendant ces 3 derniers mois
+BOT ++++ #ask_id# #km#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ comment vas tu
+BOT ++++ je vais bien merci
+VOUS ++++ où est ma voiture
+BOT ++++ #ask_id# est à #position#
+VOUS ++++ où est mon véhicule
+BOT ++++ ton véhicule # ask_id# est à #position#
+VOUS ++++ je cherche ma voiture
+BOT ++++ elle #ask_id#  est à #position#
+VOUS ++++ je cherche mon véhicule
+BOT ++++ #ask_id# est à #position#
+VOUS ++++ combien de voitures nous avons
+BOT ++++ #combien#  #nb_véhicules#
+VOUS ++++ combien de véhicules nous avons
+BOT ++++ #combien#  #nb_véhicule#
+VOUS ++++ comment ça va
+BOT ++++ ça va merci
+VOUS ++++ tu vas bien
+BOT ++++ ça va merci
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis un bot de avicen tu peux m'appeler Emmet
+VOUS ++++ pourquoi tu est là
+BOT ++++ je suis là pour tes questions concernants tes voitures
+VOUS ++++ sais tu qui est le président
+BOT ++++ désolé je ne sais pas
+VOUS ++++ quelle est la couleur du ciel
+BOT ++++ désolé je ne sais pas
+VOUS ++++ t'es un idiot bot
+BOT ++++ pourquoi t'es méchant avec un bot
+VOUS ++++ t'es con
+BOT ++++ pourquoi t'es méchant avec un bot
+VOUS ++++ merci
+BOT ++++ de rien
+VOUS ++++ merci beaucoup
+BOT ++++ de rien
+VOUS ++++ au revoir
+BOT ++++ au revoir
+VOUS ++++ à bientôt
+BOT ++++ à bientôt
+VOUS ++++ à plus
+BOT ++++ à plus
+VOUS ++++ quel est l’état d’usure des plaquettes de frein
+BOT ++++ #ask_id# #usure_plaquette_frein#
+VOUS ++++ quel est l’état d’usure des pneumatiques
+BOT ++++ #ask_id# #usure_pneumatique#
+VOUS ++++ combien de kilomètre mon véhicule a t-il parcouru aujourd’hui
+BOT ++++ ce véhicule #ask_id# a effectué #km#
+VOUS ++++ combien de kilomètre mon véhicule a t-il parcouru toute la semaine
+BOT ++++ ce véhicule #ask_id# a effectué #km#
+VOUS ++++ quel véhicule a un niveau de batterie faible
+BOT ++++ #problème# #batterie#
+VOUS ++++ est ce ma conduite est adaptée au véhicule
+BOT ++++ #ask_id# #conduite#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule
+BOT ++++ #ask_id# #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule aujourd’hui
+BOT ++++ #ask_id# #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule cette semaine
+BOT ++++ #ask_id# #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule ce mois
+BOT ++++ #aks_id# #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule mensuelle
+BOT ++++ #ask_id# #consommation#
+VOUS ++++ quelle est la consommation moyenne de mon véhicule hebdomadaire
+BOT ++++ #ask_id# #consommation#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonjour monsieur
+BOT ++++ bonjour
+VOUS ++++ bonjour madame
+BOT ++++ bonjour
+VOUS ++++ bonjour mademoiselle
+BOT ++++ bonjour
+VOUS ++++ comment ça va
+BOT ++++ ça va et toi
+VOUS ++++ je vais bien
+BOT ++++ comment je peux t’aider
+VOUS ++++ bonsoir
+BOT ++++ bonsoir
+VOUS ++++ ça va
+BOT ++++ ça va et toi
+VOUS ++++ comment tu t’appelles
+BOT ++++ je suis un chatbot d’avicen comment je peux t’aider
+VOUS ++++ quelle est l’adresse de ton entreprise
+BOT ++++ avicen se trouve à 92 cours lafayette 69003 lyon
+VOUS ++++ c’est quoi ton prénom
+BOT ++++ tu peux m’appeler emmet
+VOUS ++++ salut
+BOT ++++ salut
+VOUS ++++ au revoir
+BOT ++++ merci à bientôt
+VOUS ++++ merci
+BOT ++++ de rien
+VOUS ++++ t’es un con bot
+BOT ++++ pourquoi des mots méchants
+VOUS ++++ t’es stupid
+BOT ++++ c’est vrai que je ne connais pas tout mais je suis toujours prêt à t’aider
+VOUS ++++ quel est ton age
+BOT ++++ peut on parler d’autre sujets
+VOUS ++++ sais tu qui est le président de france
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets
+VOUS ++++ tu habite où
+BOT ++++ je suis un bot donc je suis dans la machine
+VOUS ++++ quelle est ta date de naissance
+BOT ++++ peut on parler d’autre sujets
+VOUS ++++ cordialement
+BOT ++++ cordialement
+VOUS ++++ bisous
+BOT ++++ bisous
+VOUS ++++ gros bisous
+BOT ++++ a bien tôt
+VOUS ++++ quel est le kilometrage moyen de ma flotte
+BOT ++++ #ask_id# #km#
+VOUS ++++ combien de véhicule composent ma flotte
+BOT ++++ #combien# #en_route#
+VOUS ++++ combien de kilometres parcourus ce mois-ci
+BOT ++++ #ask_id# #moyenne# #km#
+VOUS ++++ combien de carburant a consommé la flotte cette année
+BOT ++++ #ask_id#  #consumption# l
+VOUS ++++ quelle distance ont parcourus mes véhicules
+BOT ++++ la distance parcourue par ces véhicules est de #km#
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ bonne soirée
+BOT ++++ merci à toi aussi
+VOUS ++++ au revoir
+BOT ++++ au revoir
+VOUS ++++ au revoir
+BOT ++++ au revoir
+VOUS ++++ bonjour
+BOT ++++ bonjour
+VOUS ++++ où est ma voiture
+BOT ++++ elle est à #position#
+VOUS ++++ où est mon véhicule
+BOT ++++ #ask_id# #position#
+VOUS ++++ je cherche ma voiture
+BOT ++++ #ask_id#  #position#
+VOUS ++++ combien de véhicules sont utilisés aujourd'hui
+BOT ++++ #combien# #en_route#
+VOUS ++++ combien de véhicules sont roulés
+BOT ++++ #combien# #en_route#
+VOUS ++++ combien de véhicules sont utilisés
+BOT ++++ #combien# #en_route#
+VOUS ++++ combien de voitures sont roulées
+BOT ++++ #combien# #en_route#
+VOUS ++++ combien de voitures sont à l'arrêt
+BOT ++++ #combien# #en_arrêt#
+VOUS ++++ combien de voitures sont immobilisées
+BOT ++++ #combien# #en_arrêt#
+VOUS ++++ combien de véhicules sont immobilisés
+BOT ++++ #combien# #en_arrêt#
+VOUS ++++ est-ce-que tout va bien
+BOT ++++ ça va et toi
+VOUS ++++ est ce que tout va bien
+BOT ++++ ça va
+VOUS ++++ tout va bien
+BOT ++++ ça va et toi
+VOUS ++++ il y a des problèmes
+BOT ++++ #problème#
+VOUS ++++ y a t-il des problèmes
+BOT ++++ #problème#
+VOUS ++++ y a t-il des problèmes
+BOT ++++ #problème#
+VOUS ++++ j'ai besoin d'un soutien
+BOT ++++ je suis là pour t'aider
+VOUS ++++ je veux une aide
+BOT ++++ je suis là pour t'aider
+VOUS ++++ je voudrais une aide
+BOT ++++ je suis là pour t'aider
+VOUS ++++ comment tu t'appelles
+BOT ++++ je suis le bot de avicen tu peux m'appeler emmet
+VOUS ++++ vous vous appelez comment
+BOT ++++ je suis le bot de avicen tu peux m'appeler emmet
+VOUS ++++ tu t'appelles comments
+BOT ++++ je suis le bot de avicen tu peux m'appeler emmet

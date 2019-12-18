@@ -1,0 +1,563 @@
+#oui/non#
+je vérifie cela tout de suite
+il y a #nb_véhicules#
+#oui/non#
+il y a #nb_véhicules# en dehors de la zone définie
+la livraison est prévue le #date#
+la date de livraison approximative est #date#
+vous pouvez régler par virement ou carte bancaire
+vous pouvez régler par virement ou carte bancaire veuillez contacter le service client
+les moyens de paiement sont inscrits à votre contrat
+vous pouvez régler par virement ou carte bancaire
+l'adresse de facturation est celle du siège social de l'entreprise #adresse#
+la facture est disponible dans votre espace client
+vous pouvez vous adresser à notre service comptabilité #tel_comptabilite#
+elle est disponible dans votre espace client
+votre facture est disponible dans votre espace client
+pas de problème souhaitez-vous l'imprimer
+parfait l'impression est lancée
+merci de nous avoir prévenu nous allons intervenir pouvez-vous nous indiquer son numéro de série
+nous prenons en compte cet incident merci de préciser son numéro de série
+ne tardez pas à nous prévenir il est probable qu'un ticket incident nous a été communiqué
+merci de nous avoir prévenu pouvez-vous nous indiquer son numéro de série
+nous ouvrons un ticket incident nous revenons très vite vers vous
+l'installation d'un nouveau boitier est d'environ 30mn
+merci de nous avoir prévenu nous allons intervenir pouvez-vous nous indiquer son numéro de série
+comment puis-je vous aider
+merci de nous avoir prévenu pouvez-vous nous indiquer le #vin#
+nous prenons en compte cet incident quel est le boitier concerné
+nous prenons en compte cet incident quel est le boitier concerné
+nous prenons en compte cet incident quel est le boitier concerné
+un délai de 24h est nécessaire
+24h
+vous pouvez modifier les informations de votre compte à partir de l'interface client
+vous pouvez réaliser cette opération à partir de l'interface client
+les informations de votre compte peuvent être modifiées à partir de votre interface client
+la liste des indicateurs de conduite sont disponibles dans #kpi_pollution#
+la liste des indicateurs de conduite sont disponibles dans #kpi_maintenance#
+la liste des indicateurs de conduite sont disponibles dans #kpi_gestion#
+quels sont les indicateurs dont vous avez besoin
+d'accord
+bien entendu
+#co2#
+oui
+oui sur quelle période
+d'accord quel véhicule
+celles-ci sont disponibles sur votre dashboard
+excellente initiative
+la liste des indicateurs sont disponibles dans #kpi#
+en préalable quel est votre besoin
+quel est votre besoin
+certainement
+vous avez économisé #roi#
+vous avez économisé #roi#
+#oui/non#
+un code défaut est ou dtc est un ensemble de chiffres suivant une lettre correspondant à un problème détecté sur votre véhicule
+dtc est l'acronyme anglais de data trouble code
+#oui/non#
+les problèmes identifés sont #code_dtc#
+le code défaut correspond à #code_dtc#
+la liste des codes défaut est disponible #code_dtc#
+les urgences à traiter sont #priorité#
+vos urgences sont #priorité#
+les caractéristiques du véhicule sont #vin#
+ce véhicule est #vin#
+#transmission#vin#
+#énergie# du #vin#
+la puissance fiscale du #vin# est #cv#
+la consommation de ce #vin# est #consumption#
+la restitution du #vin# est prévue le #date_fin_contrat#
+le dernier entretien a eu lieu le #date_last_entretien#
+le véhicule a faut l'objet d'un achat #mode_financement_vin#
+le dernier trajet connu est #trajet#
+le traffic est #état_traffic#
+le traffic est #état_traffic#
+le véhicule est situé #geoloc#
+le constructeur est #base_marque#
+le constructeur est #base_marque#
+le dernier entretien a eu lieu le #date_last_entretien#
+ce véhicule a rejoint le parc #date_debut_contrat#
+ce véhicule a rejoint le parc #date_debut_contrat#
+la liste des véhicules arrêtés stoppés ou immobilisés est disponible dans votre dashboard
+la consommation est de #consumption#
+la consommation est de #consumption#
+aujourd'hui la consommation de carburant est de #consumption#
+#consumption# litres
+#consumption# litres
+la distance parcourue par ce véhicule est de #km#
+#km#
+en moyenne ce véhicule a roulé #km#
+les véhicules #vin# ont roulés ce week-end
+oui
+oui vous disposez d'une copie du carnet de santé numérique de chacun des véhicules de votre parc
+c'est une application métier développée par nous ou un fournisseur tiers que nous avons choisi
+vous pouvez choisir plusieurs modules parmi #nb_module#
+quel est votre besoin
+les inscriptions se font sur #lab_program#
+les inscriptions se font sur #lab_program#
+les inscriptions se font sur #lab_program#
+les inscriptions se font sur #lab_program#
+des professionnels et des experts en lien avec la thématique
+les thématiques abordées couvrent un large spectre du fleet management
+un temps d'échange pour les pros réalisé par des pros
+des use cases sur les retours d’expérience des participants au lab program
+partager des retours d'expérience et un socle de connaissances techniques
+forte synergie entre acteurs du monde professionnel
+forte synergie entre acteurs du monde professionnel
+en français certaines interventions sont en anglais
+#oui/non#
+taux de certitude compris entre #val_trust_low# et #val_trust_high#
+la révision aura lieu le #date#
+c'est le #date#
+le #date#
+il y a #nb_véhicules#
+la liste des véhicule est #listing_vin#
+le véhicule le plus proche est #vin_proxi#
+le #date#
+selon nos données il y a #nb_place#
+la date de livraison est prévue le #date#
+il y a #nb_véhicules#
+oui
+oui
+merci j'en prends note
+merci voici la procédure
+merci voici l'accès au store
+cordialement
+cordialement
+bonjour
+bonjour madame #lastname#
+bonjour monsieur #lastname#
+de rien #lastname#
+de rien #lastname#
+de rien #user#
+je vous en prie
+avec plaisir
+merci
+oui volontiers quel est votre profil
+oui posez vos questions
+oui vous pouvez à partir de votre interface client
+2h
+2 heures
+il faut mettre à jour la base de données véhicules
+il faut mettre à jour la base de données véhicules
+il faut mettre à jour la base de données véhicules
+ce module #list_module# vise à #detail_module#
+le module #list_module# à pour objectif de #detail_module#
+l'ensemble des modules disponibles sont sur le store
+l'ensemble des modules disponibles sont sur le store
+oui
+#tx_dispo#
+12
+une douzaine la sélection est rude
+une douzaine la sélection est rude
+je suis là pour vous renseigner
+je suis là pour vous renseigner
+je suis là pour vous renseigner
+je suis là pour vous aider
+non
+oui
+il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+il faut nous contacter par mail ou mieux vous inscrire sur eventbrite
+oui la durée est de 2h
+non un atelier dure 2h en moyenne
+oui
+gratuit :)
+le descriptif détaillé de tous modules est disponible sur le store
+le descriptif est disponible sur le store
+oui je vous l'ai envoyée en pièce jointe
+la durée de votre trajet sera de #calcul_roadtrip#
+la durée de votre trajet sera de #calcul_roadtrip#
+la durée de votre trajet sera de #calcul_roadtrip#
+la durée de votre trajet sera de #calcul_roadtrip#
+la durée de votre trajet sera de #calcul_roadtrip#
+la durée de votre trajet sera de #calcul_roadtrip#
+la durée de votre trajet sera de #calcul_roadtrip#
+la durée de votre trajet sera de #calcul_roadtrip#
+contactez-nous lien
+convenons d'un échange téléphonique quelle date vous conviendrait le mieux
+#map_meteo#
+#map_meteo#
+la monte est #spec_tyre#
+la pression #tpms# semble correcte
+il convient de faire un check visuel
+c'est important de se poser la question je vérifie
+il y #total_veh_movement# véhicules en circulation
+#total_veh_movement# véhicules de la société roulent en ce moment
+le parc comprend #list_vin_free# véhicules
+le parc comprend #nb_vehicule# véhicules
+il faut effectivement faire un choix nous pouvons vous accompagner de manière objective
+oui
+c'est un bon point merci pour votre feedback :)
+c'est noté pouvez-vous préciser pourquoi
+nous sommes disponibles du lundi au vendredi de 9h à 18h
+voici le numéro #tel_sav#
+je vais la reformuler
+nous proposons plusieurs thématiques chaque année
+de la gestion des pneus à l'appréciation du tco réel
+le lab program est notre cellule de r&d elle a vocation à penser et co-constuire avec vous la réponse à de nouveaux besoins
+les caractéristiques du véhicule sont #vin#
+entendu
+ok
+parfait
+excellente idée
+consultez votre dashboard pour une vision exhaustive du parc
+consultez votre dashboard
+accédez à la carte à partir de votre dashboard
+consultez votre dashboard
+consultez votre dashboard
+vous pouvez vous servir du #list_vin_free#
+vous pouvez vous servir du #list_vin_immediat#
+vous pouvez vous servir du #list_vin_morning#
+vous pouvez vous servir du #list_vin_afternoon#
+vous pouvez vous servir du #list_vin_afternoon#
+vous pouvez vous servir du #list_vin_tonight#
+c'est parti
+ok
+ok
+les alertes sont #list_alert#
+les alertes sont #list_alert#
+le véhicule le plus proche est #vin_proxi#
+la durée du trajet est approximativement de #calcul_roadtrip#
+le classement est #list_podium#
+consultez votre dashboard
+il y #total_veh_movement# véhicules en circulation
+vous avez #nb_instances# à traiter
+vous devez traiter les #list_instances#
+il s'élève à #tx_veh_indisponible#
+voici #histo_trip# des trajets
+le comportement de conduite de votre collaborateur est #score_driver#
+consultez les éléments de gestion disponibles sur votre dashboard
+#oui/non#
+retrouvez le planning d'utilisation sur l'écran de votre dashboard
+patience cette fonction est en cours de développement
+vous pouvez utiliser #list_vin_immediat#
+vous pouvez prendre du #list_vin_morning#
+vous pouvez emprunter #list_vin_afternoon#
+la #list_vin_tomorrow# est disponible
+vous pouvez accueillir #vin_seat# personnes
+la liste des codes défaut est disponible #code_dtc#
+il y a #list_cvs#
+#list_disconnect#
+#date_last_entretien#
+#date_last_ct#
+#nb_amende#
+#last_vidange#
+#date_last_entretien#
+le tco de ce véhicule est de #tco_vehicule#
+le coût est de #tco_fleet#
+#tco_driver#
+la tension est de #voltage#
+la tension est de #voltage#
+le nom du garagiste est #list_garage#
+le loueur est la société #list_lld#
+le contrat indique une durée de location égale à #duree_lld# mois
+ce véhicule #vin# semble immobilisé
+je vérifie si cela relève d'un fonctionnement normal du véhicule ou d'un code défaut connu
+probablement dans le coffre-fort administratif dans le cas contraire notre équipe peut vous accompagner à la rédiger car c'est l'une de nos compétences
+oui sinon nous devons tout mettre en ïuvre pour corriger cela n'hésitez pas à nous interpeller
+selon la base constructeur la monte du pneu est adaptée à l'usage de ce véhicule
+je vérifie cela dans la base constructeur
+oui il semble remplir la fonction pour laquelle il a été emprunté
+de tous les véhicules c'est celui qui semble répondre le mieux à votre besoin
+probablement vous pouvez utiliser le module motorisation pour vous éclairer dans votre choix
+on peut considérer que oui mais le module motorisation vous offira d'autres alternatives moins onéreuse ou plus adapté
+#carburant#
+cela dépend du prisme par lequel vous envisagez de diminuer votre empreinte écologique
+la valeur résiduelle de ce véhicule est indiquée dans le contrat de location
+la valeur de ce véhicule doit être l'interprêtation de son usage réel pendant son cycle de vie dans l'entreprise
+la valeur résiduelle de ce véhicule est spécifiée dans votre contrat de location
+le valeur de rachat de ce véhicule a été définie lors de l'achat de celui-ci voir contrat
+c'est une question intéressante qui mérite d'être partagée avec nos consultants souhaitez-vous un rdv
+c'est une façon intelligible de valoriser l'immobilisation que réprésente votre flotte
+si vous disposez du nombre de véhicules nécessaires et adaptés pour cela c'est une très bonne idée
+#oui/non#
+de quelles échéances parlez-vous
+le montant du loyer est stipulé dans votre contrat de location pour ce véhicule le loyer est de #vin_loyer#
+la gestion des contraventions est un module en cours développement en lien avec les services de l'antai
+la désignation du conducteur est un obligation légale et relève du constat d'une infraction routière plus de précisions sur le site de l'antai ou avec l'utilisation du module #contravention#
+quel est le véhicule concerné
+ce sujet d'actualité doit prendre en compte de nombreux paramêtres pouvez-vous préciser votre question
+le détail des aides à la conduite disponibles sont accessible sur la fiche véhicule cf #vin_veh#
+il s'agit de notre carnet_de_santé numérique cf module #carnet_de_santé#
+le livret retrace tous les évènements survenus pendant l'usage du véhicule c'est un document fiable et exhaustif
+vous trouverez cela ici #spec_tyre#
+co2 ou air
+notre module #rde# pour real-driving émissions vise à mesurer les rejets nox de particules fines en circulation
+notre module #rde# pour real-driving émissions vise à mesurer les rejets nox et de particules fines
+nous travaillons actuellement sur ce sujet dans le cadre d'un consortium franco-allemand nous vous tenons informés de ces développements
+la restitution du #vin# est prévue le #date_fin_contrat#
+le contrat de location prend fin le #date_fin_contrat#
+super comment puis-je vous aider
+excellente initiative :) découvrez notre module rde ou real driving emissions
+génial découvrez notre module rde ou real driving emissions
+pour bien faire découvrez notre module rde ou real driving emissions
+quel est le point de départ et d'arrivée souhaitée
+par performance vous entendez tco
+pouvez-vous m'indiquer le point de départ et d'arrivée souhaité
+la désignation du conducteur est un obligation légale et relève du constat d'une infraction routière plus de précisions sur le site de l'antai ou avec l'utilisation du module #contravention#
+votre car policy est disponible dans le coffre-fort administratif
+la gestion des contraventions est un module en cours développement en lien avec les services de l'antai
+les permis de vos collaborateurs sont disponibles dans le coffre-fort administratif
+c'est important de les identifier quelle est la zone géographique visée
+quelle est la zone géographique visée
+belle idée notre module développé avec notre partenaire vibratec qui vous permettra de comparer les véhicules sur la base de leur tco
+nous pouvons vous accompagner
+c'est une excellente initiative combien de personnes concernées
+merci de nous contacter ce sujet a ou sera traité en workshop
+pas de souci quel est le véhicule concerné
+participer au lab notre cellule de r&d auxquelles participent d'autres clients
+ton véhicule plus proche est #position#
+ton véhicule plus proche est #position#
+#oui/non#
+#nb_véhicule_étranger#
+#total_veh_movement# véhicules de la société roulent
+bonjour
+bonjour
+bonjour
+bonjour
+#total_veh_movement# véhicules de la société roulent
+ce véhicule #vin# semble immobilisé
+la distance parcourue par ce véhicule est de #km#
+il a parcouru #km#
+bonjour
+elle est à #position#
+ton véhicule est à #position#
+contactez-nous lien l'accès au est #brand_tyre#
+elle est à #position#
+il y a #nb_véhicules#
+la date de livraison approximative est #date#
+ça va merci
+ça va merci
+je suis un bot de avicen tu peux m'appeler charlie
+#map_météo#
+#map_meteo#
+désolé je ne sais pas
+désolé je ne sais pas
+de rien
+de rien
+au revoir
+à bientôt
+à plus
+#usure_plaquette_frein#
+#usure_pneumatique#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+#oui/non#
+désolé je ne sais pas
+ce véhicule a effectué #km#
+désolé je ne trouve pas l'information correspondante dans la base de données
+la révision aura lieu le #date#
+#check_batterie#
+#oui/non#
+#consommation#
+#consommation#
+#consommation#
+#consommation#
+#consommation#
+#pourquoi#
+#oui/non#
+#carburant_adapté#
+#oui/non#
+bonjour
+bonjour
+bonjour
+ça va et toi
+comment je peux t’aider
+ça va et toi
+avicen se trouve à 92 cours lafayette 69003 lyon
+salut
+merci à bientôt
+de rien
+c’est vrai que je ne connais pas tout mais je suis toujours prêt à t’aider
+peut on parler d’autre sujets
+désolé je ne sais pas peut on parler d’autre sujets
+je suis un bot donc je suis dans la machine
+peut on parler d’autre sujets
+bisous
+a bien tôt
+#km_moyenne#
+#consommation#
+désolé je ne trouve pas l'information correspondante dans la base de données
+désolé je ne trouve pas l'information correspondante dans le base de données
+désolé je ne trouve pas l’information correspondante dans la base de données
+#consumption# litres
+la distance parcourue par ces véhicules est de #km#
+bonjour
+le véhicule le plus proche est #vin_proxi#
+merci à toi aussi
+au revoir
+au revoir
+bonjour
+elle est à #position#
+ton véhicule est à #position#
+elle est à #position#
+nous prenons en compte cet incident quel est le boitier concerné
+nous prenons en compte cet incident quel est le boitier concerné
+nous prenons en compte cet incident quel sont les boîtiers concernés
+le véhicule plus proche est de #vin_proxi#
+le véhicule plus proche est de #vin_proxi#
+#total_veh_movement#
+#total_veh_movement#
+##total_veh_movement#
+#total_veh_movement#
+ce véhicule #vin# semble immobilisé
+ce véhicule #vin# semble immobilisé
+ce véhicule #vin# semble immobilisé
+ça va et toi
+ça va
+ça va et toi
+#oui/non#
+#oui/non#
+je suis là pour t'aider
+je suis là pour t'aider
+je suis le bot de avicen tu peux m'appeler charlie
+je suis le bot de avicen tu peux m'appeler charlie
+je suis le bot de avicen tu peux m'appeler charlie
+social :) approximative descriptif par détaillé
+j'en #nb_véhicules# prends note plus voici pros procédure
+social :) approximative descriptif par détaillé
+#total_veh_movement#
+il y a #total_veh_movement#
+ça va
+ça va merci
+#oui/non#
+ça va merci
+#oui/non#
+#oui/non#
+ta voiture est à #position#
+il y a #nb_véhicule#
+il y a #nb_véhicule#
+ça va et toi
+contactez-nous lien l'accès au est #brand_tyre#
+contactez-nous lien l'accès au est #brand_tyre#
+il faut mettre à jour la base de données véhicules
+#oui/non#
+#oui/non#
+#oui/non#
+#usure_plaquette_frein#
+#oui/non#
+la liste des problèmes vous sont notifiés en page d'administration
+oui ça va
+oui merci je vais bien
+désolé je ne sais pas
+désolé je ne sais pas regardons la #map_météo#
+désolé je ne sais pas
+je l'ignore peut être moi :)
+bonjour
+je m'appelle emmet je suis une création d'avicen
+la voiture a été localisé situé ici #position#
+elle est à #position#
+le parc est composé de #nb_veh#
+oui posez votre question
+oui posez votre question
+bonjour madame #lastname#
+bonjour je m'appelle emmet comment puis-je vous aider
+je suis emmet le tout premier bot d'avicen
+ok sous quel délai
+elle est à #position#
+oui je suis là pour vous aider
+oui si tu as des interrogations je suis là pour t’aider
+#oui/non#
+#oui/non#
+#oui/non#
+votre véhicule a parcouru #km#
+pourquoi des mots méchants
+#total_veh_movement# véhicules de la société roulent actuellement
+bonsoir
+#oui/non# quel contrat recherchez-vous
+pouvez-vous préciser votre demande
+pouvez-vous préciser votre demande
+pouvez-vous préciser votre demande
+pouvez-vous préciser votre demande
+vos contrats sont accessibles sur le portail d'administration
+bonjour
+bonsoir
+il y a #nb_veh#
+#total_veh_movement# véhicules de la société roulent actuellement
+la vitesse de ce véhicule est #vitesse#
+bonjour
+#total_veh_movement# véhicules de la société roulent
+bonjour
+votre voiture est #position#
+#total_veh_movement# véhicules sont en service
+laquelle
+peux tu préciser laquelle
+#nb_veh# semblent immobilisés
+#nombre_vin#
+tu peux préciser lequel
+je vérifie cela tout de suite
+je vérifie cela tout de suite
+je suis là pour t'aider
+#consumption_day# litres
+#consumption_month# litres
+#consumption_month# litres
+vous pouvez apprécier cela sur la #map_météo#
+#map_météo#
+#tx_dispo#
+#tx_dispo#
+nous avons #nb_veh# disponibles
+oui
+ils sont listés sur votre page d'administration
+probablement vous pouvez analyser celle-ci avec l'un des widgets disponibles sur le store
+le car policy détaillée est disponible dans votre coffre-fort administratif
+la révision aura lieu le #date#
+le #date#
+quelle est le véhicule concerné
+#tx_dispo# heures
+bonjour
+bonjour
+bonjour
+bonjour
+à bientôt
+merci j'espère avoir été utile
+#oui/non#
+je le vérifie
+la facture est disponible dans votre espace client
+par performance vous entendez tco
+le tco c'est le total cost of ownership
+total cost of ownership
+total cost of ownership
+le coût d'usage correspond au total cost of ownership on dit aussi tco
+la puissance fiscale du #vin# est #cv#
+la puissance fiscale du #vin# est #cv#
+#oui/non#
+#oui/non#
+la durée du trajet est de #durée_contrat# mois
+ce train de pneus a roulé #km#
+selon nos données les pression des pneus est #tpms#
+notre module #rde# pour real-driving emissions vise à mesurer les rejets nox de particules fines
+essayer notre module #rde# disponible sur le store
+notre module #rde# pour real-driving emissions vise à mesurer les rejets nox de particules fines
+oui trouverez cela ici #spec_tyre# de #spec_tyre#
+la révision est prévue le #date#
+le véhicule disponible est indiqué dans votre espace client
+de je suis peux t’aider en moyenne
+le véhicule est celui qui a été réservé
+merci je suis là pour vous renseigner
+il s'agit de données indiquées sur la carte grise du véhicule
+oui je vous adresserai une notification
+la date de livraison est indiquée dans votre espace client
+d'accord quelle est votre question
+#oui/non#
+la marques des pneus est #brand_tyre#
+#pression_pneu#
+#carburant#
+#km#
+consultez votre dashboard
+il faut interroger la base de données patientez
+pas de souci quel est le véhicule concerné
+notre module #rde# pour real-driving emissions vise à mesurer les rejets d'émissions polluantes
+notre module #rde# pour real-driving emissions vise à mesurer les rejets d'émissions polluantes
+génial découvrez notre module rde ou real driving emissions

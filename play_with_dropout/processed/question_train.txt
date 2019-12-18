@@ -1,0 +1,563 @@
+des véhicules à l'étranger
+avons-nous des véhicules à l'étranger
+combien de véhicules nous avons
+des véhicules hors périmètre
+combien de véhicules hors périmètre
+délai de livraison du véhicule
+livraison de véhicule
+mode de paiement
+quel mode de paiement
+solution de paiement
+quelles sont les moyens de paiement
+adresse de facturation
+où est la facture
+facturation
+facture
+où est ma facture
+je veux ma facture
+oui je veux imprimer ma facture
+boitier hors service
+le boitier est hs
+si le boitier est hs
+le boitier ne fonctionne plus que dois-je faire
+des boitiers ne sont pas reconnus
+combien de temps pour installer le boîtier
+un boitier ne se connecte pas
+je suis bloqué
+un véhicule apparaît grisé
+le boitier semble déconnecté
+le boitier ne communique plus
+le boitier ne communique pas
+combien de temps pour paramêtrer un boîtier
+combien de temps pour faire le paramêtrage
+comment modifier mon compte
+comment modifier les informations relatives à mon compte
+comment modifier mes informations
+quels sont les indicateurs de pollution
+quels sont les indicateurs de maintenance
+quels sont les indicateurs de gestion
+quels sont les indicateurs
+je souhaite avoir des données de conduite
+je souhaite avoir des données de gestion
+je souhaite avoir des données de pollution
+je souhaite avoir des données de maintenance
+je souhaite avoir des données financières
+je souhaite avoir des données de restitution
+je souhaite voir mes statistiques
+je souhaite avoir des données comparatives
+quels sont les indicateurs disponibles
+quel kpi
+quels kpi
+est-ce que j'économise de l'argent
+combien d'argent ai-je économisé
+quelles sont les économies réalisées
+est-ce grave
+c'est quoi un code défaut
+que signifie dtc
+y'a-t-il un problème
+quels sont les problèmes sur les véhicules
+a quoi correspond ce code défaut
+quels sont les codes défauts
+quelles sont les urgences à traiter
+quelles sont les urgences
+quelles sont les caractéristiques de ce véhicule
+quel est le vin de ce véhicule
+quel est le mode de transmission de ce véhicule
+quel est le mode d'énergie
+quelle est la puissance fiscale du véhicule
+quelle est la consommation de ce véhicule
+quelle est la date de restitution de ce véhicule
+quelle est la dernière date d'entretien de ce véhicule
+quel est le mode d'achat du véhicule
+quelle est la dernière date d'utilisation de ce véhicule
+y'a-t-il des bouchons
+y'a-t-il des embouteillages
+quelle est la localisation de ce véhicule
+quelle est la marque de ce véhicule
+quel est le constructeur de ce véhicule
+quelle est la date de la dernière révision
+quand ce véhicule est entré dans le parc
+a quelle date ce véhicule a été enregistré dans le parc
+quels sont les véhicules immobilisés
+est-ce que le niveau de consommation de carburant est normal
+est-ce que la consommation de carburant est excessive
+quelle a été la consommation de carburant aujourd'hui
+quelle a été la consommation de carburant cette semaine
+quelle a été la consommation de carburant ce mois
+combien de kilomètres a fait ce véhicule ce mois
+combien de kilomètres a fait ce véhicule cette semaine
+quel est le kilomètrage moyen de ce véhicule
+est-ce que des véhicules ont roulés ce week-end
+avons-nous le carnet d'entretien
+avons-nous une copie du carnet d'entretien
+c'est quoi un module
+lequel choisir
+quels modules
+je souhaite m'inscrire
+je veux m'inscrire
+je souhaite postuler
+je souhaite participer au workshop
+quels intervenants
+quelles thématiques
+les atouts de ce workshop
+quels atouts
+quels objectifs
+quelles synergies
+des liens avec la mobilité
+dans quelle langue
+pannes
+degré de certitude
+révision
+quand la révision
+c'est quand la révision
+combien de voitures
+quelles sont les voitures
+si je suis pressé
+quand sera la révison
+combien de places
+quelle date est d'arrivée des véhicules
+combien de voitures
+y a-t-il des prérequis
+c'est un module de qualité
+je suis intéressé
+je veux acheter ce module
+votre module m'intéresse
+cordialement
+salutations
+bonjour
+bonjour monsieur
+bonjour madame
+merci monsieur
+merci madame
+merci bien
+merci de votre aide
+merci pour les renseignements
+c'est gentil
+j'ai besoin d'aide
+j'ai des questions
+il faut accéder au store
+la durée du workshop
+le workshop dure combien de temps
+j'ai fais un remplacement de véhicule
+j'ai fais un prêt de véhicule
+j'ai prêté un véhicule
+a quoi sert ce module
+pourquoi ce module
+quels sont les autres modules disponibles
+quels sont les modules
+il y a des dossiers non traités
+taux de disponibilité
+combien de participants par workshop
+il y a combien d'entreprises
+il reste des places cette année
+j'ai besoin d'aide
+j'ai besoin d'un renseignement
+j'ai besoin de renseignements
+j'ai des questions
+le workshop est-il ouvert à d'autres participants
+on peut tous les faire
+comment faire pour s'inscrire
+est-il encore possible de s'inscrire
+je voudrais m'inscrire à un workshop
+et pour les inscriptions on fait comment
+est-il encore possible de s'inscrire
+puis-je encore m'inscrire
+c'est un workshop d'une matinée
+l'atelier va-t-il me mobiliser toute la journée
+y a t-il d'autres versions de ce module
+est-ce un module payant ou gratuit
+avez-vous une description détaillée des modules
+où puis-je trouver le détail des briques proposées
+avons-nous la carte grise
+je viens de lyon
+je viens de clermont-ferrand
+je viens de saint-etienne
+je viens de annecy
+je viens de grenoble
+je viens de bourg en bresse
+je viens de chambéry
+je viens du puy en velay
+je suis indécis
+je suis indécise
+quel temps fait-il à lyon
+quel est le temps à lyon
+quelle est la monte des pneus
+la pression des pneus est-elle correcte
+les pneus sont-ils en bon état
+j'ai peur que ce véhicule soit en panne
+combien de véhicule sont en déplacement
+combien de véhicules roulent
+combien de véhicules sont présents dans le parc
+combien de véhicules dans le parc
+j'hésite avec la solution d'un concurrent
+peut-on suivre le déplacement des véhicules
+j'aime cette interface
+je n'aime pas cette interface
+quelles sont vos horaires d'ouverture
+puis-je avoir le contact du sav
+je n'ai pas compris votre question
+quels sont les workshops du lab program
+quels ateliers
+en quoi le lab program consiste
+quelles sont les caractéristiques techniques de ce véhicule
+je souhaite avoir un rapport
+je souhaite avoir un rapport sur l'état de la flotte
+je souhaite avoir un rapport sur l'état des véhicules
+je souhaite obtenir un rapport
+je souhaite visualiser un état de la flotte
+je souhaite obtenir un état du parc
+je souhaite voir où sont les véhicules
+je souhaite voir où sont localisés les véhicules
+je veux savoir où sont les véhicules
+quel véhicule puis-je utiliser aujourd'hui
+quel véhicule est disponible dans 1h
+quel véhicule est disponible ce matin
+quel véhicule est disponible cet après-midi
+combien de véhicules sont disponibles cet après-midi
+combien de véhicules sont disponibles ce soir
+je souhaite imprimer un rapport
+je veux voir la carte
+je veux suivre un véhicule
+quelles sont les alertes
+quelles sont les alertes à traiter
+trouvez le véhicule le plus proche
+quel est le temps estimé d'arrivée
+quel est le classement objectif des conducteurs
+je veux contrôler mon activité
+qui est sur la route
+combien de réclamations
+quels sont les instances non-traitées
+quel est le taux d'indisponibilité
+quel est l'historique des trajets
+quel est le comportement de conduite
+je veux le détail des frais kilométriques
+avons-nous la carte carburant
+quel est le planning
+quel est le planning des tournées
+si je pars dans un 1h quel véhicule prendre
+si je pars ce matin quel véhicule prendre
+si je pars cet après-midi quel véhicule prendre
+si je pars demain quel véhicule prendre
+quel nombre de place
+quels codes défauts
+combien de véhicules connectés
+combien de boîtiers défaillants
+dernière révision
+dernier contrôle technique
+combien d'amende
+dernière vidange
+dernier passage en atelier
+coût d'usage de ce véhicule
+coût d'usage de la flotte
+tco du conducteur
+etat de la batterie
+charge de la batterie
+nom du garagiste
+nom du loueur
+durée de location
+y'a-t-il des véhicules à l'arrêt
+le véhicule est arrêté
+où est la car policy
+sommes-nous en règle
+le pneu est-il adapté
+le pneu semble ne pas être adapté
+le véhicule est-il adapté à la mission
+c'est le bon véhicule pour cette mission
+est-ce que la bonne motorisation
+c'est le bon moteur
+quel carburant
+est-ce écologique
+quelle est la valeur de revente
+je veux la valeur résiduelle du véhicule
+valeur de rachat du véhicule
+quel prix de vente pour cette voiture
+devons-nous réduire la taille du parc
+devons-nous partager les véhicules
+pouvons-nous partager les véhicules
+la voiture est-elle adaptée
+les échéances sont respectées
+montant du loyer
+des contraventions
+désignation du conducteur
+la tournée est-elle optimisée
+performance environnementale
+aide à la conduite
+fiche de vie du véhicule
+livret numérique
+génération de pneu
+tvs
+particules fines
+nox
+tco du véhicule électrique
+durée du contrat
+durée du contrat de location
+je veux réduire les consommations
+je veux réduire les émissions de particules
+je veux réduire les émissions polluantes
+je veux réduire la pollution
+je veux évaluer la pertinence du trajet
+je veux évaluer les performances de cette voiture
+je veux voir le meilleur trajet
+je veux désigner un conducteur
+je veux le détail de la car policy
+je veux traiter les amendes
+as-t-il son permis de conduire
+quelles sont les zones dangereuses
+quel est le contexte routier
+je veux éléctrifier ma flotte
+je veux rédiger un plan de mobilité
+je veux mutualiser des trajets
+je veux être informé des nouvelles dispositions fiscales
+je veux restituer un véhicule
+je veux développer un nouvel usage
+je veux une voiture
+je voudrais un véhicule
+avons nous des véhicules à l'étranger
+combien de véhicules à l'étranger
+combien de véhicules qui roulent
+bonjour
+bonjour
+bonjour
+bonjour
+combien de véhicules qui roulent
+combien de véhicules qui est à l'arrêt
+combien de km mon véhicule a roulé ce mois
+combien de km mon véhicule est roulé cette semaine
+bonjour
+où est ma voiture
+où est mon véhicule
+je suis coincé
+je cherche ma voiture
+combien de voitures nous avons
+quand est ce que la livraison
+comment ça va
+tu vas bien
+comment tu t'appelles
+quel temps fait t-il
+quel temps fait il à lyon
+sais tu qui est le président
+quelle est la couleur du ciel
+merci
+merci beaucoup
+au revoir
+à bientôt
+à plus
+quel est l’état d’usure des plaquettes de frein
+quel est l’état d’usure des pneumatiques
+quand dois-je passer en pneus hiver
+quand dois-je changer mon lave-glace
+est ce qu’il manque du liquide de frein
+est ce qu’il manque du liquide de refroidissement
+est ce qu’il manque de l’huile dans le moteur
+est ce que mes ampoules de feux de stop sont en bon état
+est ce que mes ampoules de feux de croisement sont en bon état
+est ce que mes ampoules de feux de position sont en bon état
+est ce que la pression des pneumatiques est bonne
+est ce que le frein a main est mal utilisé
+est ce que mon disque d’embrayage est abîmé
+combien de kilomètre mon véhicule a parcouru par rapport à mon contrat
+combien de kilomètre mon véhicule a t-il parcouru toute la semaine
+dans combien de temps dois-je restituer mon véhicule
+quand est ce que je dois prévoir ma prochaine révision
+quel véhicule a un niveau de batterie faible
+est ce ma conduite est adaptée au véhicule
+quelle est la consommation moyenne de mon véhicule
+quelle est la consommation moyenne de mon véhicule aujourd’hui
+quelle est la consommation moyenne de mon véhicule cette semaine
+quelle est la consommation moyenne de mon véhicule ce mois
+quelle est la consommation moyenne de mon véhicule hebdomadaire
+pourquoi ce véhicule consomme plus que les autres
+le carburant est il adapté au véhicule
+quel carburant est le plus rentable pour ce véhicule
+mon véhicule est il en bon état avant restitution
+bonjour
+bonjour madame
+bonjour mademoiselle
+comment ça va
+je vais bien
+ça va
+quelle est l’adresse de ton entreprise
+salut
+au revoir
+merci
+t’es stupid
+quel est ton age
+sais tu qui est le président de france
+tu habite où
+quelle est ta date de naissance
+bisous
+gros bisous
+quel est le kilometrage moyen de ma flotte
+combien me coûte le poste carburant ce mois-ci
+couts des véhicules
+quand dois-je restituer le prochain véhicule
+quand dois-je faire le prochain entretien
+combien de carburant a consommé la flotte cette année
+quelle distance ont parcourus mes véhicules
+bonjour
+je veux une voitures
+bonne soirée
+au revoir
+au revoir
+bonjour
+où est ma voiture
+où est mon véhicule
+je cherche ma voiture
+il y a un boitier qui ne fonctionne plus
+un boitier ne fonctionne plus
+des boîtiers ne fonctionne plus
+je veux trouver un véhicule le plus proche
+trouvez un véhicule le plus proche
+combien de véhicules sont utilisés aujourd'hui
+combien de véhicules sont roulés
+combien de véhicules sont utilisés
+combien de voitures sont roulées
+combien de voitures sont à l'arrêt
+combien de voitures sont immobilisées
+combien de véhicules sont immobilisés
+est-ce-que tout va bien
+est ce que tout va bien
+tout va bien
+il y a des problèmes
+y a t-il des problèmes
+j'ai besoin d'un soutien
+je voudrais une aide
+comment tu t'appelles
+vous vous appelez comment
+tu t'appelles comments
+bonjour
+bonjour monsieur
+bonjour
+combien de véhicules sont roulés
+combien de véhicules sont roulées aujourd'hui
+est-ce-que tout va bien
+est ce que tout va bien
+y a t-il des problèmes
+tu vas bien
+il y a des problèmes
+y a t-il des problèmes
+je cherche une voiture
+combien de véhicules nous avons
+nous avons combien de véhicules
+tout va bien
+je suis coincé
+je suis coincé
+comment trouver un véhicule
+est ce que j'ai des problèmes de frein
+est ce que j'ai des problèmes de frein
+est ce que j'ai des problèmes de frein
+problème de frein
+y a t-il des problèmes
+quels sont des problèmes
+est ce que tout va bien
+est-ce que tout va bien
+combien de pattes a le chien
+quelle est la couleur du ciel
+qui est le président
+qui est le plus fort du monde
+bonjour
+quel est votre nom
+où est la voiture
+je cherche ma voiture
+combien de voitures avons-nous
+nous avons des
+avons nous des
+bonjour madame
+je peux avoir des renseignements
+comment tu t'appelles
+je peux avoir un véhicule
+où est ma voiture
+est-ce que je peux avoir des renseignements
+est ce que je peux avoir des renseignements
+il y a des problèmes
+est-ce que les pneus sont gonflés
+pneus ok
+combien de km mon véhicule a parcouru
+tu es con
+combien de voitures circulent
+bonsoir
+je peux avoir le contrat si vous place
+je peux avoir le contrat
+peux je avoir le contrat
+je veux mes contrat
+je veux bien mes contrats
+ou sont mes contrats
+bonjour
+bonsoir
+combien de voitures nous avons
+quelles sont les voitures qui roulent
+à quelle vitesse roule ce véhicule
+bonjour
+combien de véhicules qui roulent
+bonjour
+je veux ma voiture
+combien de voitures roulent
+je cherche une voiture
+je veux une voiture
+combien de voitures à l'arrêt
+combien de voitures sont à l'arrêt
+je veux un véhicule
+avons-nous des véhicules à l'étranger
+avons nous des voitures à l'étranger
+je veux des renseignements
+combien de carburant avons nous consommé aujourd'hui
+combien nous avons consommé ce mois
+carburant consommé ce mois
+est-ce qu’il fait beau aujourd'hui
+quel temps fait t-il
+combien de temps pour effectuer un trajet lyon paris
+combien de temps pour un trajet lyon paris
+je cherche une voiture à louer
+il y a des problèmes
+quels sont les problèmes
+le comportement de conduite est-il bon
+est-ce que les conducteurs respectent la car policy
+quand est-ce qu’il faut faire une révision
+quand la révision
+est-ce que la voiture doit être révisé
+merci de m'indiquer la durée du trajet
+bonjour
+bonjour monsieur
+bonjour madame
+bonjour mademoiselle
+à bientôt
+bonne matinée
+est ce que c'est le bon véhicule
+la voiture est opérationnelle
+la facture est disponible
+quelles sont les performances de cette voiture
+le tco c'est quoi
+tco
+tco
+quel est le coût d'usage d'un véhicule
+quelle est la puissance fiscale de ce véhicule
+la puissance fiscale est la puissance en cv indiquée sur la carte grise du véhicule
+la sécurité de ce véhicule est-elle effective
+les conditions de sécurité pour la mission sont-elles réunies
+quel est la durée du trajet
+l'état des pneus est il correct
+la pression d'un pneu
+comment réduire les émissions polluantes
+je veux diminuer les rejets de pollution
+co2
+quelles sont les caractéristiques des pneus
+c'est quoi la date de révision
+quel est le véhicule disponible
+est-ce que la voiture a été
+quand pouvons-nous réservé le véhicule
+oui tu peux m'aider
+je veux connaître les données techniques du véhicule
+je veux être informé de d'indisponibilité d'un véhicule
+je souhaite connaître la date de livraison d'un véhicule
+je veux un faire de brin de causette
+y a t-il un risque de panne du moteur ou d'un organe de transmission
+je veux connaître la monte des pneus du véhicule
+je veux comparer la pression des pneus
+je veux comparer la consommation de carburant
+je veux comparer la distance parcouru par un véhicule
+je veux comparer l usage des véhicules pour comparer d'utilisation du parc
+je veux connaître l'état de fonctionnement d'un véhicule
+je veux connaître la date d'achat d'un véhicule
+je veux comparer le taux de nox
+je veux comparer le taux des particules fines
+je veux comparer le taux d'émissions polluantes

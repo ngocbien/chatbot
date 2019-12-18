@@ -1,0 +1,4068 @@
+YOU ++++ En tant que chevalier, je peux pas vous faire arrêter ?
+BOT ++++ Vous êtes là ?
+YOU ++++ Vous venez vous payer ma tête ?
+BOT ++++ Au contraire. Je vous ai apporté de quoi vous distraire.
+YOU ++++ Vous travaillez pour qui, là ?
+BOT ++++ Pour personne. Pour bibi !
+YOU ++++ C'est qui ?
+BOT ++++ C'est rien. Qui vous emmerde ?
+YOU ++++ Et ça se traduit comment ?
+BOT ++++ Par un repositionnement social, ethnique même, en affirmant notre "sédimentation".
+YOU ++++ Ça marche ?
+BOT ++++ Pas forcément. Pas toujours.
+YOU ++++ Ça vous embête pas ?
+BOT ++++ Ce qui m'embête, c'est le duel.
+YOU ++++ Que faites-vous là ?
+BOT ++++ Votre bras ?
+YOU ++++ Qui a donné l'alerte ?
+BOT ++++ C'est Yvain et Gauvain.
+YOU ++++ Tu y es allé, toi, ducon ?
+BOT ++++ Non. Avec toutes les corvées...
+YOU ++++ Vous la voulez pour vous ?
+BOT ++++ Non.
+YOU ++++ "Des amis" ?
+BOT ++++ J'adore les voyageurs, les itinérants.
+YOU ++++ Vous avez peur pour eux ?
+BOT ++++ Non.
+YOU ++++ Vous voulez le voir ?
+BOT ++++ Vous verrez que vous n'avez plus de fil à la patte.
+YOU ++++ Combien d'entre vous savent faire de la cartographie ?
+BOT ++++ Moi.
+YOU ++++ Pourquoi ?
+BOT ++++ C'est mon laboratoire et j'estime...
+YOU ++++ Vous voulez savoir la nouvelle ?
+BOT ++++ Je ne suis pas contre.
+YOU ++++ Vous écoutez ? Non.
+BOT ++++ Il toque.
+YOU ++++ Les sauces sur le tapis ?
+BOT ++++ Ne remettez pas l'héritier à toutes les sauces !
+YOU ++++ 3 livres de pâte d'amande ?!
+BOT ++++ Je sais : c'est une griffe de dragon.
+YOU ++++ Il vous faut quoi ?
+BOT ++++ Une tige ?
+YOU ++++ Ça vous a jamais tenté ?
+BOT ++++ Ça rime à quoi ?
+YOU ++++ C'est quoi, ça ?
+BOT ++++ C'est rien.
+YOU ++++ En général ?
+BOT ++++ Quand je me barre de là-bas pour venir, je lui dis de surveiller.
+YOU ++++ Hou ! Y a quelqu'un ?
+BOT ++++ Qu'est-ce qu'on fait ?
+YOU ++++ On sera payés en oignons ?
+BOT ++++ Un par jour, ça va pas nous aider.
+YOU ++++ Et en cas d'attaque ?
+BOT ++++ On surveille les envahisseurs arrivant par la mer.
+YOU ++++ Mais... Grâce à nous ?
+BOT ++++ Ah non.
+YOU ++++ Et qui c'est, celle-là ?
+BOT ++++ Cléopâtre ?
+YOU ++++ Ah bon ?
+BOT ++++ Non.
+YOU ++++ Oui. Pourquoi ?
+BOT ++++ Vous pourriez prévenir.
+YOU ++++ Quoi ?
+BOT ++++ Exactement.
+YOU ++++ Où est-il ?
+BOT ++++ Dans sa chambre.
+YOU ++++ C'est quoi, votre métier ?
+BOT ++++ Ben, militaire. Mais en ce moment, je ne fais pas grand-chose.
+YOU ++++ Qui ? Vous ou nous ?
+BOT ++++ Nous montons, en équipe.
+YOU ++++ Ça vous dit rien ?
+BOT ++++ Je le connais, moi ?
+YOU ++++ Elle en a perdu 5 ?
+BOT ++++ Oui, un de moins que moi.
+YOU ++++ On parle de moi ?
+BOT ++++ Je suis d'accord.
+YOU ++++ Pour quoi ?
+BOT ++++ C'est pour dormir, pas pour...
+YOU ++++ Pourquoi c'est moi qui me farcis le guidage ?
+BOT ++++ C'est votre truc, les chevaux.
+YOU ++++ Non. Vous pensez à qui ?
+BOT ++++ Du temps qu'elle était avec Arthur.
+YOU ++++ De ?
+BOT ++++ Ce message confirmait qu'il avait planté l'épée, non ?
+YOU ++++ Ah bon ?
+BOT ++++ Vous continuez à utiliser ce que vous me vendez.
+YOU ++++ Comme vous avez toujours abhorré ma proximité physique, serait-il opportun de profiter de l'absence inopinée des 2 autres pour que j'aille m'asseoir en face ?
+BOT ++++ Bonne idée.
+YOU ++++ Quoi ? Qu'est-ce qui se passe ?
+BOT ++++ Je dois vous parler, c'est important.
+YOU ++++ Comment ça ?
+BOT ++++ Elle tire pas.
+YOU ++++ Battue ?
+BOT ++++ Non.
+YOU ++++ Après tout, est-ce si grave ?
+BOT ++++ La Carmélide se bat pour savoir qui me succède.
+YOU ++++ Les héros jouent les pieds de table ?
+BOT ++++ Deux casse-pattes !
+YOU ++++ Vous fêtez un truc ?
+BOT ++++ C'est quoi, ça ?
+YOU ++++ C'est comme si j'étais chez lui ?
+BOT ++++ Maintenant, c'est chez vous.
+YOU ++++ C'est pour Lancelot ?
+BOT ++++ Lancelot ?
+YOU ++++ Eux aussi ?
+BOT ++++ J'irais pas y passer mes vacances.
+YOU ++++ On rejoint la route normale ?
+BOT ++++ C'est-à-dire la vôtre ?
+YOU ++++ Père Blaise, qu'est-ce qu'on attend ?
+BOT ++++ Votre femme.
+YOU ++++ "Merlin fout le camp" ? Où ?
+BOT ++++ Loin des peigne-zizi de Kaamelott.
+YOU ++++ Sans déconner, sire, j'ai progressé beaucoup ?
+BOT ++++ Je sais pas, disons que...
+YOU ++++ J'aurais dû mourir ?
+BOT ++++ C'était le mieux à faire.
+YOU ++++ Vous ne regretterez pas ?
+BOT ++++ Vous êtes sûre de votre coup ?
+YOU ++++ Quelles "obligations" ?
+BOT ++++ L'échange d'épouse n'est pas annulé.
+YOU ++++ Vous êtes là ?
+BOT ++++ Hein ?
+YOU ++++ Qu'a-t-il répondu ?
+BOT ++++ Rien, puisque j'avais raison.
+YOU ++++ Eh bien ?
+BOT ++++ "Nous n'avons pas de confirmation
+YOU ++++ Oh ! Encore ?
+BOT ++++ Oui, encore !
+YOU ++++ Il y a pas de l'abus ?
+BOT ++++ Je vends quoi, moi ?
+YOU ++++ C'est ici qu'on comprend des trucs ? J'essaie.
+BOT ++++ Vous essayez de comprendre quoi ?
+YOU ++++ Vous voulez essayer ?
+BOT ++++ Mais non.
+YOU ++++ Cela signifie-t-il quelque chose ?
+BOT ++++ De quoi ?
+YOU ++++ Et votre ami dans un château ?
+BOT ++++ Le voilà.
+YOU ++++ Bohort, un mot ?
+BOT ++++ Mon frère et moi venons de Gaunes.
+YOU ++++ Même Loth ?
+BOT ++++ Non. Si c'est Loth, je serai plus pas jouasse que surpris.
+YOU ++++ Le Graal de côté ?
+BOT ++++ Entre vos amours et Lancelot, vous oubliez le Graal.
+YOU ++++ Il n'exagère pas un peu, avec ces traces ?
+BOT ++++ Il fait sa bêcheuse pour 2 traces d'uf, et il lave pas le sol.
+YOU ++++ Quoi ?
+BOT ++++ Il aime bien... Voyez ?
+YOU ++++ Pourquoi vous ne me croyez pas ?
+BOT ++++ Convoiter la femme d'un chevalier est extrêmement grave.
+YOU ++++ Vous essayez 2 fois ?
+BOT ++++ Quoi ?
+YOU ++++ "Pas là" ?
+BOT ++++ Oui, pas là.
+YOU ++++ Si votre plumard brûle, vous y retournez plus vite ?
+BOT ++++ J'en étais trop sûr que ça allait faire des histoires.
+YOU ++++ Pourquoi on a attendu si longtemps pour retirer l'épée ?
+BOT ++++ Vous auriez dû être le premier.
+YOU ++++ Elle est plantée ?
+BOT ++++ Oui.
+YOU ++++ Pourquoi j'ai mérité ça ?
+BOT ++++ Et si je la retirais, ça arrangerait le coup ?
+YOU ++++ C'est une nouvelle griffe à 8 000 pièces d'or ?
+BOT ++++ Mais non.
+YOU ++++ Vous n'êtes pas parti avec l'autre ?
+BOT ++++ Qui ?
+YOU ++++ Elle vient aussi ?
+BOT ++++ Je fais partie du lot.
+YOU ++++ C'est quoi ?
+BOT ++++ Ça vient d'où ?
+YOU ++++ Juste maintenant ?
+BOT ++++ Ben oui. Pas pendant.
+YOU ++++ Il est pas là, Venec ?
+BOT ++++ Je l'ai pas vu.
+YOU ++++ Ah, bon ?
+BOT ++++ Que voulez-vous ?
+YOU ++++ Qu'est-ce que je fais, du coup ? Je sers à boire ?
+BOT ++++ Allez dormir.
+YOU ++++ Une potion pour le plumard ?
+BOT ++++ Pour le plumard ?
+YOU ++++ Je vous dis ?
+BOT ++++ Tout à fait.
+YOU ++++ Ils auraient hésité, eux ?
+BOT ++++ On n'est pas comme eux.
+YOU ++++ Mais ça a goût à quoi ?
+BOT ++++ Ça a pas de goût.
+YOU ++++ À votre avis ?
+BOT ++++ Carrément.
+YOU ++++ Vous avez une idée, vous ?
+BOT ++++ Ah non, pas vous.
+YOU ++++ Le duc d'Aquitaine ?
+BOT ++++ Il fait partie du lot.
+YOU ++++ Vous les avez changés ?
+BOT ++++ J'ai rien noté.
+YOU ++++ Ah ?
+BOT ++++ Je fais court.
+YOU ++++ Le loquet, c'est vous ?
+BOT ++++ Pour se cacher.
+YOU ++++ Quand vous piquez du pognon, vous l'inscrivez pas, si ?
+BOT ++++ De toute façon, ils sont paumés.
+YOU ++++ Pourquoi ?
+BOT ++++ J'y vais pas.
+YOU ++++ Comment vous savez qu'il s'appelle Pendragon ?
+BOT ++++ Qu'est-ce que je fais ?
+YOU ++++ Vous en pensez quoi, bande de trous-du-cul ?
+BOT ++++ Vous aviez promis.
+YOU ++++ Quoi ?
+BOT ++++ Vous aurez eu 2 bonshommes.
+YOU ++++ On part en mission, et c'est notre dernier repas ici, alors on pourrait pas éviter de se friter ?
+BOT ++++ Si. Mais il ne faut pas évoquer votre attitude.
+YOU ++++ "10 ans" ?
+BOT ++++ Oui.
+YOU ++++ Le roi prend son bain ?
+BOT ++++ Il n'est plus le roi.
+YOU ++++ "L'humiliation" ?
+BOT ++++ Oui. Là, nous sommes avec une personne qui n'hésite pas à piocher dans un lexique intuitif.
+YOU ++++ Et pour sonner l'alerte ?
+BOT ++++ Dans ce cas, vous pouvez attendre mon retour.
+YOU ++++ Quoi ?
+BOT ++++ La dernière fois que vous les avez vues, il n'y en avait pas une enceinte ?
+YOU ++++ Voilà, de jolies filles ?
+BOT ++++ Oui, c'est pas mon...
+YOU ++++ Qu'est-ce qu'on fait, nous ?
+BOT ++++ On donne l'alerte ?
+YOU ++++ Des gonzesses ?
+BOT ++++ Ou bonshommes.
+YOU ++++ Je me trompe ?
+BOT ++++ Détendez-vous.
+YOU ++++ Vous n'avez rien à faire que de me foutre dehors ?
+BOT ++++ Expliquez-moi ce que vous faites là.
+YOU ++++ Comment ça, par hasard ?
+BOT ++++ Arthur, il est de Kaamelott !
+YOU ++++ Qu'est-ce que vous lisez ?
+BOT ++++ Tout. J'adore la lecture.
+YOU ++++ On fait quoi ?
+BOT ++++ Il faut mettre un nom sur ce qui nous va pas, à nous, avant d'aller foutre la merde.
+YOU ++++ Ils ont foutu quoi, les héros ?
+BOT ++++ Vous les gonflez, les héros.
+YOU ++++ Après un coup d'État, peut-on se permettre de retirer l'épée ?
+BOT ++++ On va nous regarder de travers.
+YOU ++++ Ça vous coûte quoi ?
+BOT ++++ Du temps.
+YOU ++++ Qui c'est ?
+BOT ++++ C'est pas la boniche ?
+YOU ++++ Pourquoi je sourirais ?
+BOT ++++ Mes veines du cou ont triplé de volume.
+YOU ++++ Toujours partant pour une saucisse grillée ?
+BOT ++++ Ah, quand même !
+YOU ++++ On le paie, alors il ne bouffe pas ?
+BOT ++++ Les lois sont fixées, maintenant.
+YOU ++++ Et du coup ?
+BOT ++++ Je ne veux pas me précipiter.
+YOU ++++ Et s'il l'a pas encore plantée ?
+BOT ++++ Mais vous en étiez sûr.
+YOU ++++ Et par terre ?
+BOT ++++ Non. M. Kadoc laisse entrer ici des canards.
+YOU ++++ Vous êtes combien ?
+BOT ++++ Deux.
+YOU ++++ Il y a une catapulte dans la cour ou pas ?
+BOT ++++ C'est pas si simple.
+YOU ++++ Y a de la bouffe ?
+BOT ++++ Du cochon séché et de la gelée de framboise.
+YOU ++++ Ça va, la vie ?
+BOT ++++ Pourquoi vous êtes là ?
+YOU ++++ "Si", quoi ?
+BOT ++++ Si on... Vous voyez.
+YOU ++++ Et votre jurisconsulte à la noix ?
+BOT ++++ C'est pas un invité.
+YOU ++++ Que risque-t-on ?
+BOT ++++ Calmos, les lopettes.
+YOU ++++ "Pédale", plutôt ?
+BOT ++++ En tout cas, pas méchamment.
+YOU ++++ Ça se fait beaucoup, à Vannes ?
+BOT ++++ "Beaucoup", euh...
+YOU ++++ Vous faites des saloperies avec les garçons ?
+BOT ++++ J'aime déjà pas ça avec les filles, alors...
+YOU ++++ Pourquoi ?
+BOT ++++ Quand on se fout des dieux et qu'on se tape une femme de chevalier, ça va finir par vous tomber dessus, forcément.
+YOU ++++ J'ai été sauvagement blessé ?
+BOT ++++ Vous les avez dérouillés ?
+YOU ++++ C'est assez clair ?
+BOT ++++ Limpide.
+YOU ++++ Oui ?
+BOT ++++ 1 seconde !
+YOU ++++ Il savait quoi, alors ?
+BOT ++++ Le gars, il était toujours en rogne, gueulant du soir au matin, alors difficile de s'approcher de lui.
+YOU ++++ Ces réunions mènent à quoi ?
+BOT ++++ J'aime mieux me taire.
+YOU ++++ Le lien entre une comète et un os de poulet ?
+BOT ++++ Les voeux.
+YOU ++++ Et pourquoi ?
+BOT ++++ Parce que... vous êtes pas adoubé.
+YOU ++++ C'était où ? Là.
+BOT ++++ "Un banquet sera dressé avant la cérémonie des..." Des... ?
+YOU ++++ Quoi ?
+BOT ++++ Vous vendez quoi, au juste ?
+YOU ++++ On l'envoie où ?
+BOT ++++ Au soleil.
+YOU ++++ Ces papiers, c'est quoi ?
+BOT ++++ Je n'en sais rien. Soulevez !
+YOU ++++ On le saura quand ?
+BOT ++++ Oui, c'est bon.
+YOU ++++ De quoi ?
+BOT ++++ Ça se dit pas ?
+YOU ++++ Il y a aussi des bandits ?
+BOT ++++ C'est pas possible.
+YOU ++++ Hé ? Je vous dis qu'on peut y aller.
+BOT ++++ Allez !
+YOU ++++ "Vous savez ce que c'est, des pingouins ?
+BOT ++++ "C'est des oiseaux qui ne volent pas
+YOU ++++ Vous avez entendu ? Des cris.
+BOT ++++ Oh, mon Dieu !
+YOU ++++ Et votre piaule ?
+BOT ++++ Je l'ai rendue.
+YOU ++++ "Le roi Arthur" ?
+BOT ++++ Vous avez déjà bu !
+YOU ++++ N'est-ce pas ce qu'on prouve en analysant fermement nos résultats et en proposant un ajustement de nos ambitions ?
+BOT ++++ Alors un petit récapitulatif : les résolutions, quelles sont-elles ?
+YOU ++++ Dame Mevanwi ?
+BOT ++++ Hmm ?
+YOU ++++ Il n'est jamais repassé ?
+BOT ++++ Pas de nouvelles.
+YOU ++++ De quoi ?
+BOT ++++ Si !
+YOU ++++ Vous les recevez ?
+BOT ++++ Oui, mais qui ?
+YOU ++++ Je remets ma souveraineté en jeu, et vous me parlez de l'heure ?
+BOT ++++ Oui... J'ai jamais compris, ça.
+YOU ++++ En quoi ?
+BOT ++++ En toute technique d'arrosage.
+YOU ++++ Je peux vous poser une question ?
+BOT ++++ Je vous permets.
+YOU ++++ Pourquoi éteignez-vous les bougies ?
+BOT ++++ J'ai peur des incendies.
+YOU ++++ Qu'en savez-vous ?
+BOT ++++ J'ai vu l'acte d'annulation.
+YOU ++++ Pourquoi ?
+BOT ++++ Y a pas de quoi rougir.
+YOU ++++ Tu veux un coup de bûche ?
+BOT ++++ C'est pour le feu.
+YOU ++++ Vous voulez faire quoi ?
+BOT ++++ Enchanter un objet.
+YOU ++++ C'est des gardes, ça ?
+BOT ++++ Ils n'ont pas eu le temps de s'habiller.
+YOU ++++ Vous m'avez, que voulez-vous de plus ?
+BOT ++++ Pour être franc...
+YOU ++++ Pourquoi êtes-vous là ?
+BOT ++++ Au printemps, je pisse des remparts. Il y a une belle vue.
+YOU ++++ On les tue ?
+BOT ++++ Non. Mais c'est plus difficile.
+YOU ++++ Y retourner fera un déclic ?
+BOT ++++ Les dieux me verront, auront pitié et ils me rappelleront.
+YOU ++++ Il y a quelque chose ?
+BOT ++++ Ben.
+YOU ++++ La moisie en haut ? J'y vais pas.
+BOT ++++ Euh, mais alors...
+YOU ++++ Vous avez peur que le prochain soit moins souple ?
+BOT ++++ Pour être franc, un peu.
+YOU ++++ Y a des cavaliers ?
+BOT ++++ Je vais vous conter une mésaventure dont je fus le malchanceux héros.
+YOU ++++ Donc, vous confirmez ?
+BOT ++++ Plus je fréquente de nouvelles femmes, plus vous m'emmerdez.
+YOU ++++ Ben quoi ?
+BOT ++++ Le savoir avec moi ne vous ennuie pas ?
+YOU ++++ Arthurus ?
+BOT ++++ Qu'est-ce qui te prend, de crier ?
+YOU ++++ C'est pas si grave ?
+BOT ++++ En 1 semaine, on a vu personne.
+YOU ++++ Mais on la connaît ?
+BOT ++++ Évidemment.
+YOU ++++ Vous venez pour...?
+BOT ++++ Je sais pas.
+YOU ++++ Vous pensez comme moi ?
+BOT ++++ Non. Vous faites les gros yeux, je fais pareil.
+YOU ++++ Où y a-t-il une chambre de libre ?
+BOT ++++ Celle d'où vous sortez ne l'est pas.
+YOU ++++ "Le jeu" ?
+BOT ++++ Moi, à votre place... Aïe.
+YOU ++++ Et pas éclaireur. Alors pourquoi êtes-vous 15 pieds devant ?
+BOT ++++ On pourrait peut-être... causer.
+YOU ++++ Ma fille ? Laquelle ?
+BOT ++++ Madenn.
+YOU ++++ Pourquoi laissez-vous vos chevaliers former des clans séparatistes, alors que l'une de vos priorités a toujours été de fédérer les clans autour de votre royaume et de la quête du Graal ?
+BOT ++++ Euh...
+YOU ++++ Vous foutez quoi ?
+BOT ++++ Je pars avec vous.
+YOU ++++ Et s'ils arrivent à 30 ?
+BOT ++++ Pas à 30 d'un coup, déjà.
+YOU ++++ Quoi ?
+BOT ++++ Ils ont perdu leur cadeau.
+YOU ++++ C'est tout ?
+BOT ++++ Avec la conviction de devoir me rendre à ce point-là précis.
+YOU ++++ Vous, vous n'êtes pas un bâtard ?
+BOT ++++ Euh... si.
+YOU ++++ Grüdü ?
+BOT ++++ Grüdü ?
+YOU ++++ Vous jouez aussi ?
+BOT ++++ J'ai rien bité.
+YOU ++++ J'ai raison ou pas ?
+BOT ++++ J'y connais rien, en bateau.
+YOU ++++ Ça a goût à quoi ?
+BOT ++++ Comme de la purée en boule.
+YOU ++++ La reine fiche le camp avec un traîne-patin et vous jubilez ?
+BOT ++++ Ce n'est pas un "traîne-patin".
+YOU ++++ Qu'est-ce que ça veut dire ?
+BOT ++++ Mission accomplie.
+YOU ++++ Votre ex s'est fait la malle avec un gars d'ici ?
+BOT ++++ Le chevalier Perniforce, non ?
+YOU ++++ Il n'y a pas un trou ?
+BOT ++++ Non. On a fouillé mon sac et on a choisi des trucs dedans.
+YOU ++++ Ils essaient de débaucher nos mecs ?
+BOT ++++ Vous, vous êtes à ça du conseil de guerre.
+YOU ++++ C'est où ?
+BOT ++++ Là.
+YOU ++++ On verra quoi ?
+BOT ++++ Bon, foutez-moi la paix !
+YOU ++++ "Quand même" ?
+BOT ++++ Je savais qu'on s'enlacerait pas, mais là, il faut pas vous en prendre à moi.
+YOU ++++ Sinon, sans ça, vous me faites confiance ?
+BOT ++++ Vous voulez dire en général ? Non.
+YOU ++++ Quelles autres ?
+BOT ++++ Justement.
+YOU ++++ Mais quoi ?
+BOT ++++ Nom de nom de nom, que voulez-vous ?
+YOU ++++ Où ça ?
+BOT ++++ Partout.
+YOU ++++ Quoi ?
+BOT ++++ Vous l'avez virée ou pas, c'est tout.
+YOU ++++ "Que lui trouve-t-elle ?"
+BOT ++++ Il est beau, il est grand, il a des yeux romantiques.
+YOU ++++ C'est une blague ?
+BOT ++++ On vient vous rappeler la réunion de ce matin.
+YOU ++++ Vous traduisez, vous ?
+BOT ++++ À vous, sire.
+YOU ++++ Pourquoi dormez-vous là ?
+BOT ++++ Son clan et celui de Perceval...
+YOU ++++ Est-ce que vous vous y connaissez un peu en anges ?
+BOT ++++ En anges ?
+YOU ++++ Elle est à Kaamelott et pas moi ?
+BOT ++++ Ta soeur est à Kaamelott, parce que... Voilà.
+YOU ++++ Pourquoi il est pas là ?
+BOT ++++ Je ne suis pas derrière lui.
+YOU ++++ À vous ?
+BOT ++++ Tout le monde s'y retrouve.
+YOU ++++ On vous a pas expliqué ?
+BOT ++++ Ils ont jamais pris un oiseau.
+YOU ++++ Moins d'une semaine, ça va ?
+BOT ++++ Voilà.
+YOU ++++ Déjà couchée ?
+BOT ++++ Je ne me suis pas levée.
+YOU ++++ Il vient, lui ?
+BOT ++++ Je voulais pas.
+YOU ++++ "Assassin" ?
+BOT ++++ 2e guérite.
+YOU ++++ Où est ma femme ?
+BOT ++++ Partie faire un tour.
+YOU ++++ S'ils y avaient été ?
+BOT ++++ J'aurais vu.
+YOU ++++ C'est à qui ?
+BOT ++++ À Arthur.
+YOU ++++ Tout est prêt ?
+BOT ++++ Il faut que j'y retourne.
+YOU ++++ Ben oui. Vous êtes déçu ?
+BOT ++++ Comment ?
+YOU ++++ Ça va s'arrêter quand ?
+BOT ++++ Vous êtes roi.
+YOU ++++ C'est quoi, cette tronche ?
+BOT ++++ Quelle tronche ?
+YOU ++++ Ben, quoi ?
+BOT ++++ Vous avez dû préparer un plan, non ?
+YOU ++++ Encore ? Ça devient un dada.
+BOT ++++ On a bouffé avec lui, hier.
+YOU ++++ Quoi ?
+BOT ++++ On a reçu du courrier.
+YOU ++++ Vous êtes barré ?
+BOT ++++ Où êtes-vous allé ?
+YOU ++++ Il y a quelque chose qui va pas ?
+BOT ++++ J'ai peur du noir, des bruits, des insectes, j'ai froid et je fais des cauchemars.
+YOU ++++ La loi machin ?
+BOT ++++ "Qui convoite la femme du chevalier,
+YOU ++++ Et puis de la 110. Où elle est ?
+BOT ++++ Non, mais non.
+YOU ++++ Dans un cagibi ?
+BOT ++++ Dans un... Oui.
+YOU ++++ On va le fixer longtemps, ce truc ?
+BOT ++++ Je l'ai faite, cette "tarte".
+YOU ++++ Qui va là ?
+BOT ++++ Karadoc.
+YOU ++++ Vous croyez ?
+BOT ++++ Je ne peux pas m'empêcher de penser à nos camarades qui prennent la relève.
+YOU ++++ Pourquoi je serais demandé une 2e fois ?
+BOT ++++ Moi aussi.
+YOU ++++ Elles sont où, ces bêtes ?
+BOT ++++ Je les ai vendues.
+YOU ++++ Vous jouez au con ?
+BOT ++++ J'applique à la lettre les décrets consignés dans vos archives.
+YOU ++++ Vous accouchez, oui ?
+BOT ++++ Il y a la question de votre neveu.
+YOU ++++ Ah bon ? Alors j'y vais.
+BOT ++++ Stop !
+YOU ++++ C'est une blague ?
+BOT ++++ Ce que tu m'as dit, ce n'était pas des conneries.
+YOU ++++ Vous parliez ?
+BOT ++++ Allez-y.
+YOU ++++ Vous refusez de me prêter l'armée ?
+BOT ++++ Non.
+YOU ++++ C'est vous ?
+BOT ++++ OUI.
+YOU ++++ De gonzesse ?
+BOT ++++ Oui, parce que là, il vous fantasme.
+YOU ++++ Les jetons ?
+BOT ++++ Moi ? Oui, j'ai les jetons que les chevaux nous lâchent, qu'ils claquent au milieu de nulle part.
+YOU ++++ En vous passant de notre consentement ?
+BOT ++++ Ils sont chiants !
+YOU ++++ C'est vrai. Si le roi meurt, qui gouverne ?
+BOT ++++ Celui qui retire l'épée.
+YOU ++++ Vous avez trouvé un pigeon ?
+BOT ++++ Il s'agit du roi en personne.
+YOU ++++ Et s'ils viennent me demander ?
+BOT ++++ Quoi ? De diriger le royaume ?
+YOU ++++ Où ?
+BOT ++++ Vous saviez pas par où.
+YOU ++++ C'est quoi ?
+BOT ++++ C'est un texte de cérémonie.
+YOU ++++ Mais pourquoi ?
+BOT ++++ Après, vous partez chercher des bandits !
+YOU ++++ Et qu'est-ce qui se passe ?
+BOT ++++ Que font vos espions ?
+YOU ++++ C'est pour quoi ?
+BOT ++++ Madame veut voir une dame.
+YOU ++++ Rien d'autre ?
+BOT ++++ Je peux être près de Gauvain ?
+YOU ++++ Non ?
+BOT ++++ Non.
+YOU ++++ Vous entendez pas que ça ressemble à rien ?
+BOT ++++ Les harmonies sont discordantes, mais est-ce "l'accordage" ?
+YOU ++++ Qui dit que j'ai essayé ?
+BOT ++++ Vous avez pas essayé ?
+YOU ++++ Ça vient ou pas ?
+BOT ++++ Je comprends pas.
+YOU ++++ Qu'est-ce que vous surveillez avec les volets baissés ?
+BOT ++++ On les baisse la nuit.
+YOU ++++ Mais vous parlez de qui ?
+BOT ++++ Vous aviez parlé de la dame du lac.
+YOU ++++ Je vous organise un périple ?
+BOT ++++ Genre croisière ?
+YOU ++++ C'est votre tente ?
+BOT ++++ Y en a tellement...
+YOU ++++ Pourquoi pas ?
+BOT ++++ Je suis obligé d'aller voir une maîtresse. Ça va 5 minutes.
+YOU ++++ Si on sortait ? Ça pue le graillon.
+BOT ++++ Ça mériterait un courant d'air.
+YOU ++++ Quoi ?
+BOT ++++ C'est normal.
+YOU ++++ Comment vous trouvez le rougeaud ?
+BOT ++++ Flatteur, non ?
+YOU ++++ De quoi ?
+BOT ++++ Mettons que ça, c'est ce que vous payez par jour
+YOU ++++ Caius ?
+BOT ++++ Pas là.
+YOU ++++ Arracher les herbes ?
+BOT ++++ Je suis venu surveiller.
+YOU ++++ Pourquoi ?
+BOT ++++ Sa vie est moins inepte ?
+YOU ++++ Quoi ?
+BOT ++++ Comme Excalibur, qui montre c'est qui qui commande ?
+YOU ++++ Pas un renseignement ?
+BOT ++++ Et les autres ? Pas de nouvelles ?
+YOU ++++ Comment ça ?
+BOT ++++ Ben... Le roi de Bretagne.
+YOU ++++ "On change de tour" ?
+BOT ++++ C'est marqué !
+YOU ++++ Mais vous arrêtez ?!
+BOT ++++ Arrêtez !
+YOU ++++ Que se passe-t-il ?
+BOT ++++ Quelle heure il est ?
+YOU ++++ Questions ?
+BOT ++++ Oui, mon oncle. Quelques termes de l'énoncé m'échappent.
+YOU ++++ Qu'est-ce que vous mangez ?
+BOT ++++ Un bout de pain.
+YOU ++++ Si je vois quelqu'un, je le défonce ?
+BOT ++++ Ben, ça dépend.
+YOU ++++ Alors, il a dit quoi ?
+BOT ++++ Ça me scie les pattes.
+YOU ++++ On va pas moisir ici ! Non ?
+BOT ++++ Vous discutez 5 minutes, et on rentre.
+YOU ++++ C'est quoi, ce bocal ?
+BOT ++++ C'est pour faire parler les glands.
+YOU ++++ Vous savez crocheter ?
+BOT ++++ Bien sûr, mais je n'ai pas les outils.
+YOU ++++ Mais où ?
+BOT ++++ Que vous soyez débile, d'accord.
+YOU ++++ On y va aussi ?
+BOT ++++ Chercher la brebis ?
+YOU ++++ Ah bon ?
+BOT ++++ Que nous arrive-t-il ?
+YOU ++++ Que vouliez-vous que je fasse ?
+BOT ++++ Récupérer votre vraie femme.
+YOU ++++ Elle se considère encore reine ?
+BOT ++++ Elle a raison.
+YOU ++++ C'est sa nouvelle femme. Et puis ?
+BOT ++++ Il me vire pas de la Table ronde, je suis responsable de la Défense...
+YOU ++++ Le camp ? Quel camp ?
+BOT ++++ Comment ça ?
+YOU ++++ Le périmètre, par contre, c'est le tour de cuisse ou de bras ?
+BOT ++++ De bras.
+YOU ++++ Vous voulez la noter ?
+BOT ++++ Et celle-là, vous la notez ?
+YOU ++++ Vous avez vu Lancelot ?
+BOT ++++ Après sa mission, il est pas rentré.
+YOU ++++ Vous allez roupiller ?
+BOT ++++ Avec la conscience tranquille.
+YOU ++++ Vraiment ?
+BOT ++++ Enfin, si. Sans le vouloir.
+YOU ++++ Vous faites le lien avec "neveu" ?
+BOT ++++ Simple déduction.
+YOU ++++ Que vous arrive-t-il ?
+BOT ++++ Essaie de lui attraper les bras...
+YOU ++++ Elle est où, la poulette ?
+BOT ++++ D'abord, un tour de table pour se présenter.
+YOU ++++ Quel type de signes ?
+BOT ++++ Des nouveaux territoires conquis, un héritier, le Graal...
+YOU ++++ Et Arthur est devenu roi ?
+BOT ++++ Non.
+YOU ++++ Le respect à la mémoire d'Uther le dragon ?
+BOT ++++ Uther Pendragon.
+YOU ++++ La réponse ?
+BOT ++++ Oui, ma petite fée.
+YOU ++++ Pourquoi vous marrez-vous ?
+BOT ++++ C'est les plaques.
+YOU ++++ Pourquoi gronde-t-il, le peuple ?
+BOT ++++ Il a plus confiance, et on peut pas lui donner tort.
+YOU ++++ Il est parti quand ?
+BOT ++++ Hier ? Ça fait combien ?
+YOU ++++ Ils ont oublié leur clé ?
+BOT ++++ Peut-être "Patanouk" et "Gerciflet".
+YOU ++++ Vous vous levez ou j'appelle la garde ?
+BOT ++++ Ça va !
+YOU ++++ Pourquoi est-elle là ?
+BOT ++++ Je sais pas.
+YOU ++++ Laquelle ?
+BOT ++++ On annule la réunion.
+YOU ++++ Balise ?
+BOT ++++ Non.
+YOU ++++ Vous avez fait bonne route ?
+BOT ++++ Ben, euh...
+YOU ++++ De quoi ?
+BOT ++++ "De quoi ?"
+YOU ++++ Karadoc ! Que se passe-t-il ?
+BOT ++++ Au secours ! À moi !
+YOU ++++ Il est du côté de son père, ou pas ?
+BOT ++++ Il est du côté de que dalle : il pige rien.
+YOU ++++ Alors, comment ça se passe, les travaux ? Ça bûche ?
+BOT ++++ Pour le moment, j'étudie la situation exacte des archives. Le bilan est plutôt positif, même si... le classement-catalogage mériterait une optimisation.
+YOU ++++ Pourquoi "non" ?
+BOT ++++ Prenez sur vous, un peu.
+YOU ++++ De quoi ?
+BOT ++++ Retirer Excalibur du rocher.
+YOU ++++ "Un roi conquérant ?"
+BOT ++++ Vous n'êtes rien. Rien !
+YOU ++++ Vous vous êtes bien rétamé ?
+BOT ++++ Vous avez tiré dessus à vous faire péter les veines et vous êtes parti bredouille ?
+YOU ++++ Ça vous dit ?
+BOT ++++ Comme avant ?
+YOU ++++ Et Léodagan ?
+BOT ++++ Non, c'est mes gens.
+YOU ++++ Vous connaissez l'histoire ?
+BOT ++++ Si je la connais !
+YOU ++++ Pourquoi on les croise ici ?
+BOT ++++ Votre mari est un souple, un compréhensif.
+YOU ++++ Quoi ?
+BOT ++++ Si. C'est trop tard.
+YOU ++++ Si un étranger entrait dans la pièce, tout le monde filerait-il à son poste de sécurisation comme on a dit ?
+BOT ++++ Ah ?
+YOU ++++ Quel intérêt d'y aller ?
+BOT ++++ La surprise, seigneur Dagonet.
+YOU ++++ Je commence ? Parce que dans la tradition de Vannes, il y en a pour 3 plombes.
+BOT ++++ Allez-y.
+YOU ++++ Celui qu'on a envoyé là-bas ?
+BOT ++++ Celui à qui vous avez demandé son métier.
+YOU ++++ Il manque une brebis ?
+BOT ++++ Et on a recompté 3 fois chaque bête.
+YOU ++++ Père, par où vous venez ?
+BOT ++++ Par le chemin.
+YOU ++++ Vous êtes sûr ?
+BOT ++++ Le prenez pas mal.
+YOU ++++ Vous y allez seul ?
+BOT ++++ Je sais pas si on peut être
+YOU ++++ Vous voulez Arthur mort ? Faites-le.
+BOT ++++ Tuer des gens ? Non.
+YOU ++++ Déçu ?
+BOT ++++ Qu'est-ce que je devais dire ?
+YOU ++++ Tout le monde est là ?
+BOT ++++ Ben oui.
+YOU ++++ Vous pouvez venir m'aider ?
+BOT ++++ Non.
+YOU ++++ Pourquoi non ?
+BOT ++++ Solidité.
+YOU ++++ Quoi ?
+BOT ++++ Non, on a cherché, tourné dans tous les sens, mais elles se gênent et on peut pas tirer.
+YOU ++++ L'orphelin ?
+BOT ++++ Depuis quand vous êtes orphelin ?
+YOU ++++ Bon. À votre avis ?
+BOT ++++ 3 jours. Peut-être 4.
+YOU ++++ Qu'y a-t-il ?
+BOT ++++ Le roi Loth a loupé son essai.
+YOU ++++ Mais, fatiguée de quoi ?
+BOT ++++ Ben... de faire des trucs de reine.
+YOU ++++ Pourquoi ?
+BOT ++++ Je sais pas.
+YOU ++++ Qu'en savez-vous ?
+BOT ++++ Que vous reste-t-il à faire, encore ?
+YOU ++++ Vous en avez un ?
+BOT ++++ Non, mais vous pensez que je m'en serais pas servi.
+YOU ++++ Je dois vraiment faire la queue ?
+BOT ++++ Est-ce que je sais ?
+YOU ++++ Un fenouil est-il redondant ?
+BOT ++++ Je ne suis pas un pro du combat au fenouil mais non.
+YOU ++++ Vous n'êtes pas assis là, normalement. Si ?
+BOT ++++ Vous changerez beaucoup de lois ?
+YOU ++++ Au gouvernement, ils font quoi ?
+BOT ++++ Ils se "poulent les rouces".
+YOU ++++ C'est-à-dire ?
+BOT ++++ En Carmélide, on sait que vous êtes une patate.
+YOU ++++ Vous connaissez ?
+BOT ++++ Oui.
+YOU ++++ Les poissons ?
+BOT ++++ Ils peuvent mal le prendre.
+YOU ++++ Vous êtes encore là-dessus ?
+BOT ++++ C'est de l'obsession.
+YOU ++++ Pour quoi faire ?
+BOT ++++ J'en ai marre de me mettre de la mie de pain au nez.
+YOU ++++ À la Table Ronde ?
+BOT ++++ Non. Ici.
+YOU ++++ Guenièvre ?
+BOT ++++ Ah !
+YOU ++++ Il vous semble ?
+BOT ++++ En voyage d'affaires, je le dis.
+YOU ++++ Et en quoi consistait cette mission ?
+BOT ++++ Nous avons fait les bars pour nous faire connaître.
+YOU ++++ Pourquoi j'irais pas ?
+BOT ++++ Ça pue. C'est un traquenard.
+YOU ++++ Vous étiez pas consigné chez vous ?
+BOT ++++ C'est assez flou.
+YOU ++++ Et merde, ça se dit comment ?
+BOT ++++ Comme ça.
+YOU ++++ On y va, alors ?
+BOT ++++ Non !
+YOU ++++ Qui ?
+BOT ++++ Les types qui ont laissé les traces.
+YOU ++++ C'est celle que je connais ?
+BOT ++++ Non pas que j'en connaisse beaucoup.
+YOU ++++ Elle aime quoi ?
+BOT ++++ Les pièges à loup.
+YOU ++++ C'est ma faute ?
+BOT ++++ Vous avez laissé faire.
+YOU ++++ Qu'est-ce que ça peut foutre ?
+BOT ++++ Ça va encore discuter.
+YOU ++++ Il vous laisse vous vautrer ?
+BOT ++++ Il est sympa.
+YOU ++++ Vous voyez ?
+BOT ++++ Voilà.
+YOU ++++ De quoi ?
+BOT ++++ On approche de leur camp.
+YOU ++++ Quoi ?
+BOT ++++ C'est pas comme d'habitude.
+YOU ++++ Qu'est-ce qu'ils ont, ces loups ?
+BOT ++++ C'est normal ?
+YOU ++++ Vous voudriez qu'elle en ait un de vous, ou vous voudriez pas ?
+BOT ++++ Oui, je voudrais bien.
+YOU ++++ Vous croyez que vous êtes un enfant trouvé aussi ?
+BOT ++++ J'en sais rien. Je suis écuré.
+YOU ++++ De quoi je me mêle ?
+BOT ++++ Et il est charmant.
+YOU ++++ La Dame du Lac ?
+BOT ++++ Votre copain en noir, où il est ? Il vous aide pas ?
+YOU ++++ Eh bien, ne devons-nous pas tirer ?
+BOT ++++ "Tirer" ? Je suppose.
+YOU ++++ Comment on va travailler ensemble ?
+BOT ++++ Travailler ensemble ?
+YOU ++++ Pourquoi la déplacer ?
+BOT ++++ Elle est finie.
+YOU ++++ Que fait-on ? On tire ?
+BOT ++++ On tire ? Sur quoi voulez-vous encore tirer ?
+YOU ++++ Il le sait pas encore ?
+BOT ++++ C'est quoi, là ?
+YOU ++++ Et en qualité de quoi ?
+BOT ++++ De ministre.
+YOU ++++ Puisqu'on est partis dans la convivialité, j'annulerais pas la bouffe ?
+BOT ++++ On la transportait avec une barge, mais une fois, les amarres ont lâché...
+YOU ++++ Il m'en manque juste un ?
+BOT ++++ Même pas.
+YOU ++++ Et pourquoi il m'en veut, le bon peuple ?
+BOT ++++ Quand on gouverne, on donne des signes forts.
+YOU ++++ Agir ?
+BOT ++++ Pour monter en grade.
+YOU ++++ Elle n'a rien de plus intéressant à me demander que de me laver ?
+BOT ++++ Montez... dans cette baignoire.
+YOU ++++ On regarde ?
+BOT ++++ Si vous avez entendu, ils sont combien ?
+YOU ++++ Vous êtes d'accord avec moi que tout fout le camp ?
+BOT ++++ Où, chez moi ?
+YOU ++++ Hein ?
+BOT ++++ Pour commencer, racontez-moi un peu comment se passe cette puberté.
+YOU ++++ Des ufs durs ?
+BOT ++++ On peut les écouter.
+YOU ++++ Et si vous aviez un fils caché qui retire l'épée ?
+BOT ++++ Le truc, c'est que je ne crois pas que j'aie un fils caché.
+YOU ++++ Votre femme ?
+BOT ++++ Ils sont pas affinés.
+YOU ++++ Ah bon ?
+BOT ++++ Je montre un peu les dents, mais il vous fallait une mise au point.
+YOU ++++ Pressé ?
+BOT ++++ Lancelot m'attend.
+YOU ++++ Vous devez déglinguer celui-là ?
+BOT ++++ J'ai faim.
+YOU ++++ Où est la piqûre ?
+BOT ++++ Au pied. Il a doublé de volume.
+YOU ++++ Que faisiez-vous à Rome ?
+BOT ++++ J'étais à l'école militaire.
+YOU ++++ Je suis qui, moi ? Le portier ?
+BOT ++++ Si je vous adoube, ça compte, crétin.
+YOU ++++ Et si je reste ici pour l'éternité ?
+BOT ++++ Ici... c'est pas pour l'éternité.
+YOU ++++ Qu'est-ce qu'il va faire ?
+BOT ++++ S'évanouir.
+YOU ++++ Où est la légende, la romance ?
+BOT ++++ C'est ça, l'amour ?
+YOU ++++ Le début, déjà ?
+BOT ++++ Ça fait 100 fois que je le répète.
+YOU ++++ Vraiment ?
+BOT ++++ Si, mais j'avais pas fait le rapprochement, voilà.
+YOU ++++ Une quoi ?
+BOT ++++ Comme vous, quand vous dirigez les troupes.
+YOU ++++ Elle est où, votre cabane ?
+BOT ++++ MAIS JUSTE LÀ !
+YOU ++++ Qu'avez-vous à me dire qui nécessite cette retraite ?
+BOT ++++ Ça va durer longtemps ?
+YOU ++++ Vous voulez essayer ?
+BOT ++++ Bien, très bien.
+YOU ++++ Que se trame-t-il ?
+BOT ++++ Rien à signaler.
+YOU ++++ Vous m'entendez ?
+BOT ++++ Hé.
+YOU ++++ Comment ça ?
+BOT ++++ J'avais pas vu que c'était vous.
+YOU ++++ Elle y est encore ?
+BOT ++++ C'est plus compliqué.
+YOU ++++ Vous pêchez pas ?
+BOT ++++ Non, j'aime pas ça.
+YOU ++++ Vous faites la quête du Graal ?
+BOT ++++ Je sais pas. Vous en pensez quoi ?
+YOU ++++ La concurrence, c'est Lancelot ?
+BOT ++++ Concurrence des clodos.
+YOU ++++ Je vous raconte ?
+BOT ++++ Arthur est mort ?
+YOU ++++ Je croyais que vous deviez rentrer seul, avec le mot de passe ?
+BOT ++++ Oui.
+YOU ++++ C'est quoi ça ?
+BOT ++++ Sire, il veut régler cette question au jeu.
+YOU ++++ Les objets ?
+BOT ++++ Les objets redondants, qui blessent.
+YOU ++++ Qui ça ?
+BOT ++++ Ça ne vous regarde pas !
+YOU ++++ Que faites-vous là ?
+BOT ++++ Faites pas le con.
+YOU ++++ On pourrait aller au lac ?
+BOT ++++ Au lac ? Maintenant ?
+YOU ++++ Que se passe-t-il ?
+BOT ++++ J'avais envie d'aller papoter avec le petit frère.
+YOU ++++ C'est vous que le roi a échangée contre Guenièvre ?
+BOT ++++ Mais alors, vous êtes dame Mevanwi.
+YOU ++++ Vous voulez rester merdiques ou on rédige qu'il ne l'est plus ?
+BOT ++++ Ça prendra combien d'années pour balayer tous les cas ?
+YOU ++++ Burdigala ?
+BOT ++++ Non plus.
+YOU ++++ Ici, vous l'êtes pas ?
+BOT ++++ J'y avais pas pensé.
+YOU ++++ Ah bon ?
+BOT ++++ Il y aurait une équipe, des malandrins postés aux rochers en surplomb.
+YOU ++++ D'accord ?
+BOT ++++ Inversez tout, et vous vous y retrouverez.
+YOU ++++ Un héritier ?
+BOT ++++ Ma femme s'est tirée.
+YOU ++++ Votre femme n'est pas chez Lancelot ?
+BOT ++++ Vous irez la récupérer.
+YOU ++++ Quoi ?
+BOT ++++ Retirer l'épée du rocher.
+YOU ++++ Ben, quoi ?
+BOT ++++ Mais c'est... triste !
+YOU ++++ Mais quoi ?
+BOT ++++ Moi, j'ai interdit l'esclavage.
+YOU ++++ Elle vous embête ?
+BOT ++++ Non, mais quand je la croise dans les couloirs...
+YOU ++++ Dame Mevanwi ?
+BOT ++++ La femme du chevalier Karadoc.
+YOU ++++ Quoi ?
+BOT ++++ Vous voyez bien.
+YOU ++++ On dit quoi ?
+BOT ++++ Là, surtout on dit rien.
+YOU ++++ Je vais rester longtemps ?
+BOT ++++ Qui fait tourner la boutique ?
+YOU ++++ Vous le sentez, que je vais être un fardeau ?
+BOT ++++ La porte s'ouvre.
+YOU ++++ Pourquoi il ne s'assoit pas, le copain ?
+BOT ++++ Venez vous asseoir avec nous.
+YOU ++++ Vous vous y connaissez ?
+BOT ++++ Non, pas trop.
+YOU ++++ Le vôtre ?
+BOT ++++ Vous avez un camp ?
+YOU ++++ Quoi ?
+BOT ++++ Elle est où, Mébène ?
+YOU ++++ Vous montez encore un turbin ?
+BOT ++++ En ce qui vous concerne, quel turbin monter ?
+YOU ++++ Parce que vous voulez aussi faire la menuiserie ?
+BOT ++++ Allez-y !
+YOU ++++ Et nous, on repart à l'aventure ?
+BOT ++++ Wouh !
+YOU ++++ Ça se dit pas ?
+BOT ++++ Si, c'est comme ça.
+YOU ++++ La pièce que vous avez bougée ?
+BOT ++++ Il fallait le faire.
+YOU ++++ Pourquoi ?
+BOT ++++ Vous allez tenter de savoir si vous avez des enfants cachés.
+YOU ++++ Où est-il ?
+BOT ++++ Je vous croyais mort.
+YOU ++++ Comment ça ?
+BOT ++++ Je m'étonne un peu de ne jamais vous rien voir tenter à mon égard.
+YOU ++++ Vous vous foutez de nous ?
+BOT ++++ Qu'y a-t-il, sire ?
+YOU ++++ Mais qu'est-ce qu'ils foutent ?
+BOT ++++ Ils n'ont pas la notion des distances.
+YOU ++++ Et voyager à cheval ?
+BOT ++++ Nous avons la même aversion envers les équidés.
+YOU ++++ D'où tenez-vous ça ?
+BOT ++++ Arthur vous a laissée partir.
+YOU ++++ Qu'avez-vous à faire ?
+BOT ++++ Rien ne tient debout dans votre exploitation.
+YOU ++++ Comment dire à quelqu'un qu'il est allé un peu trop loin sans pour autant prendre le risque de le vexer ?
+BOT ++++ Non...
+YOU ++++ Pourquoi ?
+BOT ++++ Je vais mettre
+YOU ++++ On ne peut pas envoyer un message ?
+BOT ++++ C'est une catastrophe.
+YOU ++++ Pour un pêcheur, c'est pas handicapant ?
+BOT ++++ Parfois, je fais un rêve.
+YOU ++++ Vous voulez quoi ?
+BOT ++++ Hé ! Le plateau !
+YOU ++++ 2 min ? Vous êtes sûr ?
+BOT ++++ C'est tout con, comme jeu.
+YOU ++++ Quoi ?
+BOT ++++ Oui.
+YOU ++++ Et ?
+BOT ++++ Ben non. Personne à l'horizon.
+YOU ++++ Que voulaient-ils ?
+BOT ++++ Vous m'avez pas demandé de leur demander !
+YOU ++++ Vous faites quoi, là ?
+BOT ++++ Demi-tour !
+YOU ++++ "Faire le vide" ?
+BOT ++++ À faire le vide.
+YOU ++++ Pourquoi ?
+BOT ++++ Parce que je passe jamais ici par hasard.
+YOU ++++ Et qu'est-ce que j'ai ? Des...?
+BOT ++++ Des vêtements ?
+YOU ++++ Vous avez une idée de qui sont ces loustics ?
+BOT ++++ Avec le peu que j'ai entendu, je dirais des Germains.
+YOU ++++ Vous croyez que s'il était normal, je viendrais vous voir ?
+BOT ++++ Pour larguer sa rombière, on en invente !
+YOU ++++ Vous ignorez lequel de ses enfants est son fils ?
+BOT ++++ Ou sa fille.
+YOU ++++ Pareil. Ça se peut ?
+BOT ++++ Quoi ? Je pige rien.
+YOU ++++ Toute l'armée ?
+BOT ++++ Tout le monde.
+YOU ++++ Et je dis quoi ?
+BOT ++++ À qui ?
+YOU ++++ S'il ouvre pas, on refrappe ?
+BOT ++++ Drôlement futé, ce stratagème.
+YOU ++++ Celle enceinte, c'est de vous ?
+BOT ++++ Répétez !
+YOU ++++ Vous l'avez connu ?
+BOT ++++ Mon père et lui ne s'aimaient pas.
+YOU ++++ Pourquoi pas aujourd'hui ?
+BOT ++++ Vous êtes malade.
+YOU ++++ Vous comptez renoncer ?
+BOT ++++ Je ne pensais pas à moi.
+YOU ++++ Quelles plaques ?
+BOT ++++ De dissimulation.
+YOU ++++ Qu'est-ce que vous fabriquez ?
+BOT ++++ Ça fera meilleur effet, avec les autres.
+YOU ++++ Vous voulez pas vous concentrer ?
+BOT ++++ Je vous explique depuis ce matin.
+YOU ++++ Une question ?
+BOT ++++ Oui, tout à fait ?
+YOU ++++ Je peux vous demander une chose ?
+BOT ++++ Allez-y.
+YOU ++++ Quoi ?
+BOT ++++ Évidemment.
+YOU ++++ Au cas où, vous savez où je suis ?
+BOT ++++ Oui.
+YOU ++++ Vous pouvez m'aider ?
+BOT ++++ Quel gros pébron !
+YOU ++++ "Donne mon écuelle et mon os" ?
+BOT ++++ Non.
+YOU ++++ N'auriez-vous pas fait pareil ?
+BOT ++++ Trop pas.
+YOU ++++ Comment l'expliqueriez-vous ?
+BOT ++++ J'ai l'impression de devoir vous écouter.
+YOU ++++ Vous voulez élargir le terrain ?
+BOT ++++ J'attends Madenn.
+YOU ++++ Vous allez la fermer ?!
+BOT ++++ Allez-y, sire.
+YOU ++++ Les armes, les bottes ?
+BOT ++++ Oui. De la ficelle, des croûtons...
+YOU ++++ Maintenant ?
+BOT ++++ Oui. Allez mettre quelque chose de chaud, et en piste.
+YOU ++++ Ben, quoi ?
+BOT ++++ Ben...
+YOU ++++ Vous êtes censés faire quoi, ici, rappelez-moi ?
+BOT ++++ Les critiques !
+YOU ++++ Vous distancez un loup ?
+BOT ++++ Quels cons.
+YOU ++++ Burgondes ?
+BOT ++++ C'est rien, mangez.
+YOU ++++ La barque bleue qui est là-bas, ce serait pas votre fils ?
+BOT ++++ Non. C'est l'autre con.
+YOU ++++ Pourquoi un message ?
+BOT ++++ C'est ça : on attaque !
+YOU ++++ Et pour la vaisselle ?
+BOT ++++ Ça me gonfle...
+YOU ++++ Vous ne voulez pas sortir ?
+BOT ++++ Sortir ?
+YOU ++++ Pas mal aux pieds, mère ?
+BOT ++++ Je vous en pose, des questions ?
+YOU ++++ On peut maintenant ?
+BOT ++++ Non.
+YOU ++++ Partants pour un Cul de Chouette ?
+BOT ++++ Allez.
+YOU ++++ Vous aimez ça ?
+BOT ++++ C'est qui, ceux-là ?
+YOU ++++ J'ai dit quoi, connasse ?
+BOT ++++ Oui.
+YOU ++++ Vous avez du pognon ?
+BOT ++++ Beaucoup.
+YOU ++++ C'en est pas un ?
+BOT ++++ Je ne sais pas.
+YOU ++++ Faire comme moi ?
+BOT ++++ Tout le monde sait que vous venez ici pour penser au Graal et tout.
+YOU ++++ Et vous fermez ?
+BOT ++++ À ceux qui me doivent.
+YOU ++++ Pourquoi vous cachez-vous ?
+BOT ++++ Vous volez des livres ?
+YOU ++++ Parce que vous restez pas ?
+BOT ++++ Faut que je dorme.
+YOU ++++ J'ai fait des progrès ?
+BOT ++++ Sur une échelle de 3 à 8, de 3 à 4, vous parlez normalement.
+YOU ++++ De quoi ?
+BOT ++++ On papote jamais.
+YOU ++++ Vous imaginez où ça nous emmène ?
+BOT ++++ On peut pas se permettre.
+YOU ++++ Euh... Un truc : ça, c'est le bras gauche ?
+BOT ++++ Non, le bras droit.
+YOU ++++ Vous vous êtes toujours occupée de moi comme ça ?
+BOT ++++ Quand vous êtes au 36e dessous, vous êtes plus accessible.
+YOU ++++ Trois semaines ?
+BOT ++++ Oui.
+YOU ++++ Je peux aider ?
+BOT ++++ Non. Bonne nuit.
+YOU ++++ Plus de labo ?
+BOT ++++ Mais comment ça ?
+YOU ++++ Vous ne prenez pas votre épée ?
+BOT ++++ C'est mon épée.
+YOU ++++ Ça vient d'où ?
+BOT ++++ Sous le pied d'une armoire.
+YOU ++++ Bien dormi ?
+BOT ++++ Vous êtes là ?
+YOU ++++ Y a quelqu'un ?
+BOT ++++ Y a quelqu'un ?
+YOU ++++ Comment trimballe-t-il sa femme sans sortir du lit ?
+BOT ++++ Ils sont dans une charrette.
+YOU ++++ La cérémonie, c'était pas ça ?
+BOT ++++ Je l'ai jamais connu.
+YOU ++++ Seigneur Léodagan, un mot ?
+BOT ++++ Merde.
+YOU ++++ Quoi ?
+BOT ++++ La clodo rouquine du château...
+YOU ++++ Qui fait ça ?
+BOT ++++ Personne en particulier.
+YOU ++++ Ça me concerne ?
+BOT ++++ Pourquoi je me suis coltiné cette morue ?
+YOU ++++ Quoi, le château ? Si.
+BOT ++++ C'est moche. En architecture, vous avez mauvais goût.
+YOU ++++ Mes pieds vous intéressent ?
+BOT ++++ Non, je m'en fous !
+YOU ++++ C'est quoi ?
+BOT ++++ Mêlez-vous de vous.
+YOU ++++ Pourquoi ne pas inviter un chevalier qui l'a présidée ?
+BOT ++++ Mais c'est Arthur !
+YOU ++++ Alors, ça avance ?
+BOT ++++ Non, pas génial.
+YOU ++++ Qui êtes-vous ?
+BOT ++++ Dites-moi votre nom.
+YOU ++++ Un plan ?
+BOT ++++ Il vous faut quoi ?
+YOU ++++ Qu'est-ce qu'il fout, Merlin ?
+BOT ++++ Je ne suis pas cartomancienne.
+YOU ++++ Bac à fleurs ?
+BOT ++++ Bacchanale ?
+YOU ++++ Que pensez-vous du roi Arthur ?
+BOT ++++ Parlez en toute franchise, vous êtes ici chez les salopards.
+YOU ++++ Vous allez arrêter ?
+BOT ++++ Je peux l'ouvrir ? C'est lourd.
+YOU ++++ Et votre pote ?
+BOT ++++ Il faut quelqu'un au sang chaud.
+YOU ++++ Qu'est-ce que ça vous fait ?
+BOT ++++ Je viens en tant que médiateur.
+YOU ++++ Vous êtes là depuis quand ?
+BOT ++++ Une heure et demie.
+YOU ++++ Je sais bien que je ne devrais pas parler comme ça. Hein, mon con ?
+BOT ++++ Oui, père.
+YOU ++++ On en est encore là ?
+BOT ++++ Je pensais que vous aviez oublié.
+YOU ++++ Mais que faisiez-vous ?
+BOT ++++ On tournait zinzins.
+YOU ++++ Compliqué ?
+BOT ++++ Vous passez pour une clodo.
+YOU ++++ Qu'est-ce qu'on fait ?
+BOT ++++ Bon, on va démarrer.
+YOU ++++ C'est clair ?
+BOT ++++ OK, comme vous voulez.
+YOU ++++ Dehors ?
+BOT ++++ Par exemple.
+YOU ++++ Pourquoi sursautez-vous ?
+BOT ++++ Vous m'avez fait sursauter.
+YOU ++++ Je vous dérange ?
+BOT ++++ Attaquez-vous à Arthur, bande de corniauds.
+YOU ++++ À votre beau-père ?
+BOT ++++ Ben... c'est déjà moins dur que de trouver le Graal.
+YOU ++++ Quoi ?
+BOT ++++ Lancez-vous.
+YOU ++++ Donc Kaamelott ?
+BOT ++++ C'est fini.
+YOU ++++ Par exemple ?
+BOT ++++ Vous lui dites :
+YOU ++++ Au boulot ?
+BOT ++++ Allez.
+YOU ++++ Qu'est-ce que j'aurais pris, si j'avais frappé ?
+BOT ++++ Un gros pain dans votre tête.
+YOU ++++ Vous savez pas boire ?
+BOT ++++ Je sais ni boire, ni manger, ni m'habiller, ni me laver, ni rien.
+YOU ++++ Ou c'était la chèvre ?
+BOT ++++ Non, je crois que ça venait des arbres.
+YOU ++++ Que puis-je faire pour vous ?
+BOT ++++ J'étais venu voir les jumelles.
+YOU ++++ Qui c'est ?
+BOT ++++ J'arrive au milieu de...
+YOU ++++ Il faut que je me fâche ?
+BOT ++++ Il est trop pourri, le discours !
+YOU ++++ Que faites-vous là ?
+BOT ++++ À votre avis ?
+YOU ++++ Qu'est-ce que ça peut lui foutre ?
+BOT ++++ S'il y en avait un, ça serait plus facile pour lui.
+YOU ++++ On trouvera mieux, séparés ?
+BOT ++++ On couvre plus de distance.
+YOU ++++ Vous ne l'avez pas revu ?
+BOT ++++ Ils me l'ont repris et l'ont emmené à Rome pour en faire un soldat.
+YOU ++++ Le côté chaleureux, on le trouve chez tous les guides ou juste chez vous ?
+BOT ++++ Elle est assez "normale", la route ?
+YOU ++++ C'est quoi, une donne bissextile ?
+BOT ++++ Ça m'emmerde, de vous raconter des trucs...
+YOU ++++ Comment ça s'appelle ?
+BOT ++++ Le boulgour.
+YOU ++++ On peut trouver un autre truc ?
+BOT ++++ Que quoi ?
+YOU ++++ C'est vous ?
+BOT ++++ J'ai reconnu la voix.
+YOU ++++ Ça avance bien. Vous êtes content ?
+BOT ++++ Les choses avancent petit à petit.
+YOU ++++ Vous pensez qu'ils vont s'intéresser à nous ?
+BOT ++++ On a bien fait de fermer les volets.
+YOU ++++ Un envahisseur emporte sa propre nourriture, non ?
+BOT ++++ Que voulez-vous dire ?
+YOU ++++ "Léodagan" ?
+BOT ++++ Oui.
+YOU ++++ Les moustiques ne vous ont pas dérangée ?
+BOT ++++ Non. Vous non plus.
+YOU ++++ Vous foutez quoi, là ?
+BOT ++++ Rien.
+YOU ++++ C'est pris aussi. Qui est là ?
+BOT ++++ Sire.
+YOU ++++ Où allez-vous ?
+BOT ++++ Dehors. À ma place.
+YOU ++++ Sire ?
+BOT ++++ Je reprends : vous vous plaignez de quoi ?
+YOU ++++ Quoi ?
+BOT ++++ Vous ne répondez plus ?
+YOU ++++ J'adore les marchés. Pas vous ?
+BOT ++++ Je sais pas.
+YOU ++++ De quoi je me mêle ?
+BOT ++++ C'est pas ça.
+YOU ++++ Quoi ?
+BOT ++++ Quel prologue !
+YOU ++++ Alors ?
+BOT ++++ Non, rien.
+YOU ++++ Vous voulez que j'y aille ?
+BOT ++++ Pour foutre la merde ?
+YOU ++++ On va pas à la cueillette ?
+BOT ++++ Sans moi.
+YOU ++++ C'étaient pas des marchands ?
+BOT ++++ Ils viennent par ici.
+YOU ++++ Vous avez jamais profité d'une prisonnière peut-être ?
+BOT ++++ Non, figurez-vous.
+YOU ++++ Quels châssis ?
+BOT ++++ Pour faire les cadres.
+YOU ++++ C'est pas à se bouffer les rognons ?
+BOT ++++ Je sais pas pourquoi je dis ça.
+YOU ++++ Après, qui nous regardera ?
+BOT ++++ Un seul représentera tous les villageois.
+YOU ++++ Ça vous a pas suffi, l'autre fois ?
+BOT ++++ J'avais des ordres.
+YOU ++++ De quoi ?
+BOT ++++ Je sais pas. J'écoutais pas.
+YOU ++++ Et on devrait casquer ?
+BOT ++++ Regardez-le bien.
+YOU ++++ Qui ça ?
+BOT ++++ Les Burgondes.
+YOU ++++ Je ne pose pas les bonnes questions ?
+BOT ++++ Soupir.
+YOU ++++ Vous êtes sûr ?
+BOT ++++ Quand on veut être sûr de son coup, Dagonet, on plante des navets, on ne pratique pas le putsch.
+YOU ++++ Évaluer quoi ?
+BOT ++++ Les ordres sont clairs.
+YOU ++++ "Une porte qui s'ouvre" ?
+BOT ++++ Avant, on passait par la porte qui s'ouvre pas ou le toit.
+YOU ++++ Ou ça fait doublon avec l'espionnage ?
+BOT ++++ Ce serait pas un cake, votre espion ?
+YOU ++++ Ni ?
+BOT ++++ Ils m'ont...
+YOU ++++ Avec une robe, tout ?
+BOT ++++ Oui.
+YOU ++++ C'est quoi, ces médaillons ?
+BOT ++++ Mon père les fait.
+YOU ++++ La vie qui vaut plus ?
+BOT ++++ Si on tombe dans une embuscade, il vaut mieux que ce soit vous.
+YOU ++++ On arrête, hein ?
+BOT ++++ J'ai fait le tour.
+YOU ++++ Il a réussi ?
+BOT ++++ Non.
+YOU ++++ Vous êtes venus pour quoi faire ?
+BOT ++++ On veut quitter
+YOU ++++ "Vous m'avez dit" ?
+BOT ++++ J'ai dit quoi ? "Peut-être."
+YOU ++++ Ça va ?
+BOT ++++ Oui. Excusez-moi.
+YOU ++++ M. Sire, en personne ?
+BOT ++++ Fin du boulot ?
+YOU ++++ Ah bon ?
+BOT ++++ À ne pas donner à un sous-fifre.
+YOU ++++ Vous entendez ? Il y a une souris.
+BOT ++++ Non.
+YOU ++++ Gonzesses ?
+BOT ++++ Bohort, on vous parle.
+YOU ++++ "Plus de reine" ? N'exagérez pas.
+BOT ++++ Ce n'est pas ça ?
+YOU ++++ "Congédié" ? Ma femme ?
+BOT ++++ Il ferait beau voir.
+YOU ++++ C'est une blague ?
+BOT ++++ Avec Karadoc au pouvoir, c'est la fin.
+YOU ++++ De quoi ?
+BOT ++++ Il y a la duchesse d'Aquitaine.
+YOU ++++ Quoi ?
+BOT ++++ Ils vous ont viré.
+YOU ++++ Le rapport avec le fait qu'il ne réponde pas ?
+BOT ++++ Sortez et trouvez quelqu'un.
+YOU ++++ Vous voulez vraiment pas régner juste quelques semaines ?
+BOT ++++ Ah non, mais... comme ça.
+YOU ++++ "Des bestioles" ?
+BOT ++++ Sire, c'était pas des bestioles.
+YOU ++++ Vous voulez pas les aider, pour rendre service ?
+BOT ++++ Gouverner un royaume, c'est rendre service, pour vous ?
+YOU ++++ Je m'occupe pas de l'espionnage ?
+BOT ++++ Si... mais là, c'était quand même plutôt sérieux.
+YOU ++++ Qui ça ?
+BOT ++++ On remet la petite sur le trône.
+YOU ++++ Je fais quoi ?
+BOT ++++ Je... je ne sais pas.
+YOU ++++ C'est comment, déjà ?
+BOT ++++ L'adoubement.
+YOU ++++ C'est quoi, cette autorité ?
+BOT ++++ C'est vous.
+YOU ++++ Vous êtes sur de vous ?
+BOT ++++ Oui.
+YOU ++++ Qu'est-ce qu'il y a ?
+BOT ++++ Non.
+YOU ++++ Elle peut servir ?
+BOT ++++ Non.
+YOU ++++ Et ici ?
+BOT ++++ C'est pareil.
+YOU ++++ Si vous êtes si fidèle à Arthur, pourquoi venir essayer ?
+BOT ++++ Mais déjà, je vous emmerde.
+YOU ++++ Vous lui avez dit ça ?
+BOT ++++ Non. J'ai dit qu'on voulait pas d'un con d'herboriste et qu'il valait mieux qu'il glande à l'abri.
+YOU ++++ Retire-t-on l'épée du rocher ou pas ?
+BOT ++++ Il y a le pour et le contre.
+YOU ++++ On parlait de la trace ?
+BOT ++++ J'avais pas compris.
+YOU ++++ Il se promène ?
+BOT ++++ Je vais replanter Excalibur.
+YOU ++++ Vous l'éteignez, votre bougie ?
+BOT ++++ Ça va, oui ?
+YOU ++++ "Mise en garde" ?
+BOT ++++ C'est nul.
+YOU ++++ Ça va durer encore, votre histoire ?
+BOT ++++ Car là...
+YOU ++++ Vous êtes à votre max, ou vous avez encore de la marge ?
+BOT ++++ Je pourrais chanter.
+YOU ++++ Qu'est-ce que c'est ?
+BOT ++++ Ha !!
+YOU ++++ Ça protège ? C'est tout fin.
+BOT ++++ Je vais passer la mienne.
+YOU ++++ Je dois fouiller tout ça ?
+BOT ++++ Il y a rien à fouiller car tout est classé, répertorié.
+YOU ++++ Une hache ?
+BOT ++++ Oui, j'ai tué une poule.
+YOU ++++ Qu'est-ce qu'il y a à juger ?
+BOT ++++ Avez-vous viré la catapulte ?
+YOU ++++ Ne croyez-vous pas ?
+BOT ++++ Moi, quand je n'ai plus rien à faire ici, je me retire.
+YOU ++++ Une de mes jumelles est enceinte ?
+BOT ++++ Ben, attendez, il m'a semblé.
+YOU ++++ Quoi ?
+BOT ++++ Ben oui. Désolée.
+YOU ++++ Léodagan ?
+BOT ++++ Non. Pas celui-là.
+YOU ++++ Vous voyez ?
+BOT ++++ Loquet.
+YOU ++++ C'est drôle ?
+BOT ++++ Ça peut faire sourire.
+YOU ++++ Ah oui ?
+BOT ++++ C'est tout moisi, seigneur breton.
+YOU ++++ En petite tenue ?
+BOT ++++ Comme ça, vous vous habillerez.
+YOU ++++ Comment on fait ?
+BOT ++++ Quoi ?
+YOU ++++ Battue ?
+BOT ++++ Non.
+YOU ++++ Infortune ?
+BOT ++++ De notre infortune.
+YOU ++++ C'est quoi ?
+BOT ++++ La Bretagne.
+YOU ++++ Baptisée ?
+BOT ++++ Non.
+YOU ++++ Vous êtes là ?
+BOT ++++ Il est surpris parce qu'il ne lui viendrait pas à l'idée qu'on soit ici à sa demande.
+YOU ++++ Vous, que faites-vous là ?
+BOT ++++ Euh... Je me repose.
+YOU ++++ Après une panique pareille ?
+BOT ++++ Mais quoi ? Qu'y a-t-il encore ?
+YOU ++++ Croyez-vous être ici pour vous conduire comme une femme ?
+BOT ++++ Si vous m'avez fait venir pour tuer, vous vous êtes trompé.
+YOU ++++ Mais vous avez foiré, c'est ça ?
+BOT ++++ Je vais la récupérer.
+YOU ++++ Vous 2, vous supervisez ?
+BOT ++++ On ne participe pas.
+YOU ++++ Où est Merlin ?
+BOT ++++ J'en sais rien.
+YOU ++++ Ça dépend de quoi ?
+BOT ++++ De qui c'est.
+YOU ++++ Pourquoi ce sourire, grand cornichon ?
+BOT ++++ Je souris pas.
+YOU ++++ Pardon ?
+BOT ++++ Vous n'avez rien dit.
+YOU ++++ Expliquer toujours la même chose à des glandus qui pigent rien ?
+BOT ++++ Ça en fait partie.
+YOU ++++ Qu'est-ce que c'est ?
+BOT ++++ C'est quoi ?
+YOU ++++ Vous voulez partir ?
+BOT ++++ J'ai pas dit ça.
+YOU ++++ Et Guenièvre ?
+BOT ++++ Vous avez un plan ?
+YOU ++++ Lui ou un autre, ça change quoi ?
+BOT ++++ Notre roi le sait-il ?
+YOU ++++ Mon arc ?
+BOT ++++ Je ne sais pas m'en servir.
+YOU ++++ Mais de quoi je me mêle ?
+BOT ++++ Recrutez votre propre équipe.
+YOU ++++ C'est un de vos raccourcis ?
+BOT ++++ A l'aller, j'ai pas eu de falaise.
+YOU ++++ Si Guenièvre n'est plus reine, vous n'êtes plus beaux-parents ?
+BOT ++++ Si.
+YOU ++++ Vous me prenez pour un brocanteur ?
+BOT ++++ On voit pas ça souvent.
+YOU ++++ Où est l'autre abruti ?
+BOT ++++ Dans la carriole.
+YOU ++++ C'est curieux, non ?
+BOT ++++ Foutez-moi la paix.
+YOU ++++ Et moi, je continue à chercher le Graal ?
+BOT ++++ Pff !
+YOU ++++ Je pourrais rentrer ?
+BOT ++++ Pour qu'on soit tranquilles.
+YOU ++++ De quoi ?
+BOT ++++ Il a une question à poser.
+YOU ++++ Vous glandiez quoi ?
+BOT ++++ Les gardes sont en plein blitz.
+YOU ++++ Quoi ? Merde !
+BOT ++++ Oh !
+YOU ++++ Un hamac, ça vous irait ?
+BOT ++++ Ce sera pas du grand luxe.
+YOU ++++ Le vin étranger est interdit, non ?
+BOT ++++ Oui, mais le local, il est mauvais.
+YOU ++++ C'est encore possible de refuser la mission ?
+BOT ++++ Quand même !
+YOU ++++ J'ai mauvaise mine ?
+BOT ++++ Vous avez rêvé du succès de votre mission ?
+YOU ++++ Et la poulette ?
+BOT ++++ Notre druide prépare une potion.
+YOU ++++ Faut que je dise ça ?
+BOT ++++ Non. Je le dis à vous.
+YOU ++++ Quoi, "ça" ?
+BOT ++++ L'estrade, dans la clairière.
+YOU ++++ Vous savez ça ?
+BOT ++++ Je vous l'ai lu depuis 2 heures, le chapitre "annulations".
+YOU ++++ Je mets des trucs dessus ?
+BOT ++++ Ça va piquer.
+YOU ++++ Comment s'y concentrer ?
+BOT ++++ "Perceval" par-ci,
+YOU ++++ Est-ce une rumeur ?
+BOT ++++ Non. Les espions ont vu la reine partir avec 2 servantes et ses bagages pour rejoindre Lancelot.
+YOU ++++ De me déranger ? C'est pas dur, arrêtez de taper sur la porte !
+BOT ++++ Mes excuses ainsi qu'à la personne...
+YOU ++++ Vous savez qui j'ai vu quand j'ai posé le pied ici ?
+BOT ++++ La 1 re personne à qui j'ai parlé ?
+YOU ++++ Mais qu'est-ce que vous avez foutu ?
+BOT ++++ À quel moment ?
+YOU ++++ "L'oppression romaine" ? Ça va !
+BOT ++++ On n'a pas été salauds !
+YOU ++++ Il se passait quoi, après ?
+BOT ++++ Dans le rêve, je tombais là-dessus, et après, je me suis réveillée.
+YOU ++++ C'est la fête du boudin ?
+BOT ++++ Il arrive encore à l'heure de la bouffe !
+YOU ++++ En pleine forêt ?
+BOT ++++ Non.
+YOU ++++ Vous foutez quoi, là ?
+BOT ++++ Quoi ?
+YOU ++++ Comment ça, vous y allez ?
+BOT ++++ J'ai pas le droit d'essayer ?
+YOU ++++ Il faut tenir un balai en équilibre pour être servi ?
+BOT ++++ Ou quoi, alors ?
+YOU ++++ Mais qui êtes-vous ?
+BOT ++++ Seigneur Lancelot, vous n'aviez pas
+YOU ++++ Ça vous empêche d'être poli ?
+BOT ++++ Non, mais c'est drôle.
+YOU ++++ Qu'attendez-vous ?
+BOT ++++ Taisez-vous !
+YOU ++++ Vous venez, ou vous venez pas ?!
+BOT ++++ Non ! On vient pas.
+YOU ++++ Est-ce que vous vous sentiriez capable d'apprendre un texte par cur ?
+BOT ++++ C'est pas ce que je lui dis.
+YOU ++++ Une comptine ?
+BOT ++++ Je ne sais plus.
+YOU ++++ Vous avez bien dormi ?
+BOT ++++ Non.
+YOU ++++ Molester, c'est tabasser ?
+BOT ++++ Oui.
+YOU ++++ Pardon ?
+BOT ++++ Dégagez.
+YOU ++++ Qu'est-ce qu'on disait ?
+BOT ++++ Ah oui, le magret de canard.
+YOU ++++ Je peux sortir ou pas ?
+BOT ++++ Vous vouliez me voir ?
+YOU ++++ Dites, il est venu, Ketchatar ?
+BOT ++++ "Venu" où ?
+YOU ++++ Est-ce que Monsieur pense que mon histoire avec Perceval est au point mort ?
+BOT ++++ Stop !
+YOU ++++ Vous pétez ?
+BOT ++++ En général, ou maintenant ?
+YOU ++++ Vous me dites qu'il ne sait pas, pour Guenièvre ?
+BOT ++++ Non.
+YOU ++++ Vous le savez, ça ?
+BOT ++++ Merde ! Faut le savoir !
+YOU ++++ Par rapport aux autres semaines ?
+BOT ++++ Lesquelles ?
+YOU ++++ Voilà. Et le recrutement, où il va se faire ?
+BOT ++++ Ici
+YOU ++++ Quoi ?
+BOT ++++ Ça vaut le coup de garder un grand machin vide ?
+YOU ++++ Quoi, non ?
+BOT ++++ J'ai rien dit.
+YOU ++++ Qui c'est, celui-là ?
+BOT ++++ Mon père.
+YOU ++++ Si. Je vous pose la question : où voulez-vous aller ?
+BOT ++++ Aux enfers.
+YOU ++++ Qu'y a-t-il ?
+BOT ++++ Attila !
+YOU ++++ Courir en silence ?
+BOT ++++ Je veux bien, mais vous en serez responsable.
+YOU ++++ Vous leur parlez ?
+BOT ++++ Il est où ?
+YOU ++++ Que voulez-vous que ce soit ?
+BOT ++++ Ben, ils sont tout bizarres.
+YOU ++++ Travaillé à quoi ?
+BOT ++++ À nous emmerder ?
+YOU ++++ Vous en voulez ?
+BOT ++++ Pfiout !
+YOU ++++ Des jumelles ?
+BOT ++++ Ni jumelles, ni personne.
+YOU ++++ Qu'est-ce que ça veut dire ?
+BOT ++++ Et un petit conseil...
+YOU ++++ C'est quoi, ça ?
+BOT ++++ J'ai compris la problématique de la chambre à 2.
+YOU ++++ Vous voyez ça ?
+BOT ++++ Ils viendront de partout.
+YOU ++++ Quoi ?
+BOT ++++ Ils l'ont donnée à personne.
+YOU ++++ La reine a foutu le camp ?
+BOT ++++ Quand j'ai regardé les armoires, hier, j'ai cru à un cambriolage.
+YOU ++++ Et vous nous laissez atteler la carriole, pauvre taré ?
+BOT ++++ Et il monte dedans.
+YOU ++++ C'est pas vrai ? Entrez.
+BOT ++++ WOUH !
+YOU ++++ C'est moi, "l'autre" ?
+BOT ++++ Ben, c'est pas...
+YOU ++++ On doit pas buter le mari ?
+BOT ++++ Et vos lois ?
+YOU ++++ Le boucan ? Super.
+BOT ++++ Si vous comptez faire un truc avec ça, faut l'accorder !
+YOU ++++ Si on vous collait un incompétent militaire, vous en feriez quoi ?
+BOT ++++ Mais il était là avant vous.
+YOU ++++ Vous vous rappelez me dire que je l'ai mise enceinte ?
+BOT ++++ Je m'en souviens.
+YOU ++++ On les laisse s'entretuer ?
+BOT ++++ Oui. Considérez que ça ne nous regarde pas.
+YOU ++++ Vu le prix, je devrais me grouiller ?
+BOT ++++ Non. Lambinez pas, c'est tout.
+YOU ++++ Elle donne déjà ses ordres ?
+BOT ++++ On est autonomes.
+YOU ++++ Si vous deviez désigner quelqu'un pour un poste prestigieux, vous choisiriez votre père ?
+BOT ++++ N'influencez pas !
+YOU ++++ Qui vient le faire ?
+BOT ++++ Pas vous. Un jeune berger.
+YOU ++++ Quoi ? Vous avez le Graal ?
+BOT ++++ C'est une surprise ?
+YOU ++++ Longtemps ?
+BOT ++++ Pas mal.
+YOU ++++ Tu trouves pas ? Tant pis.
+BOT ++++ C'était : sur la branche.
+YOU ++++ Un père ?
+BOT ++++ Pas comme un père !
+YOU ++++ C'est inondé ?
+BOT ++++ J'ai des fuites de pognon !
+YOU ++++ Vous nous reconnaissez pas ?
+BOT ++++ C'est une façon de parler.
+YOU ++++ Oh...?
+BOT ++++ Qu'est-ce qu'il y a ?
+YOU ++++ Pour une bestiole ?
+BOT ++++ C'est votre fille que je veux voir.
+YOU ++++ Pourquoi chercher Madenn ?
+BOT ++++ Pourquoi ? Ben, c'est compliqué.
+YOU ++++ Quoi ?
+BOT ++++ Je trouve rien d'élégant.
+YOU ++++ Quoi ?
+BOT ++++ De toute façon, si je la retire, je vous prends pas comme reine.
+YOU ++++ Sire ?
+BOT ++++ Encore vous ?
+YOU ++++ Vous me libérez ?
+BOT ++++ Oui... Euh, non.
+YOU ++++ Et en cas d'invasion ?
+BOT ++++ Je suis confus.
+YOU ++++ Le sacrifice, vous connaissez ?
+BOT ++++ J'ai pas pratiqué.
+YOU ++++ Pourquoi passer par Venec ?
+BOT ++++ J'en ai, et moins chères.
+YOU ++++ Pendragon, ce ne serait pas un gros taré ?
+BOT ++++ Soyez respectueux.
+YOU ++++ Si les ennemis en renvoient un de chez eux ?
+BOT ++++ Pour nous épier ?
+YOU ++++ Alors ma grande, on a proprement merdé, non ?
+BOT ++++ À quel point de vue ?
+YOU ++++ Le froid ?
+BOT ++++ Plus la mécanique est fine...
+YOU ++++ Mon oncle, saurons-nous narrer notre épopée avec le brio qu'elle mérite ?
+BOT ++++ Vous êtes venus de Kaamelott, c'est pas ça ?
+YOU ++++ Comment ?
+BOT ++++ Selon Karadoc, un lit doit avoir de quoi vivre 8 jours dedans.
+YOU ++++ Vu de ragoût ?
+BOT ++++ Vu de ragoût ?
+YOU ++++ De quoi ?
+BOT ++++ J'ai dit de venir le matin.
+YOU ++++ C'est mon cousin, vous le saviez ?
+BOT ++++ C'est encore un de vos coups tordus.
+YOU ++++ Alors, c'est ici que ça se passe ?
+BOT ++++ Seigneur Lancelot.
+YOU ++++ Quoi ?
+BOT ++++ Les 2 jumelles, là !
+YOU ++++ C'est "ritournelle" ?
+BOT ++++ C'est "raitournelle" et pas "ritournelle".
+YOU ++++ Alors ?
+BOT ++++ Alors quoi ?
+YOU ++++ Bon. Vous ne deviez pas partir ?
+BOT ++++ Il y a du dessert.
+YOU ++++ Ça, une preuve tangible ?
+BOT ++++ On ne peut pas entrer.
+YOU ++++ Quand arrive-t-on à Kaamelott ?
+BOT ++++ Pas tout de suite.
+YOU ++++ Mais qui êtes-vous ?
+BOT ++++ Mon nom ne vous dira rien.
+YOU ++++ Vous ne dites rien ?
+BOT ++++ Quoi ?
+YOU ++++ Vous savez quoi ?
+BOT ++++ On arrête ?
+YOU ++++ Encore ?
+BOT ++++ Il n'y a personne.
+YOU ++++ C'est un test, c'est ça ?
+BOT ++++ Vous croyez que je ne sais pas que la vie ne vaut rien ?
+YOU ++++ Quelle tête ?
+BOT ++++ Plus que d'habitude.
+YOU ++++ Vous me prenez pour un bouseux ?
+BOT ++++ Un seigneur breton s'occupe de sa terre.
+YOU ++++ Mon aventure en chanson ?
+BOT ++++ L'auberge était complète
+YOU ++++ D'avoir pris un coup de binette ?
+BOT ++++ Écoutez. Je vais lui offrir un cadeau pour me faire pardonner.
+YOU ++++ De quoi manger, boire ?
+BOT ++++ Je peux remettre une bûche au feu.
+YOU ++++ Et l'autre, il fait quoi ?
+BOT ++++ C'est pas platonique ?
+YOU ++++ Un quoi ?
+BOT ++++ C'est africain.
+YOU ++++ Je pose la question : pour qui elle se prend ?
+BOT ++++ Elle est louche, je l'avais dit.
+YOU ++++ Vous croyez ?
+BOT ++++ Je vois que ça.
+YOU ++++ C'est pour m'emmerder, d'accord ?
+BOT ++++ Je retranscris la légende, je ne m'immisce pas dans la famille.
+YOU ++++ Sire ! Vous êtes rentré ?
+BOT ++++ Nous nous inquiétions.
+YOU ++++ Est-ce un véhicule ?
+BOT ++++ Non.
+YOU ++++ Quoi ?
+BOT ++++ Je vais ranger ça.
+YOU ++++ Lancelot du Lac ?
+BOT ++++ Oui, lui-même.
+YOU ++++ Qu'y a-t-il ?
+BOT ++++ Des spectres veulent me buter.
+YOU ++++ Que je fasse la lecture ?
+BOT ++++ Parce que j'ai que ça à glander ?
+YOU ++++ Vous n'avez rien trouvé de mieux que ça ?
+BOT ++++ Vous êtes des flèches !
+YOU ++++ Vous pourriez le refaire ?
+BOT ++++ Non, parce que j'aime bien...
+YOU ++++ Vous cherchez les tartes, les frangines ?
+BOT ++++ Guenièvre est revenue.
+YOU ++++ Vous parlez de ses habits ?
+BOT ++++ Non.
+YOU ++++ Y en a pas un qui s'appelle... Kijou ?
+BOT ++++ "Kijou" ?
+YOU ++++ Mais si y a pas d'attaque, comment je mesure votre efficacité ?
+BOT ++++ On peut les attaquer, nous.
+YOU ++++ "À la taverne" ?
+BOT ++++ Ça se couple avec un autre projet.
+YOU ++++ Tu refuses ?
+BOT ++++ J'ai plus faim.
+YOU ++++ Vous méprisez Tintagel ?
+BOT ++++ Vous n'y foutez jamais les pieds.
+YOU ++++ Vos maîtresses m'en veulent ?
+BOT ++++ Non... Non.
+YOU ++++ Mais oui, il y a un barbu. Kichou ?
+BOT ++++ Oh... Hein ! Vous voyez ?
+YOU ++++ Vous livrez-vous à un échange d'épouses ?
+BOT ++++ On vous permet pas.
+YOU ++++ Un petit mot ?
+BOT ++++ Caca.
+YOU ++++ Elle ressemble à quoi ?
+BOT ++++ Comment ça ?
+YOU ++++ Ils sont incapables de choper une clodo ?
+BOT ++++ Elle a réussi à se faufiler.
+YOU ++++ Comme 6 ?!
+BOT ++++ Prenez-en.
+YOU ++++ Pourquoi ils veulent tous faire ça ?
+BOT ++++ C'est à la mode ?
+YOU ++++ Pas seul ?
+BOT ++++ Si. Je suis seul, avec mes amis marchands de bêtes.
+YOU ++++ À quel âge ?
+BOT ++++ 4 ans.
+YOU ++++ Tout va bien, quoi ?
+BOT ++++ Non, mais ils y sont pour rien.
+YOU ++++ Ah bon ?
+BOT ++++ Vous avez dit "oui", c'est trop tard. On y va ?
+YOU ++++ Sur ?
+BOT ++++ Quoi, "sur" ?
+YOU ++++ Les mouvements de troupe m'inquiètent. Que veulent-ils ?
+BOT ++++ Mon oncle, on devrait se battre pour les forcer à avouer.
+YOU ++++ Sur des drakkars vikings ?
+BOT ++++ Des drakkars vikings ?
+YOU ++++ Qui est là ?
+BOT ++++ Hé ! Magnifique !
+YOU ++++ Vous aviez mal compris ?
+BOT ++++ Enfin, peu importe.
+YOU ++++ Mais faut vous le dire comment ?
+BOT ++++ Je l'ai pas, ma femme !
+YOU ++++ Alors ?
+BOT ++++ Personne.
+YOU ++++ Ah, je peux partir devant ?
+BOT ++++ Non.
+YOU ++++ Qu'est-il arrivé ?
+BOT ++++ Elle a été piquée.
+YOU ++++ Je peux donner mon avis ?
+BOT ++++ Non. Réunissez les hommes : j'ai un discours.
+YOU ++++ Tiens. Alors on va faire quoi ?
+BOT ++++ On rentre. Celui qui ose affronter l'autre revient cette nuit.
+YOU ++++ Et alors ?
+BOT ++++ J'en sais rien !
+YOU ++++ Il est encore là ?
+BOT ++++ Je vous écoute.
+YOU ++++ Que voulez-vous ? Partir ?
+BOT ++++ Non, je préfère pleurer que de vous abandonner.
+YOU ++++ Vous ici ?
+BOT ++++ Je sais pas, je suis toujours là.
+YOU ++++ Mais pour quoi faire ?
+BOT ++++ C'est pas la question.
+YOU ++++ Alors ?
+BOT ++++ Je trouve ça raide, d'être ici pour 3 tonneaux de vin.
+YOU ++++ Ça donne quoi ?
+BOT ++++ Rien !
+YOU ++++ L'unijambiste qui m'a tapé, ça peut être héréditaire ?
+BOT ++++ Contagieux.
+YOU ++++ Balèse en géographie ?
+BOT ++++ Pas en tactique...
+YOU ++++ On est une équipe ?
+BOT ++++ Ensemble, on joue sans risque.
+YOU ++++ Quoi ?
+BOT ++++ Non. C'est rien.
+YOU ++++ Je peux pas le commander ?
+BOT ++++ Ça y est, j'ai dit oui.
+YOU ++++ Oui ?
+BOT ++++ Je regrette de l'avoir interrompu, et je vous laisse.
+YOU ++++ Mais quoi ?
+BOT ++++ Je ne veux voir personne.
+YOU ++++ Quoi ?
+BOT ++++ Excusez-nous, Sire.
+YOU ++++ Vous m'avez fait venir pour ça ?
+BOT ++++ Si c'est ça...
+YOU ++++ Alors ?
+BOT ++++ Alors quoi ?
+YOU ++++ Pourquoi on discute ?
+BOT ++++ S'il est avec la femme de Karadoc, je le verrai.
+YOU ++++ Je dois faire un démenti sur un nutritionniste ?
+BOT ++++ Si vous le sentez pas, faut pas vous forcer.
+YOU ++++ On fait quoi ?
+BOT ++++ On picole.
+YOU ++++ Vous les emportez à la taverne ?
+BOT ++++ Juste les nôtres.
+YOU ++++ L'héritier ?
+BOT ++++ Quelle bonne idée, ça.
+YOU ++++ De quoi ?
+BOT ++++ Sans dire de nom, tout le monde comprend qui c'est.
+YOU ++++ Et vous, vous dites rien ?
+BOT ++++ Non car étonnamment, on m'a pas désigné pour descendre.
+YOU ++++ Que faites-vous ?
+BOT ++++ Arrêtez-vous 5 min, pour nous cuisiner une bonne omelette.
+YOU ++++ Je peux faire quelque chose ?
+BOT ++++ Avez-vous à manger à portée de main ?
+YOU ++++ D'où venez-vous ?
+BOT ++++ Merde.
+YOU ++++ "Chougne". C'est-à-dire ?
+BOT ++++ D'après ma femme, après, faut voir,
+YOU ++++ Ne surélevez pas le lit, que voulez-vous ?
+BOT ++++ Mon brave ?
+YOU ++++ Maintenant, si ?
+BOT ++++ Non, je m'en fous.
+YOU ++++ Ah ! Vous avez entendu ?
+BOT ++++ Non.
+YOU ++++ Comment ça, "coincé" ?
+BOT ++++ Un caillou.
+YOU ++++ Depuis quand n'avez-vous pas vu les jumelles ?
+BOT ++++ Je sais plus...
+YOU ++++ Vous cuisinez ?
+BOT ++++ Non, mais...
+YOU ++++ On y va, là ?
+BOT ++++ Ouais.
+YOU ++++ Ça va pas recommencer ?
+BOT ++++ Vous allez prendre un marron.
+YOU ++++ Quoi ?
+BOT ++++ Je vous vire ?
+YOU ++++ C'est les miennes ?
+BOT ++++ C'est des jumelles qui...
+YOU ++++ Vous faites quoi ?
+BOT ++++ C'est secret, OK ?
+YOU ++++ Et la collaboration ?
+BOT ++++ Chacun de son côté.
+YOU ++++ C'est quoi ?
+BOT ++++ Il est bizarre.
+YOU ++++ Et votre chambre ?
+BOT ++++ Je me suis engueulé avec ma femme aussi.
+YOU ++++ Votre choix ?
+BOT ++++ Le père ou l'oncle ?
+YOU ++++ Un oncle ?
+BOT ++++ Exactement ! Un oncle !
+YOU ++++ Pas d'objection ?
+BOT ++++ Ça changerait rien.
+YOU ++++ Comment on dit ?
+BOT ++++ Quoi ?
+YOU ++++ Si je vous le demandais, vous accepteriez ?
+BOT ++++ Ce que je veux dire, c'est que c'est lui qui se met de côté.
+YOU ++++ Ça vous fait rire ?
+BOT ++++ Non.
+YOU ++++ Alors qu'est-ce que je risque à la replanter ?
+BOT ++++ Je la laisse une semaine, les autres essaient, je la récupère et je suis encore le patron.
+YOU ++++ Dites, j'espère que vous vous êtes tu ?
+BOT ++++ À propos de quoi ?
+YOU ++++ Ah bon ?
+BOT ++++ C'est à ce moment-là que...
+YOU ++++ Son souverain est Arthur. C'est un problème ?
+BOT ++++ Non, tant que vous passez pas.
+YOU ++++ Les éléphants ?
+BOT ++++ Non. Les orphelins.
+YOU ++++ C'est pris ?
+BOT ++++ Eh ben, ouais.
+YOU ++++ Vous ne faites que dormir parce que vous n'êtes plus roi ?
+BOT ++++ Vous savez, les gens qui sont pas rois, dans la vie, ils ont quand même des activités.
+YOU ++++ Alors ?
+BOT ++++ Zut !
+YOU ++++ C'est vrai ?
+BOT ++++ J'ai répondu non.
+YOU ++++ Qu'en pensez-vous ?
+BOT ++++ Dans une certaine mesure, la mer, c'est pas votre truc.
+YOU ++++ Un coup, Sire ?
+BOT ++++ Le Burgonde vient ici, pas dans la salle à manger.
+YOU ++++ Ça vous va ?
+BOT ++++ Rasez le camp, mais pas tout de suite.
+YOU ++++ Vous pigez ce qu'on vous dit ?
+BOT ++++ Ah mais, moi aussi, je vais dormir ?
+YOU ++++ Qui voilà ?
+BOT ++++ Le Seigneur Bohort.
+YOU ++++ Ou c'est suivant ce qu'on répond ?
+BOT ++++ On attend quoi, là ?
+YOU ++++ Ça ne va pas ?
+BOT ++++ Si, mais 2 secondes !
+YOU ++++ Non. Je m'en fous. Mais lui ?
+BOT ++++ Il dort.
+YOU ++++ C'est ça ?
+BOT ++++ Où vous étiez, quand on préparait mon mariage, avec une gourde ?
+YOU ++++ Quelles sont les vôtres ?
+BOT ++++ Je vous signale que vous aussi, vous êtes encore au lit.
+YOU ++++ Ou des explorateurs ?
+BOT ++++ Des marchands avec des denrées rares.
+YOU ++++ Maintenant que l'erreur est rectifiée, vous me remplacez ?
+BOT ++++ Ben... Ça nous fait court pour nous retourner.
+YOU ++++ Baryton ?
+BOT ++++ nie !
+YOU ++++ Comment ça ?
+BOT ++++ S'il a un peu plus de tonus au plumard !
+YOU ++++ À votre avis, qui donc sont ces bourgeois ?
+BOT ++++ Comment voulez-vous que je le sache ?
+YOU ++++ De quoi ?
+BOT ++++ C'est pas parce que vous avez les pieds froids que je ne vous touche pas.
+YOU ++++ Est-ce normal qu'Arthur ne revienne pas ?
+BOT ++++ Il reviendra quand il reviendra.
+YOU ++++ Qu'est-ce qu'on va en foutre ?
+BOT ++++ On se bat sans épée.
+YOU ++++ C'est qui ?
+BOT ++++ La reine Guenièvre.
+YOU ++++ Vous avez vu votre état ?
+BOT ++++ Je vais voir la garde.
+YOU ++++ Je fais pas ça ?
+BOT ++++ Mais faites-le sans râler.
+YOU ++++ Et je suis le paramètre hasardeux ?
+BOT ++++ Les combines débiles, j'en vois assez défiler à la Table ronde pour ne pas que ça recommence au pageot.
+YOU ++++ "Vous avez jamais connu vos parents ?"
+BOT ++++ Je réponds : "Non."
+YOU ++++ Ah ouais ?
+BOT ++++ On va pouvoir s'arranger.
+YOU ++++ Je soulève seul ?
+BOT ++++ Le temps que je retire les papiers.
+YOU ++++ File indienne ou queue leu leu ?
+BOT ++++ Ah oui.
+YOU ++++ Pourquoi ?
+BOT ++++ Car j'ai certaines choses à vous dire.
+YOU ++++ C'est pas grave. C'est qui ?
+BOT ++++ Je me souviens plus.
+YOU ++++ Et les chevaux ?
+BOT ++++ On demande.
+YOU ++++ Vous habitez là ?
+BOT ++++ Pas vraiment. Des fois, ailleurs.
+YOU ++++ Je peux pleurer ?
+BOT ++++ On approche.
+YOU ++++ Je peux commander Perceval ?
+BOT ++++ Commander Perceval ?
+YOU ++++ Quoi ?
+BOT ++++ Ils chiaient partout.
+YOU ++++ On y ferait quoi ?
+BOT ++++ Je me disais :
+YOU ++++ Vraiment ?
+BOT ++++ C'est trop balèze pour moi.
+YOU ++++ J'ai pas raison ?
+BOT ++++ Que voulez-vous ? Ils doivent voir le roi.
+YOU ++++ Et si vous restiez ?
+BOT ++++ Pourquoi je viens ?
+YOU ++++ Pourquoi non ?
+BOT ++++ Je suis pas leur bonniche !
+YOU ++++ On fait quoi pour négocier ?
+BOT ++++ Il va rien piger et penser qu'on est en guerre.
+YOU ++++ Qu'est-ce que vous foutez là, tous les deux ?
+BOT ++++ Me faire donner des leçons par vous, ça me troue.
+YOU ++++ Vous n'êtes plus roi ?
+BOT ++++ Les choses ont changé, depuis votre départ.
+YOU ++++ Quoi ? Je vous fais une tartine ou pas ?
+BOT ++++ Pfiout !
+YOU ++++ Vous êtes pas un espion ?
+BOT ++++ Il vaudrait mieux le dire.
+YOU ++++ Quoi ?
+BOT ++++ Quoi ?
+YOU ++++ Que se passe-t-il ?
+BOT ++++ On a été attaqués.
+YOU ++++ Qui ça ?
+BOT ++++ Vous deux.
+YOU ++++ Comment ça ?
+BOT ++++ On a passé le solstice d'hiver, donc on est en hiver.
+YOU ++++ "Inquiet" ?
+BOT ++++ Inquiet de quoi ?
+YOU ++++ Mais alors ?
+BOT ++++ Ah, c'est aujourd'hui...
+YOU ++++ Pourquoi vous vous défilez ?
+BOT ++++ Combien de temps dure la mission de la caverne ?
+YOU ++++ Que fait-on ?
+BOT ++++ On tire ?
+YOU ++++ Vous savez les reconnaître ?
+BOT ++++ On peut se fier au dessin.
+YOU ++++ Alors ?
+BOT ++++ Alors, merde.
+YOU ++++ Quoi ?
+BOT ++++ Occupons-nous un poste de prestige ?
+YOU ++++ Mince, et en démons ?
+BOT ++++ Non plus.
+YOU ++++ Donc, ça change pas d'avant ?
+BOT ++++ Non, ne soyez pas déstabilisé.
+YOU ++++ Hein ?
+BOT ++++ On peut parler à qui de droit, pour vous.
+YOU ++++ Je vais le frapper ?
+BOT ++++ Non.
+YOU ++++ Sur une échelle ?
+BOT ++++ Une échelle de 1 à 100.
+YOU ++++ Que faites-vous là ?
+BOT ++++ Je vous attendais.
+YOU ++++ Quoi ?
+BOT ++++ Il y a un problème ?
+YOU ++++ Pourquoi on est venus ?
+BOT ++++ Il faudrait que je me décide ?
+YOU ++++ Après c'est pareil, gonzesses ou bonshommes ?
+BOT ++++ Qu'y a-t-il ?
+YOU ++++ Estimez-vous heureux de ranger. Oui ?
+BOT ++++ Je suis à plat...
+YOU ++++ On a fait ça quand ?
+BOT ++++ Avant hier.
+YOU ++++ Pourquoi ?
+BOT ++++ C'est la séance de doléances.
+YOU ++++ Ça se dit pas ?
+BOT ++++ Si, redondants, pardon.
+YOU ++++ Non, où êtes-vous ?
+BOT ++++ Salle de bain.
+YOU ++++ Dois-je toujours vous coller un ordre ?
+BOT ++++ Mettez de l'ordre ici !
+YOU ++++ Bon... Serait-il possible de voir Arthur ?
+BOT ++++ Non.
+YOU ++++ Vous boudez ?
+BOT ++++ Non.
+YOU ++++ Insinuez-vous qu'en fondant un clan autonome, on quitte Kaamelott ?
+BOT ++++ On n'y habite plus ?
+YOU ++++ Ils sont pas tous là pour l'épée ?
+BOT ++++ Il y en a peut-être qui nettoient.
+YOU ++++ Comme l'autre fois, vous allez rester près du feu à me regarder et repartir comme ça ?
+BOT ++++ C'est pas dur de dire son nom, bon Dieu.
+YOU ++++ Décelez-vous dans l'air ce je-ne-sais-quoi de piquant ?
+BOT ++++ Vous m'êtes familier et troublant à la fois.
+YOU ++++ Alors qu'auriez-vous à me raconter ?
+BOT ++++ Vous connaissez bien Madenn ?
+YOU ++++ "Ça", quoi ?
+BOT ++++ Quand on se baisse pour faire le point, ça fait pro.
+YOU ++++ Attendez. Vous parlez de moi ?
+BOT ++++ Mais non.
+YOU ++++ Si vous aviez un fils avec une maîtresse, ce serait un bâtard ?
+BOT ++++ Oui.
+YOU ++++ Vous allez nous attaquer ?
+BOT ++++ Ou nous frapper ?
+YOU ++++ Vous insinuez que je vais rater mon coup ?
+BOT ++++ Je ne sais pas.
+YOU ++++ Il bluffe ?
+BOT ++++ Comment savoir ?
+YOU ++++ Qui, Dagonet ?
+BOT ++++ Oui.
+YOU ++++ Quoi ?
+BOT ++++ Démétra aurait dit que la 1re nuit, elle pensait avoir été piétinée par un cheval.
+YOU ++++ Alors on enfonce la porte ?
+BOT ++++ Là, oui, d'accord.
+YOU ++++ Vous n'avez pas d'enfant ?
+BOT ++++ Peut-être, mais j'arrive pas à les trouver.
+YOU ++++ Où ça ?
+BOT ++++ Relever mes collets, mes pièges à oiseaux.
+YOU ++++ Vous le savez ?
+BOT ++++ Ça change quoi ?
+YOU ++++ Les autres le savent ?
+BOT ++++ Qui ça ?
+YOU ++++ Pardon ?
+BOT ++++ Je ne comprends rien et je ne fais que suivre.
+YOU ++++ Il n'a pas souffert ?
+BOT ++++ C'est allé assez vite, mais j'ai dû m'y reprendre à 2 fois.
+YOU ++++ Ah bon ?
+BOT ++++ Certains écrivent pour exprimer leur joie.
+YOU ++++ On va à Kaamelott ?
+BOT ++++ Je peux vous poser une question ?
+YOU ++++ De quoi ?
+BOT ++++ Le roi risque de se faire tuer pour une histoire de gonzesse.
+YOU ++++ Quoi ?
+BOT ++++ Oui, c'est quoi ? Qu'on sache.
+YOU ++++ Et s'il y a un accroc ?
+BOT ++++ Et si un dingo la retirait ?
+YOU ++++ Ah non ?
+BOT ++++ Non.
+YOU ++++ Besoin d'autre chose ?
+BOT ++++ Ça dépend de vous.
+YOU ++++ Et alors ?
+BOT ++++ Qu'est-ce qu'on fait ?
+YOU ++++ C'est bon ? Tout est clair ?
+BOT ++++ Vous serez pas déçu.
+YOU ++++ Vous ferez vos machins dehors ?
+BOT ++++ Et Kaamelott ?
+YOU ++++ Vous me prenez pour un détrousseur ?
+BOT ++++ Vous savez qui je suis ?
+YOU ++++ Votre rapport ?
+BOT ++++ Avec qui ?
+YOU ++++ Vous avez pu les faire ?
+BOT ++++ Oui. Avec Elias.
+YOU ++++ Alors, vous n'allez plus vous balader avec vos comiques ?
+BOT ++++ Mes comiques ?
+YOU ++++ Qui ça, nous ?
+BOT ++++ Nous ! C'est moi !
+YOU ++++ C'est quoi ?
+BOT ++++ Je suis à la place de Galessin, le traître.
+YOU ++++ "3 contre 1" ?
+BOT ++++ Il a les miquettes, le roi.
+YOU ++++ Pourquoi poser des questions au repas ?
+BOT ++++ C'est vous qui trouvez ça simple.
+YOU ++++ Voilà. C'est pas méchant, non ?
+BOT ++++ On ne va pas soulever ça !
+YOU ++++ Je peux y aller ? Seigneur Lancelot ignorait si je pourrais repartir.
+BOT ++++ C'est bon.
+YOU ++++ Qu'est-ce qui vous arrive ?
+BOT ++++ Je peux vous toucher ?
+YOU ++++ "Essayer" quoi ?
+BOT ++++ Le couteau de votre père.
+YOU ++++ Mais qu'est-ce que vous cherchez ?
+BOT ++++ Votre descendance ?
+YOU ++++ D'accord ?
+BOT ++++ A-t-on déjà été tous d'accord ?
+YOU ++++ Par peur du duc ?
+BOT ++++ Si je m'allonge là, il peut me demander réparation.
+YOU ++++ Quel genre ?
+BOT ++++ Genre :
+YOU ++++ Par quoi ?
+BOT ++++ Par des salopes de guêpes.
+YOU ++++ Vous êtes heureux ?
+BOT ++++ C'est plus compliqué que ça, mais... ça va venir.
+YOU ++++ On revient pour la table ronde ?
+BOT ++++ Ça, c'est le bouquet.
+YOU ++++ Je suis aussi devenue mortelle ?
+BOT ++++ Non... Mais non !
+YOU ++++ Que fait-il encore là ?
+BOT ++++ J'en sais rien !
+YOU ++++ Moi, je fais quoi ?
+BOT ++++ En tout cas, dans 1 heure, on est au large.
+YOU ++++ Ne sommes-nous pas trop jeunes pour devenir rois de Bretagne ?
+BOT ++++ Carrément.
+YOU ++++ Comment passer à côté d'une occasion de faire quelque chose de sa vie ?
+BOT ++++ Ça m'échappe.
+YOU ++++ Non. À la pêche ?
+BOT ++++ 14 ans.
+YOU ++++ Vous allez me faire habiter à la taverne ?
+BOT ++++ Oui. Je veux que vous empaquetiez tout.
+YOU ++++ À cause de qui ?
+BOT ++++ Bien manigancé !
+YOU ++++ Des réunions de quoi, au juste ?
+BOT ++++ Des réunions... pour organiser le gouvernement.
+YOU ++++ Et il y en a une enceinte ?
+BOT ++++ Oui. Ça se sait, ça.
+YOU ++++ Quelqu'un viendra-t-il nous sauver de notre "infortuité" ?
+BOT ++++ Infortune.
+YOU ++++ Et pourquoi ?
+BOT ++++ Parce que c'est déjà fait.
+YOU ++++ Pas marre de ceux qui veulent votre place ?
+BOT ++++ Oh, ben...
+YOU ++++ Comment savoir que c'étaient des Vikings ?
+BOT ++++ Et les cours ?
+YOU ++++ Dans votre chambre ?
+BOT ++++ Bosser dans sa chambre ?
+YOU ++++ Oui ?
+BOT ++++ Je vous provoque en duel.
+YOU ++++ Qu'y a-t-il ?
+BOT ++++ C'est ma nouvelle femme, Guenièvre.
+YOU ++++ Vous savez comment faire ?
+BOT ++++ C'est reparti.
+YOU ++++ Et vous l'invitez ?
+BOT ++++ Je suis roi.
+YOU ++++ Pourquoi ?
+BOT ++++ La reine ne fout rien.
+YOU ++++ Qui ça ?
+BOT ++++ Vous deux, je crois. C'est tout.
+YOU ++++ Assez longtemps. Pourquoi ?
+BOT ++++ Et en avez-vous vu une enceinte ?
+YOU ++++ Combien ?!
+BOT ++++ Ah ! Hé !
+YOU ++++ Donc il faut l'amener vers le rempart est. Ça sert à quoi, là ?
+BOT ++++ De toute façon, elle tire pas.
+YOU ++++ Quoi ?
+BOT ++++ C'est Léodagan de Carmélide.
+YOU ++++ C'est pas notre allié ?
+BOT ++++ Mais taisez-vous, mon ami.
+YOU ++++ Vous la bouclez, maintenant ?
+BOT ++++ Pourquoi vous me regardez de travers ?
+YOU ++++ Voeu de silence ?
+BOT ++++ C'est dur, d'être compris.
+YOU ++++ La dame du lac sait pas nager ?!
+BOT ++++ Il faut pas vous en faire.
+YOU ++++ Pourquoi ?
+BOT ++++ On serait exposés.
+YOU ++++ Convaincu ?
+BOT ++++ Non. Je ne suis convaincu de rien du tout.
+YOU ++++ On doit dire ce qu'on pense ?
+BOT ++++ Oui. Pour aiguiller le roi dans ses choix futurs.
+YOU ++++ Qu'allez-vous faire ?
+BOT ++++ Parce que là, peine de mort, pas peine de mort...
+YOU ++++ Est-ce que ça voulait dire que nous allions habiter ici ?
+BOT ++++ Défaites votre bagage.
+YOU ++++ "Comment c'est possible d'être aussi doué avec des arbres ?"
+BOT ++++ Vous avez un talent fou !
+YOU ++++ Et la fierté ?
+BOT ++++ La fierté...
+YOU ++++ Mère, que foutez-vous là ?
+BOT ++++ C'est le pire endroit du lac.
+YOU ++++ Où se trouve l'oiseau ?
+BOT ++++ C'est facile, ça.
+YOU ++++ Vous, vous connaissez Mevanwi ?
+BOT ++++ Elle, non. Mais la lignée des dignitaires de Vannes...
+YOU ++++ Qui veut une tartelette ?
+BOT ++++ MOI !
+YOU ++++ Mais vous ne dormez pas ?
+BOT ++++ Ben...
+YOU ++++ Pourquoi ?
+BOT ++++ Oui, mais...
+YOU ++++ Vous voulez quoi ?
+BOT ++++ Qu'on se batte ?
+YOU ++++ Vous vous levez pas et vous attaquez sans moi ?
+BOT ++++ Ça va pas recommencer.
+YOU ++++ Et Excalibur ?
+BOT ++++ Qui la portera ?
+YOU ++++ Qui l'appelle "sire" ?
+BOT ++++ Mais nom de nom !
+YOU ++++ Que dire de plus ?
+BOT ++++ L'expérience de la table ronde m'a rendu plus fort et plus responsable.
+YOU ++++ Vous me voyez en héros, avec un Graal tatoué ?
+BOT ++++ Non.
+YOU ++++ Caius ?
+BOT ++++ Vous êtes là ?
+YOU ++++ C'est votre style, d'être cul nu ?
+BOT ++++ On nous a dit que vous passeriez vers midi. On a été pris de court.
+YOU ++++ Y a quelqu'un ?
+BOT ++++ Que foutez-vous là ?
+YOU ++++ Le "carré germinal" ici ?
+BOT ++++ Quartier général.
+YOU ++++ Comment je saurais où est Lancelot ?
+BOT ++++ On parle du même ?
+YOU ++++ De qui ?
+BOT ++++ De moi.
+YOU ++++ Qu'avait-il fait, votre gars ?
+BOT ++++ J'en sais rien.
+YOU ++++ Quoi ? Je me suis tapé
+BOT ++++ 2 heures de lecture pour rien ?
+YOU ++++ Et si les dieux voulaient définitivement plus de moi ?
+BOT ++++ Mais non ! Allons...
+YOU ++++ Et alors ?
+BOT ++++ Il m'agace.
+YOU ++++ Tu reçois quand ?
+BOT ++++ Ce n'est pas planifié.
+YOU ++++ Et alors ?
+BOT ++++ Moi non plus.
+YOU ++++ Dites donc... sire, vous êtes sûr que vous n'avez pas sommeil ?
+BOT ++++ D'accord. Faites attention.
+YOU ++++ Elles font ça, les écrevisses ?
+BOT ++++ Non. Leur squelette est à l'extérieur du corps.
+YOU ++++ Je m'exprime mal ?
+BOT ++++ On me comprend pas ?
+YOU ++++ Qu'est-ce qui me vaut cet honneur ?
+BOT ++++ Votre échange d'épouse.
+YOU ++++ D'accord. Vous m'expliquez ?
+BOT ++++ Je vous annonce que je quitte ma fonction.
+YOU ++++ Simplet ?
+BOT ++++ Le démon a vidé ton cerveau.
+YOU ++++ Trous-du-cul ?
+BOT ++++ Non. Du coup, renégats.
+YOU ++++ C'est pour quoi faire ?
+BOT ++++ Pour l'armée.
+YOU ++++ Il est comme ça. Je fais quoi ?
+BOT ++++ Je sais. On se re-sépare et on fait le trajet dans l'autre sens.
+YOU ++++ Ils ne picolent pas, vos espions ?
+BOT ++++ Il n'y a aucun doute.
+YOU ++++ Où est Kadoc ?
+BOT ++++ Dépassez l'aspect.
+YOU ++++ De quoi ?
+BOT ++++ Pas de sauce sur le tapis !
+YOU ++++ "Autonome" ?
+BOT ++++ Comme celui de Lancelot ?
+YOU ++++ Des bêtes. Quelles bêtes ?
+BOT ++++ Toutes sortes.
+YOU ++++ J'ai donné mon accord pour ça ?
+BOT ++++ Apparemment.
+YOU ++++ Et si elle a été détraquée par le froid ?
+BOT ++++ C'est quand même un objet des dieux.
+YOU ++++ Vous voyez ?
+BOT ++++ Vous êtes arrivé dans l'angle.
+YOU ++++ Si c'est la loi ?
+BOT ++++ Vous faites jamais ça.
+YOU ++++ Et si c'est des bandits ?
+BOT ++++ Ne nous collez pas la poisse.
+YOU ++++ Non ! Que racontez-vous ?
+BOT ++++ On n'en sait rien !
+YOU ++++ "Quel roi suis-je ?
+BOT ++++ Un roi sévère ?
+YOU ++++ Le jeu du Pélican ?
+BOT ++++ Non. Le Cul de Chouette.
+YOU ++++ Je peux entrer ?
+BOT ++++ J'aimerais vous parler.
+YOU ++++ Vous deviez pas bosser chez Lancelot ?
+BOT ++++ Je viens chercher des habits pour Madame.
+YOU ++++ Pourquoi ?
+BOT ++++ Mais parce que.
+YOU ++++ Et mes parchemins ?
+BOT ++++ Les nôtres. Vous avez trouvé quelque chose ?
+YOU ++++ Bon, alors ?
+BOT ++++ Vous êtes pressé ?
+YOU ++++ Vous avez les jetons ?
+BOT ++++ Vous m'avez eu aux sentiments.
+YOU ++++ Quoi ? Il y a plein de trucs en retard. La sécurité...
+BOT ++++ Sur ça, on a toujours eu du retard.
+YOU ++++ Oui ! À quoi on vous casque ?
+BOT ++++ À emmerder le monde.
+YOU ++++ Et les marchands ?
+BOT ++++ Ils n'empruntent pas ce sentier.
+YOU ++++ Vous voilà. Que se passe-t-il ?
+BOT ++++ J'entends crier.
+YOU ++++ Vous voulez un taquet ?
+BOT ++++ Le repas est aussi important.
+YOU ++++ Et alors ?
+BOT ++++ Vous êtes chef d'État ou gourdasse ?
+YOU ++++ Elles vous envoient ?
+BOT ++++ C'est compliqué parce que je suis leur porte-parole, mais elles le savent pas.
+YOU ++++ Quoi ?
+BOT ++++ Oui, l'an dernier, il a filé autant de pognon que quand il achète.
+YOU ++++ On fait trop paysans pour vous, duchesse ?
+BOT ++++ Ouais ? Un petit commentaire ?
+YOU ++++ On n'en est plus là, hein ?
+BOT ++++ Possible, et alors ?
+YOU ++++ Que faites-vous là ?
+BOT ++++ On a failli pas venir.
+YOU ++++ Moi ?
+BOT ++++ Ben... vous avez toujours été le plus doué pour la chose martiale.
+YOU ++++ Léodagan ?
+BOT ++++ Si, que je fais. Pourquoi ?
+YOU ++++ Vous êtes pas décédé ?
+BOT ++++ Oui. Mort !
+YOU ++++ Comment, "C'est rien" ?
+BOT ++++ OK, d'accord...
+YOU ++++ De quoi ?
+BOT ++++ Je suis roi.
+YOU ++++ On n'est pas déjà passés là ?
+BOT ++++ Je ne saurais pas dire.
+YOU ++++ Moi ?
+BOT ++++ Pas vous, la cabane.
+YOU ++++ Où est votre épée ?
+BOT ++++ Karadoc, selon la coutume du pays de Vannes, que je défends ardemment, j'ai l'honneur, l'insigne honneur, de vous proposer, en gage de fraternité, d'estime, et de reconnaissance, l'échange de nos épouses respectives.
+YOU ++++ Vous n'êtes pas sensible à ces cris ?
+BOT ++++ Si. Mais j'en ai pas peur.
+YOU ++++ Ben, alors...?
+BOT ++++ Je pense à votre mari.
+YOU ++++ "Du suivant" ?
+BOT ++++ Mais c'est quoi ?
+YOU ++++ Que j'arrange quoi ?
+BOT ++++ Elle s'est barrée !
+YOU ++++ Quel machin ?
+BOT ++++ Le truc pour sonner.
+YOU ++++ Ah bon ?
+BOT ++++ Mmh...
+YOU ++++ Mais qui est Berlewen, alors ?
+BOT ++++ Je ne sais pas.
+YOU ++++ Avoir des chiens, par exemple ?
+BOT ++++ Oh ben...
+YOU ++++ Manger ?
+BOT ++++ Mangez.
+YOU ++++ M'accorderiez-vous un instant ?
+BOT ++++ À part relever mes pièges ou alimenter le feu, j'ai rien de très urgent.
+YOU ++++ Ça se regarde, seulement ?
+BOT ++++ On va en manger.
+YOU ++++ C'est bien. C'est bien pour le corps, mais l'esprit ?
+BOT ++++ Qu'en faites-vous, de l'esprit ?
+YOU ++++ On la retire ou pas ?
+BOT ++++ Oui. Si on ne le fait pas, on le regrettera.
+YOU ++++ Ah bon ? Pourquoi pas ?
+BOT ++++ Vu la situation, avez-vous de l'appétit ?
+YOU ++++ Je vous lâche ?
+BOT ++++ Oui. C'est bon.
+YOU ++++ Vous voulez pas aller récupérer votre femme légitime ?
+BOT ++++ Ça m'arrangerait.
+YOU ++++ C'est-à-dire ?
+BOT ++++ Un démenti de quoi ?
+YOU ++++ Vous y allez ?
+BOT ++++ Ça me mouille le pied.
+YOU ++++ Où ça ?
+BOT ++++ Frappez.
+YOU ++++ Que comptez-vous faire ?
+BOT ++++ J'en ai marre.
+YOU ++++ Des salopes ? Non. Ils ont choisi leur camp, et l'avenir sera juge.
+BOT ++++ Comme salope en Orcanie, y a ma sur : la reine, votre mère.
+YOU ++++ Que faites-vous ici ?
+BOT ++++ En affaire. Et vous, seuls ?
+YOU ++++ Vous allez essayer ?
+BOT ++++ Sûrement. Ce serait trop bête.
+YOU ++++ Ketchatar, c'est pas n'importe quoi ?
+BOT ++++ Tout le monde s'en fout.
+YOU ++++ Alors, du coup ?
+BOT ++++ J'ai essayé d'imaginer ce que vous auriez dit, pour désamorcer.
+YOU ++++ Ah bon ?
+BOT ++++ Celle-ci, les autres...
+YOU ++++ Seigneur Lancelot ?
+BOT ++++ Voilà. Elle sort la tête de l'eau.
+YOU ++++ Que faites-vous ?!
+BOT ++++ Cul-sec.
+YOU ++++ Quoi ?
+BOT ++++ Zut !
+YOU ++++ Je sais pas, et vous ?
+BOT ++++ Pour nous, en Orcanie, le roi Arthur est un joyeux glandu.
+YOU ++++ Vous me laissez partir ?
+BOT ++++ Non.
+YOU ++++ Noyer le poisson ?
+BOT ++++ Voilà.
+YOU ++++ Vous vouliez la remplacer ?
+BOT ++++ Non, mais est-elle encore reine si le roi l'échange ?
+YOU ++++ Je devrais remettre ça ?
+BOT ++++ Moi, je ne me sens pas dépaysée.
+YOU ++++ Encore ? Non.
+BOT ++++ Ça coûte quoi ?
+YOU ++++ Qui êtes-vous, tous les deux ?
+BOT ++++ Qu'est-ce que vous êtes en train de faire ?
+YOU ++++ Pour quoi ?
+BOT ++++ Enfin, vous me comprenez ?
+YOU ++++ Et arrêtez de jouer avec la nourriture, OK ?
+BOT ++++ Au bout d'un moment, ça va bien.
+YOU ++++ Vous vous rappelez votre réponse ?
+BOT ++++ Non.
+YOU ++++ Vous donnerez bien une leçon ?
+BOT ++++ Mais "une leçon" de quoi ?
+YOU ++++ En quoi cela vous concerne ?
+BOT ++++ Vous n'y serez pas.
+YOU ++++ Mais c'est quoi, au juste, un bâtard ?
+BOT ++++ Du point de vue du trône, il serait pas légitime.
+YOU ++++ Vous allez pas passer vos journées à bouffer, si ?
+BOT ++++ Ah ben non !
+YOU ++++ Ni de moi ni d'un autre ?
+BOT ++++ À part vous, il n'y en a pas eu 50.
+YOU ++++ Ça vous plaît pas ?
+BOT ++++ Je veux comprendre.
+YOU ++++ Comment ?
+BOT ++++ Vous voyez qui je suis ?
+YOU ++++ Qu'en savez-vous ?
+BOT ++++ C'est facile !
+YOU ++++ C'est la marée basse ou quoi, là ?
+BOT ++++ Allez, allez !
+YOU ++++ C'est du gros bonnet ?
+BOT ++++ Plutôt.
+YOU ++++ Vous osez ?
+BOT ++++ Parfaitement.
+YOU ++++ Du temps de...?
+BOT ++++ Vous savez bien.
+YOU ++++ Pourquoi s'emmerder avec ça ?
+BOT ++++ D'accord, mais Excalibur, il la replante pas tous les matins.
+YOU ++++ Bohort ?
+BOT ++++ Ben...
+YOU ++++ Vous voulez que je fasse, le planton tout le jour ?
+BOT ++++ Je le fais bien pour vous.
+YOU ++++ Ce serait pas la femme du chevalier Sifrelot ?
+BOT ++++ Faites vos commissions vous-même.
+YOU ++++ Le chauve, là, à moustache... Non ?
+BOT ++++ Pareil, lui.
+YOU ++++ Donc, Yvain, vous, c'est plus chevalier au Lion ?
+BOT ++++ Non. C'est moi, maintenant.
+YOU ++++ Vous vous souvenez ?
+BOT ++++ On a discouru de la chevalerie.
+YOU ++++ Attendez. Que faites-vous ?
+BOT ++++ Je croyais que vous aviez fini.
+YOU ++++ Ma vie ? Ma femme s'est barrée, toujours pas d'héritier...
+BOT ++++ Un type m'a dit : "Un vrai chevalier ne garde jamais auprès de lui ce qu'il ne peut quitter en 30 secondes."
+YOU ++++ De quoi il se mêle ?
+BOT ++++ C'est pas vos oignons.
+YOU ++++ Je dois lui balancer qu'on va raser le camp ?
+BOT ++++ Si vous en aviez dans le slip, faudrait le faire.
+YOU ++++ Que faites-vous ?
+BOT ++++ C'était bien, comme provocation.
+YOU ++++ Qu'est-ce que je fais ?
+BOT ++++ Ça va.
+YOU ++++ Un bâtard ?
+BOT ++++ C'est ça, votre solution ?
+YOU ++++ Pourquoi ?
+BOT ++++ On déjeune avec votre gendre.
+YOU ++++ De quoi ?
+BOT ++++ C'est ce qu'on dit ?
+YOU ++++ 2e question : si la mémoire est à la tête, peut-on y accéder à 6 ?
+BOT ++++ Oui ? Non ?
+YOU ++++ Qu'est-ce qu'il a commandé ?
+BOT ++++ Il a commandé des plaques de dissimulation.
+YOU ++++ Et pourquoi n'avoir pas mis le reste ? Le casque, etc.
+BOT ++++ J'ai cherché un peu, mais il a dû se barrer avec, ce con.
+YOU ++++ Quoi ? S'entasser à 6 sur 2 lits superposés ?
+BOT ++++ Il y a que ça.
+YOU ++++ Vous pouvez arrêter ?
+BOT ++++ Mais quoi ?
+YOU ++++ Quoi, encore ?
+BOT ++++ Nous cassez pas les sabots.
+YOU ++++ Hétéroclite ! Vous avez vu votre compagnie de dégénérés ?
+BOT ++++ Vous allez faire quoi, avec ça ?
+YOU ++++ Alors ?
+BOT ++++ S'ils ont oublié ?
+YOU ++++ Oui, et alors ?
+BOT ++++ Depuis que vous l'avez replantée, c'est plein de bourgeois venus pour la retirer.
+YOU ++++ Voilà. Qu'allez-vous faire ?
+BOT ++++ Mais alors quoi ?
+YOU ++++ Avec toutes vos maîtresses, c'est bizarre, non ?
+BOT ++++ Que voulez-vous que je dise ?
+YOU ++++ Alors ?
+BOT ++++ Je dois faire une cérémonie d'échange d'épouses.
+YOU ++++ Pourquoi vous êtes venu ?
+BOT ++++ Comment ça ?
+YOU ++++ C'est long comme ça ?
+BOT ++++ Vous en avez déjà vu ?
+YOU ++++ Un autre a raté ?
+BOT ++++ Non.
+YOU ++++ Si. C'est pas votre bonne ?
+BOT ++++ Angharad ? Non.
+YOU ++++ "Pas tout à fait" ?
+BOT ++++ Si. C'est un animal.
+YOU ++++ Qu'en savez-vous ?
+BOT ++++ À Tintagel, ça gronde.
+YOU ++++ Et vous ?
+BOT ++++ Quoi, moi ?
+YOU ++++ Mais ?
+BOT ++++ Mais on est déguisés en miséreux.
+YOU ++++ Vous êtes juste venu pour ça ?
+BOT ++++ Venir, c'est une chose. Le pire, c'est que je ne peux pas repartir.
+YOU ++++ "Sans discontinuer" ? C'est affreux.
+BOT ++++ C'est mieux comme ça.
+YOU ++++ Vous pouvez vous grouiller ?
+BOT ++++ Ne commencez pas.
+YOU ++++ Ah non ! Pourquoi ?
+BOT ++++ Pourquoi me farcir des réunions interminables alors que d'autres s'en dispensent ?
+YOU ++++ C'est normal ?
+BOT ++++ Je sais pas.
+YOU ++++ Une solution ?
+BOT ++++ Pour me renvoyer d'où je viens.
+YOU ++++ Il sert quoi ?
+BOT ++++ De tout.
+YOU ++++ Père, je peux vous poser une question ?
+BOT ++++ S'il faut.
+YOU ++++ Un nutritionniste ?
+BOT ++++ Oui. La dame du lac, le poisson... On a tous compris.
+YOU ++++ Il faut changer de vu ?
+BOT ++++ Changer de vu ?
+YOU ++++ Ça existe ?
+BOT ++++ Si je m'y mets demain, on aura 40 truites par semaine.
+YOU ++++ Des archers ?
+BOT ++++ Avec ce que j'ai, je peux plus.
+YOU ++++ De quoi ?
+BOT ++++ Vous êtes arrivés ici, sains et saufs.
+YOU ++++ J'ai dormi ou pas ?
+BOT ++++ Oui.
+YOU ++++ On est déjà à la taverne ?
+BOT ++++ Car on est motivés.
+YOU ++++ Mais quoi ?
+BOT ++++ Mais vous avez sauté 18 pages !
+YOU ++++ Vous aussi ?
+BOT ++++ C'est grossier.
+YOU ++++ J'ai l'air idiote, non ?
+BOT ++++ Si, j'en ai l'air.
+YOU ++++ Qu'est-ce que vous me chantez ?
+BOT ++++ Vous diriez que c'est l'hiver ?
+YOU ++++ Hein ?
+BOT ++++ Ils sont pas méchants.
+YOU ++++ Pourquoi ?
+BOT ++++ Je dois raconter mon aventure.
+YOU ++++ Et alors ?
+BOT ++++ Du nord. Elle vient d'Orcanie.
+YOU ++++ Que préférez-vous, pour les côtes de veau ?
+BOT ++++ Dites aux cuisines qu'il n'y a qu'une façon de cuire les côtes de veau.
+YOU ++++ Vous comptez dormir ?
+BOT ++++ On construit l'avenir.
+YOU ++++ Ah ? Vraiment, la chose militaire me restera mystérieuse jusqu'au bout.
+BOT ++++ Vous n'aviez qu'à faire vos classes.
+YOU ++++ Vous voyez ?
+BOT ++++ Non.
+YOU ++++ Vous comptez tabasser mes invités ?
+BOT ++++ M'engourdir ma promise...
+YOU ++++ Ah bon ?
+BOT ++++ Parfaitement.
+YOU ++++ Vous voyez l'Armorique ?
+BOT ++++ Non.
+YOU ++++ 50 artichauts ?
+BOT ++++ Y en a pour 15 jours !
+YOU ++++ Voilà la question : serez-vous sur le coup ?
+BOT ++++ La porte s'ouvre.
+YOU ++++ Pardon ?
+BOT ++++ Faites pas le mariolle.
+YOU ++++ Qu'avez-vous dit ?
+BOT ++++ Rien. J'ai été pris de court.
+YOU ++++ Mais, et vous ?
+BOT ++++ Quoi, moi ?
+YOU ++++ Vous attendez quelqu'un ?
+BOT ++++ À 5 h ? Non.
+YOU ++++ Qu'est-ce que je voulais dire ?
+BOT ++++ Présentez-moi.
+YOU ++++ Quoi ?
+BOT ++++ J'ai pas d'espion.
+YOU ++++ D'accord. Où est-t-il ?
+BOT ++++ En fait, on se demande tous s'il ne devient pas...
+YOU ++++ Vous êtes bien d'extraction bourgeoise ?
+BOT ++++ Mon père est roi.
+YOU ++++ Il le savait ?
+BOT ++++ Je crois.
+YOU ++++ Quoi ?
+BOT ++++ Je me suis coupé la gencive avec un grumeau cuit.
+YOU ++++ Vous pensez que j'aurais pu vous dire de relever vos pièges ?
+BOT ++++ Ça m'a fait bizarre.
+YOU ++++ Vous pouvez y retourner quand ?
+BOT ++++ J'y retourne quand je le décide.
+YOU ++++ Votre vie vaut mieux que la mienne ?
+BOT ++++ On devrait peut-être faire autre chose.
+YOU ++++ Où est-il ?
+BOT ++++ Partez. Partez d'ici.
+YOU ++++ Sporadique ?
+BOT ++++ En forme de boule, quoi.
+YOU ++++ Avec des fruits confits ?
+BOT ++++ Ils ont de l'aplomb.
+YOU ++++ "Le tapis" ?
+BOT ++++ Pas d'héritier à toutes les sauces.
+YOU ++++ Un démenti ?
+BOT ++++ De quoi ?
+YOU ++++ Vous y allez ou pas ?
+BOT ++++ Ce mode interdit les nuances.
+YOU ++++ Vous vous appelez comment ?
+BOT ++++ Sous-titrage : Télétota
+YOU ++++ Pourquoi on gueule ?
+BOT ++++ Oui, oui.
+YOU ++++ Je sors ?
+BOT ++++ Merci, Nessa.
+YOU ++++ À quoi bon ?
+BOT ++++ Elle l'ouvre à nouveau.
+YOU ++++ Mais en plusieurs années, non ?
+BOT ++++ Oui. Dommage.
+YOU ++++ Vous êtes malade ?
+BOT ++++ Que peut-on faire pour vous ?
+YOU ++++ Elle a compris, la frisée ?
+BOT ++++ Le clan va entretenir vos grosses miches.
+YOU ++++ Quel intérêt, qu'elle parle la langue ?
+BOT ++++ Trouvez une fille du coin... même une Galloise.
+YOU ++++ Qu'est-ce qui fatigue, comme trucs de reine ?
+BOT ++++ Il y a rien à glander à part gérer les maîtresses.
+YOU ++++ Le tavernier, vous avez une chambre en rab ?
+BOT ++++ Oui, j'en dispose, mais qu'entendez-vous par "rab" ?
+YOU ++++ Et si j'ai envie de regarder le paysage, je peux ?
+BOT ++++ Vous le verrez aussi en accélérant.
+YOU ++++ Quel crétin ?
+BOT ++++ L'autre, avec ses lois.
+YOU ++++ Avec des Touaregs, vous changez de tactique ?
+BOT ++++ On peut plus parler.
+YOU ++++ Dites, pourquoi chercher Madenn ?
+BOT ++++ Qu'est-ce que ça peut vous foutre ?
+YOU ++++ Et vous ?
+BOT ++++ Ça vous fait ni chaud ni froid ?
+YOU ++++ Vous avez vu ?
+BOT ++++ MERLIN !
+YOU ++++ Des plaques de dissimulation ?
+BOT ++++ Vous, vous allez en faire ?
+YOU ++++ Quoi ?
+BOT ++++ Il va pas le crier, mais quand il peut le placer...
+YOU ++++ Vous nous aidez ou pas ?
+BOT ++++ Ça ne me concerne plus, le trône, Kaamelott, ou le putsch de votre con de mari.
+YOU ++++ C'est lui, votre copain Jost ?
+BOT ++++ Mais non !
+YOU ++++ Je vous balance dans les escaliers ?
+BOT ++++ J'essaye de piger.
+YOU ++++ Qu'y a-t-il ?
+BOT ++++ C'est rien.
+YOU ++++ Vous en êtes sûr ?
+BOT ++++ "Sûr"... C'est une rumeur.
+YOU ++++ Et du coup, vous les nourrissez ?
+BOT ++++ Ben oui. Euh... non.
+YOU ++++ Ce soir, il y en a combien à nous ?
+BOT ++++ C'est beaucoup de clodos.
+YOU ++++ Pourquoi il veut me l'amener ?
+BOT ++++ Le rapport avec ma femme ?
+YOU ++++ Que peut-il nous arriver ?
+BOT ++++ C'est plus le côté...
+YOU ++++ Mais qu'est-ce qu'on leur dit ?
+BOT ++++ Tu leur dis zut !
+YOU ++++ Et vous dites quoi ?
+BOT ++++ "Il est mort."
+YOU ++++ De quoi ?
+BOT ++++ Attention : si c'est en automne, je m'arrangerai.
+YOU ++++ Vous venez en troupe pour me le chanter en canon ?
+BOT ++++ Le Père Blaise se perd dans sa paperasse.
+YOU ++++ Vous ne voulez pas venir ?
+BOT ++++ Tout juste.
+YOU ++++ Un animal ?
+BOT ++++ Pas tout à fait.
+YOU ++++ Ça change quoi derrière ?
+BOT ++++ Derrière qui ?
+YOU ++++ Ils nous ont vus ?
+BOT ++++ On va le savoir.
+YOU ++++ Ah, oui ?
+BOT ++++ Fou.
+YOU ++++ On vous a dérangée ?
+BOT ++++ Oui, vous avez appelé les servantes.
+YOU ++++ C'est pas le principal ?
+BOT ++++ Je me repose.
+YOU ++++ Pourquoi l'avoir amené ?
+BOT ++++ Je l'ai croisé et il m'a dit qu'il vient récupérer sa femme.
+YOU ++++ Pouvez-vous m'expliquer pourquoi vous ne partez pas à midi ?
+BOT ++++ Non.
+YOU ++++ Pourquoi je le dérangerais ?
+BOT ++++ Pour savoir avec qui il est.
+YOU ++++ Vous êtes assez intelligent pour ne pas respecter vos serments, non ?
+BOT ++++ Sinon, on va couper court.
+YOU ++++ Vous êtes sûr ?
+BOT ++++ Ah oui. Je suis sûr.
+YOU ++++ Quoi ?
+BOT ++++ C'est du code.
+YOU ++++ Aux poissons ?
+BOT ++++ Oui, je crois que je les déstabilise.
+YOU ++++ Elle vous a traité d'ahuri ?
+BOT ++++ De quoi, alors ?
+YOU ++++ C'est la liste des navires de guerre. Elle est à jour ?
+BOT ++++ Elle date, euh...
+YOU ++++ C'est juste ça ?
+BOT ++++ Les giboulées ?
+YOU ++++ Vous avez de l'eau ?
+BOT ++++ Non.
+YOU ++++ Dans une remise ?
+BOT ++++ Dans une remise, oui.
+YOU ++++ Quoi ? Vous délirez !
+BOT ++++ Au fait, chez la concurrence, vous tenez quel poste ?
+YOU ++++ Je ne risque rien ?
+BOT ++++ Il ne faut quand même pas avoir les genoux branlants.
+YOU ++++ Y a-t-il quelqu'un, par ici ?
+BOT ++++ Je rentre seul, par la forêt, alors que la nuit tombe ?
+YOU ++++ On n'a rien décidé, tant pis ?
+BOT ++++ On fait juste genre.
+YOU ++++ Vous croyez qu'elle est où ?
+BOT ++++ Dans mon lit ?
+YOU ++++ Que voulez-vous que je vous dise ?
+BOT ++++ C'est bon. Ça marche pas.
+YOU ++++ Eh ben ?
+BOT ++++ Pour le confondre avec un Perse, il faut être super débile.
+YOU ++++ Comment ça ?
+BOT ++++ Votre pote, c'est un clodo.
+YOU ++++ Si on n'aime pas la nouvelle, vous rechangez ?
+BOT ++++ Non.
+YOU ++++ Bon. J'apporte le vin ?
+BOT ++++ Vu la merde que c'est...
+YOU ++++ Pourquoi ?
+BOT ++++ C'est impossible.
+YOU ++++ Donc, vous les avez ?
+BOT ++++ Une fois posées, on les voit plus.
+YOU ++++ Quand avez-vous essayé de retirer Excalibur ?
+BOT ++++ Le 1erjour ?
+YOU ++++ Tout seul ?
+BOT ++++ Oui, puisqu'on se sépare.
+YOU ++++ Et avec un coup de pied au cul ?
+BOT ++++ Je m'en fous, j'irai pas.
+YOU ++++ C'est quel genre, votre dernière aventure ?
+BOT ++++ J'ai foiré.
+YOU ++++ Ce qui veut dire ?
+BOT ++++ Absolument rien. Pourquoi ?
+YOU ++++ "Qu'on dit" quand ?
+BOT ++++ Je sais pas...
+YOU ++++ Le clan des croustillants ?
+BOT ++++ On n'a pas décidé.
+YOU ++++ Compris ?
+BOT ++++ Parce que, aujourd'hui, c'est sur vous que ça tombe.
+YOU ++++ Pourquoi vous voulez pas ?
+BOT ++++ Parce que ça me gonfle.
+YOU ++++ On peut quand même regarder ?
+BOT ++++ Tout ce que vous voulez, mais sans plus d'indications...
+YOU ++++ C'est toujours comme ça ?
+BOT ++++ Y a un souci ?
+YOU ++++ Que se passe-t-il ?
+BOT ++++ Un congrès ?
+YOU ++++ Je fais quoi si vous cherchez la brebis ?
+BOT ++++ Je cherche pas de brebis !
+YOU ++++ Le roi a échangé son épouse avec celle d'un autre chevalier ?
+BOT ++++ Oui. Oui. Et re-oui.
+YOU ++++ Qu'est-ce que c'est ?
+BOT ++++ Qui c'est ?
+YOU ++++ Vous abandonneriez Arthur ?
+BOT ++++ Carrément ? Comme ça ?
+YOU ++++ Une tisane, ça vous tente ?
+BOT ++++ Oui. J'appelle...
+YOU ++++ Vous avez pas du boulot ?
+BOT ++++ Pour roupiller, vous êtes costaud !
+YOU ++++ Mais qui ça ?
+BOT ++++ Lancelot, notre cousin qui a voulu me tuer.
+YOU ++++ Vagabond ?
+BOT ++++ Oui, c'est ça...
+YOU ++++ Les gardes vous ont battue ?
+BOT ++++ Non ?
+YOU ++++ 200 livres ?
+BOT ++++ En tout cas, ça vous va bien.
+YOU ++++ Ça compte pas ?
+BOT ++++ Non.
+YOU ++++ Karadoc ?
+BOT ++++ Vous verrez que ma femme est encore là.
+YOU ++++ Par rapport à quoi ?
+BOT ++++ Au bois. Bien traité, il vous lâchera pas, mais le tissu, une fois usé, y a rien à faire.
+YOU ++++ Quoi ?
+BOT ++++ Dame Mevanwi vous a toujours inspiré pour...
+YOU ++++ C'est lequel déjà ?
+BOT ++++ Comment ça ?
+YOU ++++ Ça rentre ?
+BOT ++++ Pourtant vous avez la chance d'être dans ce clan avec 2 pros du combat psychologique qui se saignent aux quatre parfums pour enseigner leurs techniques.
+YOU ++++ Ah, vous avez entendu ?
+BOT ++++ Quoi encore ?
+YOU ++++ Comment vous faites ?
+BOT ++++ Moi, je pourrais pas.
+YOU ++++ C'était lequel ?
+BOT ++++ L'unijambiste.
+YOU ++++ C'est pas pareil ?
+BOT ++++ Queue leu leu ou file indienne.
+YOU ++++ Vous avez eu froid ?
+BOT ++++ Oui et j'ai surtout été piquée par des bêtes.
+YOU ++++ "Je disparais" ?
+BOT ++++ Ha ! Aïe !
+YOU ++++ Il en faut une, pour marcher dans le couloir ?
+BOT ++++ Non. C'est pour marcher dehors.
+YOU ++++ Qu'auriez-vous fait ?
+BOT ++++ Pareil, mais je ne suis pas un exemple.
+YOU ++++ Il est bien attaché, lui ?
+BOT ++++ Il ronfle et grogne.
+YOU ++++ Qui ça ?
+BOT ++++ Des gens d'ici.
+YOU ++++ Qu'est-ce qui vous prend ?
+BOT ++++ À moins d'1 heure de sommeil, j'ai des humeurs.
+YOU ++++ Vous pouvez m'expliquer ?
+BOT ++++ J'ai rencontré Mademoiselle au détour d'un village de mineurs, et sa détresse m'a ému.
+YOU ++++ J'ai le pif collé au registre ?
+BOT ++++ Merde !
+YOU ++++ Un voyageur ?
+BOT ++++ C'est la voie privilégiée des envahisseurs. On tire.
+YOU ++++ Vous êtes inquiet ?
+BOT ++++ Il fallait bien que ça arrive.
+YOU ++++ Attaqués ?
+BOT ++++ Par des bandits de grand chemin, sur le sentier.
+YOU ++++ Vous comprenez ?
+BOT ++++ Oui ?
+YOU ++++ Je dois tout relater ?
+BOT ++++ Non, pas ça !
+YOU ++++ Un bout de pain tout seul ?
+BOT ++++ Non.
+YOU ++++ Pardon ?
+BOT ++++ Ça fait 150 fois qu'on vous le chante, c'est con, non ?
+YOU ++++ La Table Ronde présidée par un roi qui n'a pas retiré Excalibur, ça ne va pas à l'encontre de "l'esprit du machin" ?
+BOT ++++ Vous prenez ça trop à coeur.
+YOU ++++ Que voulez-vous que j'y fasse ?
+BOT ++++ Sans le roi...
+YOU ++++ Venec, c'est vous ?
+BOT ++++ On a eu peur.
+YOU ++++ Tu les veux dans ta face, mes "machins" ?
+BOT ++++ Tu veux savoir quoi ?
+YOU ++++ "Parler de Gauvain" ?
+BOT ++++ Oui.
+YOU ++++ Y a pas de mal à aimer les hommes de pouvoir. Où est le vice ?
+BOT ++++ J'ai encore des obligations envers Arthur.
+YOU ++++ Et Dieu, dans tout ça ?
+BOT ++++ Oubliez vos vieilles idoles.
+YOU ++++ Ah ?
+BOT ++++ Si jamais Lancelot est un peu moins manche qu'Arthur sur l'intimité...
+YOU ++++ Mais on attend quoi ?
+BOT ++++ Vous croyez pas qu'il s'est fait repérer ?
+YOU ++++ Et qu'elle y aurait passé la nuit ?
+BOT ++++ Vous voulez progresser ?
+YOU ++++ Tu comprends ?
+BOT ++++ Au bûcher !
+YOU ++++ Que fait-on ?
+BOT ++++ Vous comptiez nous défendre ?
+YOU ++++ Et moi, je fais quoi ?
+BOT ++++ Vous êtes là en auditeur libre.
+YOU ++++ Vous vous prenez pour un enseignant ?
+BOT ++++ De quoi ?
+YOU ++++ De ?
+BOT ++++ Pendragon, c'est son nom.
+YOU ++++ De quoi ?
+BOT ++++ Vous avez vu personne ?
+YOU ++++ Et pourquoi pas ?
+BOT ++++ Il m'a trahi.
+YOU ++++ Que fait-on maintenant ?
+BOT ++++ Attendre que les choses se désagrègent d'elles-mêmes, que Kaamelott tombe en lambeaux, pierre après pierre.
+YOU ++++ C'est sa cousine ?
+BOT ++++ Bohort est le cousin de Lancelot. C'est un secret.
+YOU ++++ Vous hurliez pour ça ?
+BOT ++++ Ça ne pisse plus, mais ça pissait trop !
+YOU ++++ Mais quand dois-je m'excuser ?
+BOT ++++ De quoi ?
+YOU ++++ Où allons-nous vivre ?
+BOT ++++ On est censés vous céder un bout de terre.
+YOU ++++ Vous êtes parti, là ?
+BOT ++++ C'est pas ça, que vous avez dit.
+YOU ++++ C'est quoi ?
+BOT ++++ C'était du lait chaud.
+YOU ++++ Attendez, tout seul, sans savoir combien ils sont ?
+BOT ++++ Ils étaient pas là.
+YOU ++++ Des réserves ?
+BOT ++++ Pas sur le fond.
+YOU ++++ Un déguisement ?
+BOT ++++ Si ma robe merdique vous manque, elle est dans le tas de merde.
+YOU ++++ Quoi ?
+BOT ++++ Menacez-moi, pendant qu'on...
+YOU ++++ C'est pas celui qui a déposé les armes, à poil devant César ?
+BOT ++++ Vercingétorix.
+YOU ++++ Le dieu irlandais ?
+BOT ++++ Qui terrasse ses ennemis par l'éloquence.
+YOU ++++ Elle y est plus ?
+BOT ++++ On y va, si vous voulez.
+YOU ++++ Le bruit de la mer ?
+BOT ++++ Le bruit, la mer, les bateaux, j'en ai jusque-là.
+YOU ++++ Directement dessus ?
+BOT ++++ Oui, c'est une tradition.
+YOU ++++ Vous parlez bien de coucher ?
+BOT ++++ Oui, oui.
+YOU ++++ Jamais été enceinte ?
+BOT ++++ Non.
+YOU ++++ Parce que je pète pas au lit ?
+BOT ++++ Non, c'est un tout.
+YOU ++++ Mais maintenant ? Comme ça ?
+BOT ++++ Ça fait 1 an que je passe à côté.
+YOU ++++ Le lit est pas assez grand ?
+BOT ++++ Vous êtes pas un peu chochotte ?
+YOU ++++ Où est-il ?
+BOT ++++ Je ne sais pas.
+YOU ++++ Et là, je repars ?
+BOT ++++ Commencez pas...
+YOU ++++ Je reste attachée ?
+BOT ++++ Zut, là ! Je réfléchis.
+YOU ++++ Je suis un taré ?
+BOT ++++ Et vous, soutenez-moi.
+YOU ++++ Je peux dormir ?
+BOT ++++ J'ai mal à la tête.
+YOU ++++ C'est toujours ainsi ?
+BOT ++++ On dirait que ça vous atteint pas.
+YOU ++++ C'est votre nouveau truc, roupiller toute la journée ?
+BOT ++++ De quoi ?
+YOU ++++ Vous m'avez sauvé aussi ?
+BOT ++++ Quand même, "sauvé"...
+YOU ++++ "Bilan", ça signifie quoi ?
+BOT ++++ On va faire le point sur ce qu'ils ont foutu, comment ils se sont démerdés.
+YOU ++++ Merci. Que puis-je faire pour vous ?
+BOT ++++ C'est nous qui pouvons faire quelque chose : vous éviter de retomber sur une femme dont vous devez vous séparer...
+YOU ++++ Qui surveille la côte ?
+BOT ++++ C'est Gauvain ?
+YOU ++++ Vous ne m'avez pas vu arriver ?
+BOT ++++ On surveille la plage.
+YOU ++++ Je le relis ?
+BOT ++++ Avec joie.
+YOU ++++ Elle vous a attaqué ?
+BOT ++++ Elle m'a juste mis un coup dans la cuisse.
+YOU ++++ À la taverne ?
+BOT ++++ Oui.
+YOU ++++ J'ai fait quoi ?
+BOT ++++ C'est compliqué. C'est un tout.
+YOU ++++ Que faites-vous là ?
+BOT ++++ Descendez avec les autres.
+YOU ++++ C'est pas vous ?
+BOT ++++ Vos vieux ne vous parlaient pas de cet homme célèbre ?
+YOU ++++ Courbettes ?
+BOT ++++ Les cérémonies, les rois...
+YOU ++++ C'est quoi ?
+BOT ++++ Des pleurotes.
+YOU ++++ Je suis soulagé. Pas vous ?
+BOT ++++ "Soulagé" de quoi ?
+YOU ++++ Le roi Loth ?
+BOT ++++ Il est chez lui, alors il va pas se gêner pour visiter un camp qu'il a payé.
+YOU ++++ Les petits pédestres dont 1 au Lion ?
+BOT ++++ Si vous m'embarquez dans une histoire à 2 ronds 50, je vais vous botter le cul.
+YOU ++++ On cherche quoi ?
+BOT ++++ Ça irait plus vite.
+YOU ++++ Quoi ?
+BOT ++++ Ça veut dire quoi, "incurvés" ?
+YOU ++++ Qu'est-ce que je fais ?
+BOT ++++ Je les...?
+YOU ++++ Pourquoi pas ?
+BOT ++++ C'est quoi, ça ?
+YOU ++++ Qu'y a-t-il ?
+BOT ++++ On fait une pause ?
+YOU ++++ Étudier les lois ?
+BOT ++++ J'en ai un étage entier, des lois.
+YOU ++++ Il faut que ce soit un fils ?
+BOT ++++ Pour le trône, oui.
+YOU ++++ Ça ne vous intrigue pas ?
+BOT ++++ Si.
+YOU ++++ Puisqu'Arthur est un ennemi du Graal, ne devons-nous pas le combattre ?
+BOT ++++ Y avait encore un "camarade", mais je le vire.
+YOU ++++ Où viendrait-il ?
+BOT ++++ Il est venu retirer l'épée ?
+YOU ++++ Il me laissera m'occuper du comptoir ?
+BOT ++++ Croyez-moi, c'est pour votre bien.
+YOU ++++ Mon "allié" ?
+BOT ++++ Je le savais.
+YOU ++++ Vous avez fini de vous foutre de moi ?
+BOT ++++ Je suis de trop.
+YOU ++++ La considération ?
+BOT ++++ Je connais pas le mot.
+YOU ++++ Qu'allons-nous faire dans une tour désaffectée ?
+BOT ++++ C'est absurde.
+YOU ++++ Quoi ?
+BOT ++++ Eh ben, c'est pas gentil. Voilà.
+YOU ++++ On va toujours à Kaamelott ?
+BOT ++++ Oui. Ne vous inquiétez pas.
+YOU ++++ "Il marchait" ?
+BOT ++++ C'est fini de marcher où on veut.
+YOU ++++ Vous préférez quoi, vous ?
+BOT ++++ C'est des postes de prestige.
+YOU ++++ À combien on est de la taverne ? 20 min ?
+BOT ++++ En bourrant, un quart d'heure.
+YOU ++++ Il faut forcément être roi ?
+BOT ++++ Ou roi, ou con.
+YOU ++++ Mais ça vous choque ?
+BOT ++++ "Ça me choque" ? Mais enfin !
+YOU ++++ C'est la question ?
+BOT ++++ Si vous pouvez rentrer ?
+YOU ++++ Comment ?
+BOT ++++ Ils sont repartis.
+YOU ++++ Que dites-vous ?
+BOT ++++ C'est une jatte.
+YOU ++++ Encore debout ?
+BOT ++++ C'est quoi, ces fringues ?
+YOU ++++ Quel rapport ?
+BOT ++++ Entre quoi ?
+YOU ++++ Ben et vous ?
+BOT ++++ Vous avez rien en stock ?
+YOU ++++ C'est quoi, les clodos qui tapent à ma porte en réclamant ?
+BOT ++++ Mais...
+YOU ++++ Ça va, la corde ?
+BOT ++++ On détache. C'est pourri.
+YOU ++++ D'accord ?
+BOT ++++ C'est ce que vous gagnez en un jour ici.
+YOU ++++ Après, vous me foutrez la paix ?
+BOT ++++ Oui. Pendant la période qui séparera ce bain-là du suivant.
+YOU ++++ Une poule ?
+BOT ++++ Oui, pour aider en cuisine.
+YOU ++++ On va attendre longtemps ?
+BOT ++++ Détendez-vous.
+YOU ++++ Je pourrais dire un mot à Monsieur ?
+BOT ++++ Voilà autre chose.
+YOU ++++ Vous n'aviez pas confiance ?
+BOT ++++ Moi...
+YOU ++++ Arthur est mort ?
+BOT ++++ Non.
+YOU ++++ Qu'est-ce que j'ai fait ?
+BOT ++++ Non. Pas vous.
+YOU ++++ Je transmets quoi ?
+BOT ++++ Attendez 2 s !
+YOU ++++ Qu'est-ce qu'il a, le monde paysan ?
+BOT ++++ Il est en train de se faire avoir.
+YOU ++++ Vous m'entendez ?
+BOT ++++ La ferme.
+YOU ++++ C'est un lieu ?
+BOT ++++ Non.
+YOU ++++ Ça va ?
+BOT ++++ Ça va.
+YOU ++++ "Les connards" ?
+BOT ++++ "S'il vous plaît" ?
+YOU ++++ En toute... connaissance de cause ?
+BOT ++++ Voilà.
+YOU ++++ Dans votre couple ?
+BOT ++++ Quand on était couchés avec le monsieur.
+YOU ++++ Ça me donne du style ou pas ?
+BOT ++++ Quoi ? C'est ma faute si vous avez pas fini votre nuit ?
+YOU ++++ À mettre le merdier ?
+BOT ++++ C'est une nouvelle technique.
+YOU ++++ Vous trouvez ça ?
+BOT ++++ Vu qu'on gueule pas, je suppose que ça va mieux.
+YOU ++++ Des amis de qui ?
+BOT ++++ Les saltimbanques sont les amis de tous.
+YOU ++++ Mais de quoi je me mêle ?
+BOT ++++ Je m'absente deux semaines, et tout fout le camp.
+YOU ++++ Vous en savez quoi ?
+BOT ++++ Vous vivez avec ?
+YOU ++++ Les prophéties ?
+BOT ++++ Un bouquin.
+YOU ++++ Quoi ?
+BOT ++++ Une visite : le roi Loth.
+YOU ++++ Vous ne dites rien ?
+BOT ++++ Le secret du groupe, c'est...?
+YOU ++++ Quel rapport avec l'hiver ?
+BOT ++++ Les saturnales se fêtent au même moment.
+YOU ++++ Avec votre chemise, non ?
+BOT ++++ C'est trop mou.
+YOU ++++ Vous êtes ?
+BOT ++++ Chevalier de la Table ronde.
+YOU ++++ Surveiller quoi ?
+BOT ++++ Non, mais il surveille en général.
+YOU ++++ De quoi ?
+BOT ++++ Autant attaquer tout de suite !
+YOU ++++ Quoi, moi ?
+BOT ++++ D'où venez-vous ?
+YOU ++++ Lequel ?
+BOT ++++ Celui-là.
+YOU ++++ Il faut qu'il soit tendu ?
+BOT ++++ Oui, ou c'est n'importe quoi.
+YOU ++++ On fait quoi ?
+BOT ++++ On fait pas.
+YOU ++++ Vous ne bossez pas pour Arthur ?
+BOT ++++ Si, mais je pars quand je veux.
+YOU ++++ J'ai deux questions : qu'entendez-vous par symbole ?
+BOT ++++ Et est-ce que vous êtes sûr que ça me concerne ?
+YOU ++++ Quoi ?
+BOT ++++ Avec qui ?
+YOU ++++ Autre chose ?
+BOT ++++ Non.
+YOU ++++ Parce que ça se mérite ?
+BOT ++++ Pour quelqu'un pour qui ça compte, ce serait justice.
+YOU ++++ Alors ?
+BOT ++++ Les prophéties, vous connaissez ?
+YOU ++++ Elle est où, la poulette ?
+BOT ++++ Elle est partie, mais elle va revenir.
+YOU ++++ Nous devons nous lever aussi ?
+BOT ++++ Non.
+YOU ++++ "Vêtements" ?
+BOT ++++ Ça va saigner !
+YOU ++++ Si je suis si douée, pourquoi les clients veulent que je les rembourse ?
+BOT ++++ C'est moi qui t'inspire, peut-être.
+YOU ++++ Et ils sont morts ?
+BOT ++++ Non. Y en a un, sa mère veut pas qu'il revienne.
+YOU ++++ Vous avez une solution ?
+BOT ++++ À quel problème ?
+YOU ++++ Vous me prenez pour un con ?
+BOT ++++ Pas du tout.
+YOU ++++ Qui est à la tour, en ce moment ? Personne ?
+BOT ++++ Non, mais on a fermé la porte.
+YOU ++++ "Butin" ?
+BOT ++++ Vous voulez dire l'argent, les bijoux ?
+YOU ++++ Il faudra donc y dormir ?
+BOT ++++ Évidemment !
+YOU ++++ Pouvez-vous nous parler de votre mission ?
+BOT ++++ Non.
+YOU ++++ On se plaint pas ?
+BOT ++++ Si, ne le dites pas, il le verra.
+YOU ++++ Pourquoi "les types" ?
+BOT ++++ Ben, ceux qui portaient ces bottes.
+YOU ++++ Atelier d'entraînement cérébral ?
+BOT ++++ Tout à fait.
+YOU ++++ En bateau ?
+BOT ++++ On largue les amarres dans 1 heure.
+YOU ++++ Tu ne pourrais pas me prendre, moi ?
+BOT ++++ Toi ? Tu n'es pas dingue ?
+YOU ++++ Sûr ?
+BOT ++++ Il y a erreur.
+YOU ++++ J'ai parlé de mon clan ?
+BOT ++++ On s'en fout.
+YOU ++++ Le Graal ?
+BOT ++++ Le Graal, la Table ronde ou n'importe quoi.
+YOU ++++ Gaffe à quoi ?
+BOT ++++ On fait plus attention au roi qu'au mec qui passe le balai.
+YOU ++++ C'est lié à la chasse ?
+BOT ++++ Non, alors.
+YOU ++++ Vous réalisez ce qu'elle a fait ?
+BOT ++++ Elle tuerait ma mère, elle resterait mon épouse et remonterait dans mon estime.
+YOU ++++ Qui, "nous" ?
+BOT ++++ Nous, le monde paysan.
+YOU ++++ Quel rapport avec la Bretagne ?
+BOT ++++ Et s'il y a des envahisseurs ?
+YOU ++++ Vous voyez ?
+BOT ++++ Elle était bien enceinte de lui.
+YOU ++++ C'est tout ce que vous avez trouvé ?
+BOT ++++ Oui. Elle traînait dans les jardins...
+YOU ++++ Et qui lui prodigue des conseils ?
+BOT ++++ C'est un héritier, qu'il faut au roi.
+YOU ++++ Quoi ?
+BOT ++++ Ils n'ont pas l'étoffe de chevaliers.
+YOU ++++ 2 chevaliers demandent qu'on ouvre leur chambre. Je fais quoi ?
+BOT ++++ Lesquels ?
+YOU ++++ Des amis de qui ?
+BOT ++++ On va s'arrêter là pour la nuit.
+YOU ++++ Le raser ? Oui.
+BOT ++++ Le raser, ce serait pas mal.
+YOU ++++ Moi, je me demanderais que faire pour qu'il la garde ?
+BOT ++++ Vous, sentimentalement, vous savez vous assumer.
+YOU ++++ Mais vous l'avez vue, depuis l'échange ?
+BOT ++++ Au camp de Lancelot, je peux pas entrer.
+YOU ++++ Non, c'est pas ça ?
+BOT ++++ Non !
+YOU ++++ "Autonome" ? Pour quoi faire ?
+BOT ++++ Ils savent même pas ce que c'est.
+YOU ++++ On n'est pas déjà passés par ici ?
+BOT ++++ Commencez pas.
+YOU ++++ Ah ? Votre père, c'est celui qui a volé des cagettes, non ?
+BOT ++++ Non. Il a tenté de renverser le gouvernement avec Lancelot.
+YOU ++++ Vous en avez parlé ?
+BOT ++++ Oui.
+YOU ++++ Mon intro, sympa, non ?
+BOT ++++ Ça renouvelle un peu.
+YOU ++++ On s'embrasse ?
+BOT ++++ Bien joué, sire.
+YOU ++++ À haute voix ?
+BOT ++++ Les traités d'alliances avec les Irlandais ?
+YOU ++++ C'est là ?
+BOT ++++ Les chambres au 1er.
+YOU ++++ Que dois-je faire pour que ce con de Lancelot me la rende ?
+BOT ++++ Je saurais pas vous dire.
+YOU ++++ Vous le voulez pas comme 2e ?
+BOT ++++ Vous préférez en avoir un autre ?
+YOU ++++ Pourquoi n'avoir pas dormi ailleurs ?
+BOT ++++ Vous me faites de l'effet.
+YOU ++++ Ils sont pas du peuple, eux ?
+BOT ++++ Y a qu'à leur demander.
+YOU ++++ Vous me faites confiance ?
+BOT ++++ Vous êtes le seul à savoir. Donc s'il meure, vous serez coupable.
+YOU ++++ Quelles choses ?
+BOT ++++ Je vous montrerai sur pièce.
+YOU ++++ Le plantage ?
+BOT ++++ C'est cela, oui. Tout à fait.
+YOU ++++ On doit combien ?
+BOT ++++ Justement, je vous l'ai marqué là pour que vous ayez une idée du préjudice.
+YOU ++++ Il était comment ?
+BOT ++++ Comment ça, "comment" ?
+YOU ++++ Il va pas le faire ?
+BOT ++++ Pas vraiment.
+YOU ++++ Vous plaisantez ?
+BOT ++++ Allez-y !
+YOU ++++ Avec Karadoc ?
+BOT ++++ Oui.
+YOU ++++ Il veut un coup de tête de la gonzesse ?
+BOT ++++ Je n'ai rien de valeur.
+YOU ++++ Quoi, "mes gens" ?
+BOT ++++ Maintenant, vous êtes leur seigneur.
+YOU ++++ C'est si dur, d'avoir une pensée pour quelqu'un sans bouffer ?
+BOT ++++ D'ici à tergiverser pour une tarte...
+YOU ++++ Vous auriez pu dire que c'était complet, non ?
+BOT ++++ Je fais mon boulot...
+YOU ++++ Sire, vous dormez ?
+BOT ++++ Non. Je dors pas.
+YOU ++++ Ho ! Ça va pas ?
+BOT ++++ Le signal, c'est "À vous".
+YOU ++++ Je parle comme un paysan ?
+BOT ++++ Un fermier, j'ai dit.
+YOU ++++ "Des côtes de veau" ?
+BOT ++++ J'aurais pu aller dormir avec une de mes maîtresses, alors ne faites pas la gueule.
+YOU ++++ Personne de Kaamelott ?
+BOT ++++ Non. Jusqu'au coucher du soleil.
+YOU ++++ Et moi : "Qui frappe ?"
+BOT ++++ Et moi, je savais pas où vous étiez.
+YOU ++++ Bon. Ho ! Alors ?
+BOT ++++ Si on commence à...
+YOU ++++ Êtes-vous bien sûr d'être convaincu ?
+BOT ++++ Vous aurez beau me dire que je suis pas prêt, que je manque de convictions, ça ne changera rien.
+YOU ++++ Lesquels ?
+BOT ++++ Peu importe.
+YOU ++++ Vous ne dites rien ?
+BOT ++++ J'ai perdu la confiance du peuple !
+YOU ++++ Où ça ?
+BOT ++++ En bas !
+YOU ++++ "L'amour" ?
+BOT ++++ Pour ma femme. Votre sur.
+YOU ++++ Quoi ? Je vais me coucher.
+BOT ++++ Je peux ?
+YOU ++++ C'est pour combien de nuitées ?
+BOT ++++ Une. On bosse.
+YOU ++++ Pardon ?
+BOT ++++ Le pet. Ça sent le pet.
+YOU ++++ Dites. C'est un peu soutenu, comme rythme, non ?
+BOT ++++ Comment ?
+YOU ++++ Quelle "dame" ?
+BOT ++++ Je m'en veux.
+YOU ++++ Alors ?
+BOT ++++ Ça doit être des bestioles qui se battaient.
+YOU ++++ Et alors ?
+BOT ++++ "Et alors" ?
+YOU ++++ Et avec qui d'autre ce serait possible ?
+BOT ++++ En fait, un peu avec toutes.
+YOU ++++ C'est-à-dire ?
+BOT ++++ N'étant plus mes beaux-parents, inutile de crécher chez moi ?
+YOU ++++ Pourriez-vous y aller aujourd'hui ?
+BOT ++++ On part ensemble.
+YOU ++++ De quoi ?
+BOT ++++ Ceux qui ont essayé sont des salauds.
+YOU ++++ "Il boude" ?
+BOT ++++ Il dit que vous lui parlez mal et que c'est vexant.
+YOU ++++ Ma terre s'arrête au ruisseau, non ?
+BOT ++++ Oui...
+YOU ++++ Par exemple, à quelle époque, vous les avez envoyés là-bas ?
+BOT ++++ J'ai envoyé qui et où ?
+YOU ++++ N'est-ce pas ce que père disait toujours ?
+BOT ++++ Mon Dieu, quelqu'un !
+YOU ++++ J'ai la possibilité de me montrer courtois avec lui, même si je ne l'ai pas reconnu ?
+BOT ++++ Vous souriez comme un mongole.
+YOU ++++ Et puis, le roi, c'est pas celui qui porte l'épée ?
+BOT ++++ Cette épée-là.
+YOU ++++ Quoi ?
+BOT ++++ Il est à moi, le machin !
+YOU ++++ Et ma femme ?
+BOT ++++ Oh ! Ça va !
+YOU ++++ Quoi ?
+BOT ++++ Par exemple...
+YOU ++++ Il faut un bon de sortie ?
+BOT ++++ Je vais vous en faire tamponner un, de bon.
+YOU ++++ Vous appelez qui ?
+BOT ++++ Un grouillot.
+YOU ++++ On passe pour quoi ?
+BOT ++++ Pourquoi je passe devant Caius ?
+YOU ++++ Vrai ? Faudra pas me le dire 2 fois.
+BOT ++++ On a du poids, là-haut.
+YOU ++++ Ça va, ça biche ?
+BOT ++++ Le roi burgonde marmonne la bouche pleine.
+YOU ++++ Vous excuser ? À quel propos ?
+BOT ++++ Voyez-vous, vous pleuriez dans votre campement, abandonné, à hurler "Guenièvre"...
+YOU ++++ Madame vous aura parlé de l'inclination d'un homme à mon égard ?
+BOT ++++ Seigneur Perceval.
+YOU ++++ Je raconte ça ?
+BOT ++++ La mie de pain au nez, non.
+YOU ++++ Qu'est-ce que vous foutez assis par terre ?
+BOT ++++ Rien, sire.
+YOU ++++ Quoi ?
+BOT ++++ On peut s'inspirer des vieilles pratiques pourries.
+YOU ++++ Me voir maintenant ?
+BOT ++++ Allez discuter ailleurs !
+YOU ++++ Ah bon ?
+BOT ++++ Selon le message, à prendre au conditionnel, on l'aurait envoyé promener.
+YOU ++++ Que savez-vous faire d'autre ?
+BOT ++++ C'est déjà bien, non ?
+YOU ++++ Derrière qui ?
+BOT ++++ Derrière la plaque.
+YOU ++++ M. Élias est en retard pour donner sa leçon à Madame ?
+BOT ++++ Madame s'ennuie ?
+YOU ++++ "Pourquoi" ?
+BOT ++++ Est-ce que je sais, moi ?
+YOU ++++ Vos bagages sont prêts ?
+BOT ++++ Non.
+YOU ++++ C'est vrai ?
+BOT ++++ Ça me coupe les guibolles !
+YOU ++++ Le 4e, c'est moi ?
+BOT ++++ Vous, il y a un genre de dérogation.
+YOU ++++ Excalibur, ne faut-il pas une envie d'être roi de Bretagne, de prendre votre place ?
+BOT ++++ Vous répétez ce que j'ai dit, mais allez-y.
+YOU ++++ Elle a combien d'enfants ?
+BOT ++++ Combien d'enfants ? Deux.
+YOU ++++ Moi, là-dedans ? J'y étais ?
+BOT ++++ Non. Mais votre père, oui.
+YOU ++++ De quoi ?
+BOT ++++ Non, mère : pas toute seule !
+YOU ++++ On l'a ?
+BOT ++++ Oui, on l'a.
+YOU ++++ Quoi ?
+BOT ++++ L'enchantement d'objets.
+YOU ++++ Vous n'allez pas me laisser ?
+BOT ++++ Vous n'avez pas le droit.
+YOU ++++ Alors avec quoi ?
+BOT ++++ Avec vos fesses.
+YOU ++++ Elles sont pas raides ?
+BOT ++++ Non. Elles sont neuves.
+YOU ++++ Vous l'avez achetée aussi cher que ce que vous en demandez ?
+BOT ++++ Non. J'en demande plus cher, mais y a eu le voyage, du coup...
+YOU ++++ Quoi ?
+BOT ++++ C'est pas noble.
+YOU ++++ En allumant un feu ?
+BOT ++++ Eh ben, ouais.
+YOU ++++ De quoi on discute, alors ?
+BOT ++++ Mais de rien, comme toujours.
+YOU ++++ Je me suis demandé : vous êtes avec laquelle ?
+BOT ++++ Je suis... plus ou moins avec les deux.
+YOU ++++ À qui vous parlez ?
+BOT ++++ À la dame du Lac.
+YOU ++++ Quoi encore ?
+BOT ++++ On peut pas voir ça plus tard ?
+YOU ++++ Et là ?
+BOT ++++ Je laisse tout.
+YOU ++++ Quoi ?
+BOT ++++ Oui.
+YOU ++++ Comment ça ?
+BOT ++++ Ils parlent trop et j'arrive pas à me concentrer.
+YOU ++++ Oui ?
+BOT ++++ Comment ça s'est passé ?
+YOU ++++ "Trois" ?
+BOT ++++ Bon. Une soixantaine.
+YOU ++++ De quoi ?
+BOT ++++ J'ai préparé mon baluchon.
+YOU ++++ Ah oui ?
+BOT ++++ Eh oui. Parce que c'est...
+YOU ++++ Encore sur vos deux pieds ?
+BOT ++++ Pas au bout d'une corde ?
+YOU ++++ C'est bon ?
+BOT ++++ Quoi ?
+YOU ++++ Une faille, où ça ?
+BOT ++++ Dans la loi machin.
+YOU ++++ Hein ?
+BOT ++++ Vous vous moquez ?
+YOU ++++ Vous avez frappé ?
+BOT ++++ Quand je frappe, vous m'engueulez.
+YOU ++++ Vous n'avez rien vu ?
+BOT ++++ Si, un peu de sang par terre.
+YOU ++++ Vous avez déjà vu une représentation des Pupi ?
+BOT ++++ Une fois ou deux.
+YOU ++++ Ça va pas, de dire ça ?
+BOT ++++ C'est vrai.
+YOU ++++ Quoi donc ?
+BOT ++++ C'est bon.
+YOU ++++ Et pour ceux qui ont du sommeil à récupérer ?
+BOT ++++ On monte.
+YOU ++++ Une maîtresse ?
+BOT ++++ Je vais voir.
+YOU ++++ "Un commentaire" ?
+BOT ++++ Elle m'a quiché la tête.
+YOU ++++ Vous en connaissez un qui n'y est pas ?
+BOT ++++ Exactement.
+YOU ++++ Qu'est-ce qu'on fait, là ?
+BOT ++++ Rien, il faut surtout pas s'en mêler.
+YOU ++++ Comment se distraire ?
+BOT ++++ Les femmes nettoient et on vous montre notre petit trésor.
+YOU ++++ À quoi ?
+BOT ++++ Aux enfants.
+YOU ++++ Entre les saturnales et l'hiver ?
+BOT ++++ Entre les saturnales et Saturne.
+YOU ++++ Mais une fois chez nous, que fait-on ?
+BOT ++++ Comme d'habitude : rien.
+YOU ++++ Vous êtes heureux ?
+BOT ++++ J'ai pas encore ma femme, mais ça va venir.
+YOU ++++ Qu'est-ce qui nous l'interdit ?
+BOT ++++ On est consignés.
+YOU ++++ Que savez-vous de notre route ?
+BOT ++++ On s'en fout. Vous venez.
+YOU ++++ Quel nom vous m'avez dit, déjà ?
+BOT ++++ De quoi ?
+YOU ++++ Une potion ?
+BOT ++++ J'ai pas la formule.
+YOU ++++ Sire ?
+BOT ++++ Il est vraiment obligé de faire son rapport ici ?
+YOU ++++ C'est ça ?
+BOT ++++ Ben ouais. J'avoue que "ouais".
+YOU ++++ Non ? Commencez pas.
+BOT ++++ On se réunit pas que pour l'armement.
+YOU ++++ C'est quoi, ça ?
+BOT ++++ J'imite mon prédécesseur.
+YOU ++++ Que voulez-vous que je vous dise ?
+BOT ++++ Ça vous inquiète ?
+YOU ++++ Vous la voyez encore comme telle ?
+BOT ++++ Mais c'est mon épouse.
+YOU ++++ Vous cherchez des marrons ou quoi ?
+BOT ++++ Qu'est-ce que vous voulez ?
+YOU ++++ Vous allez formuler ça comment ?
+BOT ++++ Je lui dirai... ce qu'on a dit, quoi.
+YOU ++++ N'importe laquelle ?
+BOT ++++ Non. Une clé qui correspond à la serrure.
+YOU ++++ Vous voulez dormir là ?
+BOT ++++ Non. Diplomatiquement, je peux pas me permettre.
+YOU ++++ Le roi Loth ?
+BOT ++++ J'ai pas envie d'évoquer le détail.
+YOU ++++ Quoi ?
+BOT ++++ Vos plaques.
+YOU ++++ Vous allez me lâcher ?
+BOT ++++ Devez-vous forcément venir m'emmerder ?
+YOU ++++ Ils parlaient de quoi ?
+BOT ++++ Ils racontaient qu'il y avait des attaques.
+YOU ++++ Quoi ?
+BOT ++++ Pour le Graal, j'ai bâti une forteresse : Kaamelott.
+YOU ++++ Vous êtes pas contente ?
+BOT ++++ Monsieur me fera le plaisir de s'occuper de moi.
+YOU ++++ De quoi ?
+BOT ++++ De m'attendre.
+YOU ++++ Ça fait comment ?
+BOT ++++ On s'en fout.
+YOU ++++ On fait couple harmonieux ?
+BOT ++++ Sans aller jusque-là, il y a une régularité.
+YOU ++++ Vous entendez ça ?
+BOT ++++ Il y a du grabuge ?
+YOU ++++ On peut en connaître les grandes lignes ou ça ne nous concerne pas ?
+BOT ++++ Il faudrait déterminer ce qui nous concerne. Je sais pas ce que je fous là.
+YOU ++++ Avec quoi ?
+BOT ++++ C'est Kaamelott qui finance ?
+YOU ++++ Quoi ?
+BOT ++++ Seigneur Lancelot...
+YOU ++++ C'est pour quoi ?
+BOT ++++ Vous me remettez ?
+YOU ++++ De quoi ?
+BOT ++++ Quoi, de quoi ?
+YOU ++++ En fait, c'est la cousine de Lancelot ?
+BOT ++++ Pas du tout.
+YOU ++++ Pourquoi vous agiter, imbécile ?
+BOT ++++ Je ne m'agite pas.
+YOU ++++ C'est où ?
+BOT ++++ Prenons le sentier, on verra.
+YOU ++++ Quoi ? Qu'est-ce que vous dites ?
+BOT ++++ Logique. Priorité à celui qui a la vie qui vaut plus.
+YOU ++++ Vous pensez à quel vu ?
+BOT ++++ Celui avec l'os de poulet ?
+YOU ++++ Et elle, elle en voudra un 2e ?
+BOT ++++ Euh... c'est quoi, là ?
+YOU ++++ Oui ? Mais moi non plus.
+BOT ++++ Vous avez renoncé à la femme du seigneur Karadoc.
+YOU ++++ Lancelot s'en va ?
+BOT ++++ "Pas grave."
+YOU ++++ Je vous réveille ?
+BOT ++++ Euh... Oui.
+YOU ++++ Comment la récupérer ?
+BOT ++++ On trouvera une combine.
+YOU ++++ Et la suivante ?
+BOT ++++ La suivante ?
+YOU ++++ Ah, merde. Là, dans la semaine ?
+BOT ++++ Non, pas là, dans la semaine.
+YOU ++++ Que ferez-vous ?
+BOT ++++ Et si on envoyait quelqu'un dans leur camp pour les surveiller.
+YOU ++++ Alors, ce combat ?
+BOT ++++ Sire, c'est vous ?
+YOU ++++ Ça vous va ?
+BOT ++++ Non.
+YOU ++++ Où l'avez-vous eu ?
+BOT ++++ Je l'ai achetée.
+YOU ++++ Quoi ?
+BOT ++++ Qui de nous le fera ?
+YOU ++++ "Tôt" ? Il ne fait même pas jour.
+BOT ++++ Pourquoi vous êtes réveillé ?
+YOU ++++ Et pas en général ?
+BOT ++++ Non plus.
+YOU ++++ Et si Lancelot savait ?
+BOT ++++ Ça risque rien.
+YOU ++++ Qu'est-ce que ça peut vous foutre ?
+BOT ++++ Après, vous ne serez plus le roi.
+YOU ++++ Vous dites rien ?
+BOT ++++ Classez, s'il le faut.
+YOU ++++ Un animal de compagnie ?
+BOT ++++ Il peut tenir compagnie, mais il peut mordre.
+YOU ++++ Lesquels en particulier ?
+BOT ++++ Dites pas trop de conneries.
+YOU ++++ Vous êtes sûr ?
+BOT ++++ Ça fait une semaine qu'ils attendent.
+YOU ++++ Mais qu'est-ce qui vous gêne ?
+BOT ++++ "Spécialiste des lois..."
+YOU ++++ Non ?
+BOT ++++ Si ! Il faut vous trouver une tenue correcte.
+YOU ++++ Vous ne me raccompagnez pas à Kaamelott, n'est-ce pas ?
+BOT ++++ C'est pour ça que je ne reconnais pas la route.
+YOU ++++ Et le rapport ?
+BOT ++++ Entre quoi et quoi ?
+YOU ++++ C'est vous ?
+BOT ++++ Ben oui, c'est moi.
+YOU ++++ À l'essai ?
+BOT ++++ Voilà.
+YOU ++++ Faudra-t-il tirer sur des gens ?
+BOT ++++ C'est un problème ?
+YOU ++++ Que foutez-vous là, salopard ?
+BOT ++++ Ah oui, quand même.
+YOU ++++ Qui fait demi-tour, là ?
+BOT ++++ J'ai pas besoin de vous, ni de piaule.
+YOU ++++ C'est un contre-espion ?
+BOT ++++ Vous voyez bien qu'il s'est fait serrer...
+YOU ++++ Quand y a plus de roi, qui est le roi ?
+BOT ++++ Y a plus de roi.
+YOU ++++ Hein ?
+BOT ++++ Quoi ? Que...
+YOU ++++ Vous êtes venu pour savoir si elles étaient enceintes ?
+BOT ++++ Je cherche.
+YOU ++++ Où est votre épouse ?
+BOT ++++ Elle prend l'air.
+YOU ++++ Vous ne l'appréciez pas ?
+BOT ++++ On fout pas le camp avec un chevalier.
+YOU ++++ De ?
+BOT ++++ De quoi ?
+YOU ++++ Et si l'absence de réponses était due à l'absence de Caius ?
+BOT ++++ Ça se tient, oui.
+YOU ++++ Quels "trucs" ?
+BOT ++++ Des produits.
+YOU ++++ Vous faites le salut romain ?
+BOT ++++ Ah oui ?
+YOU ++++ Un porc entier ?
+BOT ++++ Un porc vivant.
+YOU ++++ C'est les trois moisis qui campent ?
+BOT ++++ Ceux-là.
+YOU ++++ Vous commencez ?
+BOT ++++ Chut !
+YOU ++++ L'armée. Mais pourquoi ?
+BOT ++++ Pour la conquête du Graal.
+YOU ++++ Hein ?
+BOT ++++ Mais vous ne branlez rien !
+YOU ++++ Eh bien ?
+BOT ++++ Sans famille, sans roi, sans pays, si abandonné de tous...
+YOU ++++ Ceux qui pénètrent dans le campement ?
+BOT ++++ Non. N'importe où.
+YOU ++++ Vous avez remarqué que j'étais là ?
+BOT ++++ Qui êtes-vous et qui vous envoie ?
+YOU ++++ Quel pigeon ?
+BOT ++++ Voilà !
+YOU ++++ Vous avez bien dormi ?
+BOT ++++ Merveilleusement bien.
+YOU ++++ Où est le problème ?
+BOT ++++ C'est n'importe quoi.
+YOU ++++ Mais savez-vous qui est son 1er lieutenant ?
+BOT ++++ Non.
+YOU ++++ Est-ce que je sais, moi ?
+BOT ++++ Son occupation ?
+YOU ++++ Quoi donc ?
+BOT ++++ C'est le plus grand roi de Bretagne.
+YOU ++++ Vous étiez avec Mevanwi ?
+BOT ++++ Oui.
+YOU ++++ Quoi, "pfiout" ?
+BOT ++++ Pfiout !
+YOU ++++ Et l'arbalète ?
+BOT ++++ Je vous en flanque un coup au moindre pet de travers.
+YOU ++++ Quoi ?
+BOT ++++ Avant-hier.
+YOU ++++ Donc ?
+BOT ++++ Donc quoi ?
+YOU ++++ Vous voyez le bois ?
+BOT ++++ Quel bois ?
+YOU ++++ Et qui vous dit que je viens essayer ?
+BOT ++++ Quoi d'autre ?
+YOU ++++ Vous interdisez à un chevalier de la Table ronde de marcher en Bretagne ?
+BOT ++++ Là, vous êtes sur les terres de Lancelot.
+YOU ++++ Les pigeons ?
+BOT ++++ On les a relâchés.
+YOU ++++ Pédale ?
+BOT ++++ Ça va pas.
+YOU ++++ Oui et alors ?
+BOT ++++ On me paie pas de bois et vous, on vous paie une griffe.
+YOU ++++ Vous allez la fermer, oui ?
+BOT ++++ Vous n'entendez toujours personne ?
+YOU ++++ Sommes-nous tenus de mettre de l'ordre ?
+BOT ++++ Non mais sérieusement.
+YOU ++++ Alors, notre fils est en équipe avec un traître ?
+BOT ++++ Non...
+YOU ++++ Oui ?
+BOT ++++ Avez-vous déjà vu, de vos yeux, l'homme en noir par qui Lancelot disait être observé ?
+YOU ++++ "Le côté" quoi ?
+BOT ++++ Malédiction.
+YOU ++++ Je dis ça ?
+BOT ++++ Ouais !
+YOU ++++ Mais quoi, "pfiout" ?
+BOT ++++ Pfiout !
+YOU ++++ Allons-nous réellement habiter ici ?
+BOT ++++ Nous sommes assignés à cette tour pour y tenir garnison.
+YOU ++++ Pourquoi ?
+BOT ++++ C'est une ancienne maîtresse.
+YOU ++++ Ben, quoi ?
+BOT ++++ C'est mon cabanon.
+YOU ++++ Ah bon ? Comment ça ?
+BOT ++++ M. Capuso veut que je parte.
+YOU ++++ Et ça va être ma faute ?
+BOT ++++ Je pourrais gueuler pour le ronflement.
+YOU ++++ Bouclez-la. Alors ?
+BOT ++++ Nous céderiez-vous une femme de chambre ?
+YOU ++++ Connaissez-vous le duc d'Aquitaine ?
+BOT ++++ C'est ça qui vous énerve.
+YOU ++++ Ah bon ?
+BOT ++++ Elle est pas mal ?
+YOU ++++ Où va le fric, à Kaamelot ?
+BOT ++++ Faut pas exagérer.
+YOU ++++ Ah ! Ça ?
+BOT ++++ Ça ressemble plus à une tranche de viande. Non ?
+YOU ++++ De toute façon, vous lui direz : "Bonjour, tu as un enfant de moi ?"
+BOT ++++ Ça changera quoi ?
+YOU ++++ Qu'allez-vous me faire ?
+BOT ++++ Pas ce que vous croyez.
+YOU ++++ Les réunions, c'est chiant, mais qui les a inventées ?
+BOT ++++ On n'a personne.
+YOU ++++ Hein ? Oh !
+BOT ++++ Mais qu'est-ce qui se passe ?
+YOU ++++ Vous amenez ça comment ?
+BOT ++++ Le cheval ?
+YOU ++++ Et à ma place ?
+BOT ++++ Je viens.
+YOU ++++ On doit passer la journée là ?
+BOT ++++ Parfois, des gens viennent à l'improviste, donc on reste jusqu'à midi.
+YOU ++++ Ça fait longtemps ?
+BOT ++++ Je sais pas.
+YOU ++++ Il nous faut un loup ?
+BOT ++++ Bien sûr.
+YOU ++++ Ce parchemin est si important que ça ?
+BOT ++++ Posez votre question pourrie et foutez la paix à mon parchemin.
+YOU ++++ Et la bibliothèque d'Alexandrie ?
+BOT ++++ On sait pas ce qui s'est passé.
+YOU ++++ Ben, quoi ?
+BOT ++++ Et vous ?
+YOU ++++ Et mes lois, alors ?
+BOT ++++ Si je vous donne une information...
+YOU ++++ Toutes ?
+BOT ++++ Les jolies.
+YOU ++++ Ah bon ?
+BOT ++++ Ils boufferaient des trucs vénéneux.
+YOU ++++ Vous imaginez si je pensais pareil ?
+BOT ++++ On se lèverait tard.
+YOU ++++ Vous avez tout ce qu'il faut ?
+BOT ++++ Je crois, oui.
+YOU ++++ Ça veut dire ?
+BOT ++++ Absolument rien.
+YOU ++++ Des noms ?
+BOT ++++ On peut revenir à moi ?
+YOU ++++ Je dois faire quoi pour que vous partiez ?
+BOT ++++ Vous brûler ?
+YOU ++++ Mais vous l'avez vue ?
+BOT ++++ 2, 3 fois, de visu, en tout bien tout honneur.
+YOU ++++ Vous vous souvenez de Merlin l'Enchanteur ?
+BOT ++++ Celui qui a foutu le camp.
+YOU ++++ Qui ?
+BOT ++++ J'aurais pu faire une chose secrète.
+YOU ++++ Pas d'objection ?
+BOT ++++ Vous me demandez mon avis ?
+YOU ++++ Quoi ?
+BOT ++++ Rien, C'est une tradition.
+YOU ++++ Ça fait 30 secondes, vous savez déjà plus ?
+BOT ++++ Y en a un, je sais même pas comment il s'appelle. Un barbu...
+YOU ++++ Vous ne parlez pas ma langue ?
+BOT ++++ Vous connaissez ces loustics ?
+YOU ++++ Mais quoi ?
+BOT ++++ Vous en voulez ou pas ?
+YOU ++++ Hmm... une d'entre vous ?
+BOT ++++ Voilà.
+YOU ++++ Vous êtes venu pour essayer de retirer l'épée ?
+BOT ++++ On était partis là-dessus, mais on n'est pas hyper fixés.
+YOU ++++ Pourquoi vous n'iriez pas à Kaamelott ?
+BOT ++++ Quelle débile !
+YOU ++++ Vous venez vous plaindre de quoi ?
+BOT ++++ On veut qu'Yvain ait une place fixe à la Table ronde.
+YOU ++++ Quoi ?
+BOT ++++ C'était une vanne.
+YOU ++++ "La trafiquer" ?
+BOT ++++ Je vous passe les détails.
+YOU ++++ Alors il y en avait, des pas ?
+BOT ++++ Vous battez pas.
+YOU ++++ Quoi ? Des bâtonnets pour piquer dans les yeux ?
+BOT ++++ Vous, vous avez un machin qui dit que vous êtes chefs ?
+YOU ++++ Il faudrait déclarer la guerre à Lancelot pour récupérer la reine en pensant peut-être qu'elle est enceinte et pas d'une fille ?
+BOT ++++ En somme.
+YOU ++++ Vous êtes là ?
+BOT ++++ Ça va ?
+YOU ++++ Il est comme ça. Je fais quoi ?"
+BOT ++++ OK.
+YOU ++++ Lesquels ? Lancelot est parti.
+BOT ++++ Perceval ?
+YOU ++++ Lequel ?
+BOT ++++ Lionel.
+YOU ++++ Que pensez-vous de tout ça ?
+BOT ++++ "Tout" quoi ?
+YOU ++++ Sire, mon histoire avec Angharad, c'est au point mort, non ?
+BOT ++++ Ben... J'en ai pas grand-chose à carrer.
+YOU ++++ C'est quoi, ça ? Vous partez ?
+BOT ++++ Vous voulez me faire un encas ?
+YOU ++++ Il a dit quoi ?
+BOT ++++ J'en sais rien.
+YOU ++++ Vous ne l'êtes pas ?
+BOT ++++ Si. Mais je l'assume difficilement.
+YOU ++++ Vous êtes un affectif ?
+BOT ++++ Peut-être.
+YOU ++++ Vous voulez des excuses et un bout de terre ?
+BOT ++++ Non. On vous fait des excuses et on vous cède un bout de lopin.
+YOU ++++ Je les zigouille ?
+BOT ++++ Virez au moins ceux de votre équipe.
+YOU ++++ Comment je fais ci ou ça...?"
+BOT ++++ Vous devez bien savoir comment on fait.
+YOU ++++ Faut faire quoi ?
+BOT ++++ Je sais pas.
+YOU ++++ La Dame du Lac ?
+BOT ++++ On va passer une bonne soirée.
+YOU ++++ Quoi ?
+BOT ++++ On doit refaire la vaisselle.
+YOU ++++ C'est vous qui marchez ?
+BOT ++++ Je me demandais comment vous faisiez ce bruit.
+YOU ++++ Mais... Vous avez gagné ?
+BOT ++++ Là, il y a les insectes.
+YOU ++++ Vous allez me tuer ?
+BOT ++++ Nous ?
+YOU ++++ Qui ça ?
+BOT ++++ Ben, nous 2.
+YOU ++++ Il est venu ?
+BOT ++++ C'est ce que je demande !
+YOU ++++ Il reste qui ?
+BOT ++++ Bohort, vous.
+YOU ++++ Pas de mal. Alors ?
+BOT ++++ Vous n'êtes pas seul ?
+YOU ++++ Dites, je peux vous poser une question délicate ?
+BOT ++++ Dites toujours.
+YOU ++++ Le nom de votre femme ?
+BOT ++++ Je vais pas dire le bon, ça va me gaver.
+YOU ++++ Pourquoi il doit bouffer ?
+BOT ++++ La bouche pleine, il dira moins de conneries.
+YOU ++++ Bon, alors je fais quoi ?
+BOT ++++ Je tire ou pas ?
+YOU ++++ Un entraînement ?
+BOT ++++ M'insulter, ça vous revigore.
+YOU ++++ Elle serait ici ?
+BOT ++++ Et pas à Kaamelott ?
+YOU ++++ "Réglé" ?
+BOT ++++ Vous, les commentaires, ça suffit.
+YOU ++++ Vous allez choisir qui ?
+BOT ++++ Vous êtes là.
+YOU ++++ Je vous le dis ?
+BOT ++++ Si vous voulez.
+YOU ++++ On vous emmerde ?
+BOT ++++ Pas en réunion.
+YOU ++++ "OK", quoi ? L'héritier ?
+BOT ++++ Non. L'épée.
+YOU ++++ Vous allez le faire ?
+BOT ++++ Vous seriez gonflé.
+YOU ++++ Que foutez-vous là ?
+BOT ++++ J'ai du travail.
+YOU ++++ Il faut le dire chaque matin ?
+BOT ++++ Pas de petit déjeuner ?
+YOU ++++ Si je demande une chambre, que vont-ils penser ?
+BOT ++++ Vous êtes duc d'Aquitaine, crétin !
+YOU ++++ Bon, on se couche ?
+BOT ++++ Mais c'est préoccupant.
+YOU ++++ La mer ne vous dérange pas ?
+BOT ++++ J'ai pas l'impression.
+YOU ++++ Rien. Quand part-on ?
+BOT ++++ Demain.
+YOU ++++ Qui vous l'a dit ?
+BOT ++++ On s'en fout. On le sait.
+YOU ++++ "La routine" ?
+BOT ++++ Vous l'avez oubliée ! Pourquoi ?
+YOU ++++ Si Perceval venait me voir, il aurait le champ libre ?
+BOT ++++ Le champ libre ?
+YOU ++++ On se connaît ?
+BOT ++++ Cherchez.
+YOU ++++ Lors de mon dernier séjour à Tintagel ?
+BOT ++++ Impressionné par la prévenance de votre tante ?
+YOU ++++ On y retourne ?
+BOT ++++ 2 secondes, faut faire sérieux.
+YOU ++++ C'est quoi ? Le ciel ?
+BOT ++++ Le reflet de la Lune dans la mer...
+YOU ++++ Quelle est cette raison ?
+BOT ++++ L'amour.
+YOU ++++ Tu es là ?
+BOT ++++ Entre.
+YOU ++++ Quoi ?! Combien ?
+BOT ++++ 9 500 pièces d'or.
+YOU ++++ On n'avait pas oublié ça ?
+BOT ++++ Faites ce que je dis.
+YOU ++++ Je me demande comment vous avez tenu si longtemps sans vous égorger ?
+BOT ++++ Vous m'avez dit de me retirer.
+YOU ++++ C'est le feu d'alerte ?
+BOT ++++ Non.
+YOU ++++ Pourquoi ?
+BOT ++++ Lancelot m'avait confié la mission d'aller avouer son transport à la reine.
+YOU ++++ Je pensais à une chose : si je vous laissais y aller sans moi ?
+BOT ++++ Tiens donc.
+YOU ++++ Quoi, moi aussi ?
+BOT ++++ Oui, descendez.
+YOU ++++ Des murs incurvés, on en a vu ?
+BOT ++++ Je ne saurais pas dire.
+YOU ++++ C'est-à-dire ?
+BOT ++++ Je vais essayer d'exprimer mon ressenti, et elle va être sur la défense, sur l'humiliation.
+YOU ++++ J'ai juste le droit de la fermer ?
+BOT ++++ Oui.
+YOU ++++ Insinuez-vous que j'ai pas les connaissances suffisantes ?
+BOT ++++ Vous avez pas assez de connaissances pour des crêpes.
+YOU ++++ Ça me va bien au teint, non ?
+BOT ++++ Quelque chose m'échappe, sur le registre de la réunion.
+YOU ++++ Pour quoi faire ?
+BOT ++++ Oh, put...
+YOU ++++ Mais où vous étiez passée ?
+BOT ++++ Je vagabonde en mangeant des épluchures et des vieux os.
+YOU ++++ Ça vous emmerde, que je rentre ?
+BOT ++++ À votre service.
+YOU ++++ J'aurai pas l'air con ?
+BOT ++++ Ah ben... Peut-être, mais pour autre chose.
+YOU ++++ Vous suivez, Sire ?
+BOT ++++ On analyse la brosse, et on voit la partie redondante.
+YOU ++++ Vous feriez ça ?
+BOT ++++ Carrément. Imaginez-vous pas que ce sera comme avant.
+YOU ++++ Vous ne gardez rien ?
+BOT ++++ J'ai ma femme.
+YOU ++++ Un grognement de loup ?
+BOT ++++ Un grognement de bandit ?
+YOU ++++ Ça change quoi ?
+BOT ++++ Seul le possesseur sera désigné roi.
+YOU ++++ Vous êtes déjà là ?
+BOT ++++ Vous êtes arrivé par où ?
+YOU ++++ La barrière ?
+BOT ++++ "Le chevalier blanc..."
+YOU ++++ Vous l'avez fait, votre essai ?
+BOT ++++ Ça doit faire un moment.
+YOU ++++ Notre ?
+BOT ++++ Un point de chute.
+YOU ++++ Calpurnia. Non ?
+BOT ++++ Non...
+YOU ++++ Ça commence à quelle phalange ?
+BOT ++++ J'en sais rien !
+YOU ++++ Vous êtes sûr de lui ?
+BOT ++++ Me refilez pas vos minables.
+YOU ++++ Vous pensiez que les dieux reconnaîtraient en vous le souverain que personne n'avait vu ?
+BOT ++++ Vous alliez donner au monde le spectacle de votre avènement ?
+YOU ++++ Ça va pas ?
+BOT ++++ Le plumard est vide.
+YOU ++++ Même s'il n'y a personne ?
+BOT ++++ Mais oui.
+YOU ++++ À quel sujet ?
+BOT ++++ Ma venue, c'est pas de mon fait.
+YOU ++++ Bâtiment ?
+BOT ++++ Non !
+YOU ++++ Vous n'en avez pas ?
+BOT ++++ Si. M'en coller plein les fouilles, donc il me faut un bon gros bourgeois.
+YOU ++++ Et les autres ?
+BOT ++++ Ils vont pas rester dehors.
+YOU ++++ Je vous ai cloué le bec ?
+BOT ++++ Sire, ne faites pas ça.
+YOU ++++ Ça a un rapport ?
+BOT ++++ Oui. C'est pour ça qu'on est venus voir.
+YOU ++++ Vous êtes soulagée ?
+BOT ++++ Oui et non.
+YOU ++++ C'est chez moi ?
+BOT ++++ Voilà. J'avais parié que vous étiez trop branquignolle pour savoir si c'était à vous.
+YOU ++++ Vous deviez pas voir Arthur ?
+BOT ++++ Oui, j'y vais.
+YOU ++++ Halte, qui voilà ?
+BOT ++++ Angharad, pour la reine Guenièvre.
+YOU ++++ Je dois m'occuper du feu ?
+BOT ++++ Non. Laissez-le brûler.
+YOU ++++ Quoi ? Qu'y a-t-il ?
+BOT ++++ Si on suit vraiment l'ordre du jour...
+YOU ++++ Quand je suis chez Lancelot, j'en profite pour me renseigner sur Arthur ?
+BOT ++++ Quoi ?
+YOU ++++ Et ? Si on tombe sur quelqu'un, on le zigouille.
+BOT ++++ Et s'ils sont 10 ?
+YOU ++++ Vous en avez ?
+BOT ++++ Pourquoi ?
+YOU ++++ Dans le contexte, c'est : que voulez-vous ?
+BOT ++++ Vous le savez pas ?
+YOU ++++ De quoi ?
+BOT ++++ Mais c'est trop long !
+YOU ++++ Yvain, avez-vous un mot à rajouter ?
+BOT ++++ C'est classe.
+YOU ++++ Vous êtes sûr ?
+BOT ++++ Ça annule ?
+YOU ++++ Je peux faire une supposition ?
+BOT ++++ Allez-y.
+YOU ++++ Le roi ne vient pas ?
+BOT ++++ Pourquoi ?
+YOU ++++ "Des commentaires" pendant ?
+BOT ++++ Voilà.
+YOU ++++ Encore ce cirque ?
+BOT ++++ Plantez-la dans le rocher, les gens tenteront de la retirer, vous y arrivez...
+YOU ++++ Qu'y a-t-il ? Vous tirez une de ces tronches !
+BOT ++++ Ne me dites pas que ça va, je vous connais.
+YOU ++++ Quand Arthur est revenu, sur la plage, boum, sur qui il tombe ?
+BOT ++++ Il s'est montré intéressé.
+YOU ++++ L'Ostrogoth, il rentre ?
+BOT ++++ Fermez-la !
+YOU ++++ Ils arrivent par où ?
+BOT ++++ Par milliers ?
+YOU ++++ On peut arrêter ?
+BOT ++++ En plus, on n'est pas là pour ça.
+YOU ++++ Laquelle aurait pu être intéressée ?
+BOT ++++ Par le pognon et le rang social ?
+YOU ++++ Vous n'avez pas lu le registre ?
+BOT ++++ On bouffe toujours avec des péteux qui viennent retirer l'épée, alors pourquoi je lirais le registre ?
+YOU ++++ Quoi ?
+BOT ++++ "Le solstice."
+YOU ++++ J'ai quoi ?
+BOT ++++ La dernière fois, tu as eu une hallucination.
+YOU ++++ Lancelot du Lac. On le rappelle ?
+BOT ++++ Lancelot ?
+YOU ++++ Pourquoi ces fenêtres ?
+BOT ++++ Pour l'air.
+YOU ++++ Et vous ?
+BOT ++++ Je suis une femme ? Je me tire ?
+YOU ++++ Pourquoi elle est déguisée en marchand de chevaux ?
+BOT ++++ C'est ma tenue de marche.
+YOU ++++ Êtes-vous poète ?
+BOT ++++ Hélas, non.
+YOU ++++ Vous n'avez pas soif ?
+BOT ++++ Qu'est-ce que ça change ?
+YOU ++++ Quoi ?
+BOT ++++ Un bon dessert peut ramener l'ambiance au beau fixe.
+YOU ++++ Il reste un croûton de pain ?
+BOT ++++ Sinon, je mangerai ce soir.
+YOU ++++ Il est où, ce bouquin ?
+BOT ++++ Ah, j'en sais rien.
+YOU ++++ Vous venez pour rien ?
+BOT ++++ Le bruit court que...
+YOU ++++ Vous l'entendez que maintenant ?
+BOT ++++ Ben, si.
+YOU ++++ Vous pouvez la fermer ?
+BOT ++++ Donc ils n'ont pas atteint la frontière.
+YOU ++++ Mais c'est pas en été, ça ?
+BOT ++++ En été, c'est le solstice d'été, du coup.
+YOU ++++ Qui va la porter ?
+BOT ++++ Chacun son tour ?
+YOU ++++ Hé ! Vous n'avez pas entendu marcher dehors ?
+BOT ++++ Non.
+YOU ++++ Alors, on fait ça ?
+BOT ++++ C'est chiant, ça !
+YOU ++++ Comment ?
+BOT ++++ Vous avez réunion.
+YOU ++++ Quoi d'autre, comme vu ?
+BOT ++++ Vu de chasteté ?
+YOU ++++ De quoi ?
+BOT ++++ Je voulais attendre le matin, mais ça urge.
+YOU ++++ M'emmener pisser, vous voulez dire ?
+BOT ++++ Voilà.
+YOU ++++ Et maintenant ?
+BOT ++++ Au pif, 2 minutes.
+YOU ++++ Vous racontez rien ?
+BOT ++++ Quoi ?
+YOU ++++ Guenièvre est partie avec Karadoc ?
+BOT ++++ Euh... Oui et non.
+YOU ++++ Quoi, comme choses ?
+BOT ++++ Je sais pas. À vous de me dire.
+YOU ++++ Où est sa marchandise ?
+BOT ++++ Quoi ?
+YOU ++++ Et alors ?
+BOT ++++ Ça ne donnait rien, alors ils ont arrêté.
+YOU ++++ Sinon, qu'est-ce que...?
+BOT ++++ Qu'est-ce qu'il fait dans le coin ?
+YOU ++++ Qu'est-ce qu'il fait ?
+BOT ++++ OK. Combat.
+YOU ++++ Vous allez lui dire que vous devez le tuer ?
+BOT ++++ Ça doit se faire aujourd'hui ?
+YOU ++++ Un bout de pain avec quoi dessus ?
+BOT ++++ Avec un bout de viande.
+YOU ++++ On est d'accord que vous travaillez pour me rembourser ?
+BOT ++++ Oui.
+YOU ++++ Sans regret ?
+BOT ++++ Je regrette déjà.
+YOU ++++ Puis-je être directe ?
+BOT ++++ Je vous en prie...
+YOU ++++ Mais qu'est-ce qu'il a ?
+BOT ++++ Je voulais aller le voir pour savoir.
+YOU ++++ Qui ?
+BOT ++++ Arthur.
+YOU ++++ Du pif local ?
+BOT ++++ Je suis ruiné !
+YOU ++++ C'était ça, votre plan ?
+BOT ++++ Mon plan, ça a foiré.
+YOU ++++ Vous parlez la langue ?
+BOT ++++ Allez, un mercenaire.
+YOU ++++ Mais si une maîtresse avait été là ?
+BOT ++++ Ce n'est pas le cas.
+YOU ++++ Qu'est-ce qu'ils veulent ?
+BOT ++++ Votre fille est là-bas.
+YOU ++++ Vous faites quoi ?
+BOT ++++ Finissez ce lait.
+YOU ++++ Ça change quoi ?
+BOT ++++ Vous étiez pas en train de picoler.
+YOU ++++ Et vous le faites ?
+BOT ++++ Les pièges à oiseau, c'est une tradition familiale.
+YOU ++++ Il est différent. Jouer ?
+BOT ++++ Jouer, guerre, salsifis !
+YOU ++++ On peut en parler, mais pourquoi je le saurais ?
+BOT ++++ C'est votre allié.
+YOU ++++ Et ça, qu'est-ce que c'est ?
+BOT ++++ Je sais pas.
+YOU ++++ Besoin de rien ?
+BOT ++++ C'est la reine Guenièvre qui m'envoie.
+YOU ++++ Quel est le rapport ?
+BOT ++++ Vous lui avez bourré le mou.
+YOU ++++ Quand allez-vous récupérer Excalibur ?
+BOT ++++ Je sais pas.
+YOU ++++ Vous croyez m'obnubiler ?
+BOT ++++ Mais je m'en fous, de vous.
+YOU ++++ Il ferait l'affaire ?
+BOT ++++ Le souci, c'est qu'il est sensible, fragile...
+YOU ++++ Que vous dire ?
+BOT ++++ Vous êtes un optimiste.
+YOU ++++ Ils sont dangereux ?
+BOT ++++ Je pense bien !
+YOU ++++ Aurais-je, par mégarde, donné le moindre signe de vouloir parler ?
+BOT ++++ Euh...
+YOU ++++ Elle veut me voir quand ?
+BOT ++++ Je préfère pas répondre au hasard.
+YOU ++++ Et lui, là ?
+BOT ++++ On va en reparler.
+YOU ++++ On doit faire quoi, après ?
+BOT ++++ Faire les chambres.
+YOU ++++ Vous y allez quand ?
+BOT ++++ Il y a une chose que je ne comprends pas.
+YOU ++++ Un coup de main pour l'armoire, oui ou flûte ?
+BOT ++++ 30 secondes.
+YOU ++++ Y a pas de mission ?
+BOT ++++ Non.
+YOU ++++ Qu'est-ce qu'on fait ?
+BOT ++++ On l'attend ou pas ?
+YOU ++++ Pourquoi ? Parce que ma femme est une grosse salope.
+BOT ++++ Ce que Guenièvre n'est pas.
+YOU ++++ Parce que vous étiez inquiet ?
+BOT ++++ Mentale.
+YOU ++++ Pourquoi ?
+BOT ++++ Qui va faire tourner la boutique ?
+YOU ++++ Quoi ?
+BOT ++++ Pourquoi, pour quelque chose d'important, il faut toujours se lever aux aurores ?
+YOU ++++ Promener des chiens ?
+BOT ++++ Plus, oui, mais...
+YOU ++++ Petits pédestres ?
+BOT ++++ Si un fait d'armes me revient sous ce nom, je vous déshérite.
+YOU ++++ Ça va aller ou vous allez confondre ?
+BOT ++++ J'étais pas au bar mais en forêt.
+YOU ++++ Sur ?
+BOT ++++ La cabane entière est surélevée.
+YOU ++++ D'ailleurs, je dis quoi ?
+BOT ++++ "Sire" ou pas "sire" ?
+YOU ++++ De quoi ?
+BOT ++++ C'est plus tard.
+YOU ++++ Ça viendra. Combien ils sont ?
+BOT ++++ Je sais pas.
+YOU ++++ Quoi ?
+BOT ++++ Il est près de son père.
+YOU ++++ Vous la faites avec moi ?
+BOT ++++ Comment ça ?
+YOU ++++ Quoi ?
+BOT ++++ Ils ont juste voulu vous renverser.
+YOU ++++ Et alors ?
+BOT ++++ Je le dis pas spécialement à vous.
+YOU ++++ Que voulez-vous ?
+BOT ++++ Ma femme.
+YOU ++++ Quoi ?
+BOT ++++ Quoi ?
+YOU ++++ Vous ramenez qui ?
+BOT ++++ On peut pas recevoir.
+YOU ++++ Que quoi ?
+BOT ++++ Ah oui, les prophéties, oui, oui.
+YOU ++++ Ma corne ?
+BOT ++++ Pour quoi faire ?
+YOU ++++ J'arrive pas trop tôt ?
+BOT ++++ Non. Entrez !
+YOU ++++ C'est vous qui avez demandé un guide ?
+BOT ++++ C'est vous qui avez demandé un guide ?
+YOU ++++ Mais qu'est-ce qu'ils ont ?
+BOT ++++ Ils sont malades ?
+YOU ++++ Prêt à parer ?
+BOT ++++ Ça risque rien !
+YOU ++++ Vous pouvez pas arrêter ?
+BOT ++++ Non, hors de question.
+YOU ++++ Madenn est où ? Ça suffit, là !
+BOT ++++ Par là.
+YOU ++++ Que voulez-vous que je vous dise ?
+BOT ++++ Une épée est un objet...
+YOU ++++ Un labyrinthe ?
+BOT ++++ Ça vous parle ?
+YOU ++++ Ça suffit ! Où est la poulette ?
+BOT ++++ Dites à votre frère de cesser.
+YOU ++++ Alors quoi, bon sang ?
+BOT ++++ Les saborder.
+YOU ++++ Vous rigolez ? On leur gueule dessus et leurs dents tombent.
+BOT ++++ Voilà. C'est eux.
+YOU ++++ C'est quel genre, vos amis ?
+BOT ++++ Des comédiens ?
+YOU ++++ Pour les paniques nocturnes, si quelqu'un venait dormir avec vous ?
+BOT ++++ Juste pour cette nuit.
+YOU ++++ C'est vrai ou pas ?
+BOT ++++ Il y a un peu de ça.
+YOU ++++ Arthur est d'extraction machin ?
+BOT ++++ Oui. C'est le fils de Pendragon.
+YOU ++++ Il faudrait peut-être prendre 2 secondes et en discuter ?
+BOT ++++ Ça suffit ! Ça suffit ! Ça suffit !
+YOU ++++ Comment ?
+BOT ++++ Je suis toujours roi.
+YOU ++++ Pourquoi je vous sers encore, si vous êtes plus roi ?
+BOT ++++ Très bonne remarque.
+YOU ++++ Après ce qu'il a fait ?
+BOT ++++ Quand il s'est barré ou quand il m'a piqué ma femme ?
+YOU ++++ Quoi ?
+BOT ++++ Arthur l'a récupérée.

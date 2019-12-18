@@ -1,0 +1,47 @@
+il y a des véhicules immobilisés?
+combien de véhicules qui roulent actuellement?
+combien de voitures sont en service?
+il y a des voitures qui dépassent la vitesse autorisée?
+toutes les véhicules sont à Lyon?
+combien de km mon véhicule a parcouru?
+mon véhicule roule ou à l'arrêt?
+je cherche une voiture le plus proche?
+il y a de problèmes?
+Est ce que tout va bien?
+il y a des urgences?
+combien véhicules nous avons au total?
+combien de véhicules sont en service?
+combien de véhicules sont à disposition?
+il faut faire des révisions?
+c'est quand la prochaine révision?
+fais une analyse sur la flotte
+fais une analyse sur la consommation de carburant
+fais une analyse sur la flotte
+combien de carburant les véhicules ont comsommés
+il y a des excès de vitesse?
+fais un rapport sur la comsommation des véhicules
+il y a des voitures où la batterie est trop baisse?
+combien de voitures hors service?
+il y a de problème d'essence?
+il y a des dangers?
+montrez moi la liste des choses à faire immédiate
+Est ce que tous les véhicules sont dans Lyon?
+Quel véhicule qui ont le taux de  service le plus élevé?
+il y a des véhicules qui travaillent la nuit?
+quel véhicule qui roule moins?
+les vitesses de 5 véhicules les plus élevées, s'il te plaît
+bonjour
+bonsoir
+merci
+je te remercie pour ton aide
+bon, aurevoir
+à bien tôt
+sais tu que tu es un bot?
+merci et merci
+à très bien tôt
+analyse la conduite
+analyse la flotte
+il y des erreurs flotte?
+détecte les problèmes si il y a
+combien de trajets ce véhicule a fait aujourd'hui
+le véhicule qui fait maximum de trajet depuis 3 mois?

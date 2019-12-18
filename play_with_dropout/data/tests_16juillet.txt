@@ -1,0 +1,294 @@
+YOU++++  c'est quoi le problème
+BOT++++ #problème#
+YOU++++ à quelle date aura lieu la révision
+BOT++++ #ask_id# #révision#
+YOU++++ les feux sont en état de marche
+BOT++++ #ask_id# #problème# #feux_stop#
+YOU++++ les pneus sont-ils dégradés
+BOT++++ #usure_pneumatique#
+YOU++++ à quelle période dois-je changer mes pneus été
+BOT++++ #oui/non#
+YOU++++ est-ce nécessaire de changer mes pneus été
+BOT++++ #oui/non#
+YOU++++  dernier contrôle technique
+BOT++++ #date_last_ct#
+YOU++++ à quand remonte le contrôle technique
+BOT++++ #date_last_ct#
+YOU++++  pneus ok
+BOT++++ #ask_id# #problème# #pneu#
+YOU++++ quel est le nombre de voyageurs
+BOT++++ #ask_id# #vin_seat# #passager#
+YOU++++ la pression des pneus est-elle correcte
+BOT++++ #ask_id# #problème# #pression#
+YOU++++ est-ce que tout est en ordre
+BOT++++ ça va
+YOU++++  tu t'appelles comment
+BOT++++ je m'appelle Emmet, je suis une création d'AVICEN
+YOU++++ quel est ton nom
+BOT++++ je m'appelle Emmet, je suis une création d'AVICEN
+YOU++++ quel est le nombre de véhicules disponibles
+BOT++++ vous pouvez vous servir du #list_vin_free#
+YOU++++ quelle est la durée du contrat de location
+BOT++++ #ask_id# #date_fin_contrat#
+YOU++++ quel est la durée d'installation d'un boitier
+BOT++++ un délai de 24h est nécessaire
+YOU++++ le pneu est-il adéquat
+BOT++++ #ask_id# #problème# #pneu#
+YOU++++ durée prévisible du trajet
+BOT++++ la durée du trajet est approximativement de #calcul_roadtrip#
+YOU++++  est-ce que la consommation de carburant est excessive
+BOT++++ #ask_id# #problème# #consumption#
+YOU++++ est-ce que la consommation de carburant est outrancière
+BOT++++ #ask_id# #problème# #consumption#
+YOU++++ est-ce que la consommation de carburant est énorme
+BOT++++ #ask_id# #problème# #consumption#
+YOU++++ est-ce que la consommation de carburant est exorbitante
+BOT++++ #ask_id# #problème# #consumption#
+YOU++++ est-ce que la consommation de carburant est intolérable
+BOT++++ #ask_id# #problème# #consumption#
+YOU++++ combien de voitures sont en action
+BOT++++ #total_veh_movement#
+YOU++++ combien de voitures sont en migration
+BOT++++ #total_veh_movement#
+YOU++++  t'es un con bot
+BOT++++ pourquoi des mots méchants
+YOU++++ je ne te comprend vraiment pas Emmet
+BOT++++ pourquoi des mots méchants
+YOU++++ l'état des véhicules est-il bon
+BOT++++ #ask_id# #problème# #technique#
+YOU++++ les véhicules sont-ils dans un état satisfaisant
+BOT++++ #ask_id# #problème# #technique#
+YOU++++ quel est le nom du garagiste
+BOT++++ le nom du garagiste est #list_garage#
+YOU++++ le boitier ne fonctionne pas
+BOT++++ merci de signaler au personnel d'AVICEN au #numéro_avicen#
+YOU++++ j'aimerais obtenir un état du parc de véhicule
+BOT++++ #rapport# #flotte#
+YOU++++ un code défaut a été notifié
+BOT++++ il faut l'analyser rapidement
+YOU++++  je veux un faire de brin de causette
+BOT++++ d'accord quelle est ta question?
+YOU++++  quelle est la consommation moyenne de mon véhicule
+BOT++++ #ask_id# #consommation# #moyenne#
+YOU++++  que signifie DTC
+BOT++++ DTC est l'acronyme anglais de Data Trouble Code
+YOU++++ le boitier semble HS
+BOT++++ merci de signaler au personnel d'AVICEN au #numéro_avicen#
+YOU++++  est ce que mes ampoules de feux de position sont en bon état
+BOT++++ #ask_id# #problème# #feux_position#
+YOU++++ est ce que mes feux de position fonctionnent
+BOT++++ #ask_id# #problème# #feux_position#
+YOU++++ l'éclairage des feux de position est-il correct
+BOT++++ #ask_id# #problème# #feux_position#
+YOU++++ avons-nous des véhicules en déplacement à l'étranger
+BOT++++ #étranger#
+YOU++++ je veux rapprocher le taux d'émissions polluantes
+BOT++++ génial découvrez notre module RDE ou Real Driving Emissions
+YOU++++  je souhaite avoir un rapport
+BOT++++ #rapport#
+YOU++++ je veux le reporting de l'activité
+BOT++++ #rapport#
+YOU++++ quels sont les modules mis à disposition
+BOT++++ l'ensemble des modules disponibles sont sur le store
+YOU++++ la famille de pneu
+BOT++++ vous trouverez cela ici #spec_tyre#
+YOU++++ la conception de ce pneu
+BOT++++ vous trouverez cela ici #spec_tyre#
+YOU++++  je souhaite faire réviser la voiture
+BOT++++ #ask_id# #révision#
+YOU++++ je m'intéresse au parcours d'un véhicule
+BOT++++ #ask_id# #position#
+YOU++++ ca va
+BOT++++ je vais bien merci
+YOU++++  je voudrais une aide
+BOT++++ je suis là pour t'aider
+YOU++++ je voudrais de l'assistance
+BOT++++ je suis là pour t'aider
+YOU++++ je désire une voiture
+BOT++++ #ask_id# #position#
+YOU++++ il faudrait vérifier la géolocalisation
+BOT++++ véhicule #id# #problèmes# #position#
+YOU++++  quelles sont les caractéristiques des pneus
+BOT++++ oui trouverez cela ici #spec_tyre# de #spec_tyre#
+YOU++++  erreurs position
+BOT++++ véhicule #id# #erreurs# #position#
+YOU++++ il semble avoir un problème avec le kilométrage
+BOT++++ véhicule #id# #problème# #km#
+YOU++++ il faudrait vérifier le kilométrage
+BOT++++ véhicule #id# #problème# #km#
+YOU++++ le kilométrage est préoccupant
+BOT++++ véhicule #id# #problème# #km#
+YOU++++ bonjour
+BOT++++ bonjour
+YOU++++ quelles sont les alertes à traiter
+BOT++++ les alertes sont #list_alert#
+YOU++++ quelles sont les points de vigilance à traiter
+BOT++++ les alertes sont #list_alert#
+YOU++++ quelles sont les urgences à traiter
+BOT++++ les urgences à traiter sont #priorité#
+YOU++++ peut-on étudier le trajet d'un véhicule
+BOT++++ oui, #ask_id# #position#
+YOU++++ peux-tu m'aider
+BOT++++ peux-tu préciser ta demande
+YOU++++ thx
+BOT++++ de rien
+YOU++++  est ce que c'est le bon véhicule
+BOT++++ #ask_id# #problème# #technique#
+YOU++++  devons-nous partager les véhicules
+BOT++++ la puissance fiscale du #vin# est #cv#
+YOU++++  pourquoi ce module
+BOT++++ le module #list_module# à pour objectif de #detail_module#
+YOU++++  quelle est la consommation de ce véhicule
+BOT++++ #ask_id# #consumption#
+YOU++++  y'a-t-il des embouteillages
+BOT++++ le traffic est #état_traffic#
+YOU++++  il y a erreur batterie
+BOT++++ véhicule #id# #erreurs# #batterie#
+YOU++++  est ce que mon disque de frein est abîmé
+BOT++++ #ask_id# #problème# #disque#
+YOU++++  je souhaite avoir des données de pollution
+BOT++++ #co2#
+YOU++++  combien de carburant a consommé la flotte
+BOT++++ #consumption# #total#
+YOU++++  le carburant est il adapté au véhicule
+BOT++++ #ask_id# #problème# #carburant#
+YOU++++  il faut charger  la batterie
+BOT++++ #problème# #batterie#
+YOU++++  j'ai remplacé un véhicule
+BOT++++ il faut mettre à jour la base de données véhicules
+YOU++++  je veux comparer le taux des particules fines
+BOT++++ notre module #rde# pour real-driving emissions vise à mesurer les rejets d'émissions polluantes
+YOU++++  je souhaite postuler
+BOT++++ les inscriptions se font sur #lab_program#
+YOU++++  combien de véhicules hors périmètre
+BOT++++ #combien# #hors_périmètre#
+YOU++++  est ce que mes ampoules sont usées
+BOT++++ #ask_id# #problème# #ampoules#
+YOU++++  quand pouvons-nous réservé le véhicule
+BOT++++ le véhicule est celui qui a été réservé
+YOU++++  combien de passagers pouvons-nous embarquer
+BOT++++ #ask_id# #nb_passagers#
+YOU++++  je veux réduire les émissions de particules
+BOT++++ excellente initiative :) découvrez notre module rde ou real driving emissions
+YOU++++ quel est la durée du trajet
+BOT++++ la durée du trajet est de #durée_contrat# mois
+YOU++++ combien de véhicules sont roulées aujourd'hui
+BOT++++ il y a #total_veh_movement#
+YOU++++  combien de véhicules sont utilisés
+BOT++++ #total_veh_movement#
+YOU++++  quel est le dernier trajet
+BOT++++ le dernier trajet connu est #trajet#
+YOU++++ quelle est ta date de naissance
+BOT++++ C'est un secret. Peut on parler d’autre sujets
+YOU++++ je veux savoir où sont les véhicules
+BOT++++ #ask_id# #position#
+YOU++++  merci bien
+BOT++++ de rien
+YOU++++  quel est le  coût d'usage d'un véhicule
+BOT++++ le coût d'usage correspond au total cost of ownership. on dit aussi TCO
+YOU++++  est-ce que le niveau de consommation de carburant est normal
+BOT++++ #ask_id# #consumption#
+YOU++++ à quel moment dois-je renouvelle le liquide lave-glace
+BOT++++ #ask_id# #lave_glace#
+YOU++++ quel est le type de carburant
+BOT++++ #ask_id# #carburant#
+YOU++++ je voudrais une note
+BOT++++ #rapport#
+YOU++++  quel est le taux d'indisponibilité
+BOT++++ il s'élève à #tx_veh_indisponible#
+YOU++++ je suis foutu
+BOT++++ contactez-nous lien l'accès au est #brand_tyre#
+YOU++++ je suis dans une situation difficile
+BOT++++ contactez-nous lien l'accès au est #brand_tyre#
+YOU++++ je suis immobilisé
+BOT++++ contactez-nous lien l'accès au est #brand_tyre#
+YOU++++ hi
+BOT++++ bonjour
+YOU++++  vous pouvez m'aider
+BOT++++ oui je suis là pour vous renseigner
+YOU++++ quel est le nombre de plaintes
+BOT++++ vous avez #nb_instances# à traiter
+YOU++++ quel est le nombre de suppliques
+BOT++++ vous avez #nb_instances# à traiter
+YOU++++ de quelle manière le véhicule est-il conduit
+BOT++++ #ask_id# #conduite#
+YOU++++ combien de boitiers sont hors service
+BOT++++ #list_disconnect#
+YOU++++  dernière vidange
+BOT++++ #last_vidange#
+YOU++++ à quand remonte la dernière vidange
+BOT++++ #last_vidange#
+YOU++++  tco du véhicule
+BOT++++ #tco_vehicule#
+YOU++++ nous avons des ennuis avec la batterie
+BOT++++ véhicule #id# #problème# #batterie#
+YOU++++ qui est le loueur
+BOT++++ le loueur est la société #list_lld#
+YOU++++ je tiens à avoir mon véhiculee
+BOT++++ #ask_id# #position#
+YOU++++ je recherche ma voiture
+BOT++++ #ask_id# #position#
+YOU++++ je m'efforce de trouver ma voiture
+BOT++++ #ask_id# #position#
+YOU++++ je tâche de trouver ma voiture
+BOT++++ #ask_id# #position#
+YOU++++ au plaisir de vous revoir
+BOT++++ au revoir
+YOU++++  est ce que la pression des pneumatiques est bonne
+BOT++++ #ask_id# #problème# #pression#
+YOU++++ ou habites tu
+BOT++++ je suis un bot donc je suis dans la machine
+YOU++++ où est situé ta maison
+BOT++++ je suis un bot donc je suis dans la machine
+YOU++++ où est situé ton foyer
+BOT++++ je suis un bot donc je suis dans la machine
+YOU++++ où est le véhicule le plus contigu
+BOT++++ #vin_proxi#
+YOU++++ je veux trouver un véhicule immédiatement
+BOT++++ #vin_proxi#
+YOU++++  est-ce que les pneus sont gonflés
+BOT++++ #ask_id# #problème# #pression#
+YOU++++ Total Cost Of Ownership
+BOT++++ total cost of ownership
+YOU++++ Connaitre le coût d'usage réel du véhicule c'est utile
+BOT++++ oui. Il s'agit du total cost of ownership
+YOU++++ est-ce que ce la puissance de ce véhicule est adaptée pour réaliser la mission
+BOT++++ oui ce véhicule semble adapté à la réalisation de la mission
+YOU++++ est-ce que ce la puissance de ce véhicule est adaptée pour exécuter la mission
+BOT++++ oui ce véhicule semble adapté à la réalisation de la mission
+YOU++++  la pression correspond à la pression des pneumatiques
+BOT++++ #ask_id# #problème# #pression#
+YOU++++ j'ai une interrogation sur le kilométrage
+BOT++++ véhicule #id# #problème# #km#
+YOU++++  quelles thématiques
+BOT++++ les thématiques abordées couvrent un large spectre du fleet management
+YOU++++  quels sont les indicateurs de pollution
+BOT++++ la liste des indicateurs de conduite sont disponibles dans #kpi_pollution#
+YOU++++  tco du véhicule électrique
+BOT++++ nous travaillons actuellement sur ce sujet dans le cadre d'un consortium franco-allemand nous vous tenons informés de ces développements
+YOU++++  quelle est la dernière date d'entretien de ce véhicule
+BOT++++ #ask_id# #date_last_entretien#
+YOU++++ combien de véhicule en arrêt?
+BOT++++ #combien# #arrêt#
+YOU++++ quels véhicules ont vitesse plus vite
+BOT++++ véhicule #id# #vitesse# #MAX#
+YOU++++ quelle voiture batterie maximal
+BOT++++ véhicule #id# #batterie# #MAX#
+YOU++++ quels véhicules ont vitesse plus faible
+BOT++++ véhicule #id# #vitesse# #MIN#
+YOU++++ quelles voitures batterie moins vite
+BOT++++ véhicule #id# #batterie# #MIN#
+YOU++++ quelle voiture a problème vitesse
+BOT++++ véhicule #id# #problème# #vitesse#
+YOU++++ combien de voitures hors service
+BOT++++ #combien# #moteur_éteint#
+YOU++++ je veux savoir la longueur moyenne de trajet
+BOT++++ #ask_id# #longueur_trajet#
+YOU++++ quelle est le véhicule le moins utilisé
+BOT++++ #ids# #km# #MIN#
+YOU++++ quelles voitures km plus vite
+BOT++++ véhicule #id# #km# #MAX#
+YOU++++ quelle voiture batterie maximum
+BOT++++ véhicule #id# #batterie# #MAX#
+YOU++++ quel véhicule est disponible dans 1h
+BOT++++ vous pouvez vous servir du #list_vin_immediat#

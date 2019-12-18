@@ -1,0 +1,1476 @@
+# c'est quoi le problème
+quel est le problème
+quelles sont les difficultés
+y a t'il un problème
+est-ce ennuyeux
+
+# Je veux savoir s'il y a des problèmes?
+j'aimerais savoir quels sont les problèmes
+avons-nous des problèmes
+avons-nous des ennuis
+
+# quand est-ce la révision
+quand aura lieu la révision
+quand a eu lieu la révision
+à quelle date aura lieu la révision
+avons-nous une révision de prévue
+
+# quel est ton prénom
+quel est ton patronyme
+comment t'appelles-tu
+quel est ton prénom de naissance 
+comment tu t'appelles
+
+# charge de la batterie
+quelle est la tension de la batterie
+quel est le voltage de la batterie
+la batterie est-elle bien chargée
+la puissance de la batterie est-elle suffisante
+est-ce que la charge de la batterie est satisfaisante
+
+# salutations
+mes compliments
+salut
+bonsoir
+adieu
+au revoir
+
+# bisous
+bises
+
+# est ce que mes ampoules de feux de stop sont en bon état
+est ce que mes feux fonctionnent
+l'éclairage est-il bon
+les feux sont en état de marche
+
+# combien de voitures nous avons
+quel est le nombre de véhicules dont nous disposons
+quel est le nombre de voitures
+combien de véhicules avons nous
+nombre de voiture
+nombre de véhicule
+quelle quantité
+quel nombre
+à quel point avons nous des voitures
+dans quelle mesure avons nous des véhicules
+
+# quel est l’état d’usure des pneumatiques
+quel est le niveau de détérioration des pneus
+avons-nous une dégradation excessive des pneus
+quel est l'état de fatigue des pneus
+les pneus sont-ils dégradés
+quel est le niveau de dégradation des pneus
+l'état de fatigue des pneus est-il acceptable
+
+# quand dois-je passer en pneus hiver
+à quelle période dois-je changer mes pneus été
+est-il temps de modifier la monte de pneus
+aujourd'hui est-ce le bon choix de changer mes pneus hiver 
+est-ce nécessaire de changer mes pneus été 
+dois-je remplacer mes pneus prochainement
+suis-je obligé de remplacer mes pneus hiver bientôt
+
+# dernier contrôle technique
+à quand remonte le contrôle technique
+de quand date le dernier contrôle technique
+
+# quelle a été la consommation de carburant
+combien de carburant a été consommé
+quel niveau de consommation
+quelle valeur de consommation
+
+# pneus ok
+les pneus sont-il en bon état
+est-ce que les pneumatiques sont bons
+les pneus sont-ils dans un état satisfaisant
+
+# est-ce que je peux avoir des renseignements
+je veux des informations
+j'aimerais avoir des informations
+je veux des indications
+je m'interroge
+j'aimerais un éclaircissement
+
+# combien de passagers à bord
+combien de voyageurs
+quel est le nombre de voyageurs
+combien de places occupées
+
+# la pression des pneus est-elle adaptée
+la pression des pneus est-elle adéquate
+la pression des pneus est-elle convenable
+la pression des pneus est-elle satisfaisante
+la pression des pneus est-elle idoine
+la pression des pneus est-elle appropriée
+la pression des pneus est-elle correcte
+
+# quel est le kilométrage moyen de ce véhicule
+quel est le km moyen de ce véhicule
+quelle est la moyenne de la distance parcourue par ce véhicule
+
+# est-ce-que tout va bien
+tout est ok
+est-ce que tout est en ordre
+est-ce que tout est en ordre de marche
+est-ce que tout fonctionne normalement
+
+# tu t'appelles comment
+comment t'appelles tu
+quel est ton nom
+peux-tu me dire comment tu t'appelles
+puis-je connaître ton nom
+
+# combien de véhicules sont disponibles
+quel est le nombre de véhicules disponibles
+combien de véhicule à disposition
+
+# il y a un boitier qui ne fonctionne plus
+il y a un boitier qui ne marche pas
+ce boitier semble avoir un dysfonctionnement
+
+# durée du contrat de location
+quelle est la durée du contrat de location
+sur quelle durée sommes-nous engagés contractuellement
+
+# quel est le mode de transmission de ce véhicule
+quelle transmission utilise cette voiture
+
+# durée du contrat
+quelle est la durée du contrat
+combien de temps sommes-nous engagés contractuellement
+nombre de mois de contrat
+
+# combien de voiture avons nous
+quel est le nombre de voitures du parc
+quantité de véhicules
+nous avons combien de véhicules
+
+# combien de temps pour paramêtrer un boîtier
+quel est la durée d'installation d'un boitier
+j'aimerais connaître le temps d'implémentation d'un boitier
+
+# combien de véhicules sont immobilisés
+quel est le nombre de véhicules indisponibles
+
+# le pneu semble ne pas être adapté
+le pneu est-il adéquat
+le pneu est-il le bon
+le pneu est-il approprié
+le pneu est-il correct
+
+# dernier passage en atelier
+quelle est la date du dernier passage en atelier
+date du dernier passage au garage
+quand avons-nous réalisé la dernière visite en atelier
+
+# problèmes vitesse
+avons-nous des problèmes avec la vitesse de déplacement du véhicule
+y a t'il des dépassements de vitesse autorisé
+
+# au revoir
+salutations
+salut
+bonsoir
+adieu
+
+# quel est le temps estimé d'arrivée
+estimation approximative de l'heure d'arrivée
+durée prévisible du trajet
+évaluation du temps du trajet
+
+# est-ce que la consommation de carburant est excessive
+est-ce que la consommation de carburant est démesurée
+est-ce que la consommation de carburant est extrême
+est-ce que la consommation de carburant est exagérée
+est-ce que la consommation de carburant est immodérée
+est-ce que la consommation de carburant est outrancière
+est-ce que la consommation de carburant est abusive
+est-ce que la consommation de carburant est énorme
+est-ce que la consommation de carburant est exorbitante
+est-ce que la consommation de carburant est affreuse
+est-ce que la consommation de carburant est déraisonnable
+est-ce que la consommation de carburant est insoutenable
+est-ce que la consommation de carburant est insupportable
+est-ce que la consommation de carburant est intolérable
+
+# combien de voitures circulent
+combien de voitures sont en mouvement
+combien de voitures roulent
+combien de voitures sont en déplacement
+combien de voitures sont en action
+combien de voitures évoluent sur la route
+combien de voitures sont en marche
+combien de voitures progressent sur la route
+combien de voitures effectuent un trajet
+combien de voitures sont dans le trafic
+combien de voitures sont en manoeuvre
+combien de voitures sont en activité
+combien de voitures sont en migration
+
+# tu vas bien
+comment vas-tu
+est-ce que tu vas bien
+es-tu en forme
+
+# est ce qu'il manque de l'huile dans le moteur
+y a t'il suffisamment d'huile
+avons-nous assez d'huile
+
+# t'es un con bot
+tu es absurde Emmet
+tu n'es pas très malin Emmet
+je ne te comprend vraiment pas Emmet
+
+# il y a danger vitesse
+avons-nous des problèmes avec la vitesse de déplacement du véhicule
+y a t'il des dépassements de vitesse autorisé
+ce véhicule a t-il une vitesse excessive
+
+# les véhicules sont-ils en bonne santé
+l'état des véhicules est-il bon
+les véhicules sont-ils dans un état satisfaisant
+les véhicules sont-ils dans un état correct
+
+# j'ai besoin de renseignements
+je veux des informations
+je souhaiterais avoir des informations
+je voudrais des indications
+j'aimerais un éclaircissement
+
+# merci madame
+merci mademoiselle
+
+# je veux comparer la distance parcouru par un véhicule
+je souhaiterais effectuer un benchmark
+je voudrais réaliser un comparatif des distances parcourues par un véhicule
+
+# nom du garagiste
+quel est le nom du garagiste
+quel est le nom du garage
+à quel garage dois-je m'adresser
+
+# le boitier est hs
+le boitier ne fonctionne pas
+le boitier est hors service
+nous constatons le dysfonctionnement du boitier
+
+# il y a problème vitesse
+avons-nous des problèmes avec la vitesse de déplacement du véhicule
+y a t'il des dépassements de vitesse autorisé
+ce véhicule a t-il une vitesse excessive
+
+# je souhaite avoir un rapport sur l'état de la flotte
+j'aimerais obtenir un état du parc de véhicule
+je voudrais les indicateurs clé de la flotte
+
+# il y a danger position
+danger
+
+# j'ai un code défaut
+j'ai identifié un code défaut
+un code défaut a été notifié
+
+# je veux diminuer les rejets de pollution
+je veux améliorer mon bilan carbone
+je veux réduire mon empreinte environnementale
+je souhaite abaisser le niveau des émissions polluantes
+
+# je veux un faire de brin de causette
+j'aimerais discuter avec vous
+je suis ouvert à une discussion
+je veux échanger avec vous
+j'aimerais vous partager mon opinion
+j'aimerais vous faire part des mes besoins
+
+# qui est sur la route
+qui est en déplacement
+
+# quels sont les véhicules immobilisés
+quel est le nombre de véhicules indisponibles
+combien de véhicule sont à l'arrêt
+
+# est que mon frein est usé
+ai-je assez de liquide de frein
+est-ce que le niveau de liquide de frein est satisfaisant
+
+# combien de km mon véhicule a parcouru
+quelle est la distance réalisée par ce véhicule
+combien de kilomètres ont été avalés par ce véhicule
+
+# quelle est la consommation moyenne de mon véhicule
+quelle est la quantité moyenne de carburant constatée pour ce véhicule
+
+# je veux réduire les émissions polluantes
+je veux avoir un bon bilan carbone
+je veux améliorer mon empreinte environnementale
+je souhaite abaisser le niveau des émissions polluantes
+
+# il y a erreurs vitesse
+avons-nous des problèmes avec la vitesse de déplacement du véhicule
+y a t'il des dépassements de vitesse autorisé
+ce véhicule a t-il une vitesse excessive
+
+# que signifie DTC
+que signifie diagnostic trouble code
+
+# boitier hors service
+le boitier ne fonctionne pas
+nous constatons le dysfonctionnement du boitier
+le boitier semble HS
+
+# il y a danger batterie
+la batterie a un niveau de charge très faible
+la tension de la batterie n'est pas pas suffisante
+
+# est ce que mes ampoules de feux de position sont en bon état
+est ce que mes feux de position fonctionnent
+l'éclairage des feux de position est-il correct
+les feux de position sont-ils en état de marche
+
+# trouvez le véhicule le plus proche
+j'aimerais identifier le véhicule le plus proche
+
+# il y a erreur vitesse
+avons-nous des problèmes avec la vitesse de déplacement du véhicule
+y a t'il des dépassements de vitesse autorisé
+ce véhicule a t-il une vitesse excessive
+
+# des véhicules à l'étranger
+avons-nous des véhicules en déplacement à l'étranger
+combien de véhicules circulent à l'étranger
+
+# je veux comparer le taux d'émissions polluantes
+je veux apprécier le taux d'émissions polluantes
+je veux confronter le taux d'émissions polluantes
+je veux examiner le taux d'émissions polluantes
+je veux évaluer le taux d'émissions polluantes
+je veux mesurer le taux d'émissions polluantes
+je veux rapprocher le taux d'émissions polluantes
+
+# je veux réduire la pollution
+je veux un bon bilan carbone
+je souhaite améliorer mon empreinte environnementale
+je veux abaisser le niveau des émissions polluantes
+
+# je souhaite avoir un rapport
+j'aimerais une note de synthèse
+je veux le reporting de l'activité
+
+# est-ce qu’il fait beau
+est-ce que les conditions climatiques sont satisfaisantes
+est-ce que les conditions climatiques sont propices à un déplacement
+
+# combien de véhicules à l'étranger
+y a t il des véhicules à l'étranger
+avons-nous des véhicules en déplacement à l'étranger
+combien de véhicules circulent à l'étranger
+
+# quels sont les autres modules disponibles
+quels sont les services proposées
+quels sont les modules mis à disposition
+quels sont les 
+
+# génération de pneu
+la famille de pneu
+la production correspondante
+la conception de ce pneu
+la fabrication de ce pneu
+
+# problème vitesse
+avons-nous des problèmes avec la vitesse de déplacement du véhicule
+y a t'il des dépassements de vitesse autorisé
+ce véhicule a t-il une vitesse excessive
+
+# où est mon véhicule
+où se trouve mon véhicule
+où est ma voiture
+
+# je souhaite faire réviser la voiture
+je souhaite faire l'entretien de la voiture
+je veux effectuer la révision du véhicule
+
+# t'es un idiot bot
+tu es absurde Emmet
+tu n'es pas très malin Emmet
+je ne te comprend vraiment pas Emmet
+
+# je veux suivre un véhicule
+je veux tracer le trajet effectuer par un véhicule
+je veux observer le trajet d'un véhicule
+je veux étudier le trajet d'un véhicule
+je m'intéresse au parcours d'un véhicule
+je veux épier un véhicule
+
+# comment vas tu
+ca va?
+
+# je voudrais une aide
+je voudrais des renseignements
+je voudrais un coup de main
+je voudrais de l'assistance
+je voudrais un appui
+je voudrais une solution
+je voudrais que l'on me prête main-forte
+je voudrais du renfort
+je voudrais du soutien
+je voudrais votre concours
+
+# quelle est la durée du contrat
+quelle est la durée du contrat de location
+sur quelle durée sommes-nous engagés contractuellement
+combien de temps sommes-nous engagés contractuellement
+nombre de mois de contrat
+
+# quelle est la consommation moyenne de mon véhicule
+quelle est la consommation moyenne de carburant de mon véhicule
+quelle quantité moyenne de carburant est consommée par mon véhicule
+
+# quelle est la marque des pneus
+quel est le fabricant des pneus
+qui fabrique mes pneus
+quelle est le producteur des pneus
+quel est le créateur des pneus
+quel est le commerçant des pneus
+
+# je veux une voiture
+je cherche une voiture
+je souhaite une voiture
+je désire une voiture
+je tiens à avoir une voiture
+je commande une voiture
+je demande une voiture
+j'espère avoir une voiture
+j'exige une voiture
+je réclame une voiture
+
+# combien de voitures avons-nous
+quel est le nombre de voitures du parc
+quantité de véhicules
+nous avons combien de véhicules
+
+# danger position
+il semble avoir un problème de géolocalisation
+j'ai identifié un problème de géolocalisation
+il faudrait vérifier la géolocalisation
+une difficulté avec la géolocalisation
+nous avons des ennuis avec la géolocalisation
+j'ai une interrogation sur la géolocalisation
+
+# quel est le kilométrage parcouru par ces voitures ?
+quelle est la distance réalisée par ces voitures
+combien de kilomètres ont été avalés par ces voitures
+
+# combien de kilomètres a fait ce véhicule
+quelle est la distance réalisée par ce véhicule
+combien de kilomètres ont été avalés par ce véhicule
+
+# quelles sont les caractéristiques des pneus
+
+# erreurs position
+il semble avoir un problème de géolocalisation
+j'ai identifié un problème de géolocalisation
+il faudrait vérifier la géolocalisation
+une difficulté avec la géolocalisation
+nous avons des ennuis avec la géolocalisation
+j'ai une interrogation sur la géolocalisation
+
+# il y a erreurs position
+il semble avoir un problème de géolocalisation
+j'ai identifié un problème de géolocalisation
+il faudrait vérifier la géolocalisation
+une difficulté avec la géolocalisation
+nous avons des ennuis avec la géolocalisation
+j'ai une interrogation sur la géolocalisation
+
+# combien de kilometres parcourus
+quelle est la distance réalisée
+combien de kilomètres ont été réalisés
+
+# il y a problèmes km
+il semble avoir un problème avec le kilométrage
+j'ai identifié un problème de km
+il faudrait vérifier le kilométrage
+il semble avoir un problème de kilométrage
+j'ai identifié un problème de kilométrage
+il faudrait vérifier le kilométrage
+les données de kilométrage sont inexactes
+je constate une irrégularité sur le kilométrage
+le kilométrage est faux
+le kilométrage est préoccupant
+je constate un écart sur le kilométrage
+
+# combien de voitures sont à l'arrêt
+combien de véhicules sont arrêtés
+quel est le nombre de véhicules indisponibles
+combien de véhicules ne sont pas disponibles
+
+# erreur km
+il semble avoir un problème avec le kilométrage
+j'ai identifié un problème de km
+il faudrait vérifier le kilométrage
+il semble avoir un problème de kilométrage
+j'ai identifié un problème de kilométrage
+il faudrait vérifier le kilométrage
+les données de kilométrage sont inexactes
+je constate une irrégularité sur le kilométrage
+le kilométrage est faux
+le kilométrage est préoccupant
+je constate un écart sur le kilométrage
+
+# erreur position
+il semble avoir un problème de géolocalisation
+j'ai identifié un problème de géolocalisation
+il faudrait vérifier la géolocalisation
+une difficulté avec la géolocalisation
+nous avons des ennuis avec la géolocalisation
+j'ai une interrogation sur la géolocalisation
+
+# sais tu qui est le président de france
+emmanuel macron depuis le 6 mai 2018
+# t'es con
+tu es absurde emmet
+tu n'es pas très malin emmet
+je ne te comprend vraiment pas emmet
+# erreurs km
+il semble avoir un problème avec le kilométrage
+j'ai identifié un problème de km
+il faudrait vérifier le kilométrage
+il semble avoir un problème de kilométrage
+j'ai identifié un problème de kilométrage
+il faudrait vérifier le kilométrage
+les données de kilométrage sont inexactes
+je constate une irrégularité sur le kilométrage
+le kilométrage est faux
+le kilométrage est préoccupant
+je constate un écart sur le kilométrage
+
+# il y a erreurs km
+il semble avoir un problème avec le kilométrage
+j'ai identifié un problème de km
+il faudrait vérifier le kilométrage
+il semble avoir un problème de kilométrage
+j'ai identifié un problème de kilométrage
+il faudrait vérifier le kilométrage
+les données de kilométrage sont inexactes
+je constate une irrégularité sur le kilométrage
+le kilométrage est faux
+le kilométrage est préoccupant
+je constate un écart sur le kilométrage
+# bonjour madame
+bonjour
+
+# quand est ce que je dois prévoir ma prochaine révision
+quelle est la date prévisionnelle de la future révision
+quand dois-je prévoir une date de révision
+est-ce que la date de prévision est proche
+
+# quelles sont les urgences
+quelles sont les alertes à traiter
+quelles sont les points de vigilance à traiter
+quelles sont les notifications importantes à traiter
+quelles sont les priorités à traiter
+
+# quelles sont les alertes à traiter
+quelles sont les points de vigilance à traiter
+quelles sont les notifications importantes à traiter
+quelles sont les urgences à traiter
+quelles sont les priorités à traiter
+
+# est-ce que nous avons des véhicules à l'étranger
+y a t il des véhicules à l'étranger
+avons-nous des véhicules en déplacement à l'étranger
+combien de véhicules circulent à l'étranger
+
+# quelle est la dernière date d'utilisation de ce véhicule
+à quand remonte l'utilisation de ce véhicule
+
+# peut-on localisé ce véhicule
+peut-on situé ce véhicule
+peut-on voir où est ce véhicule
+
+# peut-on suivre un véhicule
+peut-on tracer le trajet effectuer par un véhicule
+peut-on observer le trajet d'un véhicule
+peut-on étudier le trajet d'un véhicule
+peut-on épier un véhicule
+
+# quelle est la durée de vie d'un pneu
+quelle est la durée d'utilisation d'un pneu
+
+ # merci de ton aide
+merci
+à votre service
+
+ # Tu peux m'aider
+peux-tu m'aider
+peux-tu me renseigner
+
+# merci
+thx
+merci beaucoup
+merci infiniment
+
+# problème km
+il semble avoir un problème avec le kilométrage
+j'ai identifié un problème de km
+il faudrait vérifier le kilométrage
+il semble avoir un problème de kilométrage
+j'ai identifié un problème de kilométrage
+il faudrait vérifier le kilométrage
+les données de kilométrage sont inexactes
+je constate une irrégularité sur le kilométrage
+le kilométrage est faux
+le kilométrage est préoccupant
+je constate un écart sur le kilométrage
+
+
+# combien de voitures roulent
+
+# est ce que c'est le bon véhicule
+
+# combien de véhicules connectés
+
+# le boitier ne communique plus
+
+# combien me coûte le poste carburant 
+
+# quelle est la pression des pneus
+
+# est-ce grave
+
+# quelles sont les performances de cette voiture
+
+# devons-nous partager les véhicules
+
+# délai de livraison du véhicule
+
+# quelles sont les urgences à traiter
+
+# problème de frein
+
+# je souhaite avoir des données de gestion
+
+# comment modifier les informations relatives à mon compte
+
+# combien de temps la voiture est arrêté
+
+# un boitier ne se connecte pas
+
+# pourquoi ce module
+
+# quel est l'historique des trajets
+
+# bonne matinée
+
+# quels sont les problèmes
+
+# quelle est la marque de ce véhicule
+
+# je vais bien
+
+# il y a danger km
+
+# combien de voitures
+
+# nom de l'interlocuteur
+
+# y'a-t-il un souci
+
+# je veux comparer la consommation de carburant
+
+# mes freinages sont ils trop brusques
+
+# problèmes batterie
+
+# quand dois-je restituer le prochain véhicule
+
+# quand est-ce qu’il faut faire une révision
+
+# j'aimerais réduire mon empreinte carbone
+
+# j'ai un problème
+
+# quelle est la consommation de ce véhicule
+
+# dernière révision
+
+# mode de paiement
+
+# révision
+
+# quelles sont les alertes
+
+# coût d'usage de la flotte
+
+# y'a-t-il des embouteillages
+
+# taux de disponibilité
+
+# salut
+
+# il y a erreur batterie
+
+# est ce que mon disque de frein est abîmé
+
+# je veux un véhicule
+
+# le boitier semble déconnecté
+
+# au revoir et à bientôt
+
+# merci de m'indiquer la durée du trajet
+
+# peux-tu m'aider
+
+# c’est quoi ton prénom
+
+# je veux comparer la pression des pneus
+
+# c'est un super outil
+
+# avons-nous la carte carburant
+
+# pardon
+
+# quelles sont vos horaires d'ouverture
+
+# je souhaite avoir des données de pollution
+
+# quelles sont les voitures
+
+# combien de carburant a consommé la flotte
+
+# le carburant est il adapté au véhicule
+
+# la pression d'un pneu
+
+# avons nous des véhicules à l'étranger
+
+# il y a problèmes position
+
+# il faut charger  la batterie
+
+# y a t-il un risque de panne du moteur ou d'un organe de transmission
+
+# t’es stupide
+
+# combien de kilomètres a fait ce véhicule
+
+# j'ai remplacé un véhicule
+
+
+
+# je veux comparer le taux des particules fines
+
+# quels objectifs
+
+# quels sont les indicateurs de conduite
+
+# est ce que le frein a main est mal utilisé
+
+# où est ma voiture
+
+# bonne soirée
+
+# quel est le constructeur de ce véhicule
+
+# le co2 ca craint
+
+# je souhaite avoir un rapport sur l'état des véhicules
+
+
+
+# je souhaite postuler
+
+# erreurs vitesse
+
+# combien de véhicules sont présents dans le parc
+
+# particules fines
+
+# où sont les véhicules
+
+# combien nous avons consommé 
+
+# eco-conduite
+
+# mes accélérations sont elles trop franches
+
+# combien de véhicules hors périmètre
+
+# comment tu t'appelles
+
+# problème position
+
+# combien de véhicules sont disponibles 
+
+# j'ai fais un prêt de véhicule
+
+# est ce ma conduite est adaptée au véhicule
+
+# je veux mutualiser des trajets
+
+# je veux évaluer la pertinence du trajet
+
+# est ce que mes ampoules sont usées
+
+# erreurs batterie
+
+# je veux connaître la monte des pneus du véhicule
+
+# bonjour mademoiselle
+
+# l'état des pneus est il correct
+
+# est ce qu'il manque du liquide de frein
+
+# combien de véhicules qui roulent
+
+# j'ai peur que ce véhicule soit en panne
+
+# comment ça va
+
+# combien de véhicules roulent
+
+# j'ai fais un remplacement de véhicule
+
+# quand pouvons-nous réservé le véhicule
+
+# je cherche mon véhicule
+
+# quels sont les évènements brusques
+
+# qui est le plus fort du monde.
+
+# les pneus sont-ils en bon état
+
+
+# quel est le mode d'énergie
+
+# combien de passagers pouvons-nous embarquer
+
+# erreur vitesse
+
+# nombre de mois de location
+
+# peut-on suivre le déplacement des véhicules
+
+# je veux faire réviser mon véhicule demain
+
+# je veux réduire les émissions de particules
+
+# danger km
+
+# quel nombre de place
+
+# à quelle vitesse roule ce véhicule ?
+
+# les échéances sont respectées
+
+# quel est l'état de la route
+
+ #je veux restituer un véhicule
+
+ #quel est la durée du trajet
+
+ #est-ce que la voiture doit être révisé
+
+ #quel est le niveau de lave glace restant
+
+ #combien de véhicules sont roulées aujourd'hui
+
+
+
+# combien de véhicules sont utilisés
+
+# quelle est la date de la dernière révision
+
+#bonjour
+
+#essence
+
+#le moteur est coupé?
+
+# pourquoi ce véhicule consomme plus que les autres
+
+ #trouvez un véhicule le plus proche
+
+ #je veux une aide
+
+# quelles sont les voitures qui roulent ?
+
+ #je veux réduire le rejet de co2
+
+ #quelle date de révision
+
+ #quels sont les problèmes sur les véhicules
+
+ #carburant consommé 
+
+# je veux connaître les données techniques du véhicule
+
+# si je suis pressé
+
+# quel est le dernier trajet
+
+ #quelle est ta date de naissance
+
+#il y a erreur position
+
+# combien de kilomètre mon véhicule a t-il parcouru 
+
+# je cherche une voiture
+
+# y'a-t-il des bouchons
+
+# je suis indécis
+
+ #je veux savoir où sont les véhicules
+
+# la voiture est opérationnelle
+
+ #j'ai besoin d'aide
+
+# quel est le kilometrage moyen de ma flotte
+
+# tco de la flotte
+
+# quel est le vin de ce véhicule
+
+# gros bisous
+
+# merci bien
+
+# tco du conducteur
+
+# j'ai prêté un véhicule
+
+# bonsoir
+
+# je veux réduire les consommations
+
+# quelles sont les caractéristiques techniques de ce véhicule
+
+# quel est le  coût d'usage d'un véhicule
+
+
+
+# tout va bien
+
+# le tco c'est quoi
+
+#il y a problème position
+
+#il y a problème batterie
+
+# quelle est la puissance fiscale du véhicule
+
+# puis-je avoir le contact du sav
+
+# j'ai une question
+
+# est-ce que j'ai des problèmes de freins
+
+# quelle est la consommation de carburant
+
+# est ce que mon embrayage est usé
+
+# est-ce que le niveau de consommation de carburant est normal
+
+# danger batterie
+
+# le pneu est-il adapté
+
+# peut-on localiser ce véhicule
+peut-on situer ce véhicule
+
+# où est la voiture
+où est localisée la voiture
+où est située la voiture
+
+# quand dois-je changer mon lave-glace
+à quel moment dois-je renouvelle le liquide lave-glace 
+
+# est ce qu’il manque du liquide de refroidissement
+y a t il assez de liquide de refroidissement
+dois-je ajouter du liquide de refroidissement
+
+# quel carburant
+quel est le type de carburant
+quel est la nature du carburant à utiliser
+
+# j'ai des questions
+j'ai des interrogations
+j'ai des doutes
+j'ai des informations à vous demander
+
+# je souhaite obtenir un rapport
+je voudrais une note 
+je voudrais un rapport
+je souhaiterais un note de synthèse
+je veux un reporting
+
+# y'a-t-il un pneu crevé
+y a t il une perte de pression
+avons nous un pneu à plat
+
+# erreur batterie
+la batterie ne répond pas 
+
+# à plus
+à bientôt
+ciao
+bye
+au revoir
+
+# quel est le taux d'indisponibilité
+quel est le pourcentage de voitures immobilisés
+
+# j'ai besoin d'un renseignement
+j'aimerais des informations
+je voudrais des infos
+je m'interroge
+je souhaiterais avoir un éclaircissement
+
+#il y a problèmes vitesse
+
+# c'est quand la révision
+quelle est la date de révision prévue
+quand avons nous 
+# est-ce que tout va bien
+comment ca va
+
+# combien de km mon véhicule est roulé 
+quelle est la distance parcourue par mon véhicule
+
+# problèmes km
+il semble avoir un problème avec le kilométrage
+j'ai identifié un problème de km
+il faudrait vérifier le kilométrage
+il semble avoir un problème de kilométrage
+j'ai identifié un problème de kilométrage
+il faudrait vérifier le kilométrage
+les données de kilométrage sont inexactes
+je constate une irrégularité sur le kilométrage
+le kilométrage est faux
+le kilométrage est préoccupant
+je constate un écart sur le kilométrage
+
+# je suis bloqué
+je suis en difficulté
+je suis dans la merde
+je suis foutu
+je suis en recherche de solution
+je suis dans une situation difficile
+je suis dans une situation compliqué
+ma situation est complexe
+je suis coincé
+je suis immobilisé
+je suis cloué sur place
+je suis planté
+
+# bonjour
+hello
+hi
+
+# bonjour monsieur
+bonjour
+
+# vous pouvez m'aider
+
+# je suis indécise
+
+# j'ai peur d'une panne de véhicule
+
+# combien de véhicule sont en déplacement
+combien de véhicule sont en mouvement
+combien de véhicule roulent
+combien de véhicule sont en action
+combien de véhicule évoluent sur la route
+combien de véhicule sont en marche
+combien de véhicule progressent sur la route
+combien de véhicule effectuent un trajet
+combien de véhicule sont dans le trafic
+combien de véhicule sont en manoeuvre
+combien de véhicule sont en activité
+combien de véhicule sont en migration
+
+# combien de véhicules dans le parc
+quel est le nombre de voitures du parc
+quantité de véhicules
+nous avons combien de véhicules
+
+# combien de réclamations
+quel est le nombre de demandes
+quel est le nombre de requêtes
+quel est le nombre de plaintes
+quel est le nombre de doléances
+quel est le nombre de suppliques
+
+# quel est le comportement de conduite
+quel est le type de conduite
+quelle est l'allure de conduite
+de quelle manière le véhicule est-il conduit
+comment réagit le conducteur
+
+# combien de boîtiers défaillants
+combien de boitiers ne fonctionne pas
+combien de boitiers sont hors service
+
+# dernière vidange
+quelle est la date de la dernière vidange
+à quand remonte la dernière vidange
+
+# tco du véhicule
+
+# etat de la batterie
+quel est l'état de la batterie
+il semble avoir un problème de batterie
+j'ai identifié un problème de batterie
+il faudrait vérifier la batterie
+une difficulté avec la batterie
+nous avons des ennuis avec la batterie
+j'ai une interrogation sur la batterie
+la batterie me pose une colle…
+
+# nom du loueur
+quel est le nom du loueur
+qui est le loueur
+
+# le véhicule est arrêté
+le véhicule est à l'arrêt
+
+# est-ce que le moteur est coupé
+est-ce que le moteur est à l'arrêt
+est-ce que le moteur ne tourne plus
+
+
+
+
+# je veux ma voiture
+je cherche ma voiture
+je souhaite ma voiture
+je désire ma voiture
+je tiens à avoir ma voiture
+je commande ma voiture
+je demande ma voiture
+j'espère avoir ma voiture
+j'exige ma voiture
+je réclame ma voiture
+
+# je veux mon véhicule
+je cherche mon véhicule
+je souhaite mon véhicule
+je désire mon véhicule
+je tiens à avoir mon véhiculee
+je commande mon véhicule
+je demande mon véhicule
+j'espère avoir mon véhicule
+j'exige mon véhicule
+je réclame mon véhicule
+
+# je voudrais un véhicule
+je cherche une voiture
+je souhaite une voiture
+je désire une voiture
+je tiens à avoir une voiture
+je commande une voiture
+je demande une voiture
+j'espère avoir une voiture
+j'exige une voiture
+je réclame une voiture
+
+# combien de véhicules qui est à l'arrêt
+combien de véhicules sont à l'arrêt
+combien de véhicules sont arrêtés
+quel est le nombre de véhicules indisponibles
+combien de véhicules ne sont pas disponibles
+
+# je suis coincé
+je suis en difficulté
+je suis dans la merde
+je suis foutu
+je suis en recherche de solution
+je suis dans une situation difficile
+je suis dans une situation compliqué
+ma situation est complexe
+je suis bloqué
+je suis immobilisé
+je suis cloué sur place
+je suis planté
+
+# je cherche ma voiture
+je recherche ma voiture
+je m'évertue à trouver ma voiture
+je veux ma voiture
+je m'efforce de trouver ma voiture
+je tâche de trouver ma voiture
+je tente de trouver ma voiture
+j'essaye de trouver ma voiture
+je suis en quête de ma voiture
+
+# pourquoi tu est là
+que fais-tu
+
+# merci beaucoup
+merci
+
+# à bientôt
+au revoir
+à très vite
+au plaisir de vous revoir
+
+# est ce que mes ampoules de feux de croisement sont en bon état
+est ce que mes feux fonctionnent
+l'éclairage des feux de croisement est-il bon
+les feux sont en état de marche
+
+# est ce que la pression des pneumatiques est bonne
+la pression des pneus est-elle adéquate
+la pression des pneus est-elle convenable
+la pression des pneus est-elle satisfaisante
+la pression des pneus est-elle idoine
+la pression des pneus est-elle appropriée
+la pression des pneus est-elle correcte
+
+# comment tu t’appelles
+quel est ton patronyme
+comment t'appelles-tu
+quel est ton prénom de naissance 
+
+# quelle est l’adresse de ton entreprise
+ou travailles tu
+quelle est ton adresse professionnelle
+quelles sont tes coordonnées professionnelles
+quelles sont les coordonnées de ton entreprise
+où est situé ton entreprise
+
+# tu habites où
+ou habites tu
+quelle est ton adresse
+à quelle adresse resides-tu
+quelles sont tes coordonnées
+où est situé ta maison
+quelle est ton adresse d'habitation
+où est situé ton foyer
+quel est ton lieu de résidence
+
+# combien de véhicule composent ma flotte
+quel est le nombre de voitures du parc
+nombre de véhicule de la flotte
+nous avons combien de véhicules dans la flotte
+
+# quelle distance ont parcourus mes véhicules
+quelle est la distance réalisée par mes véhicules
+combien de kilomètres ont été avalés par mes véhicules
+
+# je veux une voitures
+je cherche une voiture
+je souhaite une voiture
+je désire une voiture
+je tiens à avoir une voiture
+je commande une voiture
+je demande une voiture
+j'espère avoir une voiture
+j'exige une voiture
+je réclame une voiture
+
+# je veux trouver un véhicule le plus proche
+où est le véhicule le plus contigu
+quel est le véhicule dans l'environnement le plus proche
+comment accéder au véhicule le plus proche
+quel est le véhicule avoisinant
+je veux trouver un véhicule immédiatement
+quel est le véhicule près de moi
+
+# combien de véhicules sont utilisés 
+quel est le nombre de véhicules indisponibles
+
+# combien de voitures sont immobilisées
+quel est le nombre de véhicules indisponibles
+combien de véhicule ne sont pas à disposition
+
+# est ce que tout va bien
+tout est ok
+est-ce que tout est en ordre
+est-ce que tout est en ordre de marche
+est-ce que tout fonctionne normalement
+
+# y a t-il des problèmes
+je veux savoir s'il y a des problèmes?
+j'aimerais savoir quels sont les problèmes
+avons-nous des problèmes
+avons-nous des ennuis
+
+# tu t'appelles comment
+quel est ton prénom
+quel est ton patronyme
+comment t'appelles-tu
+quel est ton prénom de naissance 
+comment tu t'appelles
+
+# combien de voitures sont roulées
+combien de voitures sont en mouvement
+combien de voitures sont en déplacement
+combien de voitures sont en action
+combien de voitures évoluent sur la route
+combien de voitures sont en marche
+combien de voitures progressent sur la route
+combien de voitures effectuent un trajet
+combien de voitures sont dans le trafic
+combien de voitures sont en manoeuvre
+combien de voitures sont en activité
+combien de voitures sont en migration
+
+# est ce que j'ai des problèmes de frein
+il semble avoir un problème de frein
+j'ai identifié un problème de frein
+il faudrait vérifier les frein
+une difficulté avec les frein
+nous avons des ennuis avec les freins
+j'ai une interrogation sur les freins
+les freins me pose une colle…
+
+# je veux savoir si il y a des problèmes
+j'aimerais savoir quels sont les problèmes
+avons-nous des problèmes
+avons-nous des ennuis
+
+# quels sont des problèmes
+Je veux savoir s'il y a des problèmes?
+j'aimerais savoir quels sont les problèmes
+avons-nous des problèmes
+avons-nous des ennuis
+
+# tout va bien ?
+tout est ok
+est-ce que tout est en ordre
+est-ce que tout est en ordre de marche
+est-ce que tout fonctionne normalement
+
+# je peux avoir des renseignements
+j'aimerais des informations
+je voudrais des infos
+je m'interroge
+je souhaiterais avoir un éclaircissement
+
+# combien de voiture
+quel est le nombre de véhicules dont nous disposons
+quel est le nombre de voitures
+combien de véhicules avons nous
+nombre de voiture
+nombre de véhicule
+quelle quantité
+quel nombre
+à quel point avons nous des voitures
+dans quelle mesure avons nous des véhicules
+
+# est-ce que les pneus sont gonflés
+est-ce que la pression des pneus est adéquate
+est-ce que la pression des pneus est convenable
+est-ce que la pression des pneus est satisfaisante
+est-ce que la pression des pneus est appropriée
+est-ce que la pression des pneus est correcte
+
+# combien de voitures à l'arrêt
+combien de voitures sont immobilisés
+combien de véhicules sont arrêtés
+
+# avons nous des voitures à l'étranger
+avons-nous des véhicules en déplacement à l'étranger
+combien de véhicules circulent à l'étranger
+
+# combien de carburant avons nous consommé 
+quelle est la consommation de carburant
+
+# TCO
+Total Cost Of Ownership
+
+# tco
+Total Cost Of Ownership
+
+# tco c'est utile
+Connaitre le coût d'usage réel du véhicule c'est utile
+Connaitre le coût d'usage réel du véhicule c'est nécessaire
+Connaitre le coût d'usage réel du véhicule c'est indispensable
+
+# la puissance de ce véhicule est-elle adaptée pour faire la mission
+est-ce que ce la puissance de ce véhicule est adaptée pour réaliser la mission
+est-ce que ce la puissance de ce véhicule est adaptée pour mener à bien la mission
+est-ce que ce la puissance de ce véhicule est adaptée pour conduire la mission
+est-ce que ce la puissance de ce véhicule est adaptée pour faire la mission
+est-ce que ce la puissance de ce véhicule est adaptée pour accomplir la mission
+est-ce que ce la puissance de ce véhicule est adaptée pour effectuer la mission
+est-ce que ce la puissance de ce véhicule est adaptée pour exécuter la mission
+
+# la pression correspond à la pression des pneumatiques
+la pression des pneus est adéquate
+la pression des pneus est convenable
+la pression des pneus est satisfaisante
+la pression des pneus est appropriée
+la pression des pneus est correcte
+
+# quelles sont les voitures disponibles
+quel est le nombre de véhicules disponibles
+combien de véhicule à disposition
+
+# problème batterie
+il semble avoir un problème de batterie
+j'ai identifié un problème de batterie
+il faudrait vérifier la batterie
+une difficulté avec la batterie
+nous avons des ennuis avec la batterie
+j'ai une interrogation sur la batterie
+la batterie me pose une colle…
+
+# il y a problèmes batterie
+il semble avoir un problème de batterie
+j'ai identifié un problème de batterie
+il faudrait vérifier la batterie
+une difficulté avec la batterie
+nous avons des ennuis avec la batterie
+j'ai une interrogation sur la batterie
+la batterie me pose une colle…
+
+# il y a erreurs batterie
+il semble avoir un problème de batterie
+j'ai identifié un problème de batterie
+il faudrait vérifier la batterie
+les données batterie sont inexactes
+je constate une irrégularité sur la batterie
+apparement la batterie fonctionne mal
+l'état de la batterie est préoccupant
+je constate un écart sur la charge de la batterie
+
+# problèmes position
+il semble avoir un problème de géolocalisation
+j'ai identifié un problème de géolocalisation
+il faudrait vérifier la géolocalisation
+une difficulté avec la géolocalisation
+nous avons des ennuis avec la géolocalisation
+j'ai une interrogation sur la géolocalisation
+
+# il y a problème km
+il semble avoir un problème avec le km
+j'ai identifié un problème de km
+il faudrait vérifier le km
+une difficulté avec le kilomètrage
+nous avons des ennuis avec le kilométrage
+j'ai une interrogation sur le kilométrage
+le kilomètrage me pose une colle…
+
+# il y a erreur km
+il semble avoir un problème avec le kilométrage
+j'ai identifié un problème de km
+il faudrait vérifier le kilométrage
+il semble avoir un problème de kilométrage
+j'ai identifié un problème de kilométrage
+il faudrait vérifier le kilométrage
+les données de kilométrage sont inexactes
+je constate une irrégularité sur le kilométrage
+le kilométrage est faux
+le kilométrage est préoccupant
+je constate un écart sur le kilométrage
+
+# merci monsieur
+merci

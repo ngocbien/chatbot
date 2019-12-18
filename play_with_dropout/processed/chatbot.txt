@@ -1,0 +1,120 @@
+Quel est l’état d’usure des plaquettes de frein ?
+#usure_plaquette_frein#
+Quel est l’état d’usure des pneumatiques ?
+#usure_pneumatique#
+Quand dois-je passer en pneus hiver ? 
+#oui/non#
+Quel est le niveau de lave glace restant? 
+#lave_glace#
+Quand dois-je changer mon lave-glace ? 
+#oui/non#
+Est ce qu’il manque du liquide de frein ?
+#oui/non#
+Est ce qu’il manque du liquide de refroidissement ?
+#oui/non#
+Est ce qu’il manque de l’huile dans le moteur ?
+#oui/non#
+Est ce que mes ampoules sont usées ?
+#oui/non#
+Est ce que mes ampoules de feux de stop sont en bon état ?
+#oui/non#
+Est ce que mes ampoules de feux de croisement sont en bon état ?
+#oui/non#
+Est ce que mes ampoules de feux de position sont en bon état ?
+#oui/non#
+Est ce que la pression des pneumatiques est bonne ? 
+#oui/non#
+Est que mon frein est usé ?
+#oui/non#
+Est ce que le frein a main est mal utilisé ?
+#oui/non#
+Est ce que mon embrayage est usé ?
+#oui/non#
+Est ce que mon disque d’embrayage est abîmé ?
+#oui/non#
+Est ce que mon disque de frein est abîmé ?
+#oui/non#
+Combien de kilomètre mon véhicule a parcouru par rapport à mon contrat ?
+désolé, je ne sais pas
+Combien de kilomètre mon véhicule a t-il parcouru aujourd’hui ?
+ce véhicule a effectué #km#
+Combien de kilomètre mon véhicule a t-il parcouru toute la semaine ?
+ce véhicule a effectué #km#
+Dans combien de temps dois-je restituer mon véhicule?
+désolé, je ne trouve pas l'inforamtion correspondante dans la base de données
+Quand est ce que je dois prévoir ma prochaine révision ?
+la révision aura lieu le #date#
+Quel véhicule a un niveau de batterie faible ? 
+#check_batterie#
+Est ce ma conduite est adaptée au véhicule ?
+#oui/non#
+Mes freinages sont ils trop brusques ? 
+#oui/non#
+Mes accélérations sont elles trop franches ? 
+#consommation#
+Quelle est la consommation moyenne de mon véhicule ?
+#consommation#
+Quelle est la consommation moyenne de mon véhicule aujourd’hui ?
+#consommation#
+Quelle est la consommation moyenne de mon véhicule cette semaine ?
+#consommation#
+Quelle est la consommation moyenne de mon véhicule ce mois ?
+#consommation#
+Quelle est la consommation moyenne de mon véhicule mensuelle ?
+#consommation#
+Quelle est la consommation moyenne de mon véhicule hebdomadaire?
+#consommation#
+Pourquoi ce véhicule consomme plus que les autres ?
+#pourquoi#
+Le carburant est il adapté au véhicule ? 
+#oui/non#
+Quel carburant est le plus rentable pour ce véhicule ? 
+#carburant_adapté#
+Mon véhicule est il en bon état avant restitution ? 
+#oui/non#
+Bonjour
+Bonjour
+Bonjour Monsieur
+Bonjour
+Bonjour Madame
+Bonjour
+Bonjour Mademoiselle
+Bonjour
+Comment ça va
+Ça va et toi
+Je vais bien
+Comment je peux t’aider
+Bonsoir
+Bonsoir
+Ça va
+Ça va et toi
+Comment tu t’appelles
+Je suis un chatbot d’Avicen, comment je peux t’aider ?
+Quelle est l’adresse de ton entreprise ?
+Avicen se trouve à 92 cours  Lafayette, 69003 Lyon
+C’est quoi ton prénom
+Tu peux m’appeler Charlie
+Salut
+Salut
+Au revoir
+Merci, à bientôt
+Merci
+De rien
+T’es un con bot
+Pourquoi des mots méchants
+T’es stupid
+C’est vrai que je ne connais pas tout, mais je suis toujours prêt à t’aider
+Quel est ton age
+Peut on parler d’autre sujets
+Sais tu qui est le président de France
+Désolé, je ne sais pas, peut on parler d’autre sujets
+Tu habite où ?
+Je suis un bot, donc, je suis dans la machine 
+Quelle est ta date de naissance
+Peut on parler d’autre sujets
+Cordialement
+Cordialement
+Bisous
+Bisous
+Gros bisous
+A bien tôt

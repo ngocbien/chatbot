@@ -1,0 +1,1610 @@
+WLTP
+Worldwide harmonized Light vehicles Test Procedures. La procédure d'essai mondiale harmonisée pour les voitures particulières et véhicules utilitaires légers
+combien de voitures hors service?
+#combien# #moteur_éteint#
+combien de véhicules sont en service?
+#total_véh_mouvement#
+je veux savoir la longueur moyenne de trajet?
+#ask_id# #longueur_trajet#
+combien de trajet ce véhicule a roulé
+#ask_id# #combien# #trajet#
+moyenne de carburant
+#moyenne# #carburant#
+moyenne de vitesse?
+#moyenne# #vitesse#
+c'est quoi le problème
+#problème#
+Je veux savoir s'il y a des problèmes?
+#problème#
+quelles sont les voitures avec mauvaise pression de pneu?
+#ids# #problème# #pression#
+quelle est le véhicule le moins utilisé?
+#ids# #km# #MIN#
+YOU ++++  quand est-ce la révision
+BOT ++++ #ask_id# #révision#
+YOU ++++ quel véhicule vitesse plus grandes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture km moins vite
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  quel est ton prénom
+BOT ++++ je m'appelle Emmet, je suis une création d'AVICEN
+YOU ++++ quel véhicule batterie plus faible
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont km maximale
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelle voiture a erreur km
+BOT ++++ véhicule #id# #erreur# #km#
+YOU ++++ quelles voitures batterie moins élevée
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  charge de la batterie
+BOT ++++ la tension est de #voltage#
+YOU ++++ quelle voiture km plus petites
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  salutations
+BOT ++++ cordialement
+YOU ++++  bisous
+BOT ++++ bisous
+YOU ++++  est ce que mes ampoules de feux de stop sont en bon état
+BOT ++++ #ask_id# #problème# #feux_stop#
+YOU ++++ quel véhicule vitesse plus faible
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  combien de voitures nous avons
+BOT ++++ il y a #nb_véhicules#
+YOU ++++  quel est l’état d’usure des pneumatiques
+BOT ++++ #usure_pneumatique#
+YOU ++++  quel véhicule puis-je utiliser 
+BOT ++++ vous pouvez vous servir du #list_vin_free#
+YOU ++++ quelles voitures vitesse plus hauts
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  quand dois-je passer en pneus hiver
+BOT ++++ #oui/non#
+YOU ++++ quel véhicule vitesse moins grand
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  dernier contrôle technique
+BOT ++++ #date_last_ct#
+YOU ++++  je souhaite avoir des données de restitution
+BOT ++++ d'accord. #ask_id# #restitution#
+YOU ++++ quelles voitures km plus petits
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture vitesse moins élevé
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quelle a été la consommation de carburant 
+BOT ++++ #ask_id# #consumption# 
+YOU ++++  pneus ok
+BOT ++++ #ask_id# #problème# #pneu#
+YOU ++++ quels véhicules ont vitesse moins grande
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelles voitures batterie min
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures km plus vite
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  est-ce que je peux avoir des renseignements
+BOT ++++ oui je suis là pour vous aider
+YOU ++++  combien de passagers à bord
+BOT ++++ #ask_id# #vin_seat# #passager#
+YOU ++++ quelles voitures batterie max
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quels véhicules ont km plus petits
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture vitesse minimales
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelle voiture vitesse min
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  la pression des pneus est-elle adaptée
+BOT ++++ #oui/non# vous pouvez vérifier
+YOU ++++ quelles voitures vitesse plus petites
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule vitesse moins grands
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelle voiture a erreurs batterie
+BOT ++++ véhicule #id# #erreurs# #batterie#
+YOU ++++  quel est le kilomètrage moyen de ce véhicule
+BOT ++++ #ask_id# #km#
+YOU ++++ quelles voitures km moins élevée
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures km moins grand
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  est-ce-que tout va bien
+BOT ++++ ça va et toi
+YOU ++++  tu t'appeles comment
+BOT ++++ je m'appelles Emmet, une création d'AVICEN.
+YOU ++++  combien de véhicules sont disponibles
+BOT ++++ vous pouvez vous servir du #list_vin_free#
+YOU ++++ quels véhicules ont vitesse minimale
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelle voiture vitesse plus petite
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quels véhicules ont km plus vite
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont km plus hautes
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  il y a un boitier qui ne fonctionne plus
+BOT ++++ Merci de contacter au personnel d'AVICEN au #numéro_avicen#
+YOU ++++ quelle voiture km plus vite
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  durée du contrat de location
+BOT ++++ #ask_id# #date_fin_contrat#
+YOU ++++  quel est le mode de transmission de ce véhicule
+BOT ++++ #ask_id# #transmission# 
+YOU ++++  durée du contrat
+BOT ++++ #ask_id# #date_fin_contrat#
+YOU ++++ quel véhicule batterie moins élevées
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures batterie plus petits
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule a erreurs position
+BOT ++++ véhicule #id# #erreurs# #position#
+YOU ++++ quelles voitures vitesse plus hautes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule batterie maximal
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures batterie plus vite
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quel véhicule batterie moins vite
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  combien de voiture avons nous
+BOT ++++ il y a #nb_veh#
+YOU ++++  la pression des pneus est-elle correcte
+BOT ++++  #ask_id# #problème# #pression# 
+YOU ++++ quel véhicule vitesse minimales
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule a erreur km
+BOT ++++ véhicule #id# #erreur# #km#
+YOU ++++ quels véhicules ont vitesse moins élevée
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelle voiture vitesse moins grande
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quels véhicules ont km plus élevée
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  combien de temps pour paramêtrer un boîtier
+BOT ++++ un délai de 24h est nécessaire
+YOU ++++ quels véhicules ont batterie moins grands
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures batterie moyennement
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++  combien de véhicules sont immobilisés
+BOT ++++ #combien# #arrêt#
+YOU ++++ quelle voiture vitesse plus élevées
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule km minimaux
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  le pneu semble ne pas être adapté
+BOT ++++ #ask_id# #problème# #pneu#
+YOU ++++ quels véhicules ont km minimale
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture vitesse moins vite
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  nous avons combien de véhicules
+BOT ++++ il y a #nb_véhicule#
+YOU ++++  dernier passage en atelier
+BOT ++++ #date_last_entretien#
+YOU ++++  problèmes vitesse
+BOT ++++ véhicule #id# #problèmes# #vitesse#
+YOU ++++  au revoir
+BOT ++++ au revoir
+YOU ++++ quelle voiture km moins grandes
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture km plus grandes
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  quel est le temps estimé d'arrivée
+BOT ++++ la durée du trajet est approximativement de #calcul_roadtrip#
+YOU ++++ quelle voiture batterie plus petit
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  est-ce que la consommation de carburant est excessive
+BOT ++++  #ask_id# #problème# #consumption#
+YOU ++++ quelles voitures km maximum
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont batterie minimaux
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont batterie moyenne
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++  combien de voitures circulent
+BOT ++++ #total_veh_movement# 
+YOU ++++  tu vas bien
+BOT ++++ ça va merci
+YOU ++++ quels véhicules ont km plus haute
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  est ce qu'il manque de l'huile dans le moteur
+BOT ++++ #ask_id# #huile# #problème#
+YOU ++++ quelles voitures ont erreurs batterie
+BOT ++++ véhicule #id# #erreurs# #batterie#
+YOU ++++ quel véhicule batterie moins grandes
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule km moins grand
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  t'es un con bot
+BOT ++++ pourquoi des mots méchants
+YOU ++++ quelles voitures vitesse min
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ il y a danger vitesse
+BOT ++++ véhicule #id# #danger# #vitesse#
+YOU ++++ quels véhicules ont km plus hauts
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  les véhicules sont-ils en bonne santé
+BOT ++++ #ask_id# #problème# #technique#
+YOU ++++ quel véhicule km moins élevées
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  j'ai besoin de renseignements
+BOT ++++ je suis là pour vous renseigner
+YOU ++++  merci madame
+BOT ++++ de rien 
+YOU ++++  je veux comparer la distance parcouru par un véhicule
+BOT ++++ #comparer# #km#
+YOU ++++ quel véhicule km plus hautes
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  nom du garagiste
+BOT ++++ le nom du garagiste est #list_garage#
+YOU ++++  le boitier est hs
+BOT ++++ merci de contacter au personnel d'AVICEN au #numéro_avicen#
+YOU ++++ quelles voitures km plus élevés
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelles voitures km maximale
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ il y a problème vitesse
+BOT ++++ véhicule #id# #problème# #vitesse#
+YOU ++++ quelles voitures batterie maximaux
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelle voiture a erreur vitesse
+BOT ++++ véhicule #id# #erreur# #vitesse#
+YOU ++++ quelle voiture batterie maximum
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  je souhaite avoir un rapport sur l'état de la flotte
+BOT ++++ #rapport# #flotte#
+YOU ++++ quel véhicule batterie moyenne
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++ il y a danger position
+BOT ++++ véhicule #id# #danger# #position#
+YOU ++++ quelle voiture km plus hautes
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  j'ai un code défaut
+BOT ++++ il faut l'analyser rapidement
+YOU ++++  je veux diminuer les rejets de pollution
+BOT ++++ essayer notre module #rde# disponible sur le store
+YOU ++++  je veux un faire de brin de causette
+BOT ++++ d'accord quelle est ta question?
+YOU ++++  qui est sur la route
+BOT ++++ il y #total_veh_movement# véhicules en circulation
+YOU ++++ quelles voitures vitesse moins élevée
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quels véhicules ont km plus petites
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture batterie minimale
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures vitesse moins grandes
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule a problème batterie
+BOT ++++ véhicule #id# #problème# #batterie#
+YOU ++++ quel véhicule vitesse max
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures batterie plus grande
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures km plus haute
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont batterie plus petites
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quels sont les véhicules immobilisés
+BOT ++++ #id# #arrêt#
+YOU ++++  est que mon frein est usé
+BOT ++++ #ask_id# #problème# #frein#
+YOU ++++ quelle voiture vitesse plus faibles
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  combien de km mon véhicule a parcouru
+BOT ++++ #ask_id# #km#
+YOU ++++  quelle est la consommation moyenne de mon véhicule 
+BOT ++++ #ask_id# #consommation#
+YOU ++++  je veux réduire les émissions polluantes
+BOT ++++ génial découvrez notre module RDE ou Real Driving Emissions
+YOU ++++ il y a erreurs vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+YOU ++++ quelle voiture km moyenne
+BOT ++++ véhicule #id# #km# #MOYENNE#
+YOU ++++  que signifie DTC
+BOT ++++ DTC est l'acronyme anglais de Data Trouble Code
+YOU ++++  boitier hors service
+BOT ++++ merci de signaler au personnel d'AVICEN au #numéro_avicen#
+YOU ++++ quel véhicule batterie plus petit
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ il y a danger batterie
+BOT ++++ véhicule #id# #danger# #batterie#
+YOU ++++  est ce que mes ampoules de feux de position sont en bon état
+BOT ++++ #ask_id# #problème# #feux_position#
+YOU ++++ quelle voiture km maximaux
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule batterie max
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  trouvez le véhicule le plus proche
+BOT ++++ le véhicule le plus proche est #vin_proxi#
+YOU ++++ il y a erreur vitesse
+BOT ++++ véhicule #id# #erreur# #vitesse#
+YOU ++++  des véhicules à l'étranger
+BOT ++++ #étranger#
+YOU ++++ quel véhicule km moins grandes
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quel véhicule batterie plus vite
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quels véhicules ont vitesse moins élevé
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  des liens avec la mobilité
+BOT ++++ forte synergie entre acteurs du monde professionnel
+YOU ++++ quels véhicules ont km moins vite
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  je veux comparer le taux d'émissions polluantes
+BOT ++++ génial découvrez notre module RDE ou Real Driving Emissions
+YOU ++++ quelles voitures ont erreur position
+BOT ++++ véhicule #id# #erreur# #position#
+YOU ++++  je veux réduire la pollution
+BOT ++++ pour bien faire découvrez notre module RDE ou Real Driving Emissions
+YOU ++++ quel véhicule a erreurs vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+YOU ++++ quel véhicule vitesse plus grand
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  je souhaite avoir un rapport
+BOT ++++ #rapport#
+YOU ++++ quels véhicules ont vitesse maximal
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture batterie plus élevée
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures km moins élevées
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  est-ce qu’il fait beau 
+BOT ++++ vous pouvez apprécier cela sur la #map_météo#
+YOU ++++ quel véhicule km maximale
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont vitesse min
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelles voitures batterie plus hautes
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quels véhicules ont batterie plus élevée
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  combien de véhicules à l'étranger
+BOT ++++ #combien# #étranger#
+YOU ++++  quels sont les autres modules disponibles
+BOT ++++ l'ensemble des modules disponibles sont sur le store
+YOU ++++ quelle voiture a erreurs km
+BOT ++++ véhicule #id# #erreurs# #km#
+YOU ++++ quelles voitures ont erreur km
+BOT ++++ véhicule #id# #erreur# #km#
+YOU ++++ quelles voitures vitesse minimaux
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quels véhicules ont batterie maximum
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  génération de pneu
+BOT ++++ vous trouverez cela ici #spec_tyre#
+YOU ++++  problème vitesse
+BOT ++++ véhicule #id# #problème# #vitesse#
+YOU ++++  où est mon véhicule
+BOT ++++ ton véhicule est à #position#
+YOU ++++ quel véhicule a erreur position
+BOT ++++ véhicule #id# #erreur# #position#
+YOU ++++  je souhaite faire réviser la voiture
+BOT ++++ #ask_id# #révision#
+YOU ++++  t'es un idiot bot
+BOT ++++ pourquoi t'es méchant avec un bot
+YOU ++++ quel véhicule km plus hauts
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  je veux suivre un véhicule
+BOT ++++ #ask_id# #position#
+YOU ++++ quelle voiture batterie min
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture km moins élevés
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures vitesse moins élevé
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule km maximaux
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule km plus vite
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  comment vas tu
+BOT ++++ je vais bien merci
+YOU ++++ quelles voitures km plus faibles
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture vitesse plus hauts
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture batterie plus petits
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  je voudrais une aide
+BOT ++++ je suis là pour t'aider
+YOU ++++  quelle est la durée du contrat
+BOT ++++ #ask_id# #durée_contrat# 
+YOU ++++  quelle est la consommation moyenne de mon véhicule
+BOT ++++ #ask_id# #consommation#
+YOU ++++  quelle est la marque des pneus
+BOT ++++ la marque des pneus est #brand_tyre#
+YOU ++++ quels véhicules ont batterie plus hautes
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quels véhicules ont vitesse moins élevées
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  je veux une voiture
+BOT ++++ ton véhicule #plus_proche# #position#
+YOU ++++ quel véhicule km moins élevés
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  combien de voitures avons-nous
+BOT ++++ le parc est composé de #nb_veh#
+YOU ++++ quelles voitures vitesse plus faibles
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelle voiture a problèmes batterie
+BOT ++++ véhicule #id# #problèmes# #batterie#
+YOU ++++ quelle voiture km plus petit
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture km minimales
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  quel est ton age
+BOT ++++ peut on parler d’autre sujets
+YOU ++++ quelle voiture vitesse plus faible
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quelles thématiques
+BOT ++++ les thématiques abordées couvrent un large spectre du fleet management
+YOU ++++  danger position
+BOT ++++ véhicule #id# #danger# #position#
+YOU ++++  quel est le kilométrage parcouru par ces voitures ?
+BOT ++++ #ask_id# #km#
+YOU ++++ quel véhicule batterie moyen
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++  est ce que c'est le bon véhicule
+BOT ++++ #ask_id# #problème# #technique#
+YOU ++++ quels véhicules ont km plus grande
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  combien de véhicules connectés
+BOT ++++ il y a #list_cvs#
+YOU ++++ quelle voiture km minimal
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  le boitier ne communique plus
+BOT ++++ Merci de contacter au personnel d'AVICEN au #numéro_avicen#
+YOU ++++  combien me coûte le poste carburant 
+BOT ++++ #consommation#
+YOU ++++  quelle est la pression des pneus
+BOT ++++ la pression des pneus est #tpms# bar
+YOU ++++  combien de kilomètres a fait ce véhicule 
+BOT ++++ #ask_id# #km#
+YOU ++++ quelles voitures ont erreur batterie
+BOT ++++ véhicule #id# #erreur# #batterie#
+YOU ++++  quelles sont les caractéristiques des pneus
+BOT ++++ oui trouverez cela ici #spec_tyre# de #spec_tyre#
+YOU ++++ quelle voiture batterie moins élevé
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture batterie moins élevée
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule km minimal
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  erreurs position
+BOT ++++ véhicule #id# #erreurs# #position#
+YOU ++++ quelles voitures vitesse plus vite
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture km min
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures batterie moyen
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++ quels véhicules ont batterie plus haut
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ il y a erreurs position
+BOT ++++ véhicule #id# #erreurs# #position#
+YOU ++++ quelles voitures km plus haut
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule a danger km
+BOT ++++ véhicule #id# #danger# #km#
+YOU ++++  combien de kilometres parcourus
+BOT ++++ #ask_id# #km#
+YOU ++++ quels véhicules ont batterie plus grandes
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  tvs
+BOT ++++ co2 ou air
+YOU ++++ quel véhicule vitesse moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++ quelles voitures km plus petite
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture vitesse moins grand
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  ça va
+BOT ++++ ça va et toi
+YOU ++++ quels véhicules ont batterie moyennement
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++ quels véhicules ont batterie minimale
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  est ce que je peux avoir des renseignements
+BOT ++++ oui si tu as des interrogations je suis là pour t’aider
+YOU ++++  c'est gentil
+BOT ++++ merci
+YOU ++++ quelle voiture batterie plus faibles
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  danger vitesse
+BOT ++++ véhicule #id# #danger# #vitesse#
+YOU ++++  quels sont les indicateurs disponibles
+BOT ++++ la liste des indicateurs sont disponibles dans #kpi#
+YOU ++++  combien de temps pour installer le boîtier
+BOT ++++ l'installation d'un nouveau boitier est d'environ 30mn
+YOU ++++  merci monsieur
+BOT ++++ de rien 
+YOU ++++ quelle voiture batterie maximaux
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  quels sont les indicateurs de pollution
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_pollution#
+YOU ++++ quel véhicule a problèmes batterie
+BOT ++++ véhicule #id# #problèmes# #batterie#
+YOU ++++ il y a problèmes km
+BOT ++++ véhicule #id# #problèmes# #km#
+YOU ++++  est-ce grave
+BOT ++++ #oui/non#
+YOU ++++  quelles sont les performances de cette voiture
+BOT ++++ par performance vous entendez TCO?
+YOU ++++  devons-nous partager les véhicules
+BOT ++++ la puissance fiscale du #vin# est #cv#
+YOU ++++ quels véhicules ont km plus petit
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  délai de livraison du véhicule
+BOT ++++ la livraison est prévue le #date#
+YOU ++++ quelles voitures km moins élevé
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quel véhicule km moins vite
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  quelles sont les urgences à traiter
+BOT ++++ les urgences à traiter sont #priorité#
+YOU ++++  problème de frein
+BOT ++++ #ask_id# #problème# #frein#
+YOU ++++ quels véhicules ont km moins élevées
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures km moins élevés
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quels véhicules ont batterie minimal
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont batterie moins vite
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  je souhaite avoir des données de gestion
+BOT ++++ bien entendu
+YOU ++++ quelles voitures km moins grandes
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  comment modifier les informations relatives à mon compte
+BOT ++++ vous pouvez réaliser cette opération à partir de l'interface client
+YOU ++++ quelles voitures vitesse moins grand
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  combien de temps la voiture est arrêté
+BOT ++++ #ask_id# #arrêt#
+YOU ++++  un boitier ne se connecte pas
+BOT ++++ Merci de le signaler au personnel d'AVICEN au #numéro_avicen#
+YOU ++++ quelles voitures vitesse plus grandes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures ont problèmes vitesse
+BOT ++++ véhicule #id# #problèmes# #vitesse#
+YOU ++++  pourquoi ce module
+BOT ++++ le module #list_module# à pour objectif de #detail_module#
+YOU ++++ quel véhicule a problème position
+BOT ++++ véhicule #id# #problème# #position#
+YOU ++++ quelles voitures km plus élevée
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelle voiture batterie moins grands
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont vitesse moins grandes
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quel véhicule dois-je restituer prochainement
+BOT ++++ #oui/non#
+YOU ++++ quelle voiture vitesse moins élevées
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quel est l'historique des trajets
+BOT ++++ voici #histo_trip# des trajets
+YOU ++++  bonne matinée
+BOT ++++ merci. j'espère avoir été utile
+YOU ++++ quelle voiture km plus élevée
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont km min
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures batterie moins élevé
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quels sont les problèmes
+BOT ++++ #problème#
+YOU ++++ quelle voiture batterie plus élevées
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quel véhicule batterie plus petits
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quelle est la marque de ce véhicule
+BOT ++++ #ask_id# #base_marque#
+YOU ++++  je vais bien
+BOT ++++ comment je peux t’aider
+YOU ++++ quelle voiture km plus élevé
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelle voiture vitesse maximaux
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont km moins grande
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture batterie plus hauts
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures vitesse minimale
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule vitesse plus élevé
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule batterie plus grandes
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ il y a danger km
+BOT ++++ véhicule #id# #danger# #km#
+YOU ++++ quels véhicules ont batterie plus petit
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  combien de voitures
+BOT ++++ il y a #nb_véhicules#
+YOU ++++ quelles voitures ont danger batterie
+BOT ++++ véhicule #id# #danger# #batterie#
+YOU ++++  nom de l'interlocuteur
+BOT ++++ ton interlocuteur est #list_contact#
+YOU ++++ quelle voiture km maximum
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  combien de voitures sont à l'arrêt
+BOT ++++ #combien# #arrêt#
+YOU ++++ quelles voitures vitesse maximum
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  y'a-t-il un souci
+BOT ++++ #problème#
+YOU ++++  je veux comparer la consommation de carburant
+BOT ++++ #comparer# #carburant#
+YOU ++++ quel véhicule km plus haute
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  mes freinages sont ils trop brusques
+BOT ++++ #problème# #freinage#
+YOU ++++ quel véhicule vitesse moins grande
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  problèmes batterie
+BOT ++++ véhicule #id# #problèmes# #batterie#
+YOU ++++  quand dois-je restituer le prochain véhicule
+BOT ++++ désolé je ne trouve pas l'information correspondante dans le base de données
+YOU ++++  quand est-ce qu’il faut faire une révision
+BOT ++++ #révision# #date#
+YOU ++++  j'aimerais réduire mon empreinte carbone
+BOT ++++ notre module RDE pour Real Driving Emissions vise à mesurer les rejets NOX de particules fines
+YOU ++++ quelle voiture vitesse moyen
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++  j'ai un problème
+BOT ++++ #problème#
+YOU ++++  quelle est la consommation de ce véhicule
+BOT ++++ #ask_id# #consumption#
+YOU ++++ quel véhicule a danger batterie
+BOT ++++ véhicule #id# #danger# #batterie#
+YOU ++++  dernière révision
+BOT ++++ #date_last_entretien#
+YOU ++++  mode de paiement
+BOT ++++ vous pouvez régler par virement ou carte bancaire
+YOU ++++ quelles voitures batterie plus haute
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelle voiture batterie moins grande
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture batterie plus hautes
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures ont danger km
+BOT ++++ véhicule #id# #danger# #km#
+YOU ++++  révision
+BOT ++++ #révision# #date#
+YOU ++++  quelles sont les alertes
+BOT ++++ les alertes sont #list_alert#
+YOU ++++  coût d'usage de la flotte
+BOT ++++ le coût est de #tco_fleet#
+YOU ++++ quelle voiture vitesse maximale
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  y'a-t-il des embouteillages
+BOT ++++ le traffic est #état_traffic#
+YOU ++++  taux de disponibilité
+BOT ++++ #tx_dispo#
+YOU ++++ quelle voiture a problèmes position
+BOT ++++ véhicule #id# #problèmes# #position#
+YOU ++++  salut
+BOT ++++ salut
+YOU ++++ quelle voiture batterie moins élevées
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule a problème km
+BOT ++++ véhicule #id# #problème# #km#
+YOU ++++ il y a erreur batterie
+BOT ++++ véhicule #id# #erreur# #batterie#
+YOU ++++  est ce que mon disque de frein est abîmé
+BOT ++++ #ask_id# #problème# #disque#
+YOU ++++  je veux un véhicule
+BOT ++++ ton véhicule plus proche est #position#
+YOU ++++ quel véhicule km plus petits
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  le boitier semble déconnecté
+BOT ++++ Merci de contacter au personel d'AVICEN au #numéro_avicen#
+YOU ++++  au revoir et à bientôt
+BOT ++++ à ton service !
+YOU ++++ quelle voiture km plus faible
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures vitesse plus élevées
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  merci de m'indiquer la durée du trajet
+BOT ++++ #tx_dispo# heures
+YOU ++++  peux-tu m'aider
+BOT ++++ peux-tu préciser ta demande
+YOU ++++ quels véhicules ont vitesse plus grande
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule km min
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  c’est quoi ton prénom
+BOT ++++ Je m'appelles Emmet
+YOU ++++ quels véhicules ont vitesse plus petits
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  je veux comparer la pression des pneus
+BOT ++++ #pression_pneu#
+YOU ++++ quelle voiture batterie plus haute
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  c'est un super outil
+BOT ++++ merci
+YOU ++++  avons-nous la carte carburant
+BOT ++++ #oui/non#
+YOU ++++ quelles voitures vitesse plus petits
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelles voitures batterie minimaux
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures batterie moins grande
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule batterie maximum
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quels véhicules ont batterie max
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelle voiture batterie moins grandes
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  pardon
+BOT ++++ peux-tu reformuler ta question
+YOU ++++ quel véhicule km moins élevé
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture km moins élevée
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures batterie moins élevées
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quelles sont vos horaires d'ouverture
+BOT ++++ nous sommes disponibles du lundi au vendredi de 9h à 18h
+YOU ++++ quels véhicules ont km maximum
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule vitesse plus élevée
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  je souhaite avoir des données de pollution
+BOT ++++ #co2#
+YOU ++++  quelles sont les voitures
+BOT ++++ la liste des véhicule est #listing_vin#
+YOU ++++  combien de carburant a consommé la flotte
+BOT ++++ #consumption# #total#
+YOU ++++ quelle voiture km moins élevé
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture batterie plus grandes
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  combien de véhicules sont disponibles
+BOT ++++ #list_vin_free# véhicules du parc sont disponibles
+YOU ++++  le carburant est il adapté au véhicule
+BOT ++++ #ask_id# #problème# #carburant#
+YOU ++++  la pression d'un pneu
+BOT ++++ #ask_id# #pression#
+YOU ++++ quelles voitures ont problème position
+BOT ++++ véhicule #id# #problème# #position#
+YOU ++++  avons nous des véhicules à l'étranger
+BOT ++++ #étranger#
+YOU ++++ quelles voitures km plus élevé
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ il y a problèmes position
+BOT ++++ véhicule #id# #problèmes# #position#
+YOU ++++ quels véhicules ont vitesse plus grand
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture batterie plus grand
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  il faut charger  la batterie
+BOT ++++ #problème# #batterie#
+YOU ++++ quelles voitures batterie plus élevées
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  y a t-il un risque de panne du moteur ou d'un organe de transmission
+BOT ++++ #problème# #technique#
+YOU ++++ quelle voiture batterie plus vite
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  t’es stupid
+BOT ++++ c’est vrai que je ne connais pas tout mais je suis toujours prêt à t’aider
+YOU ++++ quelle voiture vitesse moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++ quelles voitures batterie plus haut
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quels véhicules ont batterie minimales
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  combien de kilomètres a fait ce véhicule
+BOT ++++ ce véhicule a effectué #km#
+YOU ++++ quel véhicule batterie moins élevée
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  erreur km
+BOT ++++ véhicule #id# #erreur# #km#
+YOU ++++ quel véhicule batterie minimal
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  j'ai remplacé un véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+YOU ++++ quelles voitures ont erreur vitesse
+BOT ++++ véhicule #id# #erreur# #vitesse#
+YOU ++++ quelle voiture vitesse plus petits
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  sais tu qui est le président de france
+BOT ++++ désolé je ne sais pas peut on parler d’autre sujets ou reformuler ta question?
+YOU ++++ quel véhicule vitesse moins grandes
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  je veux comparer le taux des particules fines
+BOT ++++ notre module #rde# pour real-driving emissions vise à mesurer les rejets d'émissions polluantes
+YOU ++++ quelles voitures batterie minimales
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule vitesse plus grands
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  quels objectifs
+BOT ++++ partager des retours d'expérience et un socle de connaissances techniques
+YOU ++++ quelles voitures batterie plus petite
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont vitesse maximale
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures batterie moins grands
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures batterie maximale
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  erreur position
+BOT ++++ véhicule #id# #erreur# #position#
+YOU ++++  combien de voitures roulent
+BOT ++++ #total_veh_movement# véhicules sont en service
+YOU ++++ quels véhicules ont vitesse plus petites
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quels sont les indicateurs de conduite
+BOT ++++ la liste des indicateurs de conduite sont disponibles dans #kpi_conduite#
+YOU ++++ quel véhicule km moyennement
+BOT ++++ véhicule #id# #km# #MOYENNE#
+YOU ++++ quel véhicule batterie plus élevés
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quel véhicule vitesse maximaux
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont km minimales
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quel véhicule batterie plus élevée
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures vitesse minimal
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule batterie moins grands
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  est ce que le frein a main est mal utilisé
+BOT ++++ #ask_id# #problème# #frein#
+YOU ++++ quelles voitures vitesse plus petit
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  où est ma voiture
+BOT ++++ #ask_id# #position#
+YOU ++++  bonne soirée
+BOT ++++ merci à toi aussi
+YOU ++++ quels véhicules ont km plus élevées
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  quel est le constructeur de ce véhicule
+BOT ++++ le constructeur est #base_marque#
+YOU ++++  le co2 ca craint
+BOT ++++ notre module RDE pour Real Driving Emissions te permet de diminuer les rejets
+YOU ++++  je souhaite avoir un rapport sur l'état des véhicules
+BOT ++++ #rapport# #technique#
+YOU ++++ quels véhicules ont km moins élevée
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quel véhicule km plus élevée
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule vitesse plus haute
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule km plus élevés
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelles voitures batterie plus élevée
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures km moins grande
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture a problème position
+BOT ++++ véhicule #id# #problème# #position#
+YOU ++++ quelle voiture batterie moins vite
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  t'es con
+BOT ++++ pourquoi t'es méchant avec un bot
+YOU ++++ quel véhicule a danger vitesse
+BOT ++++ véhicule #id# #danger# #vitesse#
+YOU ++++ quels véhicules ont km plus grands
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont vitesse minimales
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  je souhaite postuler
+BOT ++++ les inscriptions se font sur #lab_program#
+YOU ++++  erreurs vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+YOU ++++  combien de véhicules sont présents dans le parc
+BOT ++++ le parc comprend #list_vin_free# véhicules
+YOU ++++  particules fines
+BOT ++++ notre module RDE pour Real Driving Emissions vise à mesurer les rejets nox de particules fines en circulation
+YOU ++++  où sont les véhicules
+BOT ++++ #ask_id# #position#
+YOU ++++ quelles voitures km minimaux
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quels véhicules ont vitesse plus grandes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  combien nous avons consommé 
+BOT ++++ #ask_id# #consumption# 
+YOU ++++ quel véhicule a erreurs km
+BOT ++++ véhicule #id# #erreurs# #km#
+YOU ++++  eco-conduite
+BOT ++++ pourquoi pas si ce sujet vous intéresse venez en discuter avec nous lors d'un atelier
+YOU ++++  mes accélérations sont elles trop franches
+BOT ++++ #ask_id# #problème# #accélération#
+YOU ++++  combien de véhicules hors périmètre
+BOT ++++ #combien# #hors_périmètre#
+YOU ++++ quel véhicule batterie plus haute
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quels véhicules ont vitesse plus hautes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  problème position
+BOT ++++ véhicule #id# #problème# #position#
+YOU ++++ quelle voiture batterie plus grande
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures vitesse moins élevées
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quelle a été la consommation de carburant 
+BOT ++++ #ask_id# #consumption# 
+YOU ++++ quelles voitures batterie moins grand
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  combien de véhicules sont disponibles 
+BOT ++++ #list_vin_free#
+YOU ++++  j'ai fais un prêt de véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+YOU ++++ quels véhicules ont km moins élevé
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  si je pars dans un 1h quel véhicule prendre
+BOT ++++ vous pouvez utiliser #list_vin_free#
+YOU ++++  est ce ma conduite est adaptée au véhicule
+BOT ++++ #ask_id# #conduite#
+YOU ++++  je veux mutualiser des trajets
+BOT ++++ c'est une excellente initiative combien de personnes concernées
+YOU ++++ quelles voitures vitesse moyenne
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++ quelles voitures km plus grand
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  je veux évaluer la pertinence du trajet
+BOT ++++ quel est le point de départ et d'arrivée souhaitée
+YOU ++++ quelles voitures batterie maximum
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  est ce que mes ampoules sont usées
+BOT ++++ #ask_id# #problème# #ampoules#
+YOU ++++  erreurs batterie
+BOT ++++ véhicule #id# #erreurs# #batterie#
+YOU ++++ quelle voiture km plus grands
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  je veux connaître la monte des pneus du véhicule
+BOT ++++ la marques des pneus est #brand_tyre#
+YOU ++++ quelle voiture a danger vitesse
+BOT ++++ véhicule #id# #danger# #vitesse#
+YOU ++++ quelle voiture vitesse plus grandes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture a danger position
+BOT ++++ véhicule #id# #danger# #position#
+YOU ++++ quel véhicule batterie plus faibles
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  bonjour mademoiselle
+BOT ++++ bonjour
+YOU ++++  l'état des pneus est il correct
+BOT ++++ #ask_id# #problème# #km#
+YOU ++++  est ce qu'il manque du liquide de frein
+BOT ++++ #ask_id# #problème# #liquide#
+YOU ++++  combien de véhicules qui roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent
+YOU ++++  j'ai peur que ce véhicule soit en panne
+BOT ++++ #ask_id# #problème# #technique#
+YOU ++++ quelle voiture batterie minimales
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures km plus faible
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  comment ça va
+BOT ++++ ça va merci
+YOU ++++ quelle voiture vitesse plus petit
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelle voiture km maximale
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule batterie plus petites
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures batterie plus petites
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule batterie minimaux
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  combien de véhicules roulent
+BOT ++++ #total_veh_movement# véhicules de la société roulent en ce moment
+YOU ++++  j'ai fais un remplacement de véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+YOU ++++  quand pouvons-nous réservé le véhicule
+BOT ++++ le véhicule est celui qui a été réservé
+YOU ++++  je cherche mon véhicule
+BOT ++++ #ask_id# #position#
+YOU ++++ quelles voitures ont problème batterie
+BOT ++++ véhicule #id# #problème# #batterie#
+YOU ++++  quels sont les évènements brusques
+BOT ++++ voici les #list_events_driving# que nous avons relevés
+YOU ++++  qui est le plus fort du monde.
+BOT ++++ je l'ignore. peut être moi :)
+YOU ++++ quelle voiture batterie moyen
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++ quelles voitures vitesse maximaux
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule batterie plus hautes
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelle voiture a erreurs vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+YOU ++++  les pneus sont-ils en bon état
+BOT ++++ #ask_id# #problème# #pneu#
+YOU ++++  quel est le mode d'énergie
+BOT ++++ #ask_id# #énergie#  
+YOU ++++  combien de passagers pouvons-nous embarquer
+BOT ++++ #ask_id# #nb_passagers#
+YOU ++++ quelle voiture vitesse maximum
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  erreur vitesse
+BOT ++++ véhicule #id# #erreur# #vitesse#
+YOU ++++  nombre de mois de location
+BOT ++++ la durée du contrat de location est de #durée_contrat# mois
+YOU ++++ quelle voiture batterie plus élevés
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  quel véhicule est disponible 
+BOT ++++  #list_vin_free#
+YOU ++++  peut-on suivre le déplacement des véhicules
+BOT ++++ oui, #ask_id# #position#
+YOU ++++ quels véhicules ont vitesse max
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  je veux faire réviser mon véhicule demain
+BOT ++++ #oui/non#
+YOU ++++  je veux réduire les émissions de particules
+BOT ++++ excellente initiative :) découvrez notre module rde ou real driving emissions
+YOU ++++ quelles voitures km plus hauts
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  danger km
+BOT ++++ véhicule #id# #danger# #km#
+YOU ++++ quel véhicule km plus grande
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  quel nombre de place
+BOT ++++ #ask_id# #vin_seat# 
+YOU ++++  quelle est la consommation moyenne de mon véhicule 
+BOT ++++ #moyenne# #consommation#
+YOU ++++ quelles voitures ont erreurs km
+BOT ++++ véhicule #id# #erreurs# #km#
+YOU ++++  à quelle vitesse roule ce véhicule ?
+BOT ++++ la vitesse de ce véhicule est #vitesse#
+YOU ++++  les échéances sont respectées
+BOT ++++ de quelles échéances parlez-vous?
+YOU ++++  quel est l'état de la route
+BOT ++++ le traffic est #état_traffic#
+YOU ++++  je veux restituer un véhicule
+BOT ++++ #ask_id# #restitution#
+YOU ++++ quels véhicules ont km moyennement
+BOT ++++ véhicule #id# #km# #MOYENNE#
+YOU ++++ quel véhicule batterie moins grande
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule km plus petites
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quels véhicules ont km plus haut
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelle voiture vitesse moyennement
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++ quels véhicules ont vitesse plus élevés
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures batterie plus faibles
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont batterie plus faibles
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quel est la durée du trajet
+BOT ++++ la durée du trajet est de #durée_contrat# mois
+YOU ++++ quelles voitures vitesse moins élevés
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelle voiture vitesse plus élevé
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont km plus petite
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quel véhicule a problème vitesse
+BOT ++++ véhicule #id# #problème# #vitesse#
+YOU ++++ quelles voitures vitesse plus élevée
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  est-ce que la voiture doit être révisé
+BOT ++++ #ask_id# #révision#
+YOU ++++ quel véhicule vitesse plus petites
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelles voitures ont erreurs position
+BOT ++++ véhicule #id# #erreurs# #position#
+YOU ++++ quel véhicule km plus faible
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  quel est le niveau de lave glace restant
+BOT ++++ #lave_glace#
+YOU ++++ quel véhicule batterie plus élevé
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelle voiture vitesse plus haute
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule km moins grands
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  combien de véhicules sont roulées aujourd'hui
+BOT ++++ il y a #total_veh_movement#
+YOU ++++  erreurs km
+BOT ++++ véhicule #id# #erreurs# #km#
+YOU ++++ quels véhicules ont batterie plus grands
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  combien de véhicules sont utilisés
+BOT ++++ ##total_veh_movement#
+YOU ++++ quels véhicules ont vitesse plus hauts
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  quelle est la date de la dernière révision
+BOT ++++ #ask_id# #date_last_entretien#
+bonjour
+bonjour
+essence
+#ask_id# #carburant#
+le moteur est coupé?
+#ask_id# #moteur_coupé#
+YOU ++++ quel véhicule vitesse moins élevées
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quels véhicules ont batterie min
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture a problèmes km
+BOT ++++ véhicule #id# #problème# #km#
+YOU ++++ quelles voitures vitesse maximale
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont km plus faibles
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture vitesse moins grands
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule km moyen
+BOT ++++ véhicule #id# #km# #MOYENNE#
+YOU ++++ quels véhicules ont km minimaux
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  pourquoi ce véhicule consomme plus que les autres
+BOT ++++ #ask_id# #comsumption#
+YOU ++++  trouvez un véhicule le plus proche
+BOT ++++ le véhicule plus proche est de #vin_proxi#
+YOU ++++  je veux une aide
+BOT ++++ je suis là pour t'aider
+YOU ++++ quel véhicule batterie moins grand
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont vitesse plus élevée
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  quelles sont les voitures qui roulent ?
+BOT ++++ #total_veh_movement# 
+YOU ++++  je veux réduire le rejet de co2
+BOT ++++ notre module RDE pour Real-Driving Emissions vise à mesurer tous les rejets d'émissions polluantes
+YOU ++++  quelle date de révision
+BOT ++++ #ask_id# #révision#
+YOU ++++  quels sont les problèmes sur les véhicules
+BOT ++++ #problème#
+YOU ++++  carburant consommé 
+BOT ++++ #ask_id# #consumption# 
+YOU ++++ quelles voitures ont problème km
+BOT ++++ véhicule #id# #problème# #km#
+YOU ++++ quelles voitures km moins vite
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  je veux connaître les données techniques du véhicule
+BOT ++++ #ask_id# #technique#
+YOU ++++ quelles voitures km plus grandes
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  si je suis pressé
+BOT ++++ le véhicule le plus proche est #vin_proxi#
+YOU ++++  quel est le dernier trajet
+BOT ++++ le dernier trajet connu est #trajet#
+YOU ++++  quelle est ta date de naissance
+BOT ++++ C'est un secret. Peut on parler d’autre sujets
+YOU ++++ il y a erreur position
+BOT ++++ véhicule #id# #erreur# #position#
+YOU ++++  combien de kilomètre mon véhicule a t-il parcouru 
+BOT ++++ #ask_id# #km#
+YOU ++++ quelle voiture a problème km
+BOT ++++ véhicule #id# #problème# #km#
+YOU ++++ quelles voitures vitesse plus grands
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  je cherche une voiture
+BOT ++++  #list_vin_free#
+YOU ++++  y'a-t-il des bouchons
+BOT ++++ le traffic est #état_traffic#
+YOU ++++  je suis indécis
+BOT ++++ contactez le personnel d'AVICEN pour un avoir un conseil!
+YOU ++++ quelle voiture vitesse plus grande
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures batterie moins grandes
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quel véhicule a problèmes vitesse
+BOT ++++ véhicule #id# #problèmes# #vitesse#
+YOU ++++ quelles voitures vitesse moins grande
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  je veux savoir où sont les véhicules
+BOT ++++ #ask_id# #position#
+YOU ++++  la voiture est opérationnelle
+BOT ++++ je le vérifie
+YOU ++++ quel véhicule vitesse moyen
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++ quel véhicule a problèmes position
+BOT ++++ véhicule #id# #problèmes# #position#
+YOU ++++  j'ai besoin d'aide
+BOT ++++ oui volontiers quel est ton profil
+YOU ++++ quelle voiture vitesse plus élevée
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule vitesse moins vite
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelles voitures ont problèmes position
+BOT ++++ véhicule #id# #problèmes# #position#
+YOU ++++ quelle voiture km plus hauts
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  quel est le kilometrage moyen de ma flotte
+BOT ++++ #km_moyenne#
+YOU ++++ quelles voitures batterie moyenne
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++  tco de la flotte
+BOT ++++ #tco_fleet#
+YOU ++++  quel est le vin de ce véhicule
+BOT ++++ #ask_id# #vin#
+YOU ++++ quel véhicule a danger position
+BOT ++++ véhicule #id# #danger# #position#
+YOU ++++  gros bisous
+BOT ++++ a bien tôt
+YOU ++++  merci bien
+BOT ++++ de rien 
+YOU ++++ quelles voitures batterie maximal
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  tco du conducteur
+BOT ++++ #tco_driver#
+YOU ++++ quelles voitures km plus élevées
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont batterie plus élevées
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  j'ai prêté un véhicule
+BOT ++++ il faut mettre à jour la base de données véhicules
+YOU ++++  bonsoir
+BOT ++++ bonsoir
+YOU ++++  je veux réduire les consommations
+BOT ++++ super comment puis-je vous aider
+YOU ++++ quel véhicule batterie plus grand
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures ont danger position
+BOT ++++ véhicule #id# #danger# #position#
+YOU ++++ quelle voiture batterie plus petite
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quelles sont les caractéristiques techniques de ce véhicule
+BOT ++++ #ask_id# #technique#
+YOU ++++  quel est le  coût d'usage d'un véhicule
+BOT ++++ le coût d'usage correspond au total cost of ownership. on dit aussi TCO
+YOU ++++ il y a erreurs km
+BOT ++++ véhicule #id# #erreurs# #km#
+YOU ++++ quel véhicule batterie moins élevé
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont vitesse plus élevées
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont vitesse plus élevé
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture vitesse plus hautes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  tout va bien
+BOT ++++ ça va et toi
+YOU ++++ quels véhicules ont km moyen
+BOT ++++ véhicule #id# #km# #MOYENNE#
+YOU ++++  le tco c'est quoi
+BOT ++++ le tco c'est le total cost of ownership
+YOU ++++ quels véhicules ont km moins grands
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures vitesse plus haut
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule km moins grande
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ il y a problème position
+BOT ++++ véhicule #id# #problème# #position#
+YOU ++++ il y a problème batterie
+BOT ++++ véhicule #id# #problème# #batterie#
+YOU ++++ quel véhicule batterie plus grande
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  quelle est la puissance fiscale du véhicule
+BOT ++++ #ask_id#  #cv#
+YOU ++++  puis-je avoir le contact du sav
+BOT ++++ voici le numéro #tel_sav#
+YOU ++++  j'ai une question
+BOT ++++ oui pose ta question
+YOU ++++  est-ce que j'ai des problèmes de freins
+BOT ++++ #ask_id# #problème# #frein#
+YOU ++++ quel véhicule vitesse minimale
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quelle est la consommation de carburant
+BOT ++++ #ask_id# #consumption#
+YOU ++++ quel véhicule vitesse plus élevés
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  est ce que mon embrayage est usé
+BOT ++++ #ask_id# #problème# #embrayage#
+YOU ++++  bonjour madame
+BOT ++++ bonjour monsieur 
+YOU ++++ quel véhicule vitesse plus haut
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures ont danger vitesse
+BOT ++++ véhicule #id# #danger# #vitesse#
+YOU ++++ quelles voitures batterie minimal
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture batterie maximale
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  quand est ce que je dois prévoir ma prochaine révision
+BOT ++++ #ask_id# #révision#
+YOU ++++  quelles sont les urgences
+BOT ++++ vos urgences sont #priorité#
+YOU ++++  quelles sont les alertes à traiter
+BOT ++++ les alertes sont #list_alert#
+YOU ++++ quelles voitures vitesse plus élevé
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont vitesse maximaux
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture vitesse moins élevée
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  est-ce que nous avons des véhicules à l'étranger
+BOT ++++ #étranger#
+YOU ++++ quelles voitures batterie minimale
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quelle est la dernière date d'utilisation de ce véhicule
+BOT ++++ le dernier trajet connu est #trajet#
+YOU ++++  peut-on localisé ce véhicule
+BOT ++++ #ask_id# #position#
+YOU ++++  combien de kilomètres a fait ce véhicule 
+BOT ++++ #ask_id# #km#
+YOU ++++ quelles voitures vitesse moyennement
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++ quel véhicule vitesse moins élevé
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quels véhicules ont batterie maximal
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  peut-on suivre un véhicule
+BOT ++++ oui, #ask_id# #position#
+YOU ++++ quel véhicule a erreur vitesse
+BOT ++++ véhicule #id# #erreur# #vitesse#
+YOU ++++ quels véhicules ont vitesse moins vite
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelle voiture a danger batterie
+BOT ++++ véhicule #id# #danger# #batterie#
+YOU ++++ quel véhicule km plus élevées
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelle voiture km moins grande
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quel véhicule vitesse plus petits
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quelle est la durée de vie d'un pneu
+BOT ++++ la durée de vie est corrélée au nombre de km parcouru et à pleins d'autres critères!
+YOU ++++ quel véhicule batterie plus petite
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  merci de ton aide
+BOT ++++ je t'en prie
+YOU ++++ quelle voiture batterie plus faible
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont batterie plus faible
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quels véhicules ont vitesse plus haut
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  Tu peux m'aider
+BOT ++++ Je suis là pour te renseigner
+YOU ++++ quelles voitures km maximaux
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont km moins grandes
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture a danger km
+BOT ++++ véhicule #id# #danger# #km#
+YOU ++++ quel véhicule km plus haut
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quels véhicules ont km plus élevé
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelle voiture a erreurs position
+BOT ++++ véhicule #id# #erreurs# #position#
+YOU ++++ quelles voitures vitesse minimales
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  merci
+BOT ++++ de rien
+YOU ++++ quelles voitures vitesse plus faible
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  problème km
+BOT ++++ véhicule #id# #problème# #km#
+YOU ++++ quels véhicules ont km plus faible
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  est-ce que le niveau de consommation de carburant est normal
+BOT ++++ #ask_id# #consumption#
+YOU ++++ quel véhicule batterie min
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  danger batterie
+BOT ++++ véhicule #id# #danger# #batterie#
+YOU ++++ quel véhicule a erreur batterie
+BOT ++++ véhicule #id# #erreur# #batterie#
+YOU ++++ quel véhicule batterie moyennement
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++ quelle voiture vitesse plus élevés
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture batterie minimaux
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  le pneu est-il adapté
+BOT ++++ #ask_id# #problème# #pneu#
+YOU ++++ quels véhicules ont km moins grand
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  quelle est la consommation moyenne de mon véhicule 
+BOT ++++ #ask_id# #consommation# #moyenne#
+YOU ++++ quelles voitures vitesse plus grand
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule km plus élevé
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  peut-on localiser ce véhicule
+BOT ++++  ce véhicule #ask_id# #position#
+YOU ++++ quels véhicules ont km minimal
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  où est la voiture
+BOT ++++ #ask_id# #position#
+YOU ++++  quand dois-je changer mon lave-glace
+BOT ++++  #ask_id# #lave_glace#
+YOU ++++ quels véhicules ont batterie moins élevé
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture km max
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule km maximal
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule batterie minimales
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  est ce qu’il manque du liquide de refroidissement
+BOT ++++ #ask_id# #liquide_refroidissement#
+YOU ++++  quel carburant
+BOT ++++ #ask_id# #carburant#
+YOU ++++ quel véhicule vitesse maximum
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  j'ai des questions
+BOT ++++ oui pose tes questions.
+YOU ++++ quels véhicules ont batterie moins élevée
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelles voitures km moyen
+BOT ++++ véhicule #id# #km# #MOYENNE#
+YOU ++++  je souhaite obtenir un rapport
+BOT ++++ #rapport#
+YOU ++++ quelles voitures km minimal
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  y'a-t-il un pneu crevé
+BOT ++++ #problème# #pneu#
+YOU ++++  erreur batterie
+BOT ++++ véhicule #id# #erreur# #batterie#
+YOU ++++ quelle voiture batterie moyenne
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++ quel véhicule vitesse plus élevées
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures km plus petites
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelle voiture vitesse minimaux
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule vitesse maximale
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++  à plus
+BOT ++++ à plus
+YOU ++++ quelles voitures ont erreurs vitesse
+BOT ++++ véhicule #id# #erreurs# #vitesse#
+YOU ++++ quelle voiture km plus haute
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule batterie plus haut
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quelles voitures vitesse maximal
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont vitesse moins grands
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule vitesse moyennement
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++  quel est le taux d'indisponibilité
+BOT ++++ il s'élève à #tx_veh_indisponible#
+YOU ++++ quelles voitures km plus grande
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quel véhicule batterie plus élevées
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  j'ai besoin d'un renseignement
+BOT ++++ je suis là pour te renseigner
+YOU ++++ il y a problèmes vitesse
+BOT ++++ véhicule #id# #problèmes# #vitesse#
+YOU ++++ quels véhicules ont km moins élevés
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  c'est quand la révision
+BOT ++++ #ask_id# #révision#
+YOU ++++  combien de véhicules ont roulés
+BOT ++++ #total_veh_movement#
+YOU ++++  il y a des problèmes
+BOT ++++ #problème#
+YOU ++++  combien de voitures sont roulées
+BOT ++++ #total_veh_movement#
+YOU ++++ quel véhicule vitesse plus hautes
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures batterie plus grands
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++ quels véhicules ont batterie plus haute
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  cordialement
+BOT ++++ cordialement
+YOU ++++ quel véhicule vitesse minimal
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  c'est quoi la date de révision
+BOT ++++ #ask_id# révision#
+YOU ++++  merci pour les renseignements
+BOT ++++ avec plaisir
+YOU ++++ quelle voiture vitesse minimal
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quels véhicules ont batterie moyen
+BOT ++++ véhicule #id# #batterie# #MOYENNE#
+YOU ++++  quelle est la localisation de ce véhicule
+BOT ++++ le véhicule est situé #geoloc#
+YOU ++++  y a-t-il des véhicules à l'arrêt
+BOT ++++ #combien# #arrêt#
+YOU ++++  quand la révision
+BOT ++++ #ask_id# #révision#
+YOU ++++  j'ai besoin d'un soutien
+BOT ++++ je suis là pour t'aider
+YOU ++++ quelles voitures vitesse max
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelle voiture vitesse max
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont batterie moins grande
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quels codes défauts
+BOT ++++ la liste des codes défaut est disponible #code_dtc#
+YOU ++++  le comportement de conduite est-il bon ?
+BOT ++++ #ask_id# #conduite#
+YOU ++++  la tournée est-elle optimisée
+BOT ++++ quel est le véhicule concerné
+YOU ++++ quelles voitures vitesse plus élevés
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quelles voitures km moyenne
+BOT ++++ véhicule #id# #km# #MOYENNE#
+YOU ++++  est-ce que la batterie fonctionne
+BOT ++++ #ask_id# #problème# #batterie#
+YOU ++++ quel véhicule km plus petite
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quelles voitures vitesse plus petite
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quelles voitures vitesse plus haute
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont vitesse maximum
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quel véhicule km minimales
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quels véhicules ont batterie moins élevés
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture km plus petits
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++  tco du véhicule électrique
+BOT ++++ nous travaillons actuellement sur ce sujet dans le cadre d'un consortium franco-allemand nous vous tenons informés de ces développements
+YOU ++++ quelle voiture a problème batterie
+BOT ++++ véhicule #id# #problème# #batterie#
+YOU ++++ quels véhicules ont vitesse moyen
+BOT ++++ véhicule #id# #vitesse# #MOYENNE#
+YOU ++++ quels véhicules ont vitesse plus petit
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule km plus grands
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  quel est le planning des tournées
+BOT ++++ patience cette fonction est en cours de développement
+YOU ++++ quels véhicules ont km plus grand
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++ quelle voiture km plus élevées
+BOT ++++ véhicule #id# #km# #MAX#
+YOU ++++  quelle est la puissance fiscale de ce véhicule
+BOT ++++ #ask_id# #cv#
+YOU ++++ quel véhicule vitesse plus vite
+BOT ++++ véhicule #id# #vitesse# #MAX#
+YOU ++++ quels véhicules ont vitesse moins grand
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule batterie moins élevés
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  la sécurité de ce véhicule est-elle effective
+BOT ++++ #ask_id# #problème#
+YOU ++++  je veux des renseignements
+BOT ++++ je suis là pour t'aider
+YOU ++++ quel véhicule vitesse moins élevée
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  combien de km mon véhicule a roulé 
+BOT ++++ #ask_id# #km#
+YOU ++++  quelle a été la consommation de carburant 
+BOT ++++ #ask_id# #consumption# 
+YOU ++++ quelle voiture batterie minimal
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  est-ce que tout va bien
+BOT ++++ oui, merci je vais bien
+YOU ++++  combien de km mon véhicule est roulé 
+BOT ++++ #ask_id# #km#
+YOU ++++  problèmes km
+BOT ++++ véhicule #id# #problèmes# #km#
+YOU ++++ quelle voiture km moins grand
+BOT ++++ véhicule #id# #km# #MIN#
+YOU ++++ quels véhicules ont vitesse moins élevés
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quel est l'état d'usure des plaquettes de frein
+BOT ++++ #ask_id# #plaquette_frein#
+YOU ++++ quel véhicule batterie minimale
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture vitesse minimale
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++ quel véhicule batterie maximaux
+BOT ++++ véhicule #id# #batterie# #MAX#
+YOU ++++  il y a des problèmes ?
+BOT ++++ #problème#
+YOU ++++ quels véhicules ont batterie plus petits
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++ quelle voiture vitesse moins élevés
+BOT ++++ véhicule #id# #vitesse# #MIN#
+YOU ++++  quel véhicule est disponible dans 1h
+BOT ++++ vous pouvez vous servir du #list_vin_immediat#
+YOU ++++  je veux évaluer les performances de cette voiture
+BOT ++++ par performance vous entendez TCO
+YOU ++++ quelles voitures batterie plus petit
+BOT ++++ véhicule #id# #batterie# #MIN#
+YOU ++++  quel est le taux de disponibilité
+BOT ++++ #tx_dispo#
+YOU ++++ #TO_RETURN_WHEN_GOOD_REPONSE_IS_NOT_FOUND#
+BOT ++++ Désolé, je ne comprends pas ta question. Peux tu la reformuler s'il te plaît?
